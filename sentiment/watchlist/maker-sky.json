@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T08:01:03.830406Z",
+  "generated_at": "2026-08-13T08:23:22.243047Z",
   "retrieval": {
     "engine": "last30days",
     "query": "MakerDAO Sky USDS stablecoin",
@@ -11,7 +11,7 @@
       "coindesk_rss": "ok",
       "ethereum_foundation_rss": "ok",
       "grounding": "no-results",
-      "reddit": "partial",
+      "reddit": "auth-failed",
       "youtube": "no-results"
     }
   },
@@ -20,8 +20,8 @@
     "window_days": 30,
     "overall_assessment": "insufficient_evidence",
     "confidence": "low",
-    "summary": "No usable records were returned for MakerDAO / Sky / USDS in the 30-day window, so ecosystem sentiment cannot be assessed.",
+    "summary": "No usable news or ecosystem records were returned for MakerDAO / Sky / USDS in the 30-day window, so sentiment cannot be assessed.",
     "tags": [],
-    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported ok; grounding and youtube reported no-results; reddit reported partial."
+    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported ok; grounding and youtube reported no-results; reddit reported auth-failed."
   }
 }

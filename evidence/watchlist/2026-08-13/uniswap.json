@@ -1,0 +1,14 @@
+{
+  "query": "Uniswap UNI decentralized exchange",
+  "window_days": 30,
+  "generated_at": "2026-08-13T08:11:08.510752Z",
+  "source_status": {
+    "cointelegraph_rss": "ok",
+    "coindesk_rss": "ok",
+    "ethereum_foundation_rss": "ok",
+    "grounding": "no-results",
+    "reddit": "auth-failed",
+    "youtube": "no-results"
+  },
+  "results": []
+}

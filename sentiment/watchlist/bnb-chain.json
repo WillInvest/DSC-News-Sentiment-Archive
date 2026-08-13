@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T08:00:07.336387Z",
+  "generated_at": "2026-08-13T08:22:20.024158Z",
   "retrieval": {
     "engine": "last30days",
     "query": "BNB Chain BNB blockchain",
@@ -20,8 +20,8 @@
     "window_days": 30,
     "overall_assessment": "insufficient_evidence",
     "confidence": "low",
-    "summary": "No usable news or ecosystem records were returned for BNB Chain in the 30-day window, so sentiment cannot be assessed.",
+    "summary": "No usable news or ecosystem records were returned for BNB Chain in the 30-day window, so sentiment cannot be assessed. Several feeds reported no results, and Reddit collection failed authentication.",
     "tags": [],
-    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported status ok; grounding and youtube reported no-results; reddit reported auth-failed."
+    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss are ok but contributed no records; grounding and youtube are no-results; reddit is auth-failed."
   }
 }

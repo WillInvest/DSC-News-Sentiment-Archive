@@ -1,0 +1,95 @@
+{
+  "generated_at": "2026-08-13T08:11:08.510752Z",
+  "entities": [
+    {
+      "name": "Bitcoin",
+      "slug": "bitcoin",
+      "evidence": "work/watchlist/bitcoin.json"
+    },
+    {
+      "name": "Ethereum",
+      "slug": "ethereum",
+      "evidence": "work/watchlist/ethereum.json"
+    },
+    {
+      "name": "Solana",
+      "slug": "solana",
+      "evidence": "work/watchlist/solana.json"
+    },
+    {
+      "name": "Base",
+      "slug": "base",
+      "evidence": "work/watchlist/base.json"
+    },
+    {
+      "name": "Arbitrum",
+      "slug": "arbitrum",
+      "evidence": "work/watchlist/arbitrum.json"
+    },
+    {
+      "name": "Optimism",
+      "slug": "optimism",
+      "evidence": "work/watchlist/optimism.json"
+    },
+    {
+      "name": "BNB Chain",
+      "slug": "bnb-chain",
+      "evidence": "work/watchlist/bnb-chain.json"
+    },
+    {
+      "name": "Avalanche",
+      "slug": "avalanche",
+      "evidence": "work/watchlist/avalanche.json"
+    },
+    {
+      "name": "Uniswap",
+      "slug": "uniswap",
+      "evidence": "work/watchlist/uniswap.json"
+    },
+    {
+      "name": "Aave",
+      "slug": "aave",
+      "evidence": "work/watchlist/aave.json"
+    },
+    {
+      "name": "Lido",
+      "slug": "lido",
+      "evidence": "work/watchlist/lido.json"
+    },
+    {
+      "name": "Maker / Sky",
+      "slug": "maker-sky",
+      "evidence": "work/watchlist/maker-sky.json"
+    },
+    {
+      "name": "Compound",
+      "slug": "compound",
+      "evidence": "work/watchlist/compound.json"
+    },
+    {
+      "name": "Curve",
+      "slug": "curve",
+      "evidence": "work/watchlist/curve.json"
+    },
+    {
+      "name": "Morpho",
+      "slug": "morpho",
+      "evidence": "work/watchlist/morpho.json"
+    },
+    {
+      "name": "EigenLayer",
+      "slug": "eigenlayer",
+      "evidence": "work/watchlist/eigenlayer.json"
+    },
+    {
+      "name": "Pendle",
+      "slug": "pendle",
+      "evidence": "work/watchlist/pendle.json"
+    },
+    {
+      "name": "Ethena",
+      "slug": "ethena",
+      "evidence": "work/watchlist/ethena.json"
+    }
+  ]
+}

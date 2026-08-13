@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T08:01:42.808223Z",
+  "generated_at": "2026-08-13T08:25:01.627552Z",
   "retrieval": {
     "engine": "last30days",
     "query": "Morpho DeFi lending",
     "window_days": 30,
-    "result_count": 0,
+    "result_count": 6,
     "source_status": {
       "cointelegraph_rss": "ok",
       "coindesk_rss": "ok",
       "ethereum_foundation_rss": "ok",
       "grounding": "no-results",
-      "reddit": "auth-failed",
+      "reddit": "partial",
       "youtube": "no-results"
     }
   },
@@ -20,8 +20,8 @@
     "window_days": 30,
     "overall_assessment": "insufficient_evidence",
     "confidence": "low",
-    "summary": "No usable records were returned for Morpho in the 30-day window, so ecosystem sentiment cannot be assessed.",
+    "summary": "Evidence in the 30-day window does not support a Morpho ecosystem/news sentiment call: RSS sources marked ok returned no Morpho items, grounding and YouTube had no results, and the only Morpho mention is a single partial Reddit post about Morpho Vaults V2 USDC positions.",
     "tags": [],
-    "coverage_note": "Zero results. Cointelegraph, CoinDesk, and Ethereum Foundation RSS reported ok; grounding and YouTube returned no-results; Reddit authentication failed."
+    "coverage_note": "cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss are ok but empty for Morpho; grounding and youtube are no-results; reddit is partial with six posts, only one naming Morpho (relevance 0.2319), so fewer than three relevant records from two independent ok sources."
   }
 }

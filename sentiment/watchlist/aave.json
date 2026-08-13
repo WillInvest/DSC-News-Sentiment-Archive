@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T08:00:41.622135Z",
+  "generated_at": "2026-08-13T08:23:00.123436Z",
   "retrieval": {
     "engine": "last30days",
     "query": "Aave AAVE lending protocol",
     "window_days": 30,
-    "result_count": 0,
+    "result_count": 1,
     "source_status": {
       "cointelegraph_rss": "ok",
       "coindesk_rss": "ok",
       "ethereum_foundation_rss": "ok",
       "grounding": "no-results",
-      "reddit": "auth-failed",
+      "reddit": "partial",
       "youtube": "no-results"
     }
   },
@@ -20,8 +20,8 @@
     "window_days": 30,
     "overall_assessment": "insufficient_evidence",
     "confidence": "low",
-    "summary": "No usable news or ecosystem records were returned for Aave in the 30-day window, so sentiment cannot be assessed.",
+    "summary": "The 30-day window contains only one Reddit thread that briefly names Aave among other USDC yield options, with no matching items from the news RSS sources that reported ok. That is below the threshold of three relevant records from at least two independent named sources with status ok, so ecosystem sentiment cannot be assessed.",
     "tags": [],
-    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported status ok but contributed no records; grounding and youtube reported no-results; reddit reported auth-failed."
+    "coverage_note": "cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss are ok but contributed no results; reddit is partial with one low-relevance thread; grounding and youtube returned no-results."
   }
 }

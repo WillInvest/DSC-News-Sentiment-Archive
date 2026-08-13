@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T08:01:27.596347Z",
+  "generated_at": "2026-08-13T08:23:58.602824Z",
   "retrieval": {
     "engine": "last30days",
     "query": "Curve Finance CRV decentralized exchange",
@@ -22,6 +22,6 @@
     "confidence": "low",
     "summary": "No usable news or ecosystem records were returned for Curve in the 30-day window, so sentiment cannot be assessed.",
     "tags": [],
-    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported ok; grounding and youtube reported no-results; reddit reported auth-failed."
+    "coverage_note": "results is empty; cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss report ok but contributed no items; grounding and youtube report no-results; reddit reports auth-failed."
   }
 }

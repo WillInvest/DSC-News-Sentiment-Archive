@@ -1,0 +1,169 @@
+{
+  "query": "Bitcoin BTC blockchain",
+  "window_days": 30,
+  "generated_at": "2026-08-13T08:11:08.510752Z",
+  "source_status": {
+    "cointelegraph_rss": "ok",
+    "coindesk_rss": "ok",
+    "ethereum_foundation_rss": "ok",
+    "grounding": "no-results",
+    "reddit": "partial",
+    "youtube": "no-results"
+  },
+  "results": [
+    {
+      "source": "Cointelegraph",
+      "title": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
+      "url": "https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "Thu, 13 Aug 2026 07:14:19 +0000",
+      "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/crypto-bitcoin-storage-us-2.jpg\" alt=\"Copper US arm becomes FINRA member, SEC-registered broker-dealer\" class=\"type:primaryImage\"></p><p>Copper Markets US will offer qualified custody, staking, financing and OTC services after securing its regulated US presence.</p>"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here\u2019s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "Thu, 13 Aug 2026 05:54:56 +0000",
+      "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg\" alt=\"Here\u2019s what happened in crypto today\" class=\"type:primaryImage\"></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</p>"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
+      "url": "https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "Thu, 13 Aug 2026 04:15:26 +0000",
+      "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/hi-defi-wont-last-long-without-unlocking-bitcoins-treasure-chest-metaplanet-2.jpg\" alt=\"Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer\" class=\"type:primaryImage\"></p><p>Metaplanet CEO Simon Gerovich said no Bitcoin was sold after the company moved 5,014 BTC between custodial addresses for about $8 in fees.</p>"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Arizona crypto ATM law helps 35 scam victims recover $171K",
+      "url": "https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "Wed, 12 Aug 2026 23:42:51 +0000",
+      "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/btc-comau-sponsor.png\" alt=\"Arizona crypto ATM law helps 35 scam victims recover $171K \" class=\"type:primaryImage\"></p><p>Qualifying new customers can receive full reimbursement, including fees, if they notify both the operator and law enforcement within 30 days.</p>"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hawaii crypto ATM ban to take effect on Oct. 1",
+      "url": "https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "Wed, 12 Aug 2026 21:21:17 +0000",
+      "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/hi-bitcoins-real-world-uses.png\" alt=\"Hawaii crypto ATM ban to take effect on Oct. 1\" class=\"type:primaryImage\"></p><p>Hawaii will join Minnesota, Tennessee and Indiana in becoming the fourth US state to completely ban the use of cryptocurrency ATMs and kiosks in response to scams.</p>"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
+      "url": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "Wed, 12 Aug 2026 20:37:55 +0000",
+      "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/hi-goldman-sachs-and-crypto-recap.png\" alt=\"Goldman Sachs to acquire ETF manager NEOS in $2.25B deal \" class=\"type:primaryImage\"></p><p>The deal would add NEOS\u2019 $30 billion ETF business, including Bitcoin- and Ether-linked income funds, to Goldman Sachs Asset Management.\n</p>"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
+      "url": "https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "Wed, 12 Aug 2026 18:55:56 +0000",
+      "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/hi-sp-500-can-be-confusing-bitcoin.png\" alt=\"Kraken adds S&amp;P 500 to funded trading program, commodities to follow\" class=\"type:primaryImage\"></p><p>Kraken\u2019s funded trading program adds round-the-clock exposure to the US equity benchmark as it builds out its multi-asset offering.</p>"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%",
+      "url": "https://cointelegraph.com/markets/bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "Wed, 12 Aug 2026 15:00:10 +0000",
+      "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/us-inflation-2.jpg\" alt=\"Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%\" class=\"type:primaryImage\"></p><p>Bitcoin price action did not reflect relief in US CPI inflation numbers matching expectations amid a warning over $63,000 failing as support.</p>"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "El Salvador\u2019s Bitcoin experiment turns 5: \u2018It was for us, not them\u2019",
+      "url": "https://cointelegraph.com/magazine/el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-and-not-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "Wed, 12 Aug 2026 13:30:00 +0000",
+      "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/have-bitcoiners-gone-soft-on-authoritarianism.jpg\" alt=\"El Salvador\u2019s Bitcoin experiment turns 5: \u2018It was for us, not them\u2019\" class=\"type:primaryImage\"></p><p>Five years after El Salvador made Bitcoin legal tender, the experiment has fallen short of its original promises for locals, but it\u2019s been great for Bitcoin\u2019s global profile. </p>"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low",
+      "url": "https://cointelegraph.com/markets/bitcoin-miners-earn-under-07-of-revenue-from-fees-in-new-10-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "Wed, 12 Aug 2026 10:06:05 +0000",
+      "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/hi-is-staking-the-answer-to-cryptocurrencys-mining-problems.jpg\" alt=\"Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low\" class=\"type:primaryImage\"></p><p>Bitcoin miners showed a \u201cconcerning\u201d trend of pivoting to AI amid a profit squeeze as transaction-fee income barely bounced from 10-year lows of 0.52% of revenue.</p>"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/bitcoin/comments/1vm6baq/2446_btc_was_stolen_from_my_trezor_in_2021_years",
+      "cluster": 0,
+      "engagement": {
+        "num_comments": 0,
+        "score": 1
+      },
+      "published_at": "2026-08-12",
+      "relevance_score": 0.3152,
+      "source": "reddit",
+      "summary": "On 9 June 2021, 24.465 BTC was stolen from my Trezor after I entered my recovery seed into what I believed was a legitimate Trezor page. It wasn\u2019t. I had been redirected to a fake page through a malicious Chrome extension. The stolen bitcoin was traced on-chain. Months later, it began arriving at deposit addresses belonging to Huobi, now HTX. Blockchain investigators alerted the exchange within ho",
+      "title": "24.46 BTC was stolen from my Trezor in 2021. Years later, I won a UK High Court judgment. I am still trying to recover it.",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vm6baq/2446_btc_was_stolen_from_my_trezor_in_2021_years/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/bitcoin/comments/1vh50iw/so_i_was_snooping_around_on_the_dw_and_stumbled",
+      "cluster": 1,
+      "engagement": {
+        "num_comments": 12,
+        "score": 0
+      },
+      "published_at": "2026-08-06",
+      "relevance_score": 0.3129,
+      "source": "reddit",
+      "summary": "&#32; submitted by &#32; /u/QuarterLogical9958 [link] &#32; [comments]",
+      "title": "So I was snooping around on the dw and stumbled across this \u201cbitcoin wallet cracker\u201d but I have my doubts\u2026. Is this even possible?",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vh50iw/so_i_was_snooping_around_on_the_dw_and_stumbled/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/bitcoin/comments/1vebfo0/ysk_the_most_secure_wallet_is_the_bitcoin_core",
+      "cluster": 2,
+      "engagement": {
+        "num_comments": 19,
+        "score": 0
+      },
+      "published_at": "2026-08-03",
+      "relevance_score": 0.2928,
+      "source": "reddit",
+      "summary": "As the title says. If you want the most secure Bitcoin wallet for cold storage, the Bitcoin Core Wallet is the ONLY one that is NOT a 3rd party wallet. All 3rd party wallets introduce risk despite the slick marketing telling you how secure they are. Sure, they are very secure, but not as secure as Bitcoin\u2019s own Core Wallet. The Bitcoin Core is the full node software that validates transactions and",
+      "title": "YSK the most secure wallet is the Bitcoin Core Wallet especially air gapped with Tails OS",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vebfo0/ysk_the_most_secure_wallet_is_the_bitcoin_core/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/bitcoin/comments/1veqqys/inside_bitcoins_165_million_utxos_five_surprising",
+      "cluster": 3,
+      "engagement": {
+        "num_comments": 1,
+        "score": 0
+      },
+      "published_at": "2026-08-03",
+      "relevance_score": 0.2427,
+      "source": "reddit",
+      "summary": "A UTXO is supposed to contain bitcoin. So why are there live UTXOs containing exactly zero bitcoin? That question appeared while examining Bitcoin&#39;s live state at block 953,697 . The snapshot contained exactly 165,782,759 live spendable outputs holding 20,042,261.87498542 BTC . A UTXO here means an output that was still unspent at the snapshot. It is not a person, an address, or a wallet. Its",
+      "title": "Inside Bitcoin's 165 Million UTXOs: Five Surprising Results",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1veqqys/inside_bitcoins_165_million_utxos_five_surprising/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/bitcoin/comments/1vegndz/a_forensic_question_about_the_coldcard_attacker",
+      "cluster": 4,
+      "engagement": {
+        "num_comments": 220,
+        "score": 121
+      },
+      "published_at": "2026-08-03",
+      "relevance_score": 0.0,
+      "source": "reddit",
+      "summary": "Hello, I was thinking about the Coldcard incident and what an attacker who now controls hundreds of stolen BTC could realistically do. The interesting part is not moving the coins. The blockchain is public, the addresses are known, and every transaction leaves a permanent record. The real question is: How could an attacker turn such a large amount of BTC into fiat money without exposing themselves",
+      "title": "A forensic question about the Coldcard attacker: how could someone actually cash out hundreds of BTC?",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1vegndz/a_forensic_question_about_the_coldcard_attacker/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/bitcoin/comments/1ve1fai/is_anyone_considering_selling_their_own_btc_for_a",
+      "cluster": 5,
+      "engagement": {
+        "num_comments": 180,
+        "score": 49
+      },
+      "published_at": "2026-08-03",
+      "relevance_score": 0.0,
+      "source": "reddit",
+      "summary": "I understand the 1,000 or so stolen coins from Coldcard wallets is a drop in the bucket and lots of people are saying it\u2019s being overblown or whatever. I just can\u2019t seem to get it out of my head that the victims did absolutely nothing wrong. Next thought is obviously, \u201care my sats safe?\u201d (using one of the current cold storage giants) For someone like me, who is the farthest thing from a blockchain",
+      "title": "Is anyone considering selling their own BTC for a BTC spot ETF?",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1ve1fai/is_anyone_considering_selling_their_own_btc_for_a/"
+    }
+  ]
+}

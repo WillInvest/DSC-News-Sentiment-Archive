@@ -1,0 +1,64 @@
+{
+  "query": "Ethereum ETH blockchain DeFi",
+  "window_days": 30,
+  "generated_at": "2026-08-13T08:11:08.510752Z",
+  "source_status": {
+    "cointelegraph_rss": "ok",
+    "coindesk_rss": "ok",
+    "ethereum_foundation_rss": "ok",
+    "grounding": "no-results",
+    "reddit": "auth-failed",
+    "youtube": "no-results"
+  },
+  "results": [
+    {
+      "source": "Cointelegraph",
+      "title": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
+      "url": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "Wed, 12 Aug 2026 20:37:55 +0000",
+      "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/hi-goldman-sachs-and-crypto-recap.png\" alt=\"Goldman Sachs to acquire ETF manager NEOS in $2.25B deal \" class=\"type:primaryImage\"></p><p>The deal would add NEOS\u2019 $30 billion ETF business, including Bitcoin- and Ether-linked income funds, to Goldman Sachs Asset Management.\n</p>"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Fidelity files with SEC to add staking to Ethereum ETF",
+      "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "Wed, 12 Aug 2026 12:42:58 +0000",
+      "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/option-1-bold-white-montserrat.jpeg\" alt=\"Fidelity files with SEC to add staking to Ethereum ETF\" class=\"type:primaryImage\"></p><p>Fidelity plans to add staking to its Ether fund, with 85% of rewards retained by FETH and quarterly cash distributions planned for investors.</p>"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
+      "url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "Wed, 12 Aug 2026 04:53:26 +0000",
+      "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/cftc-vs-binance.png\" alt=\"CFTC invokes emergency powers to keep Kalshi operating in New York fight\" class=\"type:primaryImage\"></p><p>The order escalates a jurisdictional fight over whether states may treat federally regulated event contracts as illegal gambling.</p>"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
+      "url": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
+      "published_at": "Wed, 12 Aug 2026 11:19:32 +0000",
+      "summary": "Non-qualified investors face a 300,000-ruble (approx. $3,600) annual purchase limit per intermediary, while qualified investors have no cap."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fidelity moves to add staking, quarterly payouts to near $900 million ether ETF",
+      "url": "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf",
+      "published_at": "Wed, 12 Aug 2026 09:30:20 +0000",
+      "summary": "The fund would keep 85% of gross staking rewards, with the remaining 15% going to service providers."
+    },
+    {
+      "source": "Ethereum Foundation",
+      "title": "Announcing a Trillion Dollar Security grant for WEBCAT",
+      "url": "https://blog.ethereum.org/en/2026/08/05/1ts-grant",
+      "published_at": "Wed, 05 Aug 2026 00:00:00 GMT",
+      "summary": "The Ethereum Foundation\u2019s Trillion Dollar Security (1TS) initiative is proud to announce a grant allocation to Freedom of the Press Foundation (FPF) to support the continued development of WEBCAT. WEBCAT is an open source tool that lets browsers verify that code served by an enrolled website matches what its developers..."
+    },
+    {
+      "source": "Ethereum Foundation",
+      "title": "Ethereum Foundation Board Update",
+      "url": "https://blog.ethereum.org/en/2026/07/29/ef-board-update",
+      "published_at": "Wed, 29 Jul 2026 00:00:00 GMT",
+      "summary": "We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board.  pc is a long time contributor to the Ethereum ecosystem, a co-founder and lead of SEAL 911, and has been a member of the EF's Silviculture Society, which provides informal counsel to EF aimed at..."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "query": "Solana SOL blockchain DeFi",
+  "window_days": 30,
+  "generated_at": "2026-08-13T08:11:08.510752Z",
+  "source_status": {
+    "cointelegraph_rss": "ok",
+    "coindesk_rss": "ok",
+    "ethereum_foundation_rss": "ok",
+    "grounding": "no-results",
+    "reddit": "auth-failed",
+    "youtube": "no-results"
+  },
+  "results": [
+    {
+      "source": "Cointelegraph",
+      "title": "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
+      "url": "https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "Thu, 13 Aug 2026 04:15:26 +0000",
+      "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/hi-defi-wont-last-long-without-unlocking-bitcoins-treasure-chest-metaplanet-2.jpg\" alt=\"Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer\" class=\"type:primaryImage\"></p><p>Metaplanet CEO Simon Gerovich said no Bitcoin was sold after the company moved 5,014 BTC between custodial addresses for about $8 in fees.</p>"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
+      "url": "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank",
+      "published_at": "Wed, 12 Aug 2026 22:11:09 +0000",
+      "summary": "Zerohash, which handles crypto plumbing for Morgan Stanley's E*Trade, said it's planning on re-filing and hoping for a swift resolution."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana neared a freeze threshold Wednesday, Marinade Finance says. The Foundation says it held up under stress.",
+      "url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
+      "published_at": "Wed, 12 Aug 2026 13:39:31 +0000",
+      "summary": "A routing glitch at a major data center provider knocked nearly 29% of Solana\u2019s staked tokens offline, bringing the network within striking distance of a full freeze, while Foundation executives stressed that blocks and transactions never stopped."
+    }
+  ]
+}

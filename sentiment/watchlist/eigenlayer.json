@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T08:01:53.497099Z",
+  "generated_at": "2026-08-13T08:25:12.490555Z",
   "retrieval": {
     "engine": "last30days",
     "query": "EigenLayer restaking Ethereum",
@@ -11,7 +11,7 @@
       "coindesk_rss": "ok",
       "ethereum_foundation_rss": "ok",
       "grounding": "no-results",
-      "reddit": "auth-failed",
+      "reddit": "partial",
       "youtube": "no-results"
     }
   },
@@ -20,8 +20,8 @@
     "window_days": 30,
     "overall_assessment": "insufficient_evidence",
     "confidence": "low",
-    "summary": "No usable news or ecosystem records were returned for EigenLayer restaking on Ethereum in this 30-day window, so sentiment cannot be assessed. Reddit collection failed authentication, and grounding and YouTube searches returned no results.",
+    "summary": "No usable news or ecosystem records were returned for EigenLayer in the 30-day window, so sentiment cannot be assessed.",
     "tags": [],
-    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported status ok but contributed no records; grounding and youtube reported no-results; reddit reported auth-failed."
+    "coverage_note": "results is empty; grounding and youtube reported no-results and reddit was partial, leaving no relevant records to summarize."
   }
 }

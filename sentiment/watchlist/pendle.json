@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T08:02:05.815698Z",
+  "generated_at": "2026-08-13T08:25:50.093738Z",
   "retrieval": {
     "engine": "last30days",
     "query": "Pendle Finance PENDLE DeFi",
@@ -11,7 +11,7 @@
       "coindesk_rss": "ok",
       "ethereum_foundation_rss": "ok",
       "grounding": "no-results",
-      "reddit": "partial",
+      "reddit": "auth-failed",
       "youtube": "no-results"
     }
   },
@@ -20,8 +20,8 @@
     "window_days": 30,
     "overall_assessment": "insufficient_evidence",
     "confidence": "low",
-    "summary": "No usable news or discussion records were present for Pendle in the 30-day window, so ecosystem sentiment cannot be assessed.",
+    "summary": "No usable news or ecosystem records were returned for Pendle in the 30-day window, so sentiment cannot be assessed from the available evidence.",
     "tags": [],
-    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss are ok; grounding and youtube are no-results; reddit is partial."
+    "coverage_note": "results is empty; reddit auth-failed, grounding and youtube no-results; cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss report ok but contributed no records."
   }
 }

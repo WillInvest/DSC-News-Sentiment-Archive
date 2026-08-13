@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T08:02:17.547557Z",
+  "generated_at": "2026-08-13T08:26:20.922857Z",
   "retrieval": {
     "engine": "last30days",
     "query": "Ethena USDe stablecoin",
@@ -11,7 +11,7 @@
       "coindesk_rss": "ok",
       "ethereum_foundation_rss": "ok",
       "grounding": "no-results",
-      "reddit": "partial",
+      "reddit": "auth-failed",
       "youtube": "no-results"
     }
   },
@@ -20,8 +20,8 @@
     "window_days": 30,
     "overall_assessment": "insufficient_evidence",
     "confidence": "low",
-    "summary": "No usable news or ecosystem records were returned for Ethena/USDe in the 30-day window, so sentiment cannot be assessed.",
+    "summary": "No usable news or ecosystem records were returned for Ethena/USDe in the 30-day window, so sentiment cannot be assessed from the available evidence.",
     "tags": [],
-    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss report status ok; grounding and youtube report no-results; reddit reports partial."
+    "coverage_note": "results is empty; grounding and youtube reported no-results and reddit auth-failed, leaving no relevant records despite some RSS sources marked ok."
   }
 }

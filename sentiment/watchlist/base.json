@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T07:59:31.224165Z",
+  "generated_at": "2026-08-13T08:21:42.477166Z",
   "retrieval": {
     "engine": "last30days",
     "query": "Base Ethereum L2 blockchain",
@@ -20,8 +20,8 @@
     "window_days": 30,
     "overall_assessment": "insufficient_evidence",
     "confidence": "low",
-    "summary": "No usable news or ecosystem records were returned for Base in this 30-day window, so sentiment cannot be assessed.",
+    "summary": "No usable news or ecosystem records were returned for Base in the 30-day window, so sentiment cannot be assessed.",
     "tags": [],
-    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported ok; grounding and youtube reported no-results; reddit reported auth-failed."
+    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported ok but contributed no records; grounding and youtube reported no-results; reddit reported auth-failed."
   }
 }

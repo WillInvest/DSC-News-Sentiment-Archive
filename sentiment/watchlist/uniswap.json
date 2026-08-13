@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T08:00:30.334341Z",
+  "generated_at": "2026-08-13T08:22:43.736298Z",
   "retrieval": {
     "engine": "last30days",
     "query": "Uniswap UNI decentralized exchange",
@@ -20,8 +20,8 @@
     "window_days": 30,
     "overall_assessment": "insufficient_evidence",
     "confidence": "low",
-    "summary": "No usable records were returned for Uniswap in the 30-day window, so ecosystem and news sentiment cannot be assessed. Cointelegraph, CoinDesk, and Ethereum Foundation RSS sources reported status ok, but the result set is empty; Google grounding and YouTube returned no results, and Reddit authentication failed.",
+    "summary": "No usable news or ecosystem records were returned for Uniswap in the 30-day window, so sentiment cannot be assessed.",
     "tags": [],
-    "coverage_note": "Zero results in evidence.json. Source status: cointelegraph_rss ok, coindesk_rss ok, ethereum_foundation_rss ok, grounding no-results, reddit auth-failed, youtube no-results."
+    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported ok; grounding and youtube reported no-results; reddit reported auth-failed."
   }
 }

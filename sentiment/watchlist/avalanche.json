@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T08:00:17.925150Z",
+  "generated_at": "2026-08-13T08:22:32.917822Z",
   "retrieval": {
     "engine": "last30days",
     "query": "Avalanche AVAX blockchain",
@@ -22,6 +22,6 @@
     "confidence": "low",
     "summary": "No usable news or ecosystem records were returned for Avalanche in the 30-day window, so sentiment cannot be assessed.",
     "tags": [],
-    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported ok but contributed no items; grounding and youtube reported no-results; reddit reported auth-failed."
+    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss are ok; grounding and youtube returned no-results; reddit auth-failed."
   }
 }
