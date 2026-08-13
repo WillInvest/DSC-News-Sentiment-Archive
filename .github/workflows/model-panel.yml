@@ -1,0 +1,70 @@
+name: Independent five-model sentiment panel
+
+on:
+  workflow_dispatch:
+    inputs:
+      evidence_date:
+        description: 'UTC evidence date to analyze (YYYY-MM-DD)'
+        required: true
+        default: '2026-08-13'
+
+permissions:
+  contents: write
+
+jobs:
+  panel:
+    runs-on: ubuntu-latest
+    # Five models x 18 entities are deliberately serial: one shared Cursor key,
+    # reproducible saved evidence, and no concurrent API-rate surprises.
+    timeout-minutes: 70
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Cursor CLI
+        run: |
+          curl https://cursor.com/install -fsS | bash
+          echo "$HOME/.cursor/bin" >> "$GITHUB_PATH"
+      - name: Independently synthesize the full watchlist
+        env:
+          CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
+          EVIDENCE_DATE: ${{ inputs.evidence_date }}
+        run: |
+          manifest="evidence/watchlist/$EVIDENCE_DATE/manifest.json"
+          test -f "$manifest"
+          for model in \
+            gpt-5.2 \
+            cursor-grok-4.6-high \
+            gemini-3.1-pro \
+            claude-sonnet-5-high \
+            kimi-k3-high; do
+            safe_model="${model//[^a-zA-Z0-9._-]/-}"
+            python scripts/summarize_watchlist.py \
+              --manifest "$manifest" \
+              --summarizer scripts/summarize.py \
+              --model "$model" \
+              --output "sentiment/panels/$EVIDENCE_DATE/$safe_model"
+          done
+      - name: Write panel description
+        env:
+          EVIDENCE_DATE: ${{ inputs.evidence_date }}
+        run: |
+          panel="sentiment/panels/$EVIDENCE_DATE"
+          cat > "$panel/README.md" <<'EOF'
+          # Independent model panel
+
+          Every model analyzed the identical saved evidence package independently.
+          Models did not receive other models' outputs and could not browse, write files,
+          or access the network. These are research comparisons, not investment advice.
+
+          Models: GPT-5.2, Cursor Grok 4.6 High, Gemini 3.1 Pro, Claude Sonnet 5 High,
+          and Kimi K3 High (Chinese model family).
+          EOF
+      - name: Commit model panel
+        run: |
+          git config user.name 'DSC model panel bot'
+          git config user.email 'dsc-model-panel-bot@users.noreply.github.com'
+          git add sentiment/panels
+          git commit -m "sentiment: independent model panel ${{ inputs.evidence_date }}" || exit 0
+          git push

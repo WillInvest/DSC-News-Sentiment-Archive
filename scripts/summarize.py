@@ -83,6 +83,8 @@ run shell commands, or use the network.'''
     output = {
         "schema_version": 1,
         "generated_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+        "model": args.model,
+        "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
         "retrieval": {
             "engine": "last30days",
             "query": evidence.get("query"),
