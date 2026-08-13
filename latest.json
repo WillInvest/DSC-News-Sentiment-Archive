@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:10:32.508677Z",
+  "news": {
+    "path": "news/latest.json",
+    "generated_at": "2026-08-13T08:10:20.842439Z",
+    "archive_path": "news/archive/"
+  },
+  "sentiment": {
+    "path": "sentiment/watchlist/latest.json",
+    "generated_at": "2026-08-13T08:02:17.554436Z",
+    "evidence_path": "evidence/watchlist/"
+  },
+  "disclosure": "Public-source archive. Sentiment is an evidence-grounded research summary, not financial advice."
+}

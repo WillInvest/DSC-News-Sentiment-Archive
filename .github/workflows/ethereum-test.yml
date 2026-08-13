@@ -1,0 +1,57 @@
+name: Ethereum sentiment test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Cursor CLI
+        run: |
+          curl https://cursor.com/install -fsS | bash
+          echo "$HOME/.cursor/bin" >> "$GITHUB_PATH"
+
+      - name: Install free YouTube retrieval tool
+        run: python -m pip install --disable-pip-version-check yt-dlp
+
+      - name: Fetch free 30-day Ethereum evidence
+        run: |
+          git clone https://github.com/mvanhorn/last30days-skill.git /tmp/last30days
+          git -C /tmp/last30days checkout 1004324ad35a3ba656e6df0faabd54749e398455
+          mkdir -p work
+          python /tmp/last30days/skills/last30days/scripts/last30days.py 'Ethereum ETH blockchain' \
+            --emit=json --json-profile=agent --quick --lookback-days=7 \
+            --search=reddit,youtube,hackernews,polymarket,github,grounding \
+            --subreddits=ethereum,ethfinance,ethtrader,CryptoCurrency,defi \
+            --web-backend=keyless --no-browser-cookies --max-results=20 \
+            --plan=config/ethereum-query-plan.json --save-dir=work > work/community.json
+          python scripts/collect_free_evidence.py --community work/community.json --output work/evidence.json
+
+      - name: Synthesize an evidence-grounded sentiment record
+        env:
+          CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
+        run: |
+          python scripts/summarize.py --evidence work/evidence.json \
+            --output sentiment/latest.json --entity Ethereum --model auto
+
+      - name: Save the dated record
+        run: |
+          date_path="sentiment/history/$(date -u +%Y-%m-%d)/ethereum.json"
+          mkdir -p "$(dirname "$date_path")"
+          cp sentiment/latest.json "$date_path"
+          git config user.name 'DSC sentiment bot'
+          git config user.email 'dsc-sentiment-bot@users.noreply.github.com'
+          git add sentiment
+          git commit -m "sentiment: Ethereum $(date -u +%F)" || exit 0
+          git push

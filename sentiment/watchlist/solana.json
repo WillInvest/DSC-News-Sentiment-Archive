@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T07:59:20.324090Z",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Solana SOL blockchain DeFi",
+    "window_days": 30,
+    "result_count": 4,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "partial",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Solana",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "Usable Solana ecosystem coverage is too thin to assess sentiment. Of four collected records, only one CoinDesk item is clearly on-entity (a routing glitch that took nearly 29% of staked tokens offline; Foundation executives said blocks and transactions never stopped). The Cointelegraph and remaining CoinDesk items are off-topic, and the Reddit thread only names Solana among several chains at very low relevance from a partial source. Grounding and YouTube returned no results. The bar of three relevant records from at least two independent named sources with status ok is not met.",
+    "tags": [],
+    "coverage_note": "Cointelegraph, CoinDesk, and Ethereum Foundation RSS are ok; grounding and YouTube are no-results; Reddit is partial. Four records were returned; only the CoinDesk Solana network-stress article is clearly relevant, so tags are empty."
+  }
+}

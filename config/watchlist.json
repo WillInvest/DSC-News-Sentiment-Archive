@@ -1,0 +1,20 @@
+[
+  {"name":"Bitcoin","slug":"bitcoin","topic":"Bitcoin BTC blockchain","aliases":["bitcoin","btc"],"subreddits":["Bitcoin","BitcoinMarkets","CryptoCurrency"]},
+  {"name":"Ethereum","slug":"ethereum","topic":"Ethereum ETH blockchain DeFi","aliases":["ethereum","eth"],"subreddits":["ethereum","ethfinance","ethtrader","CryptoCurrency"]},
+  {"name":"Solana","slug":"solana","topic":"Solana SOL blockchain DeFi","aliases":["solana","sol"],"subreddits":["solana","solanatech","CryptoCurrency"]},
+  {"name":"Base","slug":"base","topic":"Base Ethereum L2 blockchain","aliases":["base chain","base l2","base network"],"subreddits":["base","ethereum","CryptoCurrency"]},
+  {"name":"Arbitrum","slug":"arbitrum","topic":"Arbitrum ARB Ethereum L2","aliases":["arbitrum","arb"],"subreddits":["arbitrum","ethereum","CryptoCurrency"]},
+  {"name":"Optimism","slug":"optimism","topic":"Optimism OP Ethereum L2","aliases":["optimism","optimism network","op stack"],"subreddits":["optimism","ethereum","CryptoCurrency"]},
+  {"name":"BNB Chain","slug":"bnb-chain","topic":"BNB Chain BNB blockchain","aliases":["bnb chain","binance smart chain","bnb"],"subreddits":["binance","bnbchain","CryptoCurrency"]},
+  {"name":"Avalanche","slug":"avalanche","topic":"Avalanche AVAX blockchain","aliases":["avalanche","avax"],"subreddits":["avax","avalanche","CryptoCurrency"]},
+  {"name":"Uniswap","slug":"uniswap","topic":"Uniswap UNI decentralized exchange","aliases":["uniswap","uni"],"subreddits":["UniSwap","defi","ethfinance"]},
+  {"name":"Aave","slug":"aave","topic":"Aave AAVE lending protocol","aliases":["aave"],"subreddits":["aave","defi","ethfinance"]},
+  {"name":"Lido","slug":"lido","topic":"Lido stETH liquid staking","aliases":["lido","steth"],"subreddits":["lidofinance","ethstaker","ethfinance"]},
+  {"name":"Maker / Sky","slug":"maker-sky","topic":"MakerDAO Sky USDS stablecoin","aliases":["makerdao","sky protocol","usds"],"subreddits":["MakerDAO","defi","ethfinance"]},
+  {"name":"Compound","slug":"compound","topic":"Compound COMP lending protocol","aliases":["compound finance","compound protocol"],"subreddits":["compound","defi","ethfinance"]},
+  {"name":"Curve","slug":"curve","topic":"Curve Finance CRV decentralized exchange","aliases":["curve finance","curvefi"],"subreddits":["curvefi","defi","ethfinance"]},
+  {"name":"Morpho","slug":"morpho","topic":"Morpho DeFi lending","aliases":["morpho"],"subreddits":["morpho","defi","ethfinance"]},
+  {"name":"EigenLayer","slug":"eigenlayer","topic":"EigenLayer restaking Ethereum","aliases":["eigenlayer","restaking"],"subreddits":["eigenlayer","ethfinance","ethstaker"]},
+  {"name":"Pendle","slug":"pendle","topic":"Pendle Finance PENDLE DeFi","aliases":["pendle"],"subreddits":["pendle","defi","ethfinance"]},
+  {"name":"Ethena","slug":"ethena","topic":"Ethena USDe stablecoin","aliases":["ethena","usde"],"subreddits":["ethena","defi","ethfinance"]}
+]

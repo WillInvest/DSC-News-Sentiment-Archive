@@ -1,0 +1,21 @@
+{
+  "intent": "opinion",
+  "freshness_mode": "strict_recent",
+  "cluster_mode": "story",
+  "subqueries": [
+    {
+      "label": "Ethereum ecosystem and community",
+      "search_query": "Ethereum ETH blockchain DeFi",
+      "ranking_query": "What recent community, developer, and market evidence supports positive or negative sentiment about Ethereum and ETH?",
+      "sources": ["reddit", "youtube", "hackernews", "polymarket", "github", "grounding"],
+      "weight": 1.0
+    },
+    {
+      "label": "Ethereum staking and DeFi",
+      "search_query": "Ethereum ETH staking DeFi",
+      "ranking_query": "What recent evidence describes confidence or concern about Ethereum staking and DeFi?",
+      "sources": ["reddit", "youtube", "hackernews", "polymarket", "grounding"],
+      "weight": 0.8
+    }
+  ]
+}

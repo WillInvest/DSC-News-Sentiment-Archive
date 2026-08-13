@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T07:57:38.307056Z",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Bitcoin BTC blockchain",
+    "window_days": 30,
+    "result_count": 12,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "partial",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Bitcoin",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "Usable Bitcoin-relevant items in the window come almost entirely from a single ok-status publisher (Cointelegraph), while CoinDesk and Ethereum Foundation report ok but contributed no records, Reddit is only partial, and grounding plus YouTube returned no results\u2014so the two-ok-source bar for a directional assessment is not met.",
+    "tags": [],
+    "coverage_note": "cointelegraph_rss ok with multiple items; coindesk_rss and ethereum_foundation_rss ok but empty; reddit partial (2 items); grounding and youtube no-results."
+  }
+}

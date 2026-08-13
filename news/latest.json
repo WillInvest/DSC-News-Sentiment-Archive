@@ -1,0 +1,155 @@
+{
+  "generatedAt": "2026-08-13T08:10:20.842439Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "d725f4daf37d5f31",
+        "title": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-13T07:42:59Z",
+        "url": "https://cointelegraph.com/news/bitgo-q2-19-million-revenue-surge-4-3-billion",
+        "excerpt": "An $18.8 million unrealized digital asset loss and weaker trading margins pushed BitGo into the red in the second quarter.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "6ba72d218131c743",
+        "title": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-13T07:14:19Z",
+        "url": "https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval",
+        "excerpt": "Copper Markets US will offer qualified custody, staking, financing and OTC services after securing its regulated US presence.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "57b927f8500e20c5",
+        "title": "Metaplanet denies selling bitcoin worth $320 million",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-13T05:34:48Z",
+        "url": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
+        "excerpt": "Metaplanet CEO dismisses bitcoin sale rumors, confirms 43,000 BTC holdings",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "0643755f9de88f4d",
+        "title": "Bitcoin firms ask AI labs for same tools attackers already have",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-13T05:21:21Z",
+        "url": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have",
+        "excerpt": "Coinbase, Block, BitGo and dozens of others signed a letter arguing that safety guardrails on frontier models are blocking legitimate security work while adversaries face no such limits.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "593a216f7731cc26",
+        "title": "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-13T04:15:26Z",
+        "url": "https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer",
+        "excerpt": "Metaplanet CEO Simon Gerovich said no Bitcoin was sold after the company moved 5,014 BTC between custodial addresses for about $8 in fees.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "0315b8908cd3bd5e",
+        "title": "Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-13T03:39:06Z",
+        "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests",
+        "excerpt": "An in-line inflation print removed a tail risk but gave BTC little reason to rally, leaving Jackson Hole, jobs data and the next CPI release as the market’s next catalysts.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "8e550154dafb8816",
+        "title": "ASX shareholder plans to sue former directors over failed blockchain project",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-13T01:00:57Z",
+        "url": "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project",
+        "excerpt": "ASX’s failed blockchain-based CHESS overhaul faces renewed governance scrutiny after the exchange admitted misleading the market.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-13T05:54:56Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "c4c9997caed76784",
+        "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-13T05:01:42Z",
+        "url": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks",
+        "excerpt": "Bitwise’s Matt Hougan expects revenue-capture mechanisms to spread across DeFi applications and layer-1 networks over the next 12 to 24 months.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "fafd76efcbd185fe",
+        "title": "Bank of England tests stablecoin, digital pound interoperability in cross-border payments",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-12T16:50:25Z",
+        "url": "https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments",
+        "excerpt": "The Digital Pound Lab is testing a cross-border trade finance flow combining stablecoin payments with simulated digital pound settlement.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "aa3ead9b7bfa8d40",
+        "title": "HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-12T16:07:59Z",
+        "url": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin",
+        "excerpt": "HashKey has become an authorized distributor for Anchorpoint’s HKDAP, expanding institutional access as Hong Kong’s regulated stablecoin market takes shape.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "b11b237133db9eeb",
+        "title": "Miden bets on privacy stablecoins with introduction of USDCx",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-12T15:00:00Z",
+        "url": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
+        "excerpt": "USDCx will let users transact without publicly exposing balances, counterparties or transaction histories, while allowing selective disclosure for compliance.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}

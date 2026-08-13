@@ -1,0 +1,42 @@
+name: Free chain and protocol sentiment watchlist
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Cursor CLI and free YouTube retrieval
+        run: |
+          curl https://cursor.com/install -fsS | bash
+          echo "$HOME/.cursor/bin" >> "$GITHUB_PATH"
+          python -m pip install --disable-pip-version-check yt-dlp
+      - name: Collect free evidence
+        run: |
+          git clone https://github.com/mvanhorn/last30days-skill.git /tmp/last30days
+          git -C /tmp/last30days checkout 1004324ad35a3ba656e6df0faabd54749e398455
+          python scripts/collect_watchlist.py --engine /tmp/last30days/skills/last30days/scripts/last30days.py --watchlist config/watchlist.json --output work/watchlist
+      - name: Create evidence-grounded sentiment records
+        env:
+          CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
+        run: python scripts/summarize_watchlist.py --manifest work/watchlist/manifest.json --summarizer scripts/summarize.py --output sentiment/watchlist
+      - name: Commit archive
+        run: |
+          git config user.name 'DSC sentiment bot'
+          git config user.email 'dsc-sentiment-bot@users.noreply.github.com'
+          evidence="evidence/watchlist/$(date -u +%F)"
+          mkdir -p "$evidence"
+          cp work/watchlist/*.json "$evidence/"
+          python scripts/build_latest_index.py
+          git add sentiment/watchlist evidence latest.json
+          git commit -m "sentiment: watchlist $(date -u +%F)" || exit 0
+          git push

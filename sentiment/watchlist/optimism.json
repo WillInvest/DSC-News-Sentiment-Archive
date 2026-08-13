@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T07:59:55.211914Z",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Optimism OP Ethereum L2",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Optimism",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable news or ecosystem records were returned for Optimism in the 30-day window, so sentiment cannot be assessed.",
+    "tags": [],
+    "coverage_note": "Cointelegraph, CoinDesk, and Ethereum Foundation RSS reported status ok but yielded zero results; grounding and YouTube returned no-results; Reddit auth-failed. With an empty result set, tags are omitted."
+  }
+}

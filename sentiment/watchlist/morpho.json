@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:01:42.808223Z",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Morpho DeFi lending",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Morpho",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable records were returned for Morpho in the 30-day window, so ecosystem sentiment cannot be assessed.",
+    "tags": [],
+    "coverage_note": "Zero results. Cointelegraph, CoinDesk, and Ethereum Foundation RSS reported ok; grounding and YouTube returned no-results; Reddit authentication failed."
+  }
+}

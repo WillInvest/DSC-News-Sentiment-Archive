@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T07:29:57.634324Z",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Ethereum ETH blockchain",
+    "window_days": 30,
+    "result_count": 14,
+    "source_status": {
+      "cointelegraph_ethereum_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Ethereum",
+    "window_days": 30,
+    "overall_assessment": "mixed",
+    "confidence": "medium",
+    "summary": "Coverage over the 30-day window mixed institutional and foundation developments with protocol controversy and security losses. Fidelity filed with the SEC to add staking to its Ether ETF, Bitmine reported further ETH purchases, and the Ethereum Foundation added SEAL 911 co-founder Pascal Caversaccio to its board and announced a Trillion Dollar Security grant for WEBCAT. The same window included fierce backlash to draft EIP-8363, which would cut staking rewards as the staking ratio rises, a Blockaid report that Ethereum led H1 2026 crypto hack losses, a Lido upgrade that could cut validator count by consolidating operators, and Ethereum ETFs snapping a five-day inflow streak.",
+    "tags": [
+      {
+        "label": "ETF staking expansion",
+        "assessment": "positive",
+        "why": "Fidelity filed with the SEC to add staking to its Ether ETF, with 85% of rewards retained by FETH and quarterly cash distributions planned for investors.",
+        "evidence_urls": [
+          "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound"
+        ]
+      },
+      {
+        "label": "EIP-8363 staking backlash",
+        "assessment": "negative",
+        "why": "Draft EIP-8363 would cut net consensus-layer rewards as the staking ratio heads toward 50%, and critics said the overhaul could hurt DeFi, decentralization, and institutional adoption.",
+        "evidence_urls": [
+          "https://cointelegraph.com/magazine/fierce-backlash-to-ethereums-latest-staking-proposal-eip-8363?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound",
+          "https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound"
+        ]
+      },
+      {
+        "label": "Corporate ETH accumulation",
+        "assessment": "positive",
+        "why": "Bitmine reported adding ETH, including about $19.6M, said it held about 4.8% of circulating supply toward a 5% target, and earlier reported holdings of 5.79 million ETH with about 85% staked.",
+        "evidence_urls": [
+          "https://cointelegraph.com/news/bitmine-buys-10399-eth-repurchases-4-5-million-shares?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound",
+          "https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound"
+        ]
+      },
+      {
+        "label": "Foundation privacy and security",
+        "assessment": "positive",
+        "why": "The Ethereum Foundation added SEAL 911 co-founder Pascal Caversaccio to its four-member board as privacy and security were elevated in protocol strategy, and it allocated a Trillion Dollar Security grant to the Freedom of the Press Foundation for WEBCAT.",
+        "evidence_urls": [
+          "https://cointelegraph.com/news/ethereum-foundation-seal-911-pascal-caversaccio-board?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound",
+          "https://blog.ethereum.org/en/2026/07/29/ef-board-update",
+          "https://blog.ethereum.org/en/2026/08/05/1ts-grant"
+        ]
+      },
+      {
+        "label": "H1 2026 hack losses",
+        "assessment": "negative",
+        "why": "Blockaid found Ethereum remained the hardest-hit blockchain for crypto hack losses in H1 2026, with losses driven largely by key compromises.",
+        "evidence_urls": [
+          "https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound"
+        ]
+      },
+      {
+        "label": "Lido validator consolidation",
+        "assessment": "mixed",
+        "why": "Lido launched Curated Module v2, an upgrade that could reduce Ethereum\u2019s validator count by one-third by consolidating validators and introducing new operator rules.",
+        "evidence_urls": [
+          "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound"
+        ]
+      },
+      {
+        "label": "Spot ETF flow pause",
+        "assessment": "mixed",
+        "why": "Ethereum ETFs snapped a five-day inflow streak and closed a week in the red, though the funds still extended a weekly inflow streak to three.",
+        "evidence_urls": [
+          "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound"
+        ]
+      }
+    ],
+    "coverage_note": "Cointelegraph Ethereum RSS and Ethereum Foundation RSS both returned status ok, yielding 14 records from two independent named sources. Reddit authentication failed; YouTube and grounding returned no results. Most headlines are from Cointelegraph."
+  }
+}
