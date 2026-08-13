@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T11:18:52.680527Z",
+  "generated_at": "2026-08-13T12:05:45.912634Z",
   "model": "auto",
   "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
   "retrieval": {
@@ -13,7 +13,7 @@
       "coindesk_rss": "ok",
       "ethereum_foundation_rss": "ok",
       "grounding": "no-results",
-      "reddit": "auth-failed",
+      "reddit": "partial",
       "youtube": "no-results"
     }
   },
@@ -24,6 +24,6 @@
     "confidence": "low",
     "summary": "No usable news or ecosystem records were returned for BNB Chain in the 30-day window, so sentiment cannot be assessed.",
     "tags": [],
-    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported ok but contributed no records; grounding and youtube returned no-results; reddit auth-failed."
+    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported ok but contributed no records; grounding and youtube reported no-results; reddit reported partial."
   }
 }

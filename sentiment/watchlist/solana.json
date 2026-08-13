@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T11:17:48.857554Z",
+  "generated_at": "2026-08-13T12:04:38.298306Z",
   "model": "auto",
   "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
   "retrieval": {
@@ -22,8 +22,8 @@
     "window_days": 30,
     "overall_assessment": "insufficient_evidence",
     "confidence": "low",
-    "summary": "The 30-day evidence set does not support an ecosystem sentiment call: only one of three RSS items is about Solana (CoinDesk on a routing glitch that took nearly 29% of staked tokens offline while Foundation executives said blocks and transactions never stopped). The other two items concern Metaplanet/Bitcoin and Zerohash/Morgan Stanley, Reddit authentication failed, and grounding and YouTube returned no results.",
+    "summary": "Only one of three retrieved items in the 30-day window is about Solana: CoinDesk reported that a routing glitch at a major data center provider knocked nearly 29% of staked tokens offline and brought the network near a freeze threshold, while Foundation executives said blocks and transactions never stopped. The other two items concern a Metaplanet Bitcoin custody transfer and a Zerohash U.S. trust-bank application, not Solana. Reddit authentication failed and grounding and YouTube returned no results, so coverage does not meet three relevant records from two independent named sources.",
     "tags": [],
-    "coverage_note": "Usable named sources with status ok are Cointelegraph, CoinDesk, and Ethereum Foundation RSS, but only one Solana-relevant record is present (CoinDesk). Two of three results are unrelated; grounding and YouTube had no results; Reddit failed authentication. A non-insufficient assessment requires at least three relevant records from at least two independent named sources."
+    "coverage_note": "Cointelegraph RSS, CoinDesk RSS, and Ethereum Foundation RSS reported ok; grounding and YouTube returned no results; Reddit authentication failed. Three articles were retrieved from Cointelegraph and CoinDesk; only the CoinDesk Solana freeze item is on-entity. A non-insufficient assessment requires at least three relevant records from at least two independent named sources with status ok."
   }
 }

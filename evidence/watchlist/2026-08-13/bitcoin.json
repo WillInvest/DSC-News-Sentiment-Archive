@@ -1,13 +1,13 @@
 {
   "query": "Bitcoin BTC blockchain",
   "window_days": 30,
-  "generated_at": "2026-08-13T11:09:30.167404Z",
+  "generated_at": "2026-08-13T11:56:31.414467Z",
   "source_status": {
     "cointelegraph_rss": "ok",
     "coindesk_rss": "ok",
     "ethereum_foundation_rss": "ok",
     "grounding": "no-results",
-    "reddit": "partial",
+    "reddit": "auth-failed",
     "youtube": "no-results"
   },
   "results": [
@@ -80,34 +80,6 @@
       "url": "https://cointelegraph.com/magazine/el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-and-not-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published_at": "Wed, 12 Aug 2026 13:30:00 +0000",
       "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/have-bitcoiners-gone-soft-on-authoritarianism.jpg\" alt=\"El Salvador\u2019s Bitcoin experiment turns 5: \u2018It was for us, not them\u2019\" class=\"type:primaryImage\"></p><p>Five years after El Salvador made Bitcoin legal tender, the experiment has fallen short of its original promises for locals, but it\u2019s been great for Bitcoin\u2019s global profile. </p>"
-    },
-    {
-      "candidate_id": "https://reddit.com/r/bitcoin/comments/1vm6baq/2446_btc_was_stolen_from_my_trezor_in_2021_years",
-      "cluster": 0,
-      "engagement": {
-        "num_comments": 0,
-        "score": 1
-      },
-      "published_at": "2026-08-12",
-      "relevance_score": 0.3092,
-      "source": "reddit",
-      "summary": "On 9 June 2021, 24.465 BTC was stolen from my Trezor after I entered my recovery seed into what I believed was a legitimate Trezor page. It wasn\u2019t. I had been redirected to a fake page through a malicious Chrome extension. The stolen bitcoin was traced on-chain. Months later, it began arriving at deposit addresses belonging to Huobi, now HTX. Blockchain investigators alerted the exchange within ho",
-      "title": "24.46 BTC was stolen from my Trezor in 2021. Years later, I won a UK High Court judgment. I am still trying to recover it.",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1vm6baq/2446_btc_was_stolen_from_my_trezor_in_2021_years/"
-    },
-    {
-      "candidate_id": "https://reddit.com/r/bitcoin/comments/1vegndz/a_forensic_question_about_the_coldcard_attacker",
-      "cluster": 5,
-      "engagement": {
-        "num_comments": 220,
-        "score": 121
-      },
-      "published_at": "2026-08-03",
-      "relevance_score": 0.0,
-      "source": "reddit",
-      "summary": "Hello, I was thinking about the Coldcard incident and what an attacker who now controls hundreds of stolen BTC could realistically do. The interesting part is not moving the coins. The blockchain is public, the addresses are known, and every transaction leaves a permanent record. The real question is: How could an attacker turn such a large amount of BTC into fiat money without exposing themselves",
-      "title": "A forensic question about the Coldcard attacker: how could someone actually cash out hundreds of BTC?",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1vegndz/a_forensic_question_about_the_coldcard_attacker/"
     }
   ]
 }

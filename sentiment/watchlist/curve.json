@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T11:21:00.551982Z",
+  "generated_at": "2026-08-13T12:07:49.791759Z",
   "model": "auto",
   "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
   "retrieval": {
     "engine": "last30days",
     "query": "Curve Finance CRV decentralized exchange",
     "window_days": 30,
-    "result_count": 1,
+    "result_count": 0,
     "source_status": {
       "cointelegraph_rss": "ok",
       "coindesk_rss": "ok",
       "ethereum_foundation_rss": "ok",
       "grounding": "no-results",
-      "reddit": "partial",
+      "reddit": "auth-failed",
       "youtube": "no-results"
     }
   },
@@ -22,8 +22,8 @@
     "window_days": 30,
     "overall_assessment": "insufficient_evidence",
     "confidence": "low",
-    "summary": "Only one record was returned in the 30-day window: a low-engagement Reddit post asking whether to hold CRV and Convex CVX. Cointelegraph, CoinDesk, and Ethereum Foundation RSS sources had status ok but contributed no results. Grounding and YouTube returned no results, and Reddit was partial. That is below the required three relevant records from at least two independent named sources with status ok, so ecosystem sentiment cannot be assessed.",
+    "summary": "No usable news or ecosystem records were returned for Curve in this 30-day window, so sentiment cannot be assessed.",
     "tags": [],
-    "coverage_note": "Coverage is insufficient: one Reddit item (source status partial; 0 comments, score 1) and zero items from Cointelegraph, CoinDesk, and Ethereum Foundation despite ok RSS status. Grounding and YouTube had no results."
+    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported ok but contributed no records; grounding and youtube reported no-results; reddit reported auth-failed."
   }
 }

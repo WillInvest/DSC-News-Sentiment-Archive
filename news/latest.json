@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-08-13T11:09:30.092287Z",
+  "generatedAt": "2026-08-13T11:56:31.330224Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "632a495a19be6dc5",
+        "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-13T11:53:17Z",
+        "url": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
+        "excerpt": "The new framework could be announced as soon as Friday, in what could be the biggest development for crypto this year.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "482702360e9df765",
+        "title": "Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-13T11:35:53Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/08/13/strategy-metaplanet-unrealized-bitcoin-losses-highlight-risk-of-concentrating-on-just-one-token",
+        "excerpt": "Your day-ahead look for Aug. 13, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "9560ea10e8e3318d",
         "title": "Bitcoin holds steady near $64,000 as monero, hyperliquid outperform",

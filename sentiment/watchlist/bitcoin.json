@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T11:16:14.613108Z",
+  "generated_at": "2026-08-13T12:03:10.762019Z",
   "model": "auto",
   "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
   "retrieval": {
     "engine": "last30days",
     "query": "Bitcoin BTC blockchain",
     "window_days": 30,
-    "result_count": 12,
+    "result_count": 10,
     "source_status": {
       "cointelegraph_rss": "ok",
       "coindesk_rss": "ok",
       "ethereum_foundation_rss": "ok",
       "grounding": "no-results",
-      "reddit": "partial",
+      "reddit": "auth-failed",
       "youtube": "no-results"
     }
   },
@@ -22,8 +22,8 @@
     "window_days": 30,
     "overall_assessment": "insufficient_evidence",
     "confidence": "low",
-    "summary": "This 30-day window does not support an ecosystem sentiment call: Cointelegraph is the only named source with status ok that contributed records, while CoinDesk RSS and Ethereum Foundation RSS are marked ok but have no items in results. Grounding and YouTube returned no results, and Reddit is only partial, so the requirement of at least three relevant records from at least two independent named sources with status ok is not met.",
+    "summary": "No ecosystem sentiment call is possible: every returned record is from a single named source (Cointelegraph), so the requirement of at least three relevant records from at least two independent named sources with status ok is not met. CoinDesk RSS is marked ok but contributed no records; Reddit authentication failed; grounding and YouTube returned no results.",
     "tags": [],
-    "coverage_note": "cointelegraph_rss ok with 10 items in results; coindesk_rss ok with 0 items; ethereum_foundation_rss ok with 0 items; grounding no-results; reddit partial with 2 items; youtube no-results. Snapshot generated_at 2026-08-13T11:09:30.167404Z."
+    "coverage_note": "source_status: cointelegraph_rss ok (10 results, all Cointelegraph, published 12\u201313 Aug 2026), coindesk_rss ok with zero records, ethereum_foundation_rss ok with zero records, grounding no-results, reddit auth-failed, youtube no-results."
   }
 }

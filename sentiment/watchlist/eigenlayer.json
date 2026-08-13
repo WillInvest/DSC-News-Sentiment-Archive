@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T11:21:34.723980Z",
+  "generated_at": "2026-08-13T12:08:21.598779Z",
   "model": "auto",
   "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
   "retrieval": {
@@ -22,8 +22,8 @@
     "window_days": 30,
     "overall_assessment": "insufficient_evidence",
     "confidence": "low",
-    "summary": "No usable news or ecosystem records were returned for EigenLayer in the 30-day window, so sentiment cannot be assessed. Named RSS sources Cointelegraph, CoinDesk, and Ethereum Foundation reported status ok, while grounding and YouTube returned no results and Reddit failed authentication.",
+    "summary": "No usable news or ecosystem records were returned for EigenLayer in the 30-day window, so sentiment cannot be assessed. Cointelegraph, CoinDesk, and Ethereum Foundation RSS sources reported status ok but contributed no items; grounding and YouTube returned no results, and Reddit failed authentication.",
     "tags": [],
-    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss are ok; grounding and youtube are no-results; reddit is auth-failed."
+    "coverage_note": "Zero results in evidence. Independent RSS sources cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss were ok but empty; grounding and youtube had no-results; reddit had auth-failed."
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T11:21:48.762196Z",
+  "generated_at": "2026-08-13T12:08:38.480368Z",
   "model": "auto",
   "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
   "retrieval": {
@@ -22,8 +22,8 @@
     "window_days": 30,
     "overall_assessment": "insufficient_evidence",
     "confidence": "low",
-    "summary": "No usable news or ecosystem records were available in the 30-day window, so Pendle sentiment cannot be assessed from this evidence.",
+    "summary": "No usable records were returned for Pendle in the 30-day window, so ecosystem and news sentiment cannot be assessed.",
     "tags": [],
-    "coverage_note": "results is empty. Named sources cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported ok but returned no items; grounding and youtube reported no-results; reddit reported auth-failed."
+    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported status ok but contributed no records; grounding and youtube reported no-results; reddit reported auth-failed."
   }
 }
