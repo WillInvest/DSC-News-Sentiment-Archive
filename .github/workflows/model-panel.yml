@@ -43,6 +43,7 @@ jobs:
             python scripts/summarize_watchlist.py \
               --manifest "$manifest" \
               --summarizer scripts/summarize.py \
+              --evidence-root "evidence/watchlist/$EVIDENCE_DATE" \
               --model "$model" \
               --output "sentiment/panels/$EVIDENCE_DATE/$safe_model"
           done
