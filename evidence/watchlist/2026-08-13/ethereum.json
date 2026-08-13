@@ -1,7 +1,7 @@
 {
   "query": "Ethereum ETH blockchain DeFi",
   "window_days": 30,
-  "generated_at": "2026-08-13T08:11:08.510752Z",
+  "generated_at": "2026-08-13T11:09:30.167404Z",
   "source_status": {
     "cointelegraph_rss": "ok",
     "coindesk_rss": "ok",
@@ -26,25 +26,11 @@
       "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/option-1-bold-white-montserrat.jpeg\" alt=\"Fidelity files with SEC to add staking to Ethereum ETF\" class=\"type:primaryImage\"></p><p>Fidelity plans to add staking to its Ether fund, with 85% of rewards retained by FETH and quarterly cash distributions planned for investors.</p>"
     },
     {
-      "source": "Cointelegraph",
-      "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
-      "url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "Wed, 12 Aug 2026 04:53:26 +0000",
-      "summary": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://s3-images.ctmedia.io/media/article-covers/cftc-vs-binance.png\" alt=\"CFTC invokes emergency powers to keep Kalshi operating in New York fight\" class=\"type:primaryImage\"></p><p>The order escalates a jurisdictional fight over whether states may treat federally regulated event contracts as illegal gambling.</p>"
-    },
-    {
       "source": "CoinDesk",
       "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
       "url": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
       "published_at": "Wed, 12 Aug 2026 11:19:32 +0000",
       "summary": "Non-qualified investors face a 300,000-ruble (approx. $3,600) annual purchase limit per intermediary, while qualified investors have no cap."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Fidelity moves to add staking, quarterly payouts to near $900 million ether ETF",
-      "url": "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf",
-      "published_at": "Wed, 12 Aug 2026 09:30:20 +0000",
-      "summary": "The fund would keep 85% of gross staking rewards, with the remaining 15% going to service providers."
     },
     {
       "source": "Ethereum Foundation",

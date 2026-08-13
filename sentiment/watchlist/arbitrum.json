@@ -1,6 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T08:21:56.106050Z",
+  "generated_at": "2026-08-13T11:18:21.070159Z",
+  "model": "auto",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
   "retrieval": {
     "engine": "last30days",
     "query": "Arbitrum ARB Ethereum L2",
@@ -22,6 +24,6 @@
     "confidence": "low",
     "summary": "No usable news or ecosystem records were returned for Arbitrum in the 30-day window, so sentiment cannot be assessed.",
     "tags": [],
-    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported ok but contributed no items; grounding and youtube returned no-results; reddit failed with auth-failed."
+    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported ok but contributed no records; grounding and youtube reported no-results; reddit reported auth-failed."
   }
 }

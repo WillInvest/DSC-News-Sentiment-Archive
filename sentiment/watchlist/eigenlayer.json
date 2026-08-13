@@ -1,6 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T08:25:12.490555Z",
+  "generated_at": "2026-08-13T11:21:34.723980Z",
+  "model": "auto",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
   "retrieval": {
     "engine": "last30days",
     "query": "EigenLayer restaking Ethereum",
@@ -11,7 +13,7 @@
       "coindesk_rss": "ok",
       "ethereum_foundation_rss": "ok",
       "grounding": "no-results",
-      "reddit": "partial",
+      "reddit": "auth-failed",
       "youtube": "no-results"
     }
   },
@@ -20,8 +22,8 @@
     "window_days": 30,
     "overall_assessment": "insufficient_evidence",
     "confidence": "low",
-    "summary": "No usable news or ecosystem records were returned for EigenLayer in the 30-day window, so sentiment cannot be assessed.",
+    "summary": "No usable news or ecosystem records were returned for EigenLayer in the 30-day window, so sentiment cannot be assessed. Named RSS sources Cointelegraph, CoinDesk, and Ethereum Foundation reported status ok, while grounding and YouTube returned no results and Reddit failed authentication.",
     "tags": [],
-    "coverage_note": "results is empty; grounding and youtube reported no-results and reddit was partial, leaving no relevant records to summarize."
+    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss are ok; grounding and youtube are no-results; reddit is auth-failed."
   }
 }

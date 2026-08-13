@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-08-13T08:11:08.426589Z",
+  "generatedAt": "2026-08-13T11:09:30.092287Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "9560ea10e8e3318d",
+        "title": "Bitcoin holds steady near $64,000 as monero, hyperliquid outperform",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-13T11:02:43Z",
+        "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform",
+        "excerpt": "Crypto markets remain in a low volatility holding pattern, trading in a tight range following Wednesday's CPI report.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "e9d74e4eb9fecae0",
+        "title": "CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-13T10:16:50Z",
+        "url": "https://decrypt.co/375531/ceo-of-crypto-lender-delio-gets-15-years-over-49m-fraud",
+        "excerpt": "A botched search of the platform's server host cost prosecutors the bulk of their case, cutting it from 2,800 alleged victims to about 1,100.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "4eb89969151dc2ee",
+        "title": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-13T10:15:32Z",
+        "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
+        "excerpt": "MUFG is preparing a proof-of-concept for onchain JGB transactions using the Canton network.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "46abe54b1dbd59a3",
+        "title": "Binance bStocks passes xStocks as second-largest tokenized stock issuer",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-13T09:53:36Z",
+        "url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer",
+        "excerpt": "Binance bStocks became the second-largest tokenized stock issuer less than two months after launch, narrowly ahead of Kraken’s xStocks.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "85490dc01884f9db",
+        "title": "Brazil’s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-13T09:39:52Z",
+        "url": "https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc",
+        "excerpt": "DIGY11 aims for annual distributions matching Brazil’s interbank rate plus 3–5 percentage points, net of costs, though investors' actual returns are not guaranteed.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "d725f4daf37d5f31",
         "title": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
@@ -90,6 +150,18 @@
       }
     ],
     "defi": [
+      {
+        "id": "88c22e62bcb8245b",
+        "title": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-13T10:50:24Z",
+        "url": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje",
+        "excerpt": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of “onchain finance” but have sacrificed some of their inherent immutability and decentralization.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "01b36aa9387d9d20",
         "title": "Here’s what happened in crypto today",

@@ -1,99 +1,14 @@
 {
   "query": "Morpho DeFi lending",
   "window_days": 30,
-  "generated_at": "2026-08-13T08:11:08.510752Z",
+  "generated_at": "2026-08-13T11:09:30.167404Z",
   "source_status": {
     "cointelegraph_rss": "ok",
     "coindesk_rss": "ok",
     "ethereum_foundation_rss": "ok",
     "grounding": "no-results",
-    "reddit": "partial",
+    "reddit": "auth-failed",
     "youtube": "no-results"
   },
-  "results": [
-    {
-      "candidate_id": "https://reddit.com/r/defi/comments/1v2hxxb/advice_for_next_stepimprovement_in_defi_strategy",
-      "cluster": 0,
-      "engagement": {
-        "num_comments": 5,
-        "score": 1
-      },
-      "published_at": "2026-07-21",
-      "relevance_score": 0.2319,
-      "source": "reddit",
-      "summary": "Hi community! Where I am atm: I started my yielding path from low risk stablecoin lending on Aave and after that I moved all the liquidity to Morpho Vaults V2. Atm I have 2 positions there in USDC vaults (Prime and Frontier) under Gauntlet curator. In total I have there $11k+ with 5.5% net APY. I have free ETH (not in staking) and I am researching Etherfi protocol. - Anyone have any experience wit",
-      "title": "Advice for next step/improvement in DeFi strategy | Where to look and what to try",
-      "url": "https://www.reddit.com/r/defi/comments/1v2hxxb/advice_for_next_stepimprovement_in_defi_strategy/"
-    },
-    {
-      "candidate_id": "https://reddit.com/r/defi/comments/1uzpwky/fear_and_greed_index_hit_25_today_nikkei_still",
-      "cluster": 1,
-      "engagement": {
-        "num_comments": 9,
-        "score": 11
-      },
-      "published_at": "2026-07-18",
-      "relevance_score": 0.0,
-      "source": "reddit",
-      "summary": "Extreme Fear territory today. 25 on the Fear and Greed Index, down from 27 yesterday. DeFi market cap dropped 1.1% in the last 24 hours. Nikkei crashed 6% intraday yesterday and markets are still processing it. For people with active lending positions this is the setup that historically precedes health factor compression. Not saying a cascade is coming. But this is exactly the conditions that were",
-      "title": "Fear and Greed Index hit 25 today. Nikkei still digesting a 6% crash. What are people doing with their DeFi lending positions right now?",
-      "url": "https://www.reddit.com/r/defi/comments/1uzpwky/fear_and_greed_index_hit_25_today_nikkei_still/"
-    },
-    {
-      "candidate_id": "https://reddit.com/r/defi/comments/1ve31n0/is_defi_finally_getting_yield_that_isnt_just",
-      "cluster": 2,
-      "engagement": {
-        "num_comments": 14,
-        "score": 7
-      },
-      "published_at": "2026-08-03",
-      "relevance_score": 0.0,
-      "source": "reddit",
-      "summary": "Most DeFi yield traces back to the same sources: crypto-collateralized lending, LP fees, perp funding. There&#39;s a newer category that&#39;s different: yield from dollar-hedged carry trades in global money markets, the same mechanic that&#39;s funded pensions and sovereign funds for decades. Borrow where rates are cheap, lend where higher, hedge the FX back to USD. Delta-neutral, zero crypto exp",
-      "title": "Is DeFi finally getting yield that isn't just... recycled crypto?",
-      "url": "https://www.reddit.com/r/defi/comments/1ve31n0/is_defi_finally_getting_yield_that_isnt_just/"
-    },
-    {
-      "candidate_id": "https://reddit.com/r/defi/comments/1v1kv0p/two_significant_token_unlocks_today_20m_zro_10m",
-      "cluster": 3,
-      "engagement": {
-        "num_comments": 3,
-        "score": 2
-      },
-      "published_at": "2026-07-20",
-      "relevance_score": 0.0,
-      "source": "reddit",
-      "summary": "Today specifically: ZRO (LayerZero) unlocking 7.28% of circulating supply, approximately $20.41M worth. KAITO unlocking 5.02%, approximately $10.68M. This while NASDAQ is down 1.40% and S&amp;P 500 down 1.01% today. ETH is oddly up 0.5% right now, which makes the setup interesting. Token unlocks are one of the more underappreciated liquidation risk factors in DeFi lending. The mechanism: Large unl",
-      "title": "Two significant token unlocks today ($20M ZRO, $10M KAITO) while NASDAQ is down 1.4%. How do people factor unlock schedules into their DeFi lending risk?",
-      "url": "https://www.reddit.com/r/defi/comments/1v1kv0p/two_significant_token_unlocks_today_20m_zro_10m/"
-    },
-    {
-      "candidate_id": "https://reddit.com/r/defi/comments/1vkisd4/we_built_a_free_tool_to_monitor_your_position_on",
-      "cluster": 4,
-      "engagement": {
-        "num_comments": 2,
-        "score": 2
-      },
-      "published_at": "2026-08-10",
-      "relevance_score": 0.0,
-      "source": "reddit",
-      "summary": "TL;DR: We built a free tool that lets you connect your lending protocol position to Telegram. From there, you can set up monitors that send you a Telegram notification based on your Health Ratio changes. For transparency sake - I&#39;m part of the DeFi Saver team (that built this tool). My goal here is to share info about a free, useful tool we built - and not to shill any paid tool on our app. Mo",
-      "title": "We built a free tool to monitor your position on a lending protocol (Aave, Maker, etc..) through Telegram (with health factor notifications too)",
-      "url": "https://www.reddit.com/r/defi/comments/1vkisd4/we_built_a_free_tool_to_monitor_your_position_on/"
-    },
-    {
-      "candidate_id": "https://reddit.com/r/defi/comments/1vmd9qg/im_losing_money_on_my_defi_loans",
-      "cluster": 5,
-      "engagement": {
-        "num_comments": 0,
-        "score": 1
-      },
-      "published_at": "2026-08-12",
-      "relevance_score": 0.0,
-      "source": "reddit",
-      "summary": "I&#39;ve been using lending protocols for a while now, and I just realized something frustrating. My USDC collateral earns maybe 4-6% APY sitting there. That&#39;s fine, I guess. But then I borrow against it, and suddenly I&#39;m paying 6-8% interest on my borrowed SOL. Even after adjusting for LTV (I can only borrow a portion of the collateral value), the net APY is often negative or barely break",
-      "title": "I'm losing money on my DeFi loans",
-      "url": "https://www.reddit.com/r/defi/comments/1vmd9qg/im_losing_money_on_my_defi_loans/"
-    }
-  ]
+  "results": []
 }

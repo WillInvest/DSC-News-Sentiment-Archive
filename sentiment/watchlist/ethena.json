@@ -1,6 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T08:26:20.922857Z",
+  "generated_at": "2026-08-13T11:22:06.374591Z",
+  "model": "auto",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
   "retrieval": {
     "engine": "last30days",
     "query": "Ethena USDe stablecoin",
@@ -20,8 +22,8 @@
     "window_days": 30,
     "overall_assessment": "insufficient_evidence",
     "confidence": "low",
-    "summary": "No usable news or ecosystem records were returned for Ethena/USDe in the 30-day window, so sentiment cannot be assessed from the available evidence.",
+    "summary": "No usable news or ecosystem records were returned for Ethena or USDe in the 30-day window, so sentiment cannot be assessed.",
     "tags": [],
-    "coverage_note": "results is empty; grounding and youtube reported no-results and reddit auth-failed, leaving no relevant records despite some RSS sources marked ok."
+    "coverage_note": "results is empty. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported ok; grounding and youtube reported no-results; reddit reported auth-failed."
   }
 }

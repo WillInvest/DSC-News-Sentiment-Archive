@@ -1,11 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T08:20:30.477691Z",
+  "generated_at": "2026-08-13T11:17:22.661709Z",
+  "model": "auto",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
   "retrieval": {
     "engine": "last30days",
     "query": "Ethereum ETH blockchain DeFi",
     "window_days": 30,
-    "result_count": 7,
+    "result_count": 5,
     "source_status": {
       "cointelegraph_rss": "ok",
       "coindesk_rss": "ok",
@@ -20,43 +22,50 @@
     "window_days": 30,
     "overall_assessment": "positive",
     "confidence": "medium",
-    "summary": "Ethereum-related coverage in the 30-day window was largely constructive: Fidelity filed to add staking and quarterly cash distributions to its ether ETF, Goldman Sachs\u2019s planned NEOS acquisition includes Ether-linked income funds, and the Ethereum Foundation announced a Trillion Dollar Security grant for WEBCAT plus a board appointment. The main offset is Russia moving to confine retail crypto trading to bitcoin, ether and USDT with purchase caps for non-qualified investors.",
+    "summary": "Coverage in the 30-day window is mostly constructive for the Ethereum ecosystem: Cointelegraph reported Goldman Sachs plans to acquire ETF manager NEOS, adding Ether-linked income funds, and that Fidelity filed with the SEC to add staking to its Ethereum ETF, keeping 85% of rewards in FETH with quarterly cash distributions. The Ethereum Foundation announced a Trillion Dollar Security grant to Freedom of the Press Foundation for WEBCAT and said pcaversaccio joined its board. CoinDesk reported Russia is moving to restrict retail crypto trading to bitcoin, ether, and USDT, with a 300,000-ruble annual purchase limit for non-qualified investors. This is news/ecosystem sentiment, not investment advice.",
     "tags": [
       {
-        "label": "ETF staking and institutional products",
+        "label": "institutional ETFs",
         "assessment": "positive",
-        "why": "Fidelity filed to add staking to its ether ETF, keeping 85% of rewards in the fund with quarterly cash distributions planned, and Goldman Sachs\u2019s NEOS deal would add Ether-linked income funds.",
+        "why": "Cointelegraph reported Goldman Sachs would acquire NEOS, adding a $30 billion ETF business that includes Ether-linked income funds, and that Fidelity filed with the SEC to add staking to its Ethereum ETF.",
         "evidence_urls": [
-          "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf",
-          "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+          "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         ]
       },
       {
-        "label": "Retail trading limits",
+        "label": "ETF staking",
+        "assessment": "positive",
+        "why": "Cointelegraph reported Fidelity plans to add staking to its Ether fund, with 85% of rewards retained by FETH and quarterly cash distributions planned for investors.",
+        "evidence_urls": [
+          "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        ]
+      },
+      {
+        "label": "retail trading rules",
         "assessment": "mixed",
-        "why": "Russia moved to restrict retail crypto trading to bitcoin, ether and USDT, with a 300,000-ruble annual purchase limit per intermediary for non-qualified investors.",
+        "why": "CoinDesk reported Russia is moving to restrict retail crypto trading to bitcoin, ether, and USDT, while non-qualified investors face a 300,000-ruble annual purchase limit per intermediary.",
         "evidence_urls": [
           "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt"
         ]
       },
       {
-        "label": "Security tooling grant",
+        "label": "security grants",
         "assessment": "positive",
-        "why": "The Ethereum Foundation\u2019s Trillion Dollar Security initiative allocated a grant to Freedom of the Press Foundation to continue developing WEBCAT, an open-source tool for verifying website-served code.",
+        "why": "The Ethereum Foundation announced a Trillion Dollar Security grant allocation to Freedom of the Press Foundation to continue development of WEBCAT, an open-source tool for verifying that browser-served site code matches what developers published.",
         "evidence_urls": [
           "https://blog.ethereum.org/en/2026/08/05/1ts-grant"
         ]
       },
       {
-        "label": "Foundation board",
+        "label": "foundation governance",
         "assessment": "positive",
-        "why": "The Ethereum Foundation said pcaversaccio joined its Board, citing long-time ecosystem contribution, SEAL 911 leadership, and Silviculture Society membership.",
+        "why": "The Ethereum Foundation said pcaversaccio joined its board, describing the person as a long-time Ethereum contributor, SEAL 911 co-founder and lead, and a member of the EF Silviculture Society.",
         "evidence_urls": [
           "https://blog.ethereum.org/en/2026/07/29/ef-board-update"
         ]
       }
     ],
-    "coverage_note": "Cointelegraph, CoinDesk, and Ethereum Foundation RSS were ok and supplied the usable records; Reddit auth-failed and YouTube and grounding returned no-results. One Cointelegraph item (CFTC/Kalshi) did not mention Ethereum and was not used. Fidelity staking was reported by both Cointelegraph and CoinDesk."
+    "coverage_note": "Five usable RSS records from three independent named sources with status ok (Cointelegraph, CoinDesk, Ethereum Foundation). Reddit returned auth-failed; grounding and YouTube returned no-results. No other sources in the file were usable."
   }
 }

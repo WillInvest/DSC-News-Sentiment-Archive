@@ -1,29 +1,14 @@
 {
   "query": "Aave AAVE lending protocol",
   "window_days": 30,
-  "generated_at": "2026-08-13T08:11:08.510752Z",
+  "generated_at": "2026-08-13T11:09:30.167404Z",
   "source_status": {
     "cointelegraph_rss": "ok",
     "coindesk_rss": "ok",
     "ethereum_foundation_rss": "ok",
     "grounding": "no-results",
-    "reddit": "partial",
+    "reddit": "auth-failed",
     "youtube": "no-results"
   },
-  "results": [
-    {
-      "candidate_id": "https://reddit.com/r/defi/comments/1vdofuk/how_are_people_earning_interest_on_usdc_these_days",
-      "cluster": 0,
-      "engagement": {
-        "num_comments": 34,
-        "score": 29
-      },
-      "published_at": "2026-08-02",
-      "relevance_score": 0.3202,
-      "source": "reddit",
-      "summary": "I used to trade on Coinbase for a few years, but recently stopped due to irl stuff, so now I&#39;m sitting on a chunk of USDC doing nothing. Coinbase currently pays me a little over 3% just for holding it, which is fine, but it feels like the floor tbh. People keep telling me I would get more by putting it into AAVE, Morpho, or Moonwell. From what I understand, that means: Install another wallet,",
-      "title": "How are people earning interest on USDC these days?",
-      "url": "https://www.reddit.com/r/defi/comments/1vdofuk/how_are_people_earning_interest_on_usdc_these_days/"
-    }
-  ]
+  "results": []
 }

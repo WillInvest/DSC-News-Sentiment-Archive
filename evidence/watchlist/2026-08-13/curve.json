@@ -1,14 +1,29 @@
 {
   "query": "Curve Finance CRV decentralized exchange",
   "window_days": 30,
-  "generated_at": "2026-08-13T08:11:08.510752Z",
+  "generated_at": "2026-08-13T11:09:30.167404Z",
   "source_status": {
     "cointelegraph_rss": "ok",
     "coindesk_rss": "ok",
     "ethereum_foundation_rss": "ok",
     "grounding": "no-results",
-    "reddit": "auth-failed",
+    "reddit": "partial",
     "youtube": "no-results"
   },
-  "results": []
+  "results": [
+    {
+      "candidate_id": "https://reddit.com/r/defi/comments/1vmij31/curve_dao_crv_convex_finance_cvx_worth_holding",
+      "cluster": 0,
+      "engagement": {
+        "num_comments": 0,
+        "score": 1
+      },
+      "published_at": "2026-08-12",
+      "relevance_score": 0.3592,
+      "source": "reddit",
+      "summary": "Hi guys, Bought pretty decent sized bags of the coins above in the last bull cycle. Crypto influencers saying they could explode higher with the stable coin narrative etc. Obviously down a lot right now, I\u2019m wondering if it is worth cutting my losses and selling? Are there any actual fundamental use cases and if that\u2019s the case should I just hold and hope for the best? Thanks :) &#32; submitted by",
+      "title": "Curve Dao (CRV) & Convex Finance (CVX). Worth holding?",
+      "url": "https://www.reddit.com/r/defi/comments/1vmij31/curve_dao_crv_convex_finance_cvx_worth_holding/"
+    }
+  ]
 }
