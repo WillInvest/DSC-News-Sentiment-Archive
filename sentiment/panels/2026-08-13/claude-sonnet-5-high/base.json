@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:53:20.177971Z",
+  "model": "claude-sonnet-5-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Base Ethereum L2 blockchain",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Base",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable evidence records were returned for Base within the 30-day window. Although cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported status ok, the results array contained zero items, so no sentiment can be derived. Additional sources (grounding, youtube) returned no-results and reddit failed with auth-failed.",
+    "tags": [],
+    "coverage_note": "source_status: cointelegraph_rss=ok, coindesk_rss=ok, ethereum_foundation_rss=ok, grounding=no-results, reddit=auth-failed, youtube=no-results; results=0 records. Per rule, zero usable results and a key source failure (reddit auth-failed) force overall_assessment=insufficient_evidence with no tags."
+  }
+}

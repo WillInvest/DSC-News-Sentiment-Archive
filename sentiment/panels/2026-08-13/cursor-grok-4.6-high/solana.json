@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:40:48.691809Z",
+  "model": "cursor-grok-4.6-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Solana SOL blockchain DeFi",
+    "window_days": 30,
+    "result_count": 3,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Solana",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "The 30-day set does not support an ecosystem sentiment call: only one of three records is about Solana (CoinDesk reported a data-center routing glitch that knocked nearly 29% of staked tokens offline and brought the network near a freeze, while Foundation executives said blocks and transactions never stopped). The Cointelegraph Metaplanet Bitcoin-transfer item and the CoinDesk Zerohash/Morgan Stanley trust-bank item are not Solana coverage. Reddit authentication failed, and grounding and YouTube returned no results.",
+    "tags": [],
+    "coverage_note": "Named sources with status ok were Cointelegraph RSS, CoinDesk RSS, and Ethereum Foundation RSS; Ethereum Foundation contributed no items. Reddit status was auth-failed; grounding and YouTube were no-results. Three total records, of which only one is Solana-relevant, so the requirement of at least three relevant records from at least two independent named sources with status ok is not met."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:42:53.533454Z",
+  "model": "cursor-grok-4.6-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Aave AAVE lending protocol",
+    "window_days": 30,
+    "result_count": 1,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "partial",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Aave",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "Aave ecosystem sentiment cannot be assessed from this window. The only retrieved item is a single Reddit thread about USDC yield options that mentions Aave alongside Morpho and Moonwell; Cointelegraph, CoinDesk, and Ethereum Foundation RSS reported ok but contributed no records, and grounding and YouTube returned no results.",
+    "tags": [],
+    "coverage_note": "Usable coverage is below the required bar of at least three relevant records from at least two independent named sources with status ok. cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss are ok with zero results; grounding and youtube are no-results; reddit is partial and supplied one low-relevance thread."
+  }
+}

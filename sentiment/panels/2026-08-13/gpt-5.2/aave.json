@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:36:51.233112Z",
+  "model": "gpt-5.2",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Aave AAVE lending protocol",
+    "window_days": 30,
+    "result_count": 1,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "partial",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Aave",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "Insufficient reliable evidence in the provided 30-day window to assess ecosystem/news sentiment for Aave: only one Reddit discussion mention is present, and no corroborating records from independent ok-status news sources are included.",
+    "tags": [],
+    "coverage_note": "Evidence set contains 1 result from Reddit (source status: partial) and no usable results from other sources; several sources report no-results. Minimum bar (\u22653 relevant records from \u22652 independent named sources with status ok) is not met."
+  }
+}

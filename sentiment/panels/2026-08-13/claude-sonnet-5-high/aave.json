@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:55:08.293588Z",
+  "model": "claude-sonnet-5-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Aave AAVE lending protocol",
+    "window_days": 30,
+    "result_count": 1,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "partial",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Aave",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "Only one low-relevance record was retrieved (a Reddit post about stablecoin yield options that mentions Aave in passing) and its source status was \"partial\" rather than \"ok\". No records were returned from the three sources reporting \"ok\" status (cointelegraph_rss, coindesk_rss, ethereum_foundation_rss), and grounding/youtube returned no results. This does not meet the minimum bar of at least three relevant records from at least two independent named sources with status ok, so no sentiment assessment can be made.",
+    "tags": [],
+    "coverage_note": "Sources queried: cointelegraph_rss (ok, 0 results in evidence), coindesk_rss (ok, 0 results in evidence), ethereum_foundation_rss (ok, 0 results in evidence), reddit (partial, 1 low-relevance result, relevance_score 0.32), grounding (no-results), youtube (no-results). Total usable records: 1 from a single non-ok source, insufficient for a confident sentiment call."
+  }
+}

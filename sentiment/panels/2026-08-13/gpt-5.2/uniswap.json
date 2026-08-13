@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:36:26.735890Z",
+  "model": "gpt-5.2",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Uniswap UNI decentralized exchange",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Uniswap",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable evidence records were provided for the last 30 days in evidence.json, so sentiment cannot be assessed.",
+    "tags": [],
+    "coverage_note": "evidence.json reports an empty results set, with key coverage gaps (grounding: no-results; reddit: auth-failed; youtube: no-results) despite some sources marked ok; therefore there are not at least three relevant ok records from at least two independent named sources."
+  }
+}

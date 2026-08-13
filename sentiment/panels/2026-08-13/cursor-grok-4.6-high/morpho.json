@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:44:35.258197Z",
+  "model": "cursor-grok-4.6-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Morpho DeFi lending",
+    "window_days": 30,
+    "result_count": 6,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "partial",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Morpho",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No ecosystem sentiment call is possible for Morpho in this 30-day window. Cointelegraph, CoinDesk, and Ethereum Foundation RSS are marked ok but contributed no items. The only Morpho mention is one Reddit post (source status partial) in which a user describes moving liquidity into Morpho Vaults V2 USDC vaults (Prime and Frontier, Gauntlet curator). The other five Reddit posts are general DeFi lending threads that do not name Morpho and have relevance_score 0.0. Grounding and YouTube returned no-results. That is fewer than three relevant records and fewer than two independent named sources with status ok.",
+    "tags": [],
+    "coverage_note": "Usable coverage is below the required bar: cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss are ok with zero results; grounding and youtube are no-results; reddit is partial and is the only source in results (six posts, one Morpho mention)."
+  }
+}

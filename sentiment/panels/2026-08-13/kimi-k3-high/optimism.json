@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T09:00:09.653729Z",
+  "model": "kimi-k3-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Optimism OP Ethereum L2",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "partial",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Optimism",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable records were returned for Optimism within the 30-day window. While the cointelegraph, coindesk, and ethereum foundation RSS sources reported status ok, they yielded zero results; the grounding and youtube sources returned no results and reddit was only partial. With zero relevant records, no sentiment assessment can be made.",
+    "tags": [],
+    "coverage_note": "Coverage is severely limited: results array is empty. Sources with status ok (cointelegraph_rss, coindesk_rss, ethereum_foundation_rss) produced no matching records, grounding and youtube returned no results, and reddit was partial. A non-insufficient assessment would require at least three relevant records from at least two independent named sources with status ok."
+  }
+}

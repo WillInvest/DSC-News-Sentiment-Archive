@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:55:49.848589Z",
+  "model": "claude-sonnet-5-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "MakerDAO Sky USDS stablecoin",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Maker / Sky",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable evidence records were returned for MakerDAO/Sky (USDS stablecoin) over the 30-day window. Although cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported status ok, the results array contained zero items from any source, so no factual claims can be grounded. Additional sources failed outright: reddit returned auth-failed, and grounding and youtube returned no-results. With no usable records, no sentiment assessment can be made.",
+    "tags": [],
+    "coverage_note": "6 sources checked: cointelegraph_rss=ok (0 usable results), coindesk_rss=ok (0 usable results), ethereum_foundation_rss=ok (0 usable results), grounding=no-results, reddit=auth-failed, youtube=no-results. 0 total records retrieved; minimum threshold of 3 relevant records from 2+ independent sources not met. This reflects ecosystem/news sentiment only, not investment advice."
+  }
+}

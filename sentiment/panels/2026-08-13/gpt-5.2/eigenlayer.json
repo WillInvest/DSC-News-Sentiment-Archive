@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:38:00.031821Z",
+  "model": "gpt-5.2",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "EigenLayer restaking Ethereum",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "partial",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "EigenLayer",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable EigenLayer ecosystem/news records were returned in the 30-day evidence window, so sentiment cannot be assessed from the provided sources.",
+    "tags": [],
+    "coverage_note": "The evidence file reports an empty results set. Source statuses show cointelegraph_rss=ok, coindesk_rss=ok, ethereum_foundation_rss=ok, but no articles/posts were retrieved; grounding and youtube returned no-results and reddit was partial. With zero relevant records, sentiment coverage is insufficient."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:56:01.685899Z",
+  "model": "claude-sonnet-5-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Compound COMP lending protocol",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Compound",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable evidence records were found for Compound within the 30-day window. Although three sources (cointelegraph_rss, coindesk_rss, ethereum_foundation_rss) reported status ok, the results list was empty, and other sources failed or returned nothing (grounding: no-results, reddit: auth-failed, youtube: no-results). No sentiment assessment can be made without at least three relevant records from at least two independent sources.",
+    "tags": [],
+    "coverage_note": "3 sources reported ok status (cointelegraph_rss, coindesk_rss, ethereum_foundation_rss) but returned 0 total results; grounding and youtube returned no-results; reddit failed with auth-failed. This is ecosystem/news sentiment only, not investment advice."
+  }
+}

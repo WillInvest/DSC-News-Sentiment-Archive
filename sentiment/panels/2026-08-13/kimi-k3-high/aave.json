@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T09:01:26.541120Z",
+  "model": "kimi-k3-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Aave AAVE lending protocol",
+    "window_days": 30,
+    "result_count": 1,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "partial",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Aave",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "Only one usable record was found in the 30-day window: a single Reddit discussion (r/defi, 2026-08-02) in which a user considers moving idle USDC into Aave, Morpho, or Moonwell for higher yield than Coinbase's ~3%. This is far below the minimum of three relevant records from at least two independent named sources with status ok. The two news RSS feeds (Cointelegraph, CoinDesk) returned ok status but contributed no Aave-relevant items, while grounding and YouTube returned no results and Reddit was only partial. No reliable sentiment conclusion about Aave can be drawn from this evidence. This is ecosystem/news sentiment, not investment advice.",
+    "tags": [],
+    "coverage_note": "Sparse coverage: 1 result total. Source status \u2014 cointelegraph_rss: ok (no relevant items), coindesk_rss: ok (no relevant items), ethereum_foundation_rss: ok (no relevant items), reddit: partial (1 item), grounding: no-results, youtube: no-results. A non-insufficient assessment would require at least three relevant records from at least two independent named sources with status ok."
+  }
+}

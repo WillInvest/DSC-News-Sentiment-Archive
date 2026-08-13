@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:49:41.869661Z",
+  "model": "gemini-3.1-pro",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Lido stETH liquid staking",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Lido",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable records were found in the provided evidence to determine ecosystem or news sentiment.",
+    "tags": [],
+    "coverage_note": "While some sources (Cointelegraph, CoinDesk, Ethereum Foundation) returned an ok status, they yielded zero records. Additionally, key source failures occurred (Reddit auth-failed)."
+  }
+}

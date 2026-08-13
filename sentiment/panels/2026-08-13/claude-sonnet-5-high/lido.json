@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:55:26.925187Z",
+  "model": "claude-sonnet-5-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Lido stETH liquid staking",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Lido",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "The evidence file for query 'Lido stETH liquid staking' contains zero results despite three named sources (cointelegraph_rss, coindesk_rss, ethereum_foundation_rss) reporting status ok; grounding and youtube returned no-results, and reddit failed with auth-failed. With no usable records, no sentiment about Lido can be determined for the 30-day window.",
+    "tags": [],
+    "coverage_note": "0 usable records found. Source status: cointelegraph_rss=ok (0 results), coindesk_rss=ok (0 results), ethereum_foundation_rss=ok (0 results), grounding=no-results, reddit=auth-failed, youtube=no-results. Minimum requirement of 3 relevant records from 2+ independent ok sources not met."
+  }
+}

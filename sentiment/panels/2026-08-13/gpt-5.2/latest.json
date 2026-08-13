@@ -1,0 +1,564 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:38:22.859019Z",
+  "model": "gpt-5.2",
+  "window_days": 30,
+  "items": [
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:34:33.766942Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "Bitcoin BTC blockchain",
+        "window_days": 30,
+        "result_count": 16,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "partial",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "Bitcoin",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "low",
+        "summary": "The provided 30-day evidence contains a handful of Bitcoin-related items (primarily Cointelegraph articles and a small set of Reddit posts) touching on topics like regulated custody/broker-dealer developments, crypto ATM scam/bans, miner fee revenue trends, and wallet/security discussions. However, the dataset is incomplete and does not meet the requirements for a non-insufficient sentiment assessment.",
+        "tags": [],
+        "coverage_note": "Insufficient evidence under the stated rules: results are dominated by a single named news source (Cointelegraph), Reddit is marked partial, and multiple source_status entries indicate failures/no-results (e.g., grounding: no-results; youtube: no-results). The evidence also does not provide at least three relevant records from at least two independent named sources with status ok."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:34:54.353780Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "Ethereum ETH blockchain DeFi",
+        "window_days": 30,
+        "result_count": 7,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "auth-failed",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "Ethereum",
+        "window_days": 30,
+        "overall_assessment": "mixed",
+        "confidence": "medium",
+        "summary": "Coverage over the last 30 days shows generally constructive ecosystem and institutional-product news for Ethereum (including proposed staking features for an Ether ETF and an Ethereum Foundation security-related grant), alongside mixed policy signals such as proposed limits on retail crypto trading access that still explicitly include ether.",
+        "tags": [
+          {
+            "label": "ether-etf-staking",
+            "assessment": "positive",
+            "why": "Fidelity moved to add staking and quarterly payouts to its ether ETF, describing reward retention and planned cash distributions.",
+            "evidence_urls": [
+              "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf"
+            ]
+          },
+          {
+            "label": "policy-access-limits",
+            "assessment": "mixed",
+            "why": "A reported Russian proposal would restrict retail crypto trading to bitcoin, ether and USDT and impose an annual purchase limit for non-qualified investors.",
+            "evidence_urls": [
+              "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt"
+            ]
+          },
+          {
+            "label": "security-grant",
+            "assessment": "positive",
+            "why": "The Ethereum Foundation announced a Trillion Dollar Security initiative grant to support development of WEBCAT, described as an open source browser verification tool.",
+            "evidence_urls": [
+              "https://blog.ethereum.org/en/2026/08/05/1ts-grant"
+            ]
+          },
+          {
+            "label": "foundation-governance",
+            "assessment": "neutral",
+            "why": "The Ethereum Foundation reported a board update stating that pcaversaccio joined the Ethereum Foundation Board.",
+            "evidence_urls": [
+              "https://blog.ethereum.org/en/2026/07/29/ef-board-update"
+            ]
+          }
+        ],
+        "coverage_note": "Usable records with status ok came from Cointelegraph, CoinDesk, and the Ethereum Foundation within a 30-day window; some channels showed key-source failures or gaps (grounding: no-results; reddit: auth-failed; youtube: no-results), so coverage may miss social/video sentiment."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:35:08.527398Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "Solana SOL blockchain DeFi",
+        "window_days": 30,
+        "result_count": 3,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "auth-failed",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "Solana",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "low",
+        "summary": "Insufficient relevant coverage in the provided 30-day evidence set to assess Solana ecosystem/news sentiment reliably. Only one relevant report describes a network stress event where a data center routing glitch took ~29% of staked tokens offline and brought Solana near a freeze threshold, while the Solana Foundation said blocks and transactions never stopped.",
+        "tags": [],
+        "coverage_note": "Only 1 Solana-relevant record from an ok-status named source was present; other records were not Solana-specific. Additional collection sources show failures/no results (e.g., reddit auth-failed; grounding/youtube no-results), limiting breadth and preventing a non-insufficient assessment under the minimum-evidence rule."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:35:22.428531Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "Base Ethereum L2 blockchain",
+        "window_days": 30,
+        "result_count": 0,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "auth-failed",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "Base",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "low",
+        "summary": "No usable sentiment evidence was provided for the 30-day window: the evidence file contains zero records, and at least one key source failed (Reddit auth failed) while several sources returned no results.",
+        "tags": [],
+        "coverage_note": "Evidence contained 0 results. Source status: cointelegraph_rss ok; coindesk_rss ok; ethereum_foundation_rss ok; grounding no-results; reddit auth-failed; youtube no-results. With no records to assess, sentiment cannot be determined."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:35:35.469333Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "Arbitrum ARB Ethereum L2",
+        "window_days": 30,
+        "result_count": 0,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "auth-failed",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "Arbitrum",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "low",
+        "summary": "No usable Arbitrum-related evidence records were provided for the last 30 days, so sentiment cannot be assessed.",
+        "tags": [],
+        "coverage_note": "evidence.json contains zero results. Source status shows key gaps/failures (e.g., reddit: auth-failed; grounding/youtube: no-results), limiting coverage and preventing a multi-source assessment."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:35:51.521930Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "Optimism OP Ethereum L2",
+        "window_days": 30,
+        "result_count": 0,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "partial",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "Optimism",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "low",
+        "summary": "The provided evidence contains no usable sentiment records for Optimism in the last 30 days (the results list is empty), so an ecosystem/news sentiment assessment cannot be grounded in sources.",
+        "tags": [],
+        "coverage_note": "No results were returned in evidence.json. Source status indicates Cointelegraph/Coindesk/Ethereum Foundation RSS were ok but yielded no items, while grounding and YouTube had no-results and Reddit was partial; with zero usable records, no sentiment tags can be produced."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:36:01.413074Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "BNB Chain BNB blockchain",
+        "window_days": 30,
+        "result_count": 0,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "auth-failed",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "BNB Chain",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "high",
+        "summary": "No usable sentiment evidence was returned for BNB Chain in the last 30 days: the results list is empty, and key sources show failures/no-results (grounding: no-results; reddit: auth-failed; youtube: no-results).",
+        "tags": [],
+        "coverage_note": "Evidence file reports an empty results array. Source status: cointelegraph_rss ok; coindesk_rss ok; ethereum_foundation_rss ok; grounding no-results; reddit auth-failed; youtube no-results. With no records, sentiment cannot be assessed."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:36:14.910998Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "Avalanche AVAX blockchain",
+        "window_days": 30,
+        "result_count": 0,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "auth-failed",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "Avalanche",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "low",
+        "summary": "No usable 30-day evidence records were available to assess ecosystem/news sentiment for Avalanche.",
+        "tags": [],
+        "coverage_note": "evidence.json contains zero results (results=[]). Source status indicates failures/no coverage for some channels (grounding: no-results; reddit: auth-failed; youtube: no-results), so sentiment cannot be determined from this dataset."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:36:26.735890Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "Uniswap UNI decentralized exchange",
+        "window_days": 30,
+        "result_count": 0,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "auth-failed",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "Uniswap",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "low",
+        "summary": "No usable evidence records were provided for the last 30 days in evidence.json, so sentiment cannot be assessed.",
+        "tags": [],
+        "coverage_note": "evidence.json reports an empty results set, with key coverage gaps (grounding: no-results; reddit: auth-failed; youtube: no-results) despite some sources marked ok; therefore there are not at least three relevant ok records from at least two independent named sources."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:36:51.233112Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "Aave AAVE lending protocol",
+        "window_days": 30,
+        "result_count": 1,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "partial",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "Aave",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "low",
+        "summary": "Insufficient reliable evidence in the provided 30-day window to assess ecosystem/news sentiment for Aave: only one Reddit discussion mention is present, and no corroborating records from independent ok-status news sources are included.",
+        "tags": [],
+        "coverage_note": "Evidence set contains 1 result from Reddit (source status: partial) and no usable results from other sources; several sources report no-results. Minimum bar (\u22653 relevant records from \u22652 independent named sources with status ok) is not met."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:37:01.889012Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "Lido stETH liquid staking",
+        "window_days": 30,
+        "result_count": 0,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "auth-failed",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "Lido",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "low",
+        "summary": "No usable sentiment evidence was found for Lido in the last 30 days: the evidence file reports zero results, with additional key source failures/no-results (grounding no-results, reddit auth-failed, youtube no-results).",
+        "tags": [],
+        "coverage_note": "The evidence set contains 0 records. Although several named sources show status ok, there are no returned items to assess; additional sources show failures/no-results (grounding no-results, reddit auth-failed, youtube no-results)."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:37:10.754130Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "MakerDAO Sky USDS stablecoin",
+        "window_days": 30,
+        "result_count": 0,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "auth-failed",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "Maker / Sky",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "low",
+        "summary": "No usable evidence records were provided in the 30-day window to assess ecosystem/news sentiment for Maker / Sky.",
+        "tags": [],
+        "coverage_note": "evidence.json contains zero results records; additionally, key sources show failures/no-results (grounding no-results, reddit auth-failed, youtube no-results). Per rules, this yields insufficient evidence."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:37:23.912357Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "Compound COMP lending protocol",
+        "window_days": 30,
+        "result_count": 0,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "auth-failed",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "Compound",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "low",
+        "summary": "No usable ecosystem/news records were available in the provided evidence for the last 30 days; key source failures/no-results prevent forming a sentiment assessment.",
+        "tags": [],
+        "coverage_note": "Evidence contained zero results, with key source statuses indicating no-results (grounding, YouTube) and an auth failure (Reddit); only RSS sources reported ok but provided no records, so coverage is insufficient."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:37:34.880608Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "Curve Finance CRV decentralized exchange",
+        "window_days": 30,
+        "result_count": 0,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "auth-failed",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "Curve",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "low",
+        "summary": "No usable sentiment records were found for Curve within the 30-day window; key sources returned no results and one source failed authentication.",
+        "tags": [],
+        "coverage_note": "Evidence file reports zero results. Source statuses include grounding=no-results, youtube=no-results, reddit=auth-failed (key source failure), while several RSS sources are ok but contributed no records; therefore there is insufficient evidence to assess ecosystem/news sentiment."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:37:48.509350Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "Morpho DeFi lending",
+        "window_days": 30,
+        "result_count": 6,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "partial",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "Morpho",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "low",
+        "summary": "Insufficient evidence to assess Morpho sentiment in the last 30 days: the only explicit Morpho mention is a single Reddit post discussing moving liquidity into Morpho Vaults V2, while other configured sources returned no usable Morpho-related records.",
+        "tags": [],
+        "coverage_note": "Within the 30-day window, Cointelegraph RSS, CoinDesk RSS, and Ethereum Foundation RSS are marked ok but yielded no Morpho results; grounding is no-results; YouTube is no-results; Reddit is partial and provides only one clearly Morpho-specific record."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:38:00.031821Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "EigenLayer restaking Ethereum",
+        "window_days": 30,
+        "result_count": 0,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "partial",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "EigenLayer",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "low",
+        "summary": "No usable EigenLayer ecosystem/news records were returned in the 30-day evidence window, so sentiment cannot be assessed from the provided sources.",
+        "tags": [],
+        "coverage_note": "The evidence file reports an empty results set. Source statuses show cointelegraph_rss=ok, coindesk_rss=ok, ethereum_foundation_rss=ok, but no articles/posts were retrieved; grounding and youtube returned no-results and reddit was partial. With zero relevant records, sentiment coverage is insufficient."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:38:14.182463Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "Pendle Finance PENDLE DeFi",
+        "window_days": 30,
+        "result_count": 0,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "auth-failed",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "Pendle",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "low",
+        "summary": "No usable Pendle-related news or ecosystem records were provided in the 30-day evidence window, so sentiment cannot be determined.",
+        "tags": [],
+        "coverage_note": "The evidence contains zero results. Source status indicates some feeds were ok (cointelegraph_rss, coindesk_rss, ethereum_foundation_rss) but returned no Pendle-related records; additional sources had failures/no data (grounding: no-results, reddit: auth-failed, youtube: no-results)."
+      }
+    },
+    {
+      "schema_version": 1,
+      "generated_at": "2026-08-13T08:38:22.853250Z",
+      "model": "gpt-5.2",
+      "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+      "retrieval": {
+        "engine": "last30days",
+        "query": "Ethena USDe stablecoin",
+        "window_days": 30,
+        "result_count": 0,
+        "source_status": {
+          "cointelegraph_rss": "ok",
+          "coindesk_rss": "ok",
+          "ethereum_foundation_rss": "ok",
+          "grounding": "no-results",
+          "reddit": "auth-failed",
+          "youtube": "no-results"
+        }
+      },
+      "sentiment": {
+        "entity": "Ethena",
+        "window_days": 30,
+        "overall_assessment": "insufficient_evidence",
+        "confidence": "low",
+        "summary": "No usable evidence records were returned for Ethena in the last 30 days, and key sources show failures/no-results, so sentiment cannot be assessed from the provided dataset.",
+        "tags": [],
+        "coverage_note": "Evidence file reports zero results. Source status indicates multiple no-results and at least one key failure (reddit auth-failed), so there is insufficient coverage to form a sentiment assessment."
+      }
+    }
+  ]
+}

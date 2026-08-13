@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:59:37.002155Z",
+  "model": "kimi-k3-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Base Ethereum L2 blockchain",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Base",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "high",
+    "summary": "No usable sentiment records were present for Base in the 30-day window, so no ecosystem/news sentiment assessment can be made.",
+    "tags": [],
+    "coverage_note": "The evidence file contains zero results. Cointelegraph, CoinDesk, and Ethereum Foundation RSS sources report status ok, while grounding and YouTube returned no results and Reddit authentication failed."
+  }
+}

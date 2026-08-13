@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:52:50.296024Z",
+  "model": "claude-sonnet-5-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Ethereum ETH blockchain DeFi",
+    "window_days": 30,
+    "result_count": 7,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Ethereum",
+    "window_days": 30,
+    "overall_assessment": "mixed",
+    "confidence": "medium",
+    "summary": "News coverage over the period shows continued institutional build-out around Ethereum ETFs (staking additions, a related asset-manager acquisition) alongside Ethereum Foundation ecosystem grants and governance activity, offset by a new Russian regulation restricting retail access to ETH and other major cryptocurrencies.",
+    "tags": [
+      {
+        "label": "ETH ETF staking expansion",
+        "assessment": "positive",
+        "why": "Fidelity filed with the SEC to add staking to its ~$900M Ethereum ETF, with 85% of staking rewards retained by the fund and quarterly cash distributions planned for investors, reported independently by both Cointelegraph and CoinDesk.",
+        "evidence_urls": [
+          "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf"
+        ]
+      },
+      {
+        "label": "Institutional ETF acquisition activity",
+        "assessment": "positive",
+        "why": "Goldman Sachs agreed to acquire ETF manager NEOS in a $2.25B deal, adding NEOS's $30B ETF business including Bitcoin- and Ether-linked income funds to Goldman Sachs Asset Management.",
+        "evidence_urls": [
+          "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        ]
+      },
+      {
+        "label": "Russia retail trading restriction",
+        "assessment": "negative",
+        "why": "Russia moved to restrict retail crypto trading to bitcoin, ether, and USDT only, capping non-qualified investor purchases at roughly 300,000 rubles (~$3,600) per year per intermediary.",
+        "evidence_urls": [
+          "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt"
+        ]
+      },
+      {
+        "label": "Ethereum Foundation security grant",
+        "assessment": "positive",
+        "why": "The Ethereum Foundation's Trillion Dollar Security (1TS) initiative announced a grant to the Freedom of the Press Foundation to continue development of WEBCAT, an open-source tool for verifying website code integrity.",
+        "evidence_urls": [
+          "https://blog.ethereum.org/en/2026/08/05/1ts-grant"
+        ]
+      },
+      {
+        "label": "Ethereum Foundation governance update",
+        "assessment": "neutral",
+        "why": "The Ethereum Foundation announced that pcaversaccio, a longtime ecosystem contributor and SEAL 911 co-founder/lead, joined the EF Board.",
+        "evidence_urls": [
+          "https://blog.ethereum.org/en/2026/07/29/ef-board-update"
+        ]
+      }
+    ],
+    "coverage_note": "Based on 7 articles from 3 sources with status ok (Cointelegraph, CoinDesk, Ethereum Foundation blog). One additional result (CFTC/Kalshi jurisdictional dispute) was excluded as not substantively about Ethereum. Reddit failed authentication, and grounding/YouTube sources returned no results, so community and video sentiment are not reflected in this assessment. This is ecosystem/news sentiment only, not investment advice."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:59:03.952982Z",
+  "model": "kimi-k3-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Solana SOL blockchain DeFi",
+    "window_days": 30,
+    "result_count": 3,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Solana",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "Only one of the three returned records is actually about Solana: a CoinDesk report that a routing glitch at a major data center provider knocked nearly 29% of Solana's staked tokens offline on Wednesday, bringing the network near a freeze threshold, while the Solana Foundation stated blocks and transactions never stopped. The other two records (Metaplanet/Bitcoin via Cointelegraph, Zerohash/Morgan Stanley via CoinDesk) are not relevant to Solana. With only one relevant record from one source, the minimum of three relevant records from at least two independent sources with status ok is not met, so no sentiment assessment can be made. This is ecosystem/news coverage only, not investment advice.",
+    "tags": [],
+    "coverage_note": "Coverage is very thin: of six sources, three returned ok but only CoinDesk yielded a Solana-relevant record (1 relevant of 3 total results); grounding and YouTube returned no-results and Reddit failed authentication. The single relevant item, dated 2026-08-12, reports a near-freeze stress event on Solana with conflicting framings (Marinade Finance says it neared a freeze threshold; the Foundation says it held up), which cannot be corroborated or balanced by any other source in this window."
+  }
+}

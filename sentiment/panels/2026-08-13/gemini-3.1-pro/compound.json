@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:50:18.776486Z",
+  "model": "gemini-3.1-pro",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Compound COMP lending protocol",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Compound",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No relevant records were found in the provided evidence.",
+    "tags": [],
+    "coverage_note": "Zero usable results present. Reddit source authentication failed, grounding and youtube returned no results. Cointelegraph, Coindesk, and Ethereum Foundation RSS feeds returned ok status but provided no records."
+  }
+}

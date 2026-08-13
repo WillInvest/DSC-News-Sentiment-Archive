@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:34:54.353780Z",
+  "model": "gpt-5.2",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Ethereum ETH blockchain DeFi",
+    "window_days": 30,
+    "result_count": 7,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Ethereum",
+    "window_days": 30,
+    "overall_assessment": "mixed",
+    "confidence": "medium",
+    "summary": "Coverage over the last 30 days shows generally constructive ecosystem and institutional-product news for Ethereum (including proposed staking features for an Ether ETF and an Ethereum Foundation security-related grant), alongside mixed policy signals such as proposed limits on retail crypto trading access that still explicitly include ether.",
+    "tags": [
+      {
+        "label": "ether-etf-staking",
+        "assessment": "positive",
+        "why": "Fidelity moved to add staking and quarterly payouts to its ether ETF, describing reward retention and planned cash distributions.",
+        "evidence_urls": [
+          "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf"
+        ]
+      },
+      {
+        "label": "policy-access-limits",
+        "assessment": "mixed",
+        "why": "A reported Russian proposal would restrict retail crypto trading to bitcoin, ether and USDT and impose an annual purchase limit for non-qualified investors.",
+        "evidence_urls": [
+          "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt"
+        ]
+      },
+      {
+        "label": "security-grant",
+        "assessment": "positive",
+        "why": "The Ethereum Foundation announced a Trillion Dollar Security initiative grant to support development of WEBCAT, described as an open source browser verification tool.",
+        "evidence_urls": [
+          "https://blog.ethereum.org/en/2026/08/05/1ts-grant"
+        ]
+      },
+      {
+        "label": "foundation-governance",
+        "assessment": "neutral",
+        "why": "The Ethereum Foundation reported a board update stating that pcaversaccio joined the Ethereum Foundation Board.",
+        "evidence_urls": [
+          "https://blog.ethereum.org/en/2026/07/29/ef-board-update"
+        ]
+      }
+    ],
+    "coverage_note": "Usable records with status ok came from Cointelegraph, CoinDesk, and the Ethereum Foundation within a 30-day window; some channels showed key-source failures or gaps (grounding: no-results; reddit: auth-failed; youtube: no-results), so coverage may miss social/video sentiment."
+  }
+}

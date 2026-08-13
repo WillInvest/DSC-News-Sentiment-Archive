@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T09:02:14.674852Z",
+  "model": "kimi-k3-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "MakerDAO Sky USDS stablecoin",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Maker / Sky",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable results were present for the 30-day window, so no ecosystem/news sentiment can be determined.",
+    "tags": [],
+    "coverage_note": "cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss were ok but returned no records; grounding and youtube had no-results and reddit auth-failed. Ecosystem/news sentiment only, not investment advice."
+  }
+}

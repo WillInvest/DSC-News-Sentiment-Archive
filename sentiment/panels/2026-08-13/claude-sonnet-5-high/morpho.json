@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:56:41.690175Z",
+  "model": "claude-sonnet-5-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Morpho DeFi lending",
+    "window_days": 30,
+    "result_count": 6,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "partial",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Morpho",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "Evidence for Morpho over the last 30 days is insufficient to support a sentiment assessment. The only source with usable content is Reddit (status: partial); the three sources marked \"ok\" (cointelegraph_rss, coindesk_rss, ethereum_foundation_rss) returned zero results, and grounding/youtube returned no results. Of the 6 Reddit records, only one explicitly mentions Morpho (relevance_score 0.2319, referencing use of \"Morpho Vaults V2\" USDC vaults under a Gauntlet curator); the remaining five have a relevance_score of 0.0 and discuss general DeFi lending topics (market fear/greed index, token unlocks, a monitoring tool, dollar-hedged yield, and a user's negative lending-rate experience) without naming Morpho.",
+    "tags": [],
+    "coverage_note": "Only 1 of 6 candidate records is relevant to Morpho, from a single named source (reddit, status: partial). No records were returned from the three sources reporting status \"ok\" (cointelegraph_rss, coindesk_rss, ethereum_foundation_rss), and grounding/youtube reported no-results. This does not meet the minimum bar of three relevant records from at least two independent sources with status ok, so no directional assessment is made."
+  }
+}

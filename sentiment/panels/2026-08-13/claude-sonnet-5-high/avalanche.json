@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:54:27.324735Z",
+  "model": "claude-sonnet-5-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Avalanche AVAX blockchain",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Avalanche",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable evidence records were returned for Avalanche (AVAX) in the last 30 days. Although three sources (cointelegraph_rss, coindesk_rss, ethereum_foundation_rss) reported status \"ok\", the results array contained zero items, so no sentiment can be assessed.",
+    "tags": [],
+    "coverage_note": "Source status: cointelegraph_rss=ok, coindesk_rss=ok, ethereum_foundation_rss=ok, grounding=no-results, reddit=auth-failed, youtube=no-results. Despite three sources reporting \"ok\", zero records were present in results, and reddit failed authentication while grounding and youtube returned no results. This does not meet the minimum of three relevant records from at least two independent sources with usable content, so no non-insufficient assessment can be made."
+  }
+}

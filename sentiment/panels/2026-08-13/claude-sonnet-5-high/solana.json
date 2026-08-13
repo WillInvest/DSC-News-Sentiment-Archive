@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:53:05.320626Z",
+  "model": "claude-sonnet-5-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Solana SOL blockchain DeFi",
+    "window_days": 30,
+    "result_count": 3,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Solana",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "Only one retrieved record actually concerns Solana (a CoinDesk report on a network stress event); the other two results are unrelated to Solana (Metaplanet/Bitcoin, Zerohash/Morgan Stanley), and several sources returned no results or failed. This falls short of the minimum bar for a sentiment call.",
+    "tags": [],
+    "coverage_note": "3 total results returned; only 1 was relevant to Solana, from 1 source (CoinDesk), which is below the required minimum of 3 relevant records from 2+ independent sources. Source status: cointelegraph_rss=ok (result not Solana-relevant), coindesk_rss=ok, ethereum_foundation_rss=ok (no Solana-relevant result present), grounding=no-results, reddit=auth-failed, youtube=no-results."
+  }
+}

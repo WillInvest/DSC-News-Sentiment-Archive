@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:37:01.889012Z",
+  "model": "gpt-5.2",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Lido stETH liquid staking",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Lido",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable sentiment evidence was found for Lido in the last 30 days: the evidence file reports zero results, with additional key source failures/no-results (grounding no-results, reddit auth-failed, youtube no-results).",
+    "tags": [],
+    "coverage_note": "The evidence set contains 0 records. Although several named sources show status ok, there are no returned items to assess; additional sources show failures/no-results (grounding no-results, reddit auth-failed, youtube no-results)."
+  }
+}

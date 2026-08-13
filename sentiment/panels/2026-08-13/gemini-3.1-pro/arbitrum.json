@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:48:04.282459Z",
+  "model": "gemini-3.1-pro",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Arbitrum ARB Ethereum L2",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Arbitrum",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No relevant records were found in the provided evidence data.",
+    "tags": [],
+    "coverage_note": "Cointelegraph, CoinDesk, and Ethereum Foundation RSS sources returned ok status but zero results. Reddit authentication failed and YouTube returned no results."
+  }
+}

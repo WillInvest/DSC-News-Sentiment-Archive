@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:37:23.912357Z",
+  "model": "gpt-5.2",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Compound COMP lending protocol",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Compound",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable ecosystem/news records were available in the provided evidence for the last 30 days; key source failures/no-results prevent forming a sentiment assessment.",
+    "tags": [],
+    "coverage_note": "Evidence contained zero results, with key source statuses indicating no-results (grounding, YouTube) and an auth failure (Reddit); only RSS sources reported ok but provided no records, so coverage is insufficient."
+  }
+}

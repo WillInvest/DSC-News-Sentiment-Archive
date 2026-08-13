@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:54:07.236809Z",
+  "model": "claude-sonnet-5-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "BNB Chain BNB blockchain",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "BNB Chain",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable evidence records were returned for BNB Chain in the 30-day window. Although three sources (cointelegraph_rss, coindesk_rss, ethereum_foundation_rss) reported status ok, the results array is empty, so no factual claims can be grounded. Additional sources failed or returned nothing (reddit: auth-failed, grounding: no-results, youtube: no-results).",
+    "tags": [],
+    "coverage_note": "0 of 6 sources yielded usable records. Status: cointelegraph_rss=ok (0 records), coindesk_rss=ok (0 records), ethereum_foundation_rss=ok (0 records), grounding=no-results, reddit=auth-failed, youtube=no-results. Per policy, an assessment requires at least three relevant records from at least two independent named sources with status ok; that threshold was not met because zero records were present in results. This output is ecosystem/news sentiment only, not investment advice."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:56:59.361886Z",
+  "model": "claude-sonnet-5-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "EigenLayer restaking Ethereum",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "partial",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "EigenLayer",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable evidence records were returned for EigenLayer in the 30-day window. Although cointelegraph_rss, coindesk_rss, and ethereum_foundation_rss reported status 'ok', the results array is empty, so there are zero records to ground any sentiment assessment.",
+    "tags": [],
+    "coverage_note": "Source status: cointelegraph_rss=ok, coindesk_rss=ok, ethereum_foundation_rss=ok (all returned no result records), grounding=no-results, reddit=partial, youtube=no-results. 0 usable records from 0 independent sources with content; minimum requirement of 3 relevant records from 2+ independent named sources was not met."
+  }
+}

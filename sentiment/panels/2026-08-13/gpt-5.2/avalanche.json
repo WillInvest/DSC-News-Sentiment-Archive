@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:36:14.910998Z",
+  "model": "gpt-5.2",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Avalanche AVAX blockchain",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Avalanche",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable 30-day evidence records were available to assess ecosystem/news sentiment for Avalanche.",
+    "tags": [],
+    "coverage_note": "evidence.json contains zero results (results=[]). Source status indicates failures/no coverage for some channels (grounding: no-results; reddit: auth-failed; youtube: no-results), so sentiment cannot be determined from this dataset."
+  }
+}

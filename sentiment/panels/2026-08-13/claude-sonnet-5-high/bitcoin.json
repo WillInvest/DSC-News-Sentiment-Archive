@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:52:15.050890Z",
+  "model": "claude-sonnet-5-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Bitcoin BTC blockchain",
+    "window_days": 30,
+    "result_count": 16,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "partial",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Bitcoin",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "Evidence coverage does not meet the reliability bar for a directional sentiment call. Only one named source (Cointelegraph) actually returned relevant records while reporting status 'ok'. Two other sources listed as 'ok' (coindesk_rss, ethereum_foundation_rss) returned zero records despite that status, grounding and youtube reported no-results, and reddit was only 'partial' with its records concentrated on wallet-theft/security forensics threads rather than broad Bitcoin sentiment. Because the rule requires at least three relevant records from at least two independent sources with status ok, and only one such source qualifies, no positive/mixed/negative assessment can be issued.",
+    "tags": [],
+    "coverage_note": "source_status from evidence.json: cointelegraph_rss=ok (9 usable records), coindesk_rss=ok (0 records present in results despite ok status), ethereum_foundation_rss=ok (0 records present in results despite ok status), grounding=no-results, reddit=partial (6 records, mostly about wallet theft, cold-storage security, and UTXO forensics rather than general sentiment), youtube=no-results. This is ecosystem/news coverage sentiment only and is not investment advice."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:35:08.527398Z",
+  "model": "gpt-5.2",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Solana SOL blockchain DeFi",
+    "window_days": 30,
+    "result_count": 3,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Solana",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "Insufficient relevant coverage in the provided 30-day evidence set to assess Solana ecosystem/news sentiment reliably. Only one relevant report describes a network stress event where a data center routing glitch took ~29% of staked tokens offline and brought Solana near a freeze threshold, while the Solana Foundation said blocks and transactions never stopped.",
+    "tags": [],
+    "coverage_note": "Only 1 Solana-relevant record from an ok-status named source was present; other records were not Solana-specific. Additional collection sources show failures/no results (e.g., reddit auth-failed; grounding/youtube no-results), limiting breadth and preventing a non-insufficient assessment under the minimum-evidence rule."
+  }
+}

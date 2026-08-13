@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:38:14.182463Z",
+  "model": "gpt-5.2",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Pendle Finance PENDLE DeFi",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Pendle",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable Pendle-related news or ecosystem records were provided in the 30-day evidence window, so sentiment cannot be determined.",
+    "tags": [],
+    "coverage_note": "The evidence contains zero results. Source status indicates some feeds were ok (cointelegraph_rss, coindesk_rss, ethereum_foundation_rss) but returned no Pendle-related records; additional sources had failures/no data (grounding: no-results, reddit: auth-failed, youtube: no-results)."
+  }
+}

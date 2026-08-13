@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:35:51.521930Z",
+  "model": "gpt-5.2",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Optimism OP Ethereum L2",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "partial",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Optimism",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "The provided evidence contains no usable sentiment records for Optimism in the last 30 days (the results list is empty), so an ecosystem/news sentiment assessment cannot be grounded in sources.",
+    "tags": [],
+    "coverage_note": "No results were returned in evidence.json. Source status indicates Cointelegraph/Coindesk/Ethereum Foundation RSS were ok but yielded no items, while grounding and YouTube had no-results and Reddit was partial; with zero usable records, no sentiment tags can be produced."
+  }
+}

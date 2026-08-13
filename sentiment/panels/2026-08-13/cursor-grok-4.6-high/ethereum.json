@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:40:04.791358Z",
+  "model": "cursor-grok-4.6-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Ethereum ETH blockchain DeFi",
+    "window_days": 30,
+    "result_count": 7,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Ethereum",
+    "window_days": 30,
+    "overall_assessment": "positive",
+    "confidence": "medium",
+    "summary": "Ethereum-related coverage in the window is mostly constructive: Fidelity moved to add staking and quarterly payouts to its Ether ETF, Goldman Sachs\u2019s planned NEOS acquisition includes Ether-linked income funds, and the Ethereum Foundation announced a Trillion Dollar Security grant plus a board appointment. Russia\u2019s plan to limit retail crypto trading to bitcoin, ether and USDT is mixed, because ether remains an allowed asset while non-qualified buyers face a 300,000-ruble annual cap.",
+    "tags": [
+      {
+        "label": "ETF staking products",
+        "assessment": "positive",
+        "why": "Fidelity filed to add staking to its Ether ETF, with 85% of rewards retained by the fund and quarterly cash distributions planned.",
+        "evidence_urls": [
+          "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf"
+        ]
+      },
+      {
+        "label": "institutional ETF exposure",
+        "assessment": "positive",
+        "why": "Goldman Sachs\u2019s planned $2.25B acquisition of NEOS would add a $30 billion ETF business that includes Ether-linked income funds.",
+        "evidence_urls": [
+          "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        ]
+      },
+      {
+        "label": "retail trading rules",
+        "assessment": "mixed",
+        "why": "Russia moved to restrict retail crypto trading to bitcoin, ether and USDT, with a 300,000-ruble (about $3,600) annual purchase limit per intermediary for non-qualified investors.",
+        "evidence_urls": [
+          "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt"
+        ]
+      },
+      {
+        "label": "security grants",
+        "assessment": "positive",
+        "why": "The Ethereum Foundation\u2019s Trillion Dollar Security initiative allocated a grant to Freedom of the Press Foundation to continue developing WEBCAT, an open-source browser code-verification tool.",
+        "evidence_urls": [
+          "https://blog.ethereum.org/en/2026/08/05/1ts-grant"
+        ]
+      },
+      {
+        "label": "foundation governance",
+        "assessment": "neutral",
+        "why": "The Ethereum Foundation reported that pcaversaccio joined its board, citing prior ecosystem work including SEAL 911 and the Silviculture Society.",
+        "evidence_urls": [
+          "https://blog.ethereum.org/en/2026/07/29/ef-board-update"
+        ]
+      }
+    ],
+    "coverage_note": "Assessment uses six Ethereum-relevant items from Cointelegraph, CoinDesk, and Ethereum Foundation RSS (all status ok). Reddit auth-failed; YouTube and grounding returned no-results. A Cointelegraph CFTC/Kalshi item did not mention Ethereum and was excluded."
+  }
+}

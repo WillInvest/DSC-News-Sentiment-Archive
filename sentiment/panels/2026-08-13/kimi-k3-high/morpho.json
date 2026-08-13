@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T09:03:01.414503Z",
+  "model": "kimi-k3-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Morpho DeFi lending",
+    "window_days": 30,
+    "result_count": 6,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "partial",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Morpho",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "The evidence contains no usable records from the three sources reporting status ok (cointelegraph_rss, coindesk_rss, ethereum_foundation_rss), and the grounding and youtube sources returned no results. All six results come from reddit, which reports status partial, and only one of them mentions Morpho directly (a user describing $11k+ in Gauntlet-curated USDC vaults at 5.5% net APY). The remaining five records discuss general DeFi lending topics (market fear, yield sources, token unlocks, monitoring tools, borrow costs) without referencing Morpho. This fails the requirement of at least three relevant records from at least two independent named sources with status ok, so no sentiment assessment can be made.",
+    "tags": [],
+    "coverage_note": "All 6 results are from reddit (status: partial). Sources with status ok (cointelegraph_rss, coindesk_rss, ethereum_foundation_rss) contributed zero results, and grounding and youtube returned no-results. Only 1 of 6 records (relevance_score 0.2319) mentions Morpho; the rest are general DeFi lending discussions. This is ecosystem/news sentiment only and is not investment advice."
+  }
+}

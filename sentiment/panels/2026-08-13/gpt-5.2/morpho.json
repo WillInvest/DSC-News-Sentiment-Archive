@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:37:48.509350Z",
+  "model": "gpt-5.2",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Morpho DeFi lending",
+    "window_days": 30,
+    "result_count": 6,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "partial",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Morpho",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "Insufficient evidence to assess Morpho sentiment in the last 30 days: the only explicit Morpho mention is a single Reddit post discussing moving liquidity into Morpho Vaults V2, while other configured sources returned no usable Morpho-related records.",
+    "tags": [],
+    "coverage_note": "Within the 30-day window, Cointelegraph RSS, CoinDesk RSS, and Ethereum Foundation RSS are marked ok but yielded no Morpho results; grounding is no-results; YouTube is no-results; Reddit is partial and provides only one clearly Morpho-specific record."
+  }
+}

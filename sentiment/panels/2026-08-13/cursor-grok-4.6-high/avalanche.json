@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-13T08:42:08.816556Z",
+  "model": "cursor-grok-4.6-high",
+  "method": "Independent, evidence-only Cursor CLI synthesis. The model received only this entity's saved evidence package.",
+  "retrieval": {
+    "engine": "last30days",
+    "query": "Avalanche AVAX blockchain",
+    "window_days": 30,
+    "result_count": 0,
+    "source_status": {
+      "cointelegraph_rss": "ok",
+      "coindesk_rss": "ok",
+      "ethereum_foundation_rss": "ok",
+      "grounding": "no-results",
+      "reddit": "auth-failed",
+      "youtube": "no-results"
+    }
+  },
+  "sentiment": {
+    "entity": "Avalanche",
+    "window_days": 30,
+    "overall_assessment": "insufficient_evidence",
+    "confidence": "low",
+    "summary": "No usable records were returned for Avalanche in the 30-day window, so ecosystem or news sentiment cannot be assessed.",
+    "tags": [],
+    "coverage_note": "Cointelegraph, CoinDesk, and Ethereum Foundation RSS reported status ok but contributed no items; Google grounding and YouTube returned no results; Reddit authentication failed. Results array is empty."
+  }
+}
