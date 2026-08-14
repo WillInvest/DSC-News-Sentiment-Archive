@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T11:07:17.582685Z",
+  "generatedAt": "2026-08-14T11:53:55.389769Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
@@ -11,6 +11,18 @@
         "publishedAt": "2026-08-14T11:06:12Z",
         "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown",
         "excerpt": "Spot bitcoin ETFs saw back-to-back outflows for the first time since late July as the largest cryptocurrency wiped out last week's gains and altcoins struggled to find direction.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "d7518acaf61a289c",
+        "title": "Bitcoin eyes new August lows as Binance longs face ‘cleanout’",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-14T10:43:57Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc",
+        "excerpt": "Bitcoin futures open interest on Binance fell alongside BTC price as analysis published on CryptoQuant flagged mounting pressure on leveraged longs.",
         "tags": [
           "Blockchain",
           "Infrastructure"
@@ -234,6 +246,18 @@
       }
     ],
     "defi": [
+      {
+        "id": "41e42da92b2924f6",
+        "title": "Morning Minute: Tether Finally Gets An Audit",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-14T11:45:39Z",
+        "url": "https://decrypt.co/375625/morning-minute-tether-finally-gets-an-audit",
+        "excerpt": "It seems Tether passed, putting an end to the longest-running open criticism of the leading stablecoin company.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "3f157294f52f085e",
         "title": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
