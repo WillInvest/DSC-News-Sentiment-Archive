@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-16T10:36:17.652740Z",
+  "generatedAt": "2026-08-16T11:31:43.968810Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "a5307be680d018d8",
+        "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-16T11:12:51Z",
+        "url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade",
+        "excerpt": "The Hegotá upgrade aims to introduce more native privacy for Ethereum applications.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "5a85645d073c9c5b",
         "title": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
@@ -50,18 +62,6 @@
         "tags": [
           "Blockchain",
           "Infrastructure"
-        ]
-      },
-      {
-        "id": "e9c16dd4b1b26020",
-        "title": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-15T13:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
-        "excerpt": "Washington kept crypto’s biggest legislative hope alive, Wall Street pushed deeper into digital assets, and a security scare sent billions of dollars of bitcoin moving between wallets.",
-        "tags": [
-          "Blockchain",
-          "Security"
         ]
       }
     ],
