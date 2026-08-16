@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-08-15T11:31:34.308596Z",
+  "generatedAt": "2026-08-16T10:36:17.652740Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "5a85645d073c9c5b",
+        "title": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-15T15:56:05Z",
+        "url": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
+        "excerpt": "Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "5945308dc42c671e",
+        "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-15T15:21:15Z",
+        "url": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
+        "excerpt": "The Energy Ministry enacted the year-round restriction to mitigate power capacity shortages, as energy-intensive mining facilities continue to strain regional grids.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "f1ebc30471406de6",
+        "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-15T15:12:29Z",
+        "url": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
+        "excerpt": "Calls fell 85.2% to 148,000 underlying shares, while puts slipped 1.4% to 715,000.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "902daf5a2a919195",
+        "title": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-15T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen",
+        "excerpt": "The trillions required to boost Bitcoin to a price of $1 million per coin is not going to happen by 2030... or perhaps ever, says party pooper Markus Thielen.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "e9c16dd4b1b26020",
+        "title": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-15T13:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
+        "excerpt": "Washington kept crypto’s biggest legislative hope alive, Wall Street pushed deeper into digital assets, and a security scare sent billions of dollars of bitcoin moving between wallets.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
       {
         "id": "b7dafb496f6baf3c",
         "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
@@ -306,6 +366,18 @@
       }
     ],
     "defi": [
+      {
+        "id": "274481a6be21f5bb",
+        "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-15T13:01:04Z",
+        "url": "https://decrypt.co/375726/trump-world-liberty-bank-charter-usd1-stablecoin",
+        "excerpt": "The proposed World Liberty Trust Company would take over issuance of the USD1 stablecoin from BitGo.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "9e61457992810a3e",
         "title": "Galaxy lowers CLARITY Act odds to 10%",
