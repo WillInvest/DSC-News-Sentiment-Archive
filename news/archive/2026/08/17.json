@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-08-17T10:46:22.199689Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "0090a2fd3415e68d",
+        "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-17T10:31:04Z",
+        "url": "https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf",
+        "excerpt": "The macro fund raised its iShares Bitcoin Trust stake 18.9% to 688,529 shares worth $22.9 million in Q2, while sharply cutting its call options—a shift from leveraged bets toward direct spot exposure.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "d398a336e0116dbe",
+        "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-17T10:13:41Z",
+        "url": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
+        "excerpt": "The trustee says Knaken bought the coins in its own name, leaving customers with a euro claim against a company that has collapsed.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "74d509167f66bf20",
+        "title": "Bitcoin tracks equity bounce, but $390 million ETF outflow week keeps bulls on back foot",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-17T09:59:55Z",
+        "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tracks-equity-bounce-but-usd390-million-etf-outflow-week-keeps-bulls-on-back-foot",
+        "excerpt": "The price of bitcoin tracked a bounce in equities, but a $390 million ETF outflow streak and 10% odds on landmark crypto legislation leave markets searching for direction.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "7f1df20ee08aa9e8",
+        "title": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-17T09:31:04Z",
+        "url": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
+        "excerpt": "A flaw in an order-tracking plug-in of bitcoin wallet provider SafePal exposed names, addresses and phone numbers of nearly 40,000 customers.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "2ecd1aa062cd6ae0",
+        "title": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-17T08:38:26Z",
+        "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
+        "excerpt": "Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "04db6da7673e06d6",
+        "title": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-17T05:51:18Z",
+        "url": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
+        "excerpt": "The market may be facing a dangerous liquidity mismatch as futures open interest outpaces trading volume by a significant margin.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "e43375de8037f698",
+        "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-16T13:00:00Z",
+        "url": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
+        "excerpt": "The bankers want people kept in lower-yield deposits for the good of the financial system as it's existed for generations, and their argument is gaining ground.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "52692404d6fdabe7",
+        "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-16T12:48:09Z",
+        "url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple",
+        "excerpt": "DefiLlama’s founder said Apple removed one fake app within days after the company documented it draining funds from a small crypto wallet.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-15T14:40:24Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "274481a6be21f5bb",
+        "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-15T13:01:04Z",
+        "url": "https://decrypt.co/375726/trump-world-liberty-bank-charter-usd1-stablecoin",
+        "excerpt": "The proposed World Liberty Trust Company would take over issuance of the USD1 stablecoin from BitGo.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
