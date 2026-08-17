@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-17T10:46:22.199689Z",
+  "generatedAt": "2026-08-17T11:36:27.749815Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "b99786cb30dcd031",
+        "title": "Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-17T11:28:41Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
+        "excerpt": "Your day-ahead look for Aug. 17, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "0090a2fd3415e68d",
         "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
