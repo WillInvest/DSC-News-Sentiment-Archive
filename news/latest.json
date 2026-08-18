@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-08-17T11:36:27.749815Z",
+  "generatedAt": "2026-08-18T10:43:13.113628Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "16dbc38bd0b50b49",
+        "title": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-18T10:01:23Z",
+        "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday",
+        "excerpt": "BTC outperformed Wall Street on Monday, breaking its recent pattern of lagging behind U.S. stocks.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "467a7ddce4bf1d71",
+        "title": "China adds 8 banks to digital yuan network as operator count hits 30",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-18T08:48:51Z",
+        "url": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30",
+        "excerpt": "The newly authorized lenders will begin offering e-CNY services after completing operational and technical preparations.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6a837bfc1a59e712",
+        "title": "BitBox patches ‘severe’ wallet flaws that could put funds at risk",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-18T08:07:04Z",
+        "url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws",
+        "excerpt": "BitBox recommended all users update to firmware version 9.26.5 and said it had received no reports of exploitation or fund losses.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "bf2b070cc12c1641",
+        "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-18T05:18:18Z",
+        "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
+        "excerpt": "The program came three months before investor unlocks begin, with MON trading below its public-sale price and most of the token supply still outside circulation.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "ac32feedf0184772",
+        "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-18T05:12:18Z",
+        "url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade",
+        "excerpt": "Developers have been urged to test on Plataberget before Glamsterdam’s new gas model reaches Ethereum’s other testnets and mainnet.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "b99786cb30dcd031",
         "title": "Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price",
@@ -450,6 +510,54 @@
       }
     ],
     "defi": [
+      {
+        "id": "2784c3d69ed5372b",
+        "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-18T10:38:56Z",
+        "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower",
+        "excerpt": "BTC has dropped 0.6% since midnight UTC as Nasdaq 100 futures slip 1.1%, with the FOMC's July meeting minutes and a White House crypto summit both due Wednesday.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "591f81088239c41b",
+        "title": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-18T09:31:15Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis",
+        "excerpt": "Bitcoin derivatives markets created a short squeeze that took BTC price action 3% higher on Monday.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "1fc13db602f151ff",
+        "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-18T08:16:11Z",
+        "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
+        "excerpt": "The 30-year Treasury yield hit its highest since 2007 and Brent topped $91 as the US-Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "1d0a7ced659c617d",
+        "title": "The bitcoin price level where leveraged bulls could get whacked",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-18T05:55:43Z",
+        "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
+        "excerpt": "Bulls are stacking longs, liquidity is thinning and one key level could trigger large liquidations.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "04db6da7673e06d6",
         "title": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
