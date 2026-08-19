@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-19T10:43:29.834978Z",
+  "generatedAt": "2026-08-19T11:36:04.214108Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "dee82aa861169240",
+        "title": "Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-19T11:06:13Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-has-largely-purged-froth-that-preceded-50-drop-from-126k-blackrock",
+        "excerpt": "Bitcoin maintained its appeal as a diversification investment despite dropping more than 50% from all-time high, a BlackRock report stated.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "8991ea3858c27fa6",
         "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
@@ -594,6 +606,18 @@
       }
     ],
     "defi": [
+      {
+        "id": "2693c11c1d4b6b64",
+        "title": "Fed decision making comes into focus as bitcoin holds steady, bond yields surge",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-19T11:14:50Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/08/19/fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge",
+        "excerpt": "Your day-ahead look for Aug. 19, 2026",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
       {
         "id": "e718e2b4012f94d5",
         "title": "Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades",
