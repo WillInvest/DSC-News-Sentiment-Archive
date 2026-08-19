@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-08-19T10:43:29.834978Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "8991ea3858c27fa6",
+        "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-19T09:31:03Z",
+        "url": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet",
+        "excerpt": "The Nasdaq-listed privacy firm launched Cypherpunk Mining through a $33.33 million equity deal with Winklevoss Capital, adding roughly 18% of the Zcash network's hashrate to accelerate its treasury ambitions.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "97b02f3ef1d1434a",
+        "title": "Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-19T08:34:51Z",
+        "url": "https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop",
+        "excerpt": "Hayes revealed his new role as Flop Labs CEO and teased a “massive airdrop” from the AI inference protocol in the fourth quarter of 2026.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "63e90f742dd6f16f",
+        "title": "Bitcoin ETFs add $189M as August net inflows approach $1B",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-19T07:59:16Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-august-net-inflows-approach-1b",
+        "excerpt": "US spot Bitcoin ETFs took in $189 million on Tuesday, lifting August net inflows to $951 million, while Ether ETFs added $71.5 million.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "feafe7fa954fcd1c",
+        "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-19T06:36:11Z",
+        "url": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
+        "excerpt": "A chain of six flaws caused the cross-chain trading network to credit a pool with nearly 50 million tokens that were never properly funded, letting an attacker drain real assets.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "0648347921b59551",
+        "title": "MAYAChain halts network after estimated $1.7M exploit",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-19T05:13:54Z",
+        "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt",
+        "excerpt": "A preliminary analysis says six chained bugs let a 23-message transaction drain 48.87 million CACAO, sending the token down nearly 89%.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "e718e2b4012f94d5",
+        "title": "Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-19T10:29:57Z",
+        "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades",
+        "excerpt": "BTC volatility has dropped to multi-year lows as surging Treasury yields rattle equities and traders await the Fed's July meeting minutes for clues on the interest-rate path.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "e1e293cd94692ef7",
+        "title": "Nexo launches regulated crypto-backed credit in Australia",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-19T10:20:27Z",
+        "url": "https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia",
+        "excerpt": "Nexo introduced regulated, cryptocurrency-backed credit lines that allow users to access liquidity in Australian dollars or stablecoins by borrowing against their digital assets.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "085de44cd4e67b99",
+        "title": "Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6%",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-19T09:05:45Z",
+        "url": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
+        "excerpt": "U.S. Treasury yields retreat from the highest levels in decades, while bitcoin holds above $64,000.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-19T05:53:49Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "5496c4ad61b76dd8",
+        "title": "US accounting board FASB proposes conditions for stablecoins as cash equivalents",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-19T03:58:13Z",
+        "url": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents",
+        "excerpt": "The FASB said secondary-market liquidity alone would not be enough, with holders needing direct issuer redemption rights and one-to-one liquid reserves.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
