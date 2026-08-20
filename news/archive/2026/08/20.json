@@ -1,71 +1,83 @@
 {
-  "generatedAt": "2026-08-20T10:44:35.583140Z",
+  "generatedAt": "2026-08-20T11:37:56.284002Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
       {
-        "id": "8552a05bd0162d6d",
-        "title": "Crypto short liquidations pass $3B mark as Bitcoin price nears $72K",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-20T10:03:04Z",
-        "url": "https://cointelegraph.com/markets/crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k",
-        "excerpt": "Bitcoin approached $72,000 in a second day of upside as crypto short liquidations passed $3.1 billion.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "57c335eb8765ee5d",
-        "title": "BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so",
+        "id": "3cb4a495900375b7",
+        "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
         "source": "CoinDesk",
-        "publishedAt": "2026-08-20T09:25:25Z",
-        "url": "https://www.coindesk.com/business/2026/08/20/bitgo-secures-south-korea-virtual-asset-license-says-it-s-the-first-global-crypto-company-to-do-so",
-        "excerpt": "Backed by Hana Financial Group and SK Telecom, BitGo Korea built a locally registered entity from scratch to serve institutional and enterprise clients, rather than taking the acquisition route.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "be81e82cec756609",
-        "title": "Bitcoin hits $72,000 as Strategy and Coinbase continue rally",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-20T09:25:03Z",
-        "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-approaches-usd72-000-as-strategy-and-coinbase-continue-rally",
-        "excerpt": "Bitcoin has gained 15% since monday, reclaiming several key technical and on-chain levels as bullish momentum builds.",
+        "publishedAt": "2026-08-20T11:35:47Z",
+        "url": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern",
+        "excerpt": "Three hours spanning the London afternoon and New York morning account for about 23% of XRP moving onchain, up from roughly 14% a year ago.",
         "tags": [
           "Blockchain",
           "Infrastructure"
         ]
       },
       {
-        "id": "7e90ca7b92ea8f89",
-        "title": "GnosisDAO approves Gnosis Chain for Ethereum Economic Zone",
+        "id": "ccc4cc2d8d216956",
+        "title": "Bitcoin ETFs draw $517M in largest one-day inflow since early May",
         "source": "Cointelegraph",
-        "publishedAt": "2026-08-20T08:59:40Z",
-        "url": "https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone",
-        "excerpt": "Gnosis Chain was approved to transition to an EEZ rollup, enabling it to settle directly to Ethereum rather than continue with an independent validator set.",
+        "publishedAt": "2026-08-20T11:16:41Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may",
+        "excerpt": "Investors have poured more than $1 billion into US spot Bitcoin ETFs this week as BTC neared $72,000 and Ether climbed 19% to about $2,286 on Thursday.",
         "tags": [
           "Blockchain",
           "Infrastructure"
         ]
       },
       {
-        "id": "106d90cc4332746b",
-        "title": "BitGo Korea secures VASP registration for institutional crypto custody",
+        "id": "5d95f716bbfb74a9",
+        "title": "Crypto generated about 1% of Webull’s record $198M Q2 revenue",
         "source": "Cointelegraph",
-        "publishedAt": "2026-08-20T07:48:40Z",
-        "url": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody",
-        "excerpt": "Regulators reportedly accepted BitGo Korea’s registration on Tuesday, two days before stricter VASP entry requirements took effect.",
+        "publishedAt": "2026-08-20T11:05:00Z",
+        "url": "https://cointelegraph.com/news/crypto-generated-1-webulls-record-q2-revenue",
+        "excerpt": "While Webull reported a record $198 million in second-quarter revenue, cryptocurrency trading only generated about $2.25 million of the quarter’s revenue stream.",
         "tags": [
           "Blockchain",
           "Policy"
+        ]
+      },
+      {
+        "id": "513ce3a27917554a",
+        "title": "Bitcoin rally sparks debate whether Clarity Act is already priced in",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-20T10:47:35Z",
+        "url": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
+        "excerpt": "Erald Ghoos, OKX Europe CEO, says U.S. crypto rules could blow new life into the market amid a rotation of capital from AI back to bitcoin.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "aa232d2c034c98b3",
+        "title": "Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-20T10:46:21Z",
+        "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out",
+        "excerpt": "Six weeks of compression ended in the largest short liquidation since at least 2021, with $3 billion of bearish bets forced to buy back into thin supply.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
         ]
       }
     ],
     "defi": [
+      {
+        "id": "6c34575bfab05fc2",
+        "title": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-20T11:31:10Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move",
+        "excerpt": "Your day-ahead look for Aug. 20, 2026",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "2dc790c813db20dd",
         "title": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
@@ -109,18 +121,6 @@
         "publishedAt": "2026-08-19T20:33:51Z",
         "url": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet",
         "excerpt": "The integration expands access to USDU, the UAE’s first central bank-registered US dollar stablecoin, as it builds distribution beyond institutional channels.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "e2a585a1f493277f",
-        "title": "OCC head promises final GENIUS rules by November",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-19T17:00:01Z",
-        "url": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november",
-        "excerpt": "The US banking regulator released a 376‑page proposal in February, calling for public comment on rules to implement the stablecoin bill ahead of its January 2027 effective date.",
         "tags": [
           "DeFi",
           "Stablecoins"

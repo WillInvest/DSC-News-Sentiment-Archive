@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-08-20T10:44:35.583140Z",
+  "generatedAt": "2026-08-20T11:37:56.284002Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "3cb4a495900375b7",
+        "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-20T11:35:47Z",
+        "url": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern",
+        "excerpt": "Three hours spanning the London afternoon and New York morning account for about 23% of XRP moving onchain, up from roughly 14% a year ago.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "ccc4cc2d8d216956",
+        "title": "Bitcoin ETFs draw $517M in largest one-day inflow since early May",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-20T11:16:41Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may",
+        "excerpt": "Investors have poured more than $1 billion into US spot Bitcoin ETFs this week as BTC neared $72,000 and Ether climbed 19% to about $2,286 on Thursday.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "5d95f716bbfb74a9",
+        "title": "Crypto generated about 1% of Webull’s record $198M Q2 revenue",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-20T11:05:00Z",
+        "url": "https://cointelegraph.com/news/crypto-generated-1-webulls-record-q2-revenue",
+        "excerpt": "While Webull reported a record $198 million in second-quarter revenue, cryptocurrency trading only generated about $2.25 million of the quarter’s revenue stream.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "513ce3a27917554a",
+        "title": "Bitcoin rally sparks debate whether Clarity Act is already priced in",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-20T10:47:35Z",
+        "url": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
+        "excerpt": "Erald Ghoos, OKX Europe CEO, says U.S. crypto rules could blow new life into the market amid a rotation of capital from AI back to bitcoin.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "aa232d2c034c98b3",
+        "title": "Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-20T10:46:21Z",
+        "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out",
+        "excerpt": "Six weeks of compression ended in the largest short liquidation since at least 2021, with $3 billion of bearish bets forced to buy back into thin supply.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "8552a05bd0162d6d",
         "title": "Crypto short liquidations pass $3B mark as Bitcoin price nears $72K",
@@ -666,6 +726,18 @@
       }
     ],
     "defi": [
+      {
+        "id": "6c34575bfab05fc2",
+        "title": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-20T11:31:10Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move",
+        "excerpt": "Your day-ahead look for Aug. 20, 2026",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "2dc790c813db20dd",
         "title": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
