@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-08-20T10:44:35.583140Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "8552a05bd0162d6d",
+        "title": "Crypto short liquidations pass $3B mark as Bitcoin price nears $72K",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-20T10:03:04Z",
+        "url": "https://cointelegraph.com/markets/crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k",
+        "excerpt": "Bitcoin approached $72,000 in a second day of upside as crypto short liquidations passed $3.1 billion.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "57c335eb8765ee5d",
+        "title": "BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-20T09:25:25Z",
+        "url": "https://www.coindesk.com/business/2026/08/20/bitgo-secures-south-korea-virtual-asset-license-says-it-s-the-first-global-crypto-company-to-do-so",
+        "excerpt": "Backed by Hana Financial Group and SK Telecom, BitGo Korea built a locally registered entity from scratch to serve institutional and enterprise clients, rather than taking the acquisition route.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "be81e82cec756609",
+        "title": "Bitcoin hits $72,000 as Strategy and Coinbase continue rally",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-20T09:25:03Z",
+        "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-approaches-usd72-000-as-strategy-and-coinbase-continue-rally",
+        "excerpt": "Bitcoin has gained 15% since monday, reclaiming several key technical and on-chain levels as bullish momentum builds.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "7e90ca7b92ea8f89",
+        "title": "GnosisDAO approves Gnosis Chain for Ethereum Economic Zone",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-20T08:59:40Z",
+        "url": "https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone",
+        "excerpt": "Gnosis Chain was approved to transition to an EEZ rollup, enabling it to settle directly to Ethereum rather than continue with an independent validator set.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "106d90cc4332746b",
+        "title": "BitGo Korea secures VASP registration for institutional crypto custody",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-20T07:48:40Z",
+        "url": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody",
+        "excerpt": "Regulators reportedly accepted BitGo Korea’s registration on Tuesday, two days before stricter VASP entry requirements took effect.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "2dc790c813db20dd",
+        "title": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-20T09:40:25Z",
+        "url": "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers",
+        "excerpt": "Conversations with X are ongoing, according to a person who also works with other social media platforms testing stablecoins to pay influencers.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "e5d0c0f52616f1c6",
+        "title": "Banking Regulator Races to Finalize GENIUS Act Stablecoin Rules",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-20T09:31:03Z",
+        "url": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
+        "excerpt": "OCC Comptroller Jonathan Gould told the Wyoming Blockchain Symposium the agency is moving at a rapid pace to beat a January statutory deadline, after already missing an earlier July target.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-20T06:03:50Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "3993886b5a795f72",
+        "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-19T20:33:51Z",
+        "url": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet",
+        "excerpt": "The integration expands access to USDU, the UAE’s first central bank-registered US dollar stablecoin, as it builds distribution beyond institutional channels.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "e2a585a1f493277f",
+        "title": "OCC head promises final GENIUS rules by November",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-19T17:00:01Z",
+        "url": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november",
+        "excerpt": "The US banking regulator released a 376‑page proposal in February, calling for public comment on rules to implement the stablecoin bill ahead of its January 2027 effective date.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
