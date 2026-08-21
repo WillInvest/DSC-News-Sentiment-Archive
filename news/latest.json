@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-21T10:43:57.838044Z",
+  "generatedAt": "2026-08-21T11:37:36.523364Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "d8223e6cdd4d2fe5",
+        "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-21T11:31:30Z",
+        "url": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
+        "excerpt": "Market watchers say sudden sharp price spikes and forced short liquidations are the classic signs of a bottom, though macro risks still remain.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "e046f47d2f8042c7",
         "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
@@ -786,6 +798,18 @@
       }
     ],
     "defi": [
+      {
+        "id": "571f187be0dbc94b",
+        "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-21T11:26:27Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
+        "excerpt": "Your day-ahead look for Aug. 21, 2026",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "8167676e3840295b",
         "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
