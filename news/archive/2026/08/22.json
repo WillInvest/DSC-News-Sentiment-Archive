@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-08-22T10:36:44.797317Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "6d2ffb99d9009810",
+        "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-22T05:37:43Z",
+        "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
+        "excerpt": "ZEC traded above its January 2018 peak as futures volume hit billions of dollars and a Grayscale filing showed fresh progress toward converting its Zcash Trust into a spot ETF.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "0150188eb217743d",
+        "title": "Crypto advocates join in suing Illinois over digital asset tax",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-21T22:10:28Z",
+        "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
+        "excerpt": "The Crypto Council for Innovation and the Blockchain Association added another lawsuit against the state for its recently approved 0.2% crypto tax.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "040e3c343aee8517",
+        "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-21T21:31:05Z",
+        "url": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
+        "excerpt": "Coinkite's latest firmware requires users to add their own randomness when generating wallet seeds and fixes additional security issues uncovered during a three-week review.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "f2b33296723ea3e7",
+        "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-21T20:26:16Z",
+        "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc",
+        "excerpt": "Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $20,000 of current levels, while US government purchases remain unlikely within the next two years.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "d4dda6fb3c7d25e6",
+        "title": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-21T20:07:05Z",
+        "url": "https://decrypt.co/376244/wall-street-washington-bitcoin-rally",
+        "excerpt": "Institutional buying, improving macro conditions and a friendlier regulatory outlook are supporting Bitcoin's rally, while billions in short liquidations have accelerated the move.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "0e0b78060fdc75d7",
+        "title": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-22T05:05:13Z",
+        "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
+        "excerpt": "Treasury buybacks are not QE, analysts said, but the move helped pull long-term yields off 19-year highs and triggered a record short squeeze in a market already leaning too bearish.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-21T20:48:48Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "86510333d5963ae5",
+        "title": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-21T13:08:12Z",
+        "url": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years",
+        "excerpt": "Nomura-backed Laser Digital Japan received registration to provide domestic liquidity before expanding into institutional crypto trading.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "571f187be0dbc94b",
+        "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-21T11:26:27Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
+        "excerpt": "Your day-ahead look for Aug. 21, 2026",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "8167676e3840295b",
+        "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-21T10:38:47Z",
+        "url": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
+        "excerpt": "Laser Digital Japan will offer liquidity to domestic crypto providers, with institutional trading services planned to follow as the appetite for crypto in Japan grows.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
