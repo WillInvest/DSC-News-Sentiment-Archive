@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-08-23T10:36:42.735199Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "ae4c237dad35a5cc",
+        "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-22T17:31:03Z",
+        "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
+        "excerpt": "The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "a63ff151be478efa",
+        "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-22T15:31:04Z",
+        "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
+        "excerpt": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6fb7424dbbe7e3d6",
+        "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-22T14:10:17Z",
+        "url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
+        "excerpt": "The Sandbox disabled bridging on affected networks to isolate tokens and warned users not to trade SAND on Base and BNB, citing an impact of under 0.01% of supply.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "6d2ffb99d9009810",
+        "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-22T05:37:43Z",
+        "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
+        "excerpt": "ZEC traded above its January 2018 peak as futures volume hit billions of dollars and a Grayscale filing showed fresh progress toward converting its Zcash Trust into a spot ETF.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "0150188eb217743d",
+        "title": "Crypto advocates join in suing Illinois over digital asset tax",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-21T22:10:28Z",
+        "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
+        "excerpt": "The Crypto Council for Innovation and the Blockchain Association added another lawsuit against the state for its recently approved 0.2% crypto tax.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "815bf490bdc21390",
+        "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-22T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult",
+        "excerpt": "Brussels is reviewing whether crypto lending should fall under MiCA, but DeFi lending vaults are making it harder to determine who, exactly, should be regulated.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "d6e731110e326980",
+        "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-22T12:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
+        "excerpt": "Bitcoin and crypto staged their strongest rally in months as Treasury intervention, regulatory moves and a historic short squeeze collided, while banks and technology companies pushed deeper into stablecoins.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "0e0b78060fdc75d7",
+        "title": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-22T05:05:13Z",
+        "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
+        "excerpt": "Treasury buybacks are not QE, analysts said, but the move helped pull long-term yields off 19-year highs and triggered a record short squeeze in a market already leaning too bearish.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-21T20:48:48Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "86510333d5963ae5",
+        "title": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-21T13:08:12Z",
+        "url": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years",
+        "excerpt": "Nomura-backed Laser Digital Japan received registration to provide domestic liquidity before expanding into institutional crypto trading.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
