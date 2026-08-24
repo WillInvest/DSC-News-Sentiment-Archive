@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-08-24T10:50:16.521919Z",
+  "generatedAt": "2026-08-24T11:40:42.950648Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "c6541ced6da61416",
+        "title": "First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-24T11:23:58Z",
+        "url": "https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week",
+        "excerpt": "Bitcoin closed a weekly candle above its 50-week EMA for the first time since late 2025 as markets prepared for the Jackson Hole symposium.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "7ba436aa69f9f96e",
+        "title": "Financial repression: The new buzzword for bitcoin bulls",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-24T11:15:00Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/08/24/financial-repression-the-new-buzzword-for-bitcoin-bulls",
+        "excerpt": "Your day-ahead look for Aug. 24, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "aa55b7228b018c88",
         "title": "Bitcoin's Next Test Is $80,000 as Jackson Hole Meeting Looms",
@@ -954,6 +978,30 @@
       }
     ],
     "defi": [
+      {
+        "id": "79880ada40a967df",
+        "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-24T11:36:55Z",
+        "url": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
+        "excerpt": "The London-based multinational bank with $850 billion in assets announced it will distribute Anchorpoint's HKDAP to eligible clients and partners.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "59c07a426580e719",
+        "title": "Japan’s SBI leads $68M Fasset round at $1B valuation",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-24T11:25:26Z",
+        "url": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation",
+        "excerpt": "Fasset raised $68 million in a Series C led by SBI Group as the companies plan a digital bank in Malaysia and to expand stablecoin payments.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "089ab6c2c9bb18b1",
         "title": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
