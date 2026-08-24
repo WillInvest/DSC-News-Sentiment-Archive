@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-08-24T10:50:16.521919Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "aa55b7228b018c88",
+        "title": "Bitcoin's Next Test Is $80,000 as Jackson Hole Meeting Looms",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-24T10:49:00Z",
+        "url": "https://decrypt.co/376315/bitcoins-next-test-is-80000-as-jackson-hole-meeting-looms",
+        "excerpt": "Kevin Warsh gives his first Jackson Hole keynote as Fed chair on Friday, with futures now pricing a September rate hike at 36%.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "e48e6afc2e4e365d",
+        "title": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-24T10:41:46Z",
+        "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years",
+        "excerpt": "BTC was little changed Monday after last week's 24% surge triggered by a Treasury buyback announcement that squeezed over $3 billion in shorts.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "1249e0d1113275d8",
+        "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-24T09:56:17Z",
+        "url": "https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers",
+        "excerpt": "Households shown bitcoin’s prior-year return were 23% more likely to report owning crypto in a follow-up survey.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "8fd8dbf92adafe4e",
+        "title": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-24T08:56:52Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october",
+        "excerpt": "US spot Bitcoin ETFs attracted $1.92 billion last week, their strongest weekly inflow since October 2025, as Bitcoin briefly climbed above $78,000 on Friday.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "ffc0814e77a3c793",
+        "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-24T08:28:14Z",
+        "url": "https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021",
+        "excerpt": "Treasury buybacks, ETF inflows and a weaker dollar ignite crypto’s breakout.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "089ab6c2c9bb18b1",
+        "title": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-24T06:27:33Z",
+        "url": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
+        "excerpt": "The exploit shows how lightly held voting tokens can become a means of attack when control of a protocol is cheaper than the assets it governs.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-24T05:55:54Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "273e989898c2e45e",
+        "title": "Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-24T05:12:56Z",
+        "url": "https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead",
+        "excerpt": "Bessent’s bond-buyback plan fails to curb Treasury yields. Here's what it means for bitcoin and gold",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "462a3a52fe7697f3",
+        "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-24T04:45:00Z",
+        "url": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
+        "excerpt": "The firm raised $68 million as its revenue has grown six-fold as stablecoin payments and settlement expand, CEO Mohammad Raafi Hossain told CoinDesk.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "7026c39e3e3c7536",
+        "title": "Term Finance loses estimated $8.5M in vault governance exploit",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-24T03:59:29Z",
+        "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit",
+        "excerpt": "Term permanently closed its Meta Vaults after an attack reportedly removed nearly all of their Ethereum deposits.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
