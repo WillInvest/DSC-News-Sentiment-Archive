@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-08-25T10:46:10.765436Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "b69f2b902b94d5f4",
+        "title": "US Can Now Sanction Anyone Operating in Iran's Crypto Sector",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-25T10:21:41Z",
+        "url": "https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
+        "excerpt": "Digital assets are among five sectors in a campaign Treasury called an “Economic D-Day,” alongside technology, gold, aviation and shipping.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "563083942d840327",
+        "title": "Thailand moves closer to Bitcoin, Ether ETFs with draft rules",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-25T10:20:14Z",
+        "url": "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules",
+        "excerpt": "Thailand’s SEC opened consultations on local Bitcoin and Ether ETF rules and qualification standards for foreign digital asset custodians.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "0ef955ffba4e13cc",
+        "title": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-25T09:30:27Z",
+        "url": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
+        "excerpt": "The $1.8 trillion manager is putting its onchain money market fund on the Hong Kong exchange's Earn channel.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4738c288da984268",
+        "title": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-25T08:46:47Z",
+        "url": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved",
+        "excerpt": "Galaxy Research’s latest tally shows that more than half of 221 Coldcard hack victim reports involved individual losses exceeding 1 Bitcoin.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "21d059baefe2587f",
+        "title": "Live updates: Bitcoin rejected at $81,000 as 50-week moving average caps rally",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-25T07:40:11Z",
+        "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
+        "excerpt": "Spot bitcoin funds took in $337.56 million on Aug. 24, extending an unbroken run of inflows that has now put real money behind a rally that started with a short squeeze.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "51f431c762fd4e1a",
+        "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-25T09:52:40Z",
+        "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution",
+        "excerpt": "The bank plans tokenized money market fund settlements in the fourth quarter as HKDAP expands its phased rollout into conventional banking.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-25T05:48:17Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "9740b3c25a875ca4",
+        "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-24T19:11:48Z",
+        "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base",
+        "excerpt": "Coinbase’s B20 equities bring stocks including Apple and Nvidia onchain, allowing eligible non-US users to trade them 24/7 and use them across DeFi.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "c1a92f91b4bd93f2",
+        "title": "Strategy Raises $2B Selling MSTR Stock, Establishes 'USD Cash' Pot",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-24T12:49:33Z",
+        "url": "https://decrypt.co/376325/strategy-raises-2b-selling-mstr-stock-establishes-usd-cash-pot",
+        "excerpt": "The company has not bought Bitcoin since June, and has now created a liquidity account it said may be spent on more of it.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "79880ada40a967df",
+        "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-24T11:36:55Z",
+        "url": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
+        "excerpt": "The London-based multinational bank with $850 billion in assets announced it will distribute Anchorpoint's HKDAP to eligible clients and partners.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
