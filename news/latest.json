@@ -1,9 +1,57 @@
 {
-  "generatedAt": "2026-08-25T10:46:10.765436Z",
+  "generatedAt": "2026-08-25T11:38:55.790171Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "a083cf8e5a1bd0d5",
+        "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-25T11:15:02Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
+        "excerpt": "Your day-ahead look for Aug. 25, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "2c75e282af851678",
+        "title": "A bitcoin short squeeze for the ages as futures open interest collapses",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-25T10:57:02Z",
+        "url": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
+        "excerpt": "Falling open interest and subdued funding rates suggest the rally remains structurally healthy.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "d9166014bcf42c58",
+        "title": "Bitcoin extends 7-day advance to roughly 25%",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-25T10:52:03Z",
+        "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
+        "excerpt": "Bitcoin crossed $80,000 for the first time since May, extending its seven-day advance to roughly 25%.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "497d0ee28df035e5",
+        "title": "Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-25T10:49:43Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend",
+        "excerpt": "Bitcoin price analysis eyes the potential end of its current macro downtrend based on weekly RSI signals.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "b69f2b902b94d5f4",
         "title": "US Can Now Sanction Anyone Operating in Iran's Crypto Sector",

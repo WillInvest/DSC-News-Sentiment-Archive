@@ -1,9 +1,57 @@
 {
-  "generatedAt": "2026-08-25T10:46:10.765436Z",
+  "generatedAt": "2026-08-25T11:38:55.790171Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "a083cf8e5a1bd0d5",
+        "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-25T11:15:02Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
+        "excerpt": "Your day-ahead look for Aug. 25, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "2c75e282af851678",
+        "title": "A bitcoin short squeeze for the ages as futures open interest collapses",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-25T10:57:02Z",
+        "url": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
+        "excerpt": "Falling open interest and subdued funding rates suggest the rally remains structurally healthy.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "d9166014bcf42c58",
+        "title": "Bitcoin extends 7-day advance to roughly 25%",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-25T10:52:03Z",
+        "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
+        "excerpt": "Bitcoin crossed $80,000 for the first time since May, extending its seven-day advance to roughly 25%.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "497d0ee28df035e5",
+        "title": "Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-25T10:49:43Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend",
+        "excerpt": "Bitcoin price analysis eyes the potential end of its current macro downtrend based on weekly RSI signals.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "b69f2b902b94d5f4",
         "title": "US Can Now Sanction Anyone Operating in Iran's Crypto Sector",
@@ -14,54 +62,6 @@
         "tags": [
           "Blockchain",
           "Policy"
-        ]
-      },
-      {
-        "id": "563083942d840327",
-        "title": "Thailand moves closer to Bitcoin, Ether ETFs with draft rules",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-25T10:20:14Z",
-        "url": "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules",
-        "excerpt": "Thailand’s SEC opened consultations on local Bitcoin and Ether ETF rules and qualification standards for foreign digital asset custodians.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "0ef955ffba4e13cc",
-        "title": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-25T09:30:27Z",
-        "url": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
-        "excerpt": "The $1.8 trillion manager is putting its onchain money market fund on the Hong Kong exchange's Earn channel.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "4738c288da984268",
-        "title": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-25T08:46:47Z",
-        "url": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved",
-        "excerpt": "Galaxy Research’s latest tally shows that more than half of 221 Coldcard hack victim reports involved individual losses exceeding 1 Bitcoin.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "21d059baefe2587f",
-        "title": "Live updates: Bitcoin rejected at $81,000 as 50-week moving average caps rally",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-25T07:40:11Z",
-        "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
-        "excerpt": "Spot bitcoin funds took in $337.56 million on Aug. 24, extending an unbroken run of inflows that has now put real money behind a rally that started with a short squeeze.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
         ]
       }
     ],
