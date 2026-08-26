@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-08-26T10:49:12.087922Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "5e01647c0e6aafc0",
+        "title": "Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-26T10:45:29Z",
+        "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-takes-a-breather-after-adding-23-in-7-days-as-etf-demand-holds-steady",
+        "excerpt": "The price of bitcoin fell to $79,000 on Wednesday after gaining 23% in seven days as August ETF inflows climbed above $3 billion.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "55b0d3c9173a081e",
+        "title": "Strategy cuts net leverage to near zero as cash nearly matches convertible debt",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-26T10:42:52Z",
+        "url": "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt",
+        "excerpt": "The bitcoin treasury company has built nearly four years of preferred-dividend coverage while continuing to repurchase STRC below par.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "eb22634fc2b65705",
+        "title": "Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-26T10:15:44Z",
+        "url": "https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold",
+        "excerpt": "The Form D lists 71 investors and says Kalshi is relying on an exemption that allows certain private offerings without SEC registration.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "8c86aca07ff291ad",
+        "title": "A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-26T08:01:09Z",
+        "url": "https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility",
+        "excerpt": "Friday’s expiry follows bitcoin’s surge from $62,000 to $80,000, leaving market makers with increased exposure to manage around several key strike prices.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "72a230ad36ade9c0",
+        "title": "US banking groups plan nationwide blockchain network for 2027",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-26T04:17:39Z",
+        "url": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027",
+        "excerpt": "BankChain joins a growing field of bank-led networks building shared infrastructure for tokenized deposits and onchain payments.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "02f1dfd824710a37",
+        "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-26T10:03:43Z",
+        "url": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
+        "excerpt": "Revolut said the stablecoin’s rollout will start with a select group of customers within Denmark, Poland, and Portugal.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "1c01be26273884ca",
+        "title": "Revolut rolls out euro stablecoin in 3 European markets",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-26T08:45:41Z",
+        "url": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout",
+        "excerpt": "The Bridge-issued EURR token will support multiple blockchains and external wallets, with wider EEA availability expected this year.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "b1901dbfd09dd4e3",
+        "title": "Bitcoin ETFs tear through 2026 outflows in 7-day hot streak",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-26T07:30:31Z",
+        "url": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion",
+        "excerpt": "The funds are $390 million short of October 2025’s inflow total after cutting their year-to-date net outflow deficit by more than half.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-26T06:04:55Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "84072a7659e28685",
+        "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-26T05:52:53Z",
+        "url": "https://www.coindesk.com/markets/2026/08/26/E",
+        "excerpt": "ETF issuers are lowering the barrier for bitcoin whales to trade self-custody for ETF shares.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
