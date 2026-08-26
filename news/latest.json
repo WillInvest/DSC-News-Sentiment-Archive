@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-08-26T10:49:12.087922Z",
+  "generatedAt": "2026-08-26T11:41:13.735965Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "7b1808bcfe7fc89d",
+        "title": "Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K: Analysis",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-26T10:49:26Z",
+        "url": "https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis",
+        "excerpt": "Bitcoin struggled to establish support at $80,000 as investor cohorts all returned to net profitability.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "ee819bf6b6010924",
+        "title": "Japan weighs blockchain fast lane for securities cash settlement",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-26T10:46:47Z",
+        "url": "https://cointelegraph.com/news/japan-weighs-blockchain-fast-lane-for-securities-cash-settlement",
+        "excerpt": "The FSA, Finance Ministry, BOJ and financial institutions plan to study the infrastructure and produce a development plan by early 2027.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
       {
         "id": "5e01647c0e6aafc0",
         "title": "Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady",
@@ -1146,6 +1170,18 @@
       }
     ],
     "defi": [
+      {
+        "id": "9af8ab5b182dcfc1",
+        "title": "The 3 catalysts that could define bitcoin's next move",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-26T11:02:33Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
+        "excerpt": "Your day-ahead look for Aug. 26, 2026",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "02f1dfd824710a37",
         "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
