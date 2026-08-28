@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-08-27T20:22:19.448460Z",
+  "generatedAt": "2026-08-28T21:10:28.938548Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "079c3c63b82defbe",
+        "title": "Solana validators approve proposal to accelerate SOL disinflation",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-28T19:53:12Z",
+        "url": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation",
+        "excerpt": "The approved proposal doubles Solana’s annual disinflation rate from 15% to 30%, reducing future SOL issuance while leaving its long-term inflation target unchanged.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "118bebc26c4afdc0",
+        "title": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-28T19:46:03Z",
+        "url": "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
+        "excerpt": "Evernorth has gained SEC clearance, teeing up a shareholder vote on its Nasdaq listing—while the firm's XRP stash sits well below what it paid for it.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "83546d343761e4e1",
+        "title": "Fed Chair Warsh Calls AI a 'Hinge Point in History'—4 Key Things He Said",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-28T17:18:52Z",
+        "url": "https://decrypt.co/376821/fed-chair-warsh-ai-hinge-point-4-key-things",
+        "excerpt": "Fed Chair Warsh devoted a full section of his speech today at Jackson Hole to AI's weight on the economy. Here are the biggest takeaways.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "230c7f5ab08e1e7f",
+        "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-28T16:39:02Z",
+        "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
+        "excerpt": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "2db79592b5c91dc9",
+        "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-28T16:12:45Z",
+        "url": "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
+        "excerpt": "Solana's first network-wide vote went down to the wire, with Kraken and Galaxy-linked validators switching sides before the disinflation proposal narrowly passed.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "2dec6a50904d89dc",
         "title": "$6.4 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
@@ -1230,6 +1290,54 @@
       }
     ],
     "defi": [
+      {
+        "id": "b9d4cd08a0196a36",
+        "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-28T17:46:12Z",
+        "url": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals",
+        "excerpt": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea’s upcoming football season.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "a49b5652b44cd0c5",
+        "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-28T16:17:09Z",
+        "url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans",
+        "excerpt": "The institutional crypto exchange is providing $100 million in stablecoin liquidity to support loans backed by AI computing infrastructure.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "2d2aceb127ed4c39",
+        "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-28T14:53:40Z",
+        "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana",
+        "excerpt": "Bitcoin’s $80,000 rebound lifts crypto stocks as Circle, Strategy and Solana show how capital markets, stablecoins and onchain growth are driving crypto’s recovery.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "1e6ffe0c30c89270",
+        "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-28T12:30:57Z",
+        "url": "https://www.coindesk.com/business/2026/08/28/ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
+        "excerpt": "The issuer of the $4 billion USDe token said it expects real-world asset perpetuals to eclipse crypto derivatives in its backing within 12 to 24 months.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
       {
         "id": "accea5bb1ec3c13a",
         "title": "Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen",
