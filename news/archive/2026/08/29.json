@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-08-29T15:02:01.997948Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "57522d5f2fe9842d",
+        "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-29T15:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
+        "excerpt": "A new survey suggests some of bitcoin's most familiar sales pitches of changing the world may be poorly suited to a majority of prospective buyers.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "bf5275e256433119",
+        "title": "Swift’s $1.5 quadrillion network faces a blockchain test",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-29T15:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+        "excerpt": "Crypto executives say new blockchain payment infrastructure could make Swift obsolete. Bankers say its 11,500-institution network gives it the power to absorb the technology instead.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "3ba94bc6842dc898",
+        "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-29T06:47:12Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k",
+        "excerpt": "US spot Bitcoin ETFs posted $201.8 million in net outflows Friday, led by ARK 21Shares, as total fund assets slipped back below $100 billion.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "20264e52715b10d1",
+        "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-29T04:30:00Z",
+        "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+        "excerpt": "Six decade-old wallets moved $40 million this month, but Galaxy's data shows dormant coin activity at its lowest since 2022 and 2026 on pace for under half of last year's total.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4d957e3129685791",
+        "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-29T02:30:00Z",
+        "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+        "excerpt": "An Anthropic model cut the work needed to break a leading post-quantum signature candidate by a factor of 67 million last month, while Bitcoin and Ethereum published their own migration plans this week.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "2dd7b66d8c90b006",
+        "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-29T15:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
+        "excerpt": "AI agents are coming. They will need to pay each other. Crypto executives agree on the problem but disagree sharply on the solution, and one thinks the answer has not been invented yet.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-29T12:39:59Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "20c4854f05066589",
+        "title": "Stablecoins not credible for payments at scale, BIS chief says",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-29T08:01:04Z",
+        "url": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief",
+        "excerpt": "BIS chief Pablo Hernández de Cos said stablecoins lack credibility for payments at scale, while a new FSI study highlights sharp differences in issuer rules.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "b9d4cd08a0196a36",
+        "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-28T17:46:12Z",
+        "url": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals",
+        "excerpt": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea’s upcoming football season.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "a49b5652b44cd0c5",
+        "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-28T16:17:09Z",
+        "url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans",
+        "excerpt": "The institutional crypto exchange is providing $100 million in stablecoin liquidity to support loans backed by AI computing infrastructure.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
