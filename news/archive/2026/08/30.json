@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-08-30T14:50:47.468755Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "d96b9c9c1ace9d35",
+        "title": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-30T13:31:04Z",
+        "url": "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses",
+        "excerpt": "More than 100 AI, security, finance, and technology organizations want governments and industry to prepare for attacks powered by increasingly capable models.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "319df9556dbf341c",
+        "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-30T09:55:00Z",
+        "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans",
+        "excerpt": "Russia’s largest bank, Sber, plans to accept USDT and Ether alongside Bitcoin as loan collateral as the country introduces regulated crypto trading under a new law.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "b08b4cc1bdd96cdb",
+        "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-29T23:49:17Z",
+        "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+        "excerpt": "The exploit caused the neobank's AVICI token to drop 49% from a 24-hour high, hitting a record low before paring some of the losses.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "b03116443dd07344",
+        "title": "Polygon discloses security flaws fixed in recent hard forks",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-29T20:28:51Z",
+        "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks",
+        "excerpt": "The vulnerabilities posed denial-of-service and validator resource risks but were patched before Polygon publicly disclosed them.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "c7d19656692e9994",
+        "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-29T19:12:42Z",
+        "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth",
+        "excerpt": "Stellar’s real-world asset market has expanded rapidly this year as institutional adoption and tokenization activity grow across the network.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-30T12:49:37Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "8b9827eafad579ed",
+        "title": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-30T12:00:00Z",
+        "url": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
+        "excerpt": "As bitcoin surges back above $80,000, sophisticated trading firms are quietly collecting yield rather than making directional bet.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "2dd7b66d8c90b006",
+        "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-29T15:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
+        "excerpt": "AI agents are coming. They will need to pay each other. Crypto executives agree on the problem but disagree sharply on the solution, and one thinks the answer has not been invented yet.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "20c4854f05066589",
+        "title": "Stablecoins not credible for payments at scale, BIS chief says",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-29T08:01:04Z",
+        "url": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief",
+        "excerpt": "BIS chief Pablo Hernández de Cos said stablecoins lack credibility for payments at scale, while a new FSI study highlights sharp differences in issuer rules.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "b9d4cd08a0196a36",
+        "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-28T17:46:12Z",
+        "url": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals",
+        "excerpt": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea’s upcoming football season.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
