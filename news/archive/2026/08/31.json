@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-08-31T17:35:43.927519Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "3129b70de6474421",
+        "title": "Former SEC, CFTC Officials Urge Lighter Touch to Bring Crypto Perps Trading Onshore",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-31T17:06:04Z",
+        "url": "https://decrypt.co/376936/sec-cftc-crypto-perps-trading-onshore",
+        "excerpt": "With the Clarity Act stuck in recess limbo, the agencies are pressing ahead on crypto derivatives and custody, as former officials warn that overly burdensome rules will keep a $90 trillion perps market offshore.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "8d1af5fa95c839e9",
+        "title": "Bitcoin Holds Steady as US Strikes on Iran Rattle Stocks and Lift Oil",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-31T16:55:46Z",
+        "url": "https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil",
+        "excerpt": "The largest cryptocurrency is on track for its best month since 2017, holding above $78,000 even as a hawkish Fed and renewed Middle East conflict drag on stocks and lift crude.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6ace5ca50fa3e458",
+        "title": "Bitmine now controls 4.9% of Ethereum supply after adding 53.5K ETH",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-31T15:39:00Z",
+        "url": "https://cointelegraph.com/news/bitmine-ether-buying-streak-65-weeks-ethereum",
+        "excerpt": "Bitmine has bought Ether for 65 consecutive weeks, maintaining its accumulation strategy through a prolonged crypto downturn and $5.1 billion in paper losses.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "19e0a98aa3ee0352",
+        "title": "Strive buys 1,800 Bitcoin for $143M, becomes fifth-biggest corporate holder",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-31T15:08:12Z",
+        "url": "https://cointelegraph.com/news/strive-buys-1800-bitcoin-143m-btc-purchase",
+        "excerpt": "Strive’s latest Bitcoin purchase lifted its holdings to 23,156 BTC, making it the fifth-largest publicly traded corporate holder as crypto markets rebound.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "811da1d5e324f9d7",
+        "title": "Tom Lee's Bitmine Buys $131M of ETH in Largest Ethereum Purchase Since June",
+        "source": "Decrypt",
+        "publishedAt": "2026-08-31T14:54:47Z",
+        "url": "https://decrypt.co/376932/tom-lee-bitmine-largest-ethereum-purchase-since-june",
+        "excerpt": "The purchase lifts Bitmine's stash to 5.9 million ETH—4.9% of supply—as chairman Tom Lee points to crypto's strong third quarter.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "228ebec0639d3fb1",
+        "title": "Bitcoin begins volatile monthly close as US bond yields eye new 20-year high",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-31T16:38:51Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
+        "excerpt": "Bitcoin price action saw sharp moves within its local range as US Treasury Secretary Scott Bessent addressed US bond yields.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "772cb55c89c164c7",
+        "title": "Japanese regulator requests tax filing exemption for trust-type stablecoins in 2027 reform",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-31T13:20:05Z",
+        "url": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027",
+        "excerpt": "Japan’s FSA requested to exempt trust-type stablecoins from mandatory tax filings starting in fiscal year 2027, arguing that it would improve their use as transaction tools.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "de3bea3556c4f5aa",
+        "title": "More Markets lending reserve drained for $9.3M: Blockaid",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-31T08:57:10Z",
+        "url": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m",
+        "excerpt": "Blockaid said an attacker used an Ankr liquid staking token and E-mode to overborrow from More Markets and drain about $9.3 million in WFLOW from a lending reserve.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-08-31T06:01:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "abae28138f953aaf",
+        "title": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
+        "source": "CoinDesk",
+        "publishedAt": "2026-08-31T04:57:13Z",
+        "url": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic",
+        "excerpt": "An attacker allegedly pushed Tectonic’s thinly traded TONIC token up 100-fold, used it as collateral to borrow real assets and left most funds stranded when Cronos validators paused the network.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      }
+    ]
+  }
+}
