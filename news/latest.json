@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-08-31T17:35:43.927519Z",
+  "generatedAt": "2026-09-01T14:49:47.996105Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "b39f2513cd0e4fc8",
+        "title": "Gal Gadot Defends AI Use in Bitcoin Film: 'Work With It or Be Out of the Game'",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-01T14:39:55Z",
+        "url": "https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
+        "excerpt": "The actor’s lawyers spent six months negotiating the contract for “Bitcoin: Killing Satoshi” in order to “protect” her performance.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "ad25c508d31aea0d",
+        "title": "Bitcoin enters ‘Rektember’ as rate-hike risk combines with seasonality to threaten rally",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-01T13:55:26Z",
+        "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally",
+        "excerpt": "September has historically been a poor month for risk assets in general, and bitcoin, in particular.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6656bc6946a142ca",
+        "title": "Does the Bitcoin rally mean we haven’t wasted our lives in crypto?",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-01T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto",
+        "excerpt": "Crypto is showing signs of life again, but its biggest wins look different from what early believers imagined. After a decade of building, has it all been worth it?",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "5f461669aef4ea61",
+        "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-01T13:13:05Z",
+        "url": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck",
+        "excerpt": "Ripple was among the latest blockchain companies to sign a strategic partnership to build more custody and tokenized asset management solutions for Asian institutional participants.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "392f0f7648022d2b",
+        "title": "Morning Minute: Saylor’s Back Buying Bitcoin",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-01T12:21:23Z",
+        "url": "https://decrypt.co/377014/morning-minute-saylors-back-buying-bitcoin",
+        "excerpt": "Strategy somehow threaded the needle of buying Bitcoin and STRC while also raising cash. Now how will the market respond?",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "3129b70de6474421",
         "title": "Former SEC, CFTC Officials Urge Lighter Touch to Bring Crypto Perps Trading Onshore",
@@ -1470,6 +1530,66 @@
       }
     ],
     "defi": [
+      {
+        "id": "c28c3d3d17cdeb70",
+        "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-01T13:56:44Z",
+        "url": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
+        "excerpt": "The protocol aims to give fintechs and investors a faster way to recover losses from DeFi hacks, while letting XRP, bitcoin and XLM holders earn yield by backing that protection.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "4d9b4ad4a0068c7b",
+        "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-01T13:15:35Z",
+        "url": "https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments",
+        "excerpt": "Ethena Pay offers a 6% dollar savings rate and 5% card cashback, using Avalanche for settlement.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "eacf8b508639b3a0",
+        "title": "Kast launches stablecoin-powered business platform after $80M raise",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-01T13:00:00Z",
+        "url": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise",
+        "excerpt": "Kast aims to onboard between 1,000 and 5,000 active businesses to its new platform by the end of 2026.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "d9ca6673bdfccfdd",
+        "title": "Saylor Urges MSCI to Drop 'Discriminatory' Rule That Would Delete Strategy",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-01T11:28:45Z",
+        "url": "https://decrypt.co/377010/saylor-urges-msci-to-drop-discriminatory-rule-that-would-delete-strategy",
+        "excerpt": "The proposed screen would cut three companies from MSCI's global indexes in November, with Strategy the largest by some distance.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "befdad0708ce0b0b",
+        "title": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-01T10:35:21Z",
+        "url": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
+        "excerpt": "The country’s financial watchdog says its proposed stablecoin rules are aligned with U.S. and EU frameworks and that it also paves the way for the recognition of foreign stablecoin.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "228ebec0639d3fb1",
         "title": "Bitcoin begins volatile monthly close as US bond yields eye new 20-year high",
