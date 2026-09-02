@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-02T14:25:53.018169Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "69031bb963712992",
+        "title": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-02T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead",
+        "excerpt": "Arthur Hayes says Bitcoin is going to grind higher from here, but Ethereum is his number one pick due to its potential to increase “3x to 5x pretty quickly.”",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "b5583483a61aa6c6",
+        "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-02T13:14:47Z",
+        "url": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
+        "excerpt": "Russia-based Sality watched for copied bitcoin and Ethereum addresses and quietly replaced them with the attacker’s. CrowdStrike and law enforcement have now isolated more than 15,000 infected machines.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "1d62ce177d9e57b4",
+        "title": "The bearish 'Bart Simpson' pattern is back as bitcoin and XRP prices pull back",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-02T12:13:26Z",
+        "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-flashes-the-bart-simpsom-pattern-analyst-debate-whether-it-will-actually-form",
+        "excerpt": "Analysts discuss the cartoon-themed price action as prices for major cryptocurrencies wilt.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "61dcfff4a344a57e",
+        "title": "Japan’s Remixpoint dumps altcoins, leaves 1,506 BTC as sole crypto bet",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-02T12:00:00Z",
+        "url": "https://cointelegraph.com/news/remixpoint-dumps-altcoins-1506-btc-sole-crypto-bet",
+        "excerpt": "Remixpoint sold $5.5 million in ETH, SOL, XRP and DOGE, booking a $736,000 net gain as it narrowed its crypto strategy to focus on Bitcoin.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "5299f2bf1f1c166f",
+        "title": "Morning Minute: Bitcoin Enters ‘Rektember’ After Best August Since 2017",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-02T11:55:48Z",
+        "url": "https://decrypt.co/377159/morning-minute-bitcoin-enters-rektember-after-best-august-since-2017",
+        "excerpt": "So far, Rektember is living up to its name as Bitcoin slips. Will this September follow the historical averages, or break the trend?",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "650a2813858aea0d",
+        "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-02T13:40:03Z",
+        "url": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident",
+        "excerpt": "Full Sail is shutting down after an attacker removed about $91,000 from three vaults during a security incident linked to oracle provider Switchboard.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-02T13:30:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "995ef3be457c7608",
+        "title": "The token supercycle: everything of value is becoming programmable",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-02T13:00:00Z",
+        "url": "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable",
+        "excerpt": "Tokenization is not just about increasing access to tokens, whatever they may represent, but a fundamental shift in how value is created, owned, financed and moved, argues Solana Foundation’s Lily Liu.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "c6e4fca294753250",
+        "title": "Bitcoin slips below $76,500 as U.S. strikes on Iran send oil above $93",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-02T10:50:38Z",
+        "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-slips-below-usd77-000-as-u-s-strikes-on-iran-send-oil-above-usd93",
+        "excerpt": "Bitcoin fell 1% since midnight as Brent jumped past $93 and Treasury yields climbed toward 4.8%.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "de17b8dc009c125e",
+        "title": "Live updates: Bitcoin trades near $77,000, as yields ease following soft ADP jobs report",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-02T08:31:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow",
+        "excerpt": "The ADP reported private-sector job growth of just 38,000, missing forecasts and marking the weakest level since January.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      }
+    ]
+  }
+}
