@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-09-03T14:29:58.863054Z",
+  "generatedAt": "2026-09-04T14:18:35.356246Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "69cb420d997654df",
+        "title": "Morning Minute: Crypto Stages Major Rally on Rate Hopes",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-04T12:31:31Z",
+        "url": "https://decrypt.co/377393/morning-minute-crypto-stages-major-rally-on-rate-hopes",
+        "excerpt": "Bitcoin soared past $81k, HYPE and ZEC hit smashing new ATHs and the onchain rally leveled up. Is this the first stage of the next leg up?",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "52efd116b20b2dd6",
+        "title": "IMF Now Says Donations Funded El Salvador's Bitcoin Growth",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-04T12:26:01Z",
+        "url": "https://decrypt.co/377392/imf-now-says-donations-funded-el-salvadors-bitcoin-growth",
+        "excerpt": "A year ago the fund claimed the total had not moved, and that the reserve was only shuffling coins between government wallets.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "0f9360524f364f6e",
+        "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-04T11:29:05Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
+        "excerpt": "Your day-ahead look for Sept. 4, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "307da00485294a8a",
+        "title": "South Korean regulators introduce tokenized securities roadmap",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-04T10:42:10Z",
+        "url": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap",
+        "excerpt": "South Korea’s financial regulator introduced a three-phase roadmap for the issuance of tokenized assets, as the country prepares to adopt its first tokenized securities framework in February 2027.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "5c32b13238d38c08",
+        "title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-04T09:57:01Z",
+        "url": "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally",
+        "excerpt": "BTC pushed through the level that capped it in late August, while zcash gained 16% and dash 19%.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "fdf5c5bf59d30d08",
         "title": "VARA, Securitize sign MoU for tokenization innovation in Dubai",
@@ -1650,6 +1710,54 @@
       }
     ],
     "defi": [
+      {
+        "id": "d29de715e2eeada6",
+        "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-04T13:34:30Z",
+        "url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan",
+        "excerpt": "Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning cryptocurrency and stablecoin-related services.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "afbdd162959e9080",
+        "title": "FinCEN Ties $12.7B to Crypto Scams Run From Asian Compounds",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-04T10:22:57Z",
+        "url": "https://decrypt.co/377386/fincen-ties-12-7b-to-crypto-scams-run-from-asian-compounds",
+        "excerpt": "Monthly reported sums rose 18% on average, and the compounds now appear to be spreading beyond Southeast Asia.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "709a73d0f5edd292",
+        "title": "South Korea targets February 2027 rollout for full tokenized securities market",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-04T09:41:31Z",
+        "url": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
+        "excerpt": "Financial regulators unveiled a phased roadmap moving traditional capital markets onto distributed ledgers, concluding with onchain stablecoin settlement.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "12aeefa23cb78b36",
+        "title": "One full bitcoin now buys a little more than 18 ounces of gold, the most since January",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-04T05:10:34Z",
+        "url": "https://www.coindesk.com/markets/2026/09/04/one-full-bitcoin-now-buys-a-little-more-than-18-ounces-of-gold-the-most-since-january",
+        "excerpt": "Bitcoin is pulling ahead of gold even as both hard assets rally together, driven by fears that governments will inflate away their debt rather than by bond yields.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
       {
         "id": "0de2666ccddeffe7",
         "title": "FX has stopped reading bond yields the old way. Bitcoin should too.",
