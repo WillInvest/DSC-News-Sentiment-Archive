@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-09-04T14:18:35.356246Z",
+  "generatedAt": "2026-09-05T13:26:16.361972Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "1bb868f682c95104",
+        "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-05T12:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
+        "excerpt": "CEL Solicitors says it has identified a wallet holding more than 5,500 BTC linked to former Intersango users.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "3d594885c50d1b2c",
+        "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-05T08:03:06Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026",
+        "excerpt": "US spot Bitcoin ETFs drew nearly $1 billion in the latest week as Friday inflows stayed positive despite Bitcoin briefly falling below $79,000.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "e7abc30af1d6a6fc",
+        "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-05T05:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
+        "excerpt": "Blockchain investment in Southeast Asia in 2026 has been led by crypto financial services, though funding remains heavily concentrated in Singapore and a handful of companies.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "3951b47e6b18738b",
+        "title": "TikTok's Parent Company Just Borrowed $30 Billion to Go All-In on AI",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-04T21:46:03Z",
+        "url": "https://decrypt.co/377489/tiktok-bytedance-loan-ai",
+        "excerpt": "Nearly 30 banks backed the rare unsecured facility as TikTok’s parent company spends heavily on AI chips, models, and overseas data centers.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "099cdc742deb494d",
+        "title": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-04T21:16:04Z",
+        "url": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes",
+        "excerpt": "The group is urging organizations to adopt post-quantum security before powerful computers can compromise today’s encryption and digital signatures.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
       {
         "id": "69cb420d997654df",
         "title": "Morning Minute: Crypto Stages Major Rally on Rate Hopes",
@@ -1710,6 +1770,30 @@
       }
     ],
     "defi": [
+      {
+        "id": "301678095392f2ae",
+        "title": "FinCEN ties $13B in crypto scams to non-US operations",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-04T19:22:26Z",
+        "url": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis",
+        "excerpt": "The agency reported that “transnational criminal organizations” based in compounds in Southeast Asia were largely behind digital asset scams targeting US residents.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "902cb5c454324721",
+        "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-04T17:19:55Z",
+        "url": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank",
+        "excerpt": "The a16z-backed startup chose a full national charter over the trust-bank route most crypto firms have taken, clearing a path toward insured deposits and conventional lending alongside stablecoin issuance.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "d29de715e2eeada6",
         "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
