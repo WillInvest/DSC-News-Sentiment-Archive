@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-06T13:39:05.257482Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "20a585bc21821923",
+        "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-06T13:01:48Z",
+        "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves",
+        "excerpt": "Whale Alert identified 12 mining rewards totaling 600 BTC that moved after 16 years of dormancy, with the onchain tracking platform finding no connection to Satoshi Nakamoto.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "205f65af85fb2c83",
+        "title": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-06T13:01:04Z",
+        "url": "https://decrypt.co/377494/pencil-finance-1-million-student-loan",
+        "excerpt": "The team behind Pencil Finance says the financing supported thousands of Southeast Asian students, but it did not disclose borrower costs, defaults, or investor returns.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "f2352624083cf332",
+        "title": "Timing the bitcoin market is exciting but nearly impossible. Here's why",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-05T18:05:11Z",
+        "url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+        "excerpt": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the calendar year.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "9389e4294930c9c6",
+        "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-05T17:01:04Z",
+        "url": "https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
+        "excerpt": "At least four more decade-old wallets moved a combined $15.7 million between Aug. 29 and Sept. 4, with one batch of coins sent to Coinbase in a likely sign of a sale.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "e0bd6c16f27006e7",
+        "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-05T16:06:41Z",
+        "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+        "excerpt": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-06T13:24:43Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "9b274ec9fc5409c7",
+        "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-05T16:43:13Z",
+        "url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
+        "excerpt": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers balance positions.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "301678095392f2ae",
+        "title": "FinCEN ties $13B in crypto scams to non-US operations",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-04T19:22:26Z",
+        "url": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis",
+        "excerpt": "The agency reported that “transnational criminal organizations” based in compounds in Southeast Asia were largely behind digital asset scams targeting US residents.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "902cb5c454324721",
+        "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-04T17:19:55Z",
+        "url": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank",
+        "excerpt": "The a16z-backed startup chose a full national charter over the trust-bank route most crypto firms have taken, clearing a path toward insured deposits and conventional lending alongside stablecoin issuance.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "d29de715e2eeada6",
+        "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-04T13:34:30Z",
+        "url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan",
+        "excerpt": "Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning cryptocurrency and stablecoin-related services.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
