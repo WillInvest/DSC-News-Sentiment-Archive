@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-09-06T13:39:05.257482Z",
+  "generatedAt": "2026-09-07T15:48:23.354323Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "51eb4329e43192ea",
+        "title": "Bitcoin Starts the Week Flat, But Chainlink Is Flying—Here's Why",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-07T15:42:34Z",
+        "url": "https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying",
+        "excerpt": "LINK hit an eight-month high after Bottomline, a top-three SWIFT services provider moving $16 trillion a year, tapped Chainlink to connect 600-plus banks to blockchain settlement.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "2afd197b51fb955e",
+        "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-07T15:28:43Z",
+        "url": "https://www.coindesk.com/policy/2026/09/07/polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe",
+        "excerpt": "BitBay became Zondacrypto in 2021. The exchange stopped trading in April after customers faced frozen withdrawals and estimated losses of at least $94 million.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "75e00a95c34f3e43",
+        "title": "Ethereum Proposal Would Let Users Pay Gas Without Holding ETH",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-07T15:03:44Z",
+        "url": "https://decrypt.co/377559/ethereum-proposal-would-let-users-pay-gas-without-holding-eth",
+        "excerpt": "EIP-8141 has been a draft since January, and its authors pitch it first as a defense against quantum computers.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "1d1cc7fb82c6f3ce",
+        "title": "Ethereum commits to letting users pay gas fees without having to hold ETH",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-07T13:54:07Z",
+        "url": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
+        "excerpt": "The Frame Transactions feature was locked into the Hegotá upgrade last month, and Ethereum co-founder Vitalik Buterin says the work has moved quickly since.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "994197996a1c1001",
+        "title": "Yen intervention meets US inflation data: Five things to know in Bitcoin this week",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-07T12:10:22Z",
+        "url": "https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week",
+        "excerpt": "This week’s CPI and PPI prints, along with the Fed’s Sept. 16 rate decision, could determine whether Bitcoin can secure $80,000 as a support level.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
       {
         "id": "20a585bc21821923",
         "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
@@ -1830,6 +1890,54 @@
       }
     ],
     "defi": [
+      {
+        "id": "d7b582f7b6efed1e",
+        "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-07T14:12:15Z",
+        "url": "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub",
+        "excerpt": "Industry leaders debate whether digital dollar wallets will dismantle traditional bank accounts or simply modernize the underlying infrastructure.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "f2af2ebe10a15851",
+        "title": "Irish Gangs Are Renting Private Vaults to Hide Crypto Keys",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-07T12:43:50Z",
+        "url": "https://decrypt.co/377546/irish-gangs-are-renting-private-vaults-to-hide-crypto-keys",
+        "excerpt": "Keys are going into rented boxes alongside cash, watches and passports, Ireland’s Criminal Assets Bureau says.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "c1eb517a27e9b621",
+        "title": "Bitcoin blinks less than gold when Treasury yields move",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-07T11:15:00Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/09/07/bitcoin-blinks-less-than-gold-when-treasury-yields-move",
+        "excerpt": "Your day-ahead look for Sept. 7, 2026",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "3d02feaf2eb5ed4e",
+        "title": "Coldcard Hacker Moves $7.7M, Nearly Half of Third-Wave Bitcoin Haul",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-07T11:09:27Z",
+        "url": "https://decrypt.co/377537/coldcard-hacker-moves-7-7m-nearly-half-of-third-wave-bitcoin-haul",
+        "excerpt": "The attacker built 293 separate vaults for the stolen Bitcoin and is emptying them in order of size, largest first.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "9b274ec9fc5409c7",
         "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
