@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-08T14:29:59.407276Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "ede36043bf3f8113",
+        "title": "Strategy's Return to Bitcoin Buying Lasted Exactly One Week",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-08T13:57:16Z",
+        "url": "https://decrypt.co/377664/strategys-return-to-bitcoin-buying-lasted-exactly-one-week",
+        "excerpt": "The Bitcoin treasury firm spent $176.3 million on its own preferred stock, and doubled the buyback program's authorization to $2 billion.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "2233b6ee1b58171a",
+        "title": "Is Bitcoin too volatile to risk your retirement on?",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-08T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/is-bitcoin-too-volatile-to-risk-your-retirement-on",
+        "excerpt": "Bitcoin believers see it as an almost certain long-term investment, but retirement demands a different approach. How much crypto exposure is too much for your retirement account?",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "2cf67224b31b8c14",
+        "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-08T13:18:24Z",
+        "url": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
+        "excerpt": "The Foundation wants the network protected before a quantum computer capable of breaking today's cryptography could plausibly arrive, and says upcoming upgrades will be judged against that clock.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "f8ce9069d7082977",
+        "title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-08T13:18:21Z",
+        "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-rally-has-more-room-as-volatility-shorts-unwind-two-prime-ceo-says",
+        "excerpt": "Alexander Blume said subdued funding rates and continued call selling suggest the rebound is not yet being driven by excessive speculation.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "e5c2ab3b3c3121a1",
+        "title": "Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-08T13:06:34Z",
+        "url": "https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume",
+        "excerpt": "At the latest purchase pace, Tom Lee's Ethereum treasury firm could reach its crypto accumulation goal in another seven weeks.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "5b51ef5ca2110be5",
+        "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-08T14:29:14Z",
+        "url": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
+        "excerpt": "Visa's stablecoin settlement volume surpassed a $20 billion annualized run rate, up 15x year over year. Now it wants blockchain lenders to use that data to extend credit to the issuers driving the growth.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-08T13:24:08Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "12e4a3e494e6da7b",
+        "title": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-08T11:06:31Z",
+        "url": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying",
+        "excerpt": "Data tracked by lending platform Curve data tracked 704 soft-liquidation instances lasting a median 14.5 days, showing how some DeFi loans can survive for weeks after entering the 'danger zone.'",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "9faff0bcec3b296c",
+        "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-08T10:33:17Z",
+        "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff",
+        "excerpt": "Bitcoin fell 0.42% since midnight UTC to $78,874, but the CoinDesk 20 rose 0.2% and the memecoin index gained 0.41% as BNB Chain tokens rallied.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "6beeec00b1129741",
+        "title": "Uzbekistan begins government bond-backed stablecoin payment pilot",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-08T10:07:10Z",
+        "url": "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot",
+        "excerpt": "Humo Digital will test HUMO payments with more than 20 merchants under a sandbox jointly overseen by NAPP and Uzbekistan’s central bank.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
