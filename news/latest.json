@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-09-08T14:29:59.407276Z",
+  "generatedAt": "2026-09-09T14:31:06.210971Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "5196fe24d29ad1f8",
+        "title": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-09T13:57:57Z",
+        "url": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
+        "excerpt": "LAPTOP swung from $190 to under $4 within minutes of opening on Base. Onchain records show tokens had been distributed to market makers for a week before trading began.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "2272eeb277f96cda",
+        "title": "KYC data is an irresistible honeypot for hackers, and we must change how it is collected",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-09T13:02:49Z",
+        "url": "https://www.coindesk.com/opinion/2026/09/09/kyc-data-is-an-irresistible-honeypot-for-hackers-and-we-must-change-how-it-is-collected",
+        "excerpt": "Privacy-preserving identity verification systems could allow individuals to prove only what a service needs to know while keeping the underlying information under their control, writes Coin Center’s Laz Pieper.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "feacf172d4280c69",
+        "title": "Algorand names former Chainlink executive William Herkelrath as CEO",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-09T13:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/09/algorand-names-former-chainlink-executive-william-herkelrath-as-ceo",
+        "excerpt": "The former Chainlink and Curv executive will lead the blockchain organization’s push into institutional finance and quantum-resistant security.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "1c4deb9381358e60",
+        "title": "Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-09T12:13:59Z",
+        "url": "https://www.coindesk.com/business/2026/09/09/germany-moves-to-tax-bitcoin-like-stocks-as-new-draft-bill-targets-tax-free-gains",
+        "excerpt": "Existing holdings would keep the current tax treatment, which can allow tax-free sales after a 12-month holding period.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "82a2eb6c94b66d21",
+        "title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-09T12:00:00Z",
+        "url": "https://www.coindesk.com/policy/2026/09/09/crypto-lobbying-orgs-ask-court-to-suspend-illinois-tax-as-legal-case-continues",
+        "excerpt": "The motion for a preliminary injunction comes a few weeks after the Crypto Council for Innovation and Blockchain Association sued to block the law.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "ede36043bf3f8113",
         "title": "Strategy's Return to Bitcoin Buying Lasted Exactly One Week",
@@ -1950,6 +2010,54 @@
       }
     ],
     "defi": [
+      {
+        "id": "47d9cbeedbd889c5",
+        "title": "PayPal expands stablecoin rails with custom token issuance platform",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-09T14:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
+        "excerpt": "The PYUSDx stablecoin developer platform, backed by PayPal USD (PYUSD), is built with the help of M0 and MoonPay.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "be081c8593afd40d",
+        "title": "10 of the greatest unsolved crypto mysteries",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-09T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries",
+        "excerpt": "From the whereabouts of the CryptoQueen to a mysterious death involving a DeFi builder paranoid about the “pedo elite,” here are 10 crypto mysteries that still have no good answer.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "fbf8fb79aca55b8c",
+        "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-09T11:40:44Z",
+        "url": "https://www.coindesk.com/business/2026/09/08/u-s-bank-takes-next-step-towards-launching-its-stablecoin-with-cross-border-payment-test",
+        "excerpt": "The fifth-largest U.S. commercial bank said it is exploring USBDC stablecoin for treasury payments, liquidity management and collateral after completing a live transaction.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "e94b6b4053d22c6e",
+        "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-09T07:36:21Z",
+        "url": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody",
+        "excerpt": "The proposed Builders Bank would offer federally supervised digital asset custody but would not accept deposits or issue loans.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "5b51ef5ca2110be5",
         "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
