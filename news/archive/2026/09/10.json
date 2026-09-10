@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-10T14:23:11.574620Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "e82f98d90347f3ed",
+        "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-10T13:04:27Z",
+        "url": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
+        "excerpt": "Brian Armstrong argues the bottom is in, a year into the downturn, with the next halving roughly 18 months out.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "5d551e3a7c8672a9",
+        "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-10T13:00:00Z",
+        "url": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
+        "excerpt": "A paper shared with CoinDesk shows humans and AI agents beating Google’s March result on a core calculation used by Shor’s algorithm, adding another variable to crypto’s quantum clock.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "95ecb8a77db53af4",
+        "title": "Solana sees record 263K tokens issued in a single day",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-10T13:00:00Z",
+        "url": "https://cointelegraph.com/news/solana-record-263k-tokens-issued",
+        "excerpt": "Memecoin platform Pump.fun accounted for most of the new tokens among launchpads, as the Solana network notched a new all-time daily issuance high.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4bacd8bc15b297a8",
+        "title": "Morning Minute: Hunter Biden’s LAPTOP Crashes",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-10T12:10:48Z",
+        "url": "https://decrypt.co/377867/morning-minute-hunter-bidens-laptop-crashes",
+        "excerpt": "The meme coin plunged on its debut, as recent alt leaders and many onchain darlings slipped in a nasty day for crypto.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "46ec5bae9a1a63d0",
+        "title": "Bitcoin traders dial down bullish plays ahead of U.S. inflation data",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-10T11:15:00Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/09/10/bitcoin-traders-dial-down-bullish-plays-ahead-of-u-s-inflation-data",
+        "excerpt": "Your day-ahead look for Sept. 10, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "22b4e005c0d42c1a",
+        "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-10T13:35:23Z",
+        "url": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks",
+        "excerpt": "The partnership will provide stablecoin acceptance, settlement and real-time funding capabilities to over 1,000 community banks and credit unions.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-10T13:20:26Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "df56779ced6615db",
+        "title": "Treasury yields continue to rise even as Bessent doubles down on bond buybacks",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-10T11:47:41Z",
+        "url": "https://www.coindesk.com/markets/2026/09/10/scott-bessent-doubles-down-on-bond-buybacks-as-treasury-yields-continue-to-surge",
+        "excerpt": "Long-term yields moved higher despite a $6 billion Treasury buyback, as debt concerns and rising oil prices continue to pressure global bond markets.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "429116735e8e669e",
+        "title": "Hunter Biden denies profiting from memecoin after his LAPTOP crashes",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-10T10:08:46Z",
+        "url": "https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash",
+        "excerpt": "Nansen found a $117,800 unrealized loss in one wallet as the team announced liquidity incentives and Bubblemaps flagged fresh top holders.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "83ffa610d0eb684a",
+        "title": "Unicoin sues Uniswap Labs, seeks to cancel UNI registration",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-10T08:55:11Z",
+        "url": "https://cointelegraph.com/news/unicoin-sues-uniswap-court-cancel-uni-trademark",
+        "excerpt": "The complaint says Uniswap’s counsel sent three letters before Unicoin’s Sept. 28 launch and seeks declarations on its marks and domains.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
