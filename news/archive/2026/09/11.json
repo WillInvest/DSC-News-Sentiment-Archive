@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-11T14:23:00.768489Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "dfde8abc8d4ad213",
+        "title": "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-11T14:17:38Z",
+        "url": "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft",
+        "excerpt": "With 598.5 BTC still outstanding, the company says it will go to law enforcement should the funds not be returned.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "a5237a47beb91b98",
+        "title": "Metaplanet cuts executive reward pool by 41%, extinguishes $220 million in value",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-11T13:46:51Z",
+        "url": "https://www.coindesk.com/business/2026/09/11/metaplanet-cuts-executive-reward-pool-by-41-extinguishes-usd220-million-in-value",
+        "excerpt": "The bitcoin treasury firm cut the potential Series 10 share pool to 188.2 million.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "e84b8b78fba8c238",
+        "title": "Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T13:44:27Z",
+        "url": "https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary",
+        "excerpt": "Metaplanet will cut 131.3 million potential shares and form a $1 million Hong Kong subsidiary for trading in Bitcoin, equities and credit products.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "80fa000a466a2ee4",
+        "title": "Bitcoin ETF outflows accelerate as investors pull $449M in three days",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T12:33:38Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july",
+        "excerpt": "ARK 21Shares accounted for $164 million of Thursday’s Bitcoin ETF withdrawals, while Ether and Solana funds also recorded net outflows.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "b36dfb1bee2358c6",
+        "title": "Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-11T12:10:23Z",
+        "url": "https://decrypt.co/377948/morning-minute-ai-agents-cut-btc-quantum-attack-benchmark-by-86",
+        "excerpt": "Crypto majors are shaky ahead of this morning’s CPI print, but onchain is heating up for another big potential weekend.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "81ac0b0331f2754a",
+        "title": "Trading stocks against BONER is the latest trend for DeFi degens",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens",
+        "excerpt": "Why would anyone want to trade a healthcare stock for a memecoin like BONER? Why wouldn’t they, ask the degens on Robinhood Chain who are building a strange new corner of DeFi.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T12:57:24Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "9a38fefba85dcdd0",
+        "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-11T11:20:26Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/09/11/rising-yields-oil-prices-leave-bitcoin-vulnerable-ahead-of-u-s-inflation-report",
+        "excerpt": "Your day-ahead look for Sept. 11, 2026",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "f968d108a4af7693",
+        "title": "Bitcoin recovers toward $77,300 as zcash leverage unwinds",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-11T10:50:47Z",
+        "url": "https://www.coindesk.com/markets/2026/09/11/bitcoin-recovers-toward-usd77-300-as-zcash-leverage-unwinds",
+        "excerpt": "Bitcoin rose 0.7% since midnight UTC to around $77,200, and 68 of the CoinDesk 100 constituents gained, though the index remains 1.4% lower over 24 hours.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "6e4674edd7ac8f7d",
+        "title": "Revised CLARITY Act targets ‘non-decentralized’ DeFi operators",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T06:08:26Z",
+        "url": "https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators",
+        "excerpt": "The bill’s ethics section remained largely unchanged despite being one of the main points of contention ahead of a pivotal Senate vote.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
