@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-12T13:34:44.620247Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "fa448a0d5d0c514b",
+        "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-12T10:11:01Z",
+        "url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+        "excerpt": "Passports, selfies and home addresses were also handed over after the digital bank treated a fraudulent request as legitimate, but no customer funds were lost.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "8f106e7cf7c85a58",
+        "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-11T23:47:51Z",
+        "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+        "excerpt": "In a post on Friday, Vlad Tenev said securities issuers should control shareholder rights, but not separate products that track their publicly traded shares.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "2a5471afbe51f84d",
+        "title": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-11T20:53:39Z",
+        "url": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
+        "excerpt": "A rapidly changing interest rates market has changed the near-term outlook on the Bitcoin chart. Here’s why.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "8a517343ed4582ac",
+        "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T19:46:24Z",
+        "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad",
+        "excerpt": "The Swiss crypto financial services firm plans to move back-office functions to lower-cost international hubs as it expands its global wealth and asset management business, according to Finews.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "92076f0f9d3b8ce7",
+        "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T18:45:15Z",
+        "url": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner",
+        "excerpt": "The Crypto Banter founder said Hyperliquid’s network effects give it a strong competitive moat, but regulatory uncertainty remains its biggest threat.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T21:30:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "129e2451a28a7445",
+        "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T16:05:15Z",
+        "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin",
+        "excerpt": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt’s fUSD stablecoin through its custody platform.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "6d17d90d3b5ce7d6",
+        "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T16:03:37Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields",
+        "excerpt": "Bitcoin briefly rebounded past $79,000 and US stocks turned green as US CPI inflation data met expectations.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "81ac0b0331f2754a",
+        "title": "Trading stocks against BONER is the latest trend for DeFi degens",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens",
+        "excerpt": "Why would anyone want to trade a healthcare stock for a memecoin like BONER? Why wouldn’t they, ask the degens on Robinhood Chain who are building a strange new corner of DeFi.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "9a38fefba85dcdd0",
+        "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-11T11:20:26Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/09/11/rising-yields-oil-prices-leave-bitcoin-vulnerable-ahead-of-u-s-inflation-report",
+        "excerpt": "Your day-ahead look for Sept. 11, 2026",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      }
+    ]
+  }
+}

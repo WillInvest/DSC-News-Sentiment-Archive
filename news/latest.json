@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-09-11T14:23:00.768489Z",
+  "generatedAt": "2026-09-12T13:34:44.620247Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "fa448a0d5d0c514b",
+        "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-12T10:11:01Z",
+        "url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+        "excerpt": "Passports, selfies and home addresses were also handed over after the digital bank treated a fraudulent request as legitimate, but no customer funds were lost.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "8f106e7cf7c85a58",
+        "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-11T23:47:51Z",
+        "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+        "excerpt": "In a post on Friday, Vlad Tenev said securities issuers should control shareholder rights, but not separate products that track their publicly traded shares.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "2a5471afbe51f84d",
+        "title": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-11T20:53:39Z",
+        "url": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
+        "excerpt": "A rapidly changing interest rates market has changed the near-term outlook on the Bitcoin chart. Here’s why.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "8a517343ed4582ac",
+        "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T19:46:24Z",
+        "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad",
+        "excerpt": "The Swiss crypto financial services firm plans to move back-office functions to lower-cost international hubs as it expands its global wealth and asset management business, according to Finews.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "92076f0f9d3b8ce7",
+        "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T18:45:15Z",
+        "url": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner",
+        "excerpt": "The Crypto Banter founder said Hyperliquid’s network effects give it a strong competitive moat, but regulatory uncertainty remains its biggest threat.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
       {
         "id": "dfde8abc8d4ad213",
         "title": "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'",
@@ -1959,177 +2019,45 @@
           "Blockchain",
           "Policy"
         ]
-      },
-      {
-        "id": "632a495a19be6dc5",
-        "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-13T11:53:17Z",
-        "url": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
-        "excerpt": "The new framework could be announced as soon as Friday, in what could be the biggest development for crypto this year.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "482702360e9df765",
-        "title": "Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-13T11:35:53Z",
-        "url": "https://www.coindesk.com/daybook-us/2026/08/13/strategy-metaplanet-unrealized-bitcoin-losses-highlight-risk-of-concentrating-on-just-one-token",
-        "excerpt": "Your day-ahead look for Aug. 13, 2026",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "9560ea10e8e3318d",
-        "title": "Bitcoin holds steady near $64,000 as monero, hyperliquid outperform",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-13T11:02:43Z",
-        "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform",
-        "excerpt": "Crypto markets remain in a low volatility holding pattern, trading in a tight range following Wednesday's CPI report.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "e9d74e4eb9fecae0",
-        "title": "CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-13T10:16:50Z",
-        "url": "https://decrypt.co/375531/ceo-of-crypto-lender-delio-gets-15-years-over-49m-fraud",
-        "excerpt": "A botched search of the platform's server host cost prosecutors the bulk of their case, cutting it from 2,800 alleged victims to about 1,100.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "4eb89969151dc2ee",
-        "title": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-13T10:15:32Z",
-        "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
-        "excerpt": "MUFG is preparing a proof-of-concept for onchain JGB transactions using the Canton network.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "46abe54b1dbd59a3",
-        "title": "Binance bStocks passes xStocks as second-largest tokenized stock issuer",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-13T09:53:36Z",
-        "url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer",
-        "excerpt": "Binance bStocks became the second-largest tokenized stock issuer less than two months after launch, narrowly ahead of Kraken’s xStocks.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "85490dc01884f9db",
-        "title": "Brazil’s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-13T09:39:52Z",
-        "url": "https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc",
-        "excerpt": "DIGY11 aims for annual distributions matching Brazil’s interbank rate plus 3–5 percentage points, net of costs, though investors' actual returns are not guaranteed.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "d725f4daf37d5f31",
-        "title": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-13T07:42:59Z",
-        "url": "https://cointelegraph.com/news/bitgo-q2-19-million-revenue-surge-4-3-billion",
-        "excerpt": "An $18.8 million unrealized digital asset loss and weaker trading margins pushed BitGo into the red in the second quarter.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "6ba72d218131c743",
-        "title": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-13T07:14:19Z",
-        "url": "https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval",
-        "excerpt": "Copper Markets US will offer qualified custody, staking, financing and OTC services after securing its regulated US presence.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "57b927f8500e20c5",
-        "title": "Metaplanet denies selling bitcoin worth $320 million",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-13T05:34:48Z",
-        "url": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
-        "excerpt": "Metaplanet CEO dismisses bitcoin sale rumors, confirms 43,000 BTC holdings",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "0643755f9de88f4d",
-        "title": "Bitcoin firms ask AI labs for same tools attackers already have",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-13T05:21:21Z",
-        "url": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have",
-        "excerpt": "Coinbase, Block, BitGo and dozens of others signed a letter arguing that safety guardrails on frontier models are blocking legitimate security work while adversaries face no such limits.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "593a216f7731cc26",
-        "title": "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-13T04:15:26Z",
-        "url": "https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer",
-        "excerpt": "Metaplanet CEO Simon Gerovich said no Bitcoin was sold after the company moved 5,014 BTC between custodial addresses for about $8 in fees.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "0315b8908cd3bd5e",
-        "title": "Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-13T03:39:06Z",
-        "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests",
-        "excerpt": "An in-line inflation print removed a tail risk but gave BTC little reason to rally, leaving Jackson Hole, jobs data and the next CPI release as the market’s next catalysts.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "8e550154dafb8816",
-        "title": "ASX shareholder plans to sue former directors over failed blockchain project",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-13T01:00:57Z",
-        "url": "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project",
-        "excerpt": "ASX’s failed blockchain-based CHESS overhaul faces renewed governance scrutiny after the exchange admitted misleading the market.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T21:30:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "129e2451a28a7445",
+        "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T16:05:15Z",
+        "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin",
+        "excerpt": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt’s fUSD stablecoin through its custody platform.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "6d17d90d3b5ce7d6",
+        "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T16:03:37Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields",
+        "excerpt": "Bitcoin briefly rebounded past $79,000 and US stocks turned green as US CPI inflation data met expectations.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
       {
         "id": "81ac0b0331f2754a",
         "title": "Trading stocks against BONER is the latest trend for DeFi degens",
@@ -3385,78 +3313,6 @@
         "publishedAt": "2026-08-13T18:26:21Z",
         "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
         "excerpt": "KPMG U.S. examined Tether's books and even counted its gold bars as the $180 billion USDT issuer said it completed its long-promised financial audit.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "88c22e62bcb8245b",
-        "title": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-13T10:50:24Z",
-        "url": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje",
-        "excerpt": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of “onchain finance” but have sacrificed some of their inherent immutability and decentralization.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "01b36aa9387d9d20",
-        "title": "Here’s what happened in crypto today",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-13T05:54:56Z",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "c4c9997caed76784",
-        "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-13T05:01:42Z",
-        "url": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks",
-        "excerpt": "Bitwise’s Matt Hougan expects revenue-capture mechanisms to spread across DeFi applications and layer-1 networks over the next 12 to 24 months.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "fafd76efcbd185fe",
-        "title": "Bank of England tests stablecoin, digital pound interoperability in cross-border payments",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-12T16:50:25Z",
-        "url": "https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments",
-        "excerpt": "The Digital Pound Lab is testing a cross-border trade finance flow combining stablecoin payments with simulated digital pound settlement.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "aa3ead9b7bfa8d40",
-        "title": "HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-12T16:07:59Z",
-        "url": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin",
-        "excerpt": "HashKey has become an authorized distributor for Anchorpoint’s HKDAP, expanding institutional access as Hong Kong’s regulated stablecoin market takes shape.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "b11b237133db9eeb",
-        "title": "Miden bets on privacy stablecoins with introduction of USDCx",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-12T15:00:00Z",
-        "url": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
-        "excerpt": "USDCx will let users transact without publicly exposing balances, counterparties or transaction histories, while allowing selective disclosure for compliance.",
         "tags": [
           "DeFi",
           "Stablecoins"
