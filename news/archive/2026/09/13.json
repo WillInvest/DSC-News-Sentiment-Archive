@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-13T14:19:03.943594Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "6e9b3931f505f29b",
+        "title": "AI Agents Spending Money Online? New Research Says Not Really",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-13T13:01:03Z",
+        "url": "https://decrypt.co/378103/ai-agents-spending-money-research",
+        "excerpt": "TRM examined roughly $52.7 million across 198.9 million settlements using the x402 protocol. Most of it isn’t coming from AI agents, it says.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "b12ff38a116c8ef9",
+        "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-12T21:09:06Z",
+        "url": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
+        "excerpt": "The company is closing its Copenhagen IT site while maintaining Bratislava and opening a new hub in Vietnam to reduce costs.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "05a884bb8b317ba7",
+        "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-12T17:01:04Z",
+        "url": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
+        "excerpt": "The fintech company fulfilled a fraudulent information request sent from a government agency's own email domain, exposing ID documents and full crypto transaction histories for a \"limited\" number of users.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4d98b807b20e958c",
+        "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-12T16:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
+        "excerpt": "Bitcoin Suisse says rising AI investment, government debt and weakening stock-bond diversification strengthen the case for adding bitcoin to traditional portfolios.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "fa448a0d5d0c514b",
+        "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-12T10:11:01Z",
+        "url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+        "excerpt": "Passports, selfies and home addresses were also handed over after the digital bank treated a fraudulent request as legitimate, but no customer funds were lost.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "dadef95eeb32461d",
+        "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-13T13:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+        "excerpt": "Stablecoins' “next battleground is in emerging markets,” one expert said, as Circle looks to expand USDC's reach where rival Tether has long been strong.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-12T16:09:41Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "cebf8b2172b0f5ad",
+        "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-12T16:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
+        "excerpt": "Payments and capital markets are driving growth for Ripple's $2.4 billion digital dollar as it looks to bring RLUSD to Europe under MiCA, the firm's Jack McDonald said.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "700edc2d838a6e0b",
+        "title": "Staked ether should be seen as the benchmark of the decentralized economy",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-12T14:00:00Z",
+        "url": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
+        "excerpt": "The yield-generating asset has a special place in the digital asset investor’s portfolio, argues GlobalStake’s Ryan Haczynski.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "129e2451a28a7445",
+        "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-11T16:05:15Z",
+        "url": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin",
+        "excerpt": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt’s fUSD stablecoin through its custody platform.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
