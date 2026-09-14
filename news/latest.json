@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-09-13T14:19:03.943594Z",
+  "generatedAt": "2026-09-14T16:21:00.093087Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "cee815232135ea23",
+        "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-14T16:02:25Z",
+        "url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
+        "excerpt": "The purchase brings the company closer to its goal of owning 5% of Ethereum’s supply, with most of its tokens earning staking rewards.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "c3d4217851683a9d",
+        "title": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-14T15:57:01Z",
+        "url": "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
+        "excerpt": "The state AGs said they were concerned the crypto legislation might restrict their ability to bring securities and commodities cases tied to online scams.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "6289fdfd1cc44bcf",
+        "title": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-14T15:41:46Z",
+        "url": "https://decrypt.co/378134/strategy-buys-139-million-strc-bitcoin-frozen",
+        "excerpt": "The Bitcoin treasury firm slowed its preferred-stock buyback from last week's $176 million pace and left its 845,050 BTC untouched, per a Monday SEC filing.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "83a3f5b679e71195",
+        "title": "Don’t let perfect be the enemy of Clarity",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-14T14:34:56Z",
+        "url": "https://www.coindesk.com/opinion/2026/09/14/don-t-let-perfect-be-the-enemy-of-clarity",
+        "excerpt": "On September 15, the Senate has the chance to show that it can address issues in a reasonable timeframe, rather than waiting for the next market failure to act, writes the Blockchain Association's Summer Mersinger.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "40d1bf0f72214d7c",
+        "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-14T12:58:42Z",
+        "url": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
+        "excerpt": "The Ethereum treasury firm is closing in on its 5% accumulation goal as Lee points to a rising ETH-BTC ratio and institutional demand.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "6e9b3931f505f29b",
         "title": "AI Agents Spending Money Online? New Research Says Not Really",
@@ -1875,129 +1935,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "5a85645d073c9c5b",
-        "title": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-15T15:56:05Z",
-        "url": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
-        "excerpt": "Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "5945308dc42c671e",
-        "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-15T15:21:15Z",
-        "url": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
-        "excerpt": "The Energy Ministry enacted the year-round restriction to mitigate power capacity shortages, as energy-intensive mining facilities continue to strain regional grids.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "f1ebc30471406de6",
-        "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-15T15:12:29Z",
-        "url": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
-        "excerpt": "Calls fell 85.2% to 148,000 underlying shares, while puts slipped 1.4% to 715,000.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "902daf5a2a919195",
-        "title": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-15T13:30:00Z",
-        "url": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen",
-        "excerpt": "The trillions required to boost Bitcoin to a price of $1 million per coin is not going to happen by 2030... or perhaps ever, says party pooper Markus Thielen.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "e9c16dd4b1b26020",
-        "title": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-15T13:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
-        "excerpt": "Washington kept crypto’s biggest legislative hope alive, Wall Street pushed deeper into digital assets, and a security scare sent billions of dollars of bitcoin moving between wallets.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "b7dafb496f6baf3c",
-        "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-14T21:03:35Z",
-        "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
-        "excerpt": "A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "db185e0ea8cb46db",
-        "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-14T18:57:04Z",
-        "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped",
-        "excerpt": "The value of the university endowment’s holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF dropped to about $12 million.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "c9b704e469792e01",
-        "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-14T18:31:03Z",
-        "url": "https://decrypt.co/375670/openai-staff-blame-rush-ship-rogue-agent-hack",
-        "excerpt": "Current and former OpenAI employees reportedly say pressure to release new AI products made it harder to prioritize safety.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "9bc88254409db1cf",
-        "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-14T17:48:04Z",
-        "url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
-        "excerpt": "Bullish, Coinbase, and Circle were among the names lower on Friday after the regulatory setback.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "7f2be7af16ff02b6",
-        "title": "Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-14T17:46:06Z",
-        "url": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million",
-        "excerpt": "Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "4f6371ec9f4dab2a",
+        "title": "Why Trump Backed Tougher Ethics Rules in Clarity Act, and Why the Crypto Industry Thinks It Can Pass",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-14T15:22:51Z",
+        "url": "https://decrypt.co/378125/clarity-act-crypto-ethics-trump-key-vote",
+        "excerpt": "Republicans' \"last, best and final offer\" wins Trump's backing on stronger ethics rules and concedes on DeFi and stablecoin sticking points, but it's unclear if enough Democrats will cross over Tuesday.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "cf0f478b24b56b31",
+        "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-14T13:30:00Z",
+        "url": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director",
+        "excerpt": "Stablecoins may reduce trade finance friction, fragmented regulatory regimes limit their adoption to just 3% of global payments, according to the World Trade Organization.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "a601abfa200bdde3",
+        "title": "Live updates: Bitcoin climbs as stocks drop, U.S. 10-year yield rises to 5%",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-14T11:44:21Z",
+        "url": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
+        "excerpt": "The Federal Reserve's two-day policy meeting begins tomorrow, with nearly all now expecting the U.S. central bank to hike its benchmark policy rate by 25 basis points.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "8cc9a1a64785c4a9",
+        "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-14T10:09:41Z",
+        "url": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
+        "excerpt": "Bitcoin rose 1.9% since midnight UTC while Nasdaq 100 index futures fell 1.65% on calls to slow AI development and crude gained almost 4% on a Saudi pipeline closure.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "dadef95eeb32461d",
         "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
@@ -3208,42 +3196,6 @@
         "tags": [
           "DeFi",
           "Markets"
-        ]
-      },
-      {
-        "id": "274481a6be21f5bb",
-        "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-15T13:01:04Z",
-        "url": "https://decrypt.co/375726/trump-world-liberty-bank-charter-usd1-stablecoin",
-        "excerpt": "The proposed World Liberty Trust Company would take over issuance of the USD1 stablecoin from BitGo.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "9e61457992810a3e",
-        "title": "Galaxy lowers CLARITY Act odds to 10%",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-15T08:40:59Z",
-        "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10",
-        "excerpt": "Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate window when lawmakers return in September.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "0c1e41e31b4539a8",
-        "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-14T19:01:05Z",
-        "url": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
-        "excerpt": "Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.",
-        "tags": [
-          "DeFi",
-          "Lending"
         ]
       }
     ]
