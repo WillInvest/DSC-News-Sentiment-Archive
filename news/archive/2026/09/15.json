@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-15T14:57:18.701069Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "8b394f983c492935",
+        "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-15T13:25:52Z",
+        "url": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
+        "excerpt": "The bank expects tokenization to make Arbitrum a favored network for traditional finance, even though ARB holders currently have no direct claim on the fees.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "168897cef26288c0",
+        "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-15T10:41:35Z",
+        "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
+        "excerpt": "Bitcoin fell 1.7% since midnight UTC to $76,862, unwinding a late Monday rally as Polymarket odds on the Clarity Act becoming law this year halved overnight.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "9ba783c5a976b59b",
+        "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-15T10:27:55Z",
+        "url": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
+        "excerpt": "Security firms traced the $7.8 million loss to a helper contract the wallet owner had authorized, not to Safe itself.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "18a5e7d57a0d8e7b",
+        "title": "Nigel Farage-backed Stack BTC plans to acquire a gold dealer for $16 million to fund bitcoin buy",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-15T10:06:40Z",
+        "url": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
+        "excerpt": "The proposed acquisition would use cash flow from precious metals sales to build bitcoin holdings.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "e8917c74c89b9278",
+        "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-15T09:40:27Z",
+        "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks",
+        "excerpt": "Ethereum and Base are pursuing different account abstraction designs after talks failed, according to Ethlabs researcher Derek Chiang.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "7f0f8a5b490857f0",
+        "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-15T13:43:50Z",
+        "url": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
+        "excerpt": "Two software bugs allowed the attacker to create more than 2,000 times Bitcoin’s maximum supply in unbacked syBTC. Symbiosis puts preliminary losses at 9.97 BTC.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "97fd4ed12baf7d67",
+        "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-15T13:37:31Z",
+        "url": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal",
+        "excerpt": "Tether’s USDT stablecoin was part of a failed oil trade that reportedly cost a Polish energy giant $230 million in late 2023.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "8ca77a5fa1e9f911",
+        "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-15T11:01:04Z",
+        "url": "https://decrypt.co/378183/solana-defi-development-corp-chad",
+        "excerpt": "DeFi Development Corp added another 55,491 SOL and opened a CHAD at-the-market program for its preferred stock, extending a fast-moving three-week run of capital markets activity.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "3f954ce2f3950d6e",
+        "title": "US House crypto tax package omits mining, staking reward deferral",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-15T10:04:21Z",
+        "url": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral",
+        "excerpt": "The 114-page bill would change the tax treatment of crypto fees, stablecoins and lending while leaving existing reward-tax timing unchanged.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-15T05:50:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
