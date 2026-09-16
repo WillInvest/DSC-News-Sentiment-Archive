@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-09-15T14:57:18.701069Z",
+  "generatedAt": "2026-09-16T14:54:54.113588Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "c6710bad96096ecd",
+        "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-16T14:35:43Z",
+        "url": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
+        "excerpt": "Leveraging its $550 million acquisition of Bitnomial, Payward aims to become the first registered U.S. exchange to deploy markets on the Hyperliquid protocol.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "2dbd631721238f43",
+        "title": "Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-16T12:36:20Z",
+        "url": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act",
+        "excerpt": "Bernstein said the federal agencies will publish new regulations to compensate for the time lost negotiating the CLARITY Act, after its cloture vote failed on Tuesday.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "72d691f9d0f1f810",
+        "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-16T12:00:41Z",
+        "url": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
+        "excerpt": "The October update changes how nodes estimate transaction fees and process blocks, while fixing a wallet flaw that could let an authenticated user run commands on a node.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "4d5139f58b7f51ec",
+        "title": "Zcash holders back 25-second blocks, vote to keep ZEC halving schedule",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-16T11:46:39Z",
+        "url": "https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings",
+        "excerpt": "Nearly 99% of ZEC holders voted to reduce block times to 25 seconds, while keeping ZEC issuance and halving schedules unchanged.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "db28386d0acad1ad",
+        "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-16T10:48:44Z",
+        "url": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
+        "excerpt": "U.S. spot bitcoin ETFs shed $450 million, the most since June, as the Senate's failure to advance the Clarity Act sent regulatory-sensitive tokens sharply lower.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "8b394f983c492935",
         "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
@@ -1911,81 +1971,69 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "b99786cb30dcd031",
-        "title": "Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-17T11:28:41Z",
-        "url": "https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
-        "excerpt": "Your day-ahead look for Aug. 17, 2026",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "0090a2fd3415e68d",
-        "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-17T10:31:04Z",
-        "url": "https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf",
-        "excerpt": "The macro fund raised its iShares Bitcoin Trust stake 18.9% to 688,529 shares worth $22.9 million in Q2, while sharply cutting its call options—a shift from leveraged bets toward direct spot exposure.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "d398a336e0116dbe",
-        "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-17T10:13:41Z",
-        "url": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
-        "excerpt": "The trustee says Knaken bought the coins in its own name, leaving customers with a euro claim against a company that has collapsed.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "74d509167f66bf20",
-        "title": "Bitcoin tracks equity bounce, but $390 million ETF outflow week keeps bulls on back foot",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-17T09:59:55Z",
-        "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tracks-equity-bounce-but-usd390-million-etf-outflow-week-keeps-bulls-on-back-foot",
-        "excerpt": "The price of bitcoin tracked a bounce in equities, but a $390 million ETF outflow streak and 10% odds on landmark crypto legislation leave markets searching for direction.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "7f1df20ee08aa9e8",
-        "title": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-17T09:31:04Z",
-        "url": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
-        "excerpt": "A flaw in an order-tracking plug-in of bitcoin wallet provider SafePal exposed names, addresses and phone numbers of nearly 40,000 customers.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "2ecd1aa062cd6ae0",
-        "title": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-17T08:38:26Z",
-        "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
-        "excerpt": "Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "61abea5e7c06f97b",
+        "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-16T14:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
+        "excerpt": "The onchain finance platform said thSLVR allows investors to retain exposure to silver while earning income from lending the metal to institutional borrowers.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "89ab1656fe98975f",
+        "title": "A LatAm telecom operator is putting part of its finances on Avalanche",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-16T14:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
+        "excerpt": "Led by former IBM Blockchain partner Jules Miller, Iris is helping Bolivia's VIVA use stablecoins for settlement, dollar reserves and new financial services without replacing its existing telecom systems.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "f14ad68d5abcdea9",
+        "title": "Bitcoin Hovers at $76K as Analysts Argue the Fed Matters More Than Clarity Act",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-16T12:12:21Z",
+        "url": "https://decrypt.co/378351/bitcoin-hovers-at-76k-as-analysts-argue-the-fed-matters-more-than-clarity-act",
+        "excerpt": "With Bitcoin sitting around $76,000, the argument from analysts is that dollar liquidity, not Congress, sets the floor from here.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "aad137ee1fe32fd4",
+        "title": "Circle launches Arc mainnet with USDC as native gas token",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-16T11:39:44Z",
+        "url": "https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas",
+        "excerpt": "Circle’s Arc mainnet is live with USDC for transaction fees, support for more than 20 fiat stablecoins and links to over 20 blockchains.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "2121b049ca123371",
+        "title": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-16T11:16:51Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
+        "excerpt": "Your day-ahead look for Sept. 16, 2026",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "7f0f8a5b490857f0",
         "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
@@ -3253,18 +3301,6 @@
         "publishedAt": "2026-08-18T05:55:43Z",
         "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
         "excerpt": "Bulls are stacking longs, liquidity is thinning and one key level could trigger large liquidations.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "04db6da7673e06d6",
-        "title": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-17T05:51:18Z",
-        "url": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
-        "excerpt": "The market may be facing a dangerous liquidity mismatch as futures open interest outpaces trading volume by a significant margin.",
         "tags": [
           "DeFi",
           "Markets"
