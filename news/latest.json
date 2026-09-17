@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-09-16T14:54:54.113588Z",
+  "generatedAt": "2026-09-17T14:56:38.070473Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "b6c90ce33a4c3c1e",
+        "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-17T14:52:03Z",
+        "url": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
+        "excerpt": "The \"innovation exemption\" lets qualifying venues trade tokenized versions of U.S. stocks on public blockchains without registering as exchanges—though it excludes price-tracking \"synthetics\" and lets companies block tokenization of their shares.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "34bac476ce8f09a8",
+        "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-17T14:50:58Z",
+        "url": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
+        "excerpt": "The U.S. is likely to lose out to foreign markets in the short term, but SEC and CFTC rules will help underpin the industry.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "950f8e92fb62cc27",
+        "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-17T13:35:57Z",
+        "url": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo",
+        "excerpt": "Crypto.com’s CEO said its sister exchange was cleared to offer US access to single-stock perpetual futures, as the latest platform to bridge TradFi and digital assets.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "9fd576efbd7156e7",
+        "title": "SEC grants temporary exemption for tokenized US stock trading",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-17T13:34:17Z",
+        "url": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading",
+        "excerpt": "The SEC’s Innovation Exemption allows limited tokenized US stock trading on onchain venues with trading caps and transparency requirements.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "d4bcfdceed90f443",
+        "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-17T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking",
+        "excerpt": "Bitcoin treasury companies promise to amplify returns over investing in Bitcoin alone, but does the potential upside outweigh the risks to the downside?",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "c6710bad96096ecd",
         "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
@@ -1887,93 +1947,33 @@
           "Blockchain",
           "Security"
         ]
-      },
-      {
-        "id": "64fe1cfcff2660e0",
-        "title": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-18T11:31:04Z",
-        "url": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
-        "excerpt": "The bid protest, filed in the U.S. Court of Federal Claims, challenges ICE's sole-source award for blockchain forensic tools, pitting the two biggest names in crypto tracing against each other.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "a1441981fb7934fa",
-        "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-18T11:21:51Z",
-        "url": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
-        "excerpt": "Your day-ahead look for Aug. 18 2026",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "16dbc38bd0b50b49",
-        "title": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-18T10:01:23Z",
-        "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday",
-        "excerpt": "BTC outperformed Wall Street on Monday, breaking its recent pattern of lagging behind U.S. stocks.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "467a7ddce4bf1d71",
-        "title": "China adds 8 banks to digital yuan network as operator count hits 30",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-18T08:48:51Z",
-        "url": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30",
-        "excerpt": "The newly authorized lenders will begin offering e-CNY services after completing operational and technical preparations.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "6a837bfc1a59e712",
-        "title": "BitBox patches ‘severe’ wallet flaws that could put funds at risk",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-18T08:07:04Z",
-        "url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws",
-        "excerpt": "BitBox recommended all users update to firmware version 9.26.5 and said it had received no reports of exploitation or fund losses.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "bf2b070cc12c1641",
-        "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-18T05:18:18Z",
-        "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
-        "excerpt": "The program came three months before investor unlocks begin, with MON trading below its public-sale price and most of the token supply still outside circulation.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "ac32feedf0184772",
-        "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-18T05:12:18Z",
-        "url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade",
-        "excerpt": "Developers have been urged to test on Plataberget before Glamsterdam’s new gas model reaches Ethereum’s other testnets and mainnet.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "2be7f404cf3b90c6",
+        "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-17T14:40:07Z",
+        "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+        "excerpt": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "63c7a1443316be57",
+        "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-16T18:01:55Z",
+        "url": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote",
+        "excerpt": "A bipartisan House committee vote advanced legislation that would reshape federal tax rules for stablecoins, staking, crypto lending and digital asset transactions.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "61abea5e7c06f97b",
         "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
@@ -3256,54 +3256,6 @@
         "tags": [
           "DeFi",
           "Stablecoins"
-        ]
-      },
-      {
-        "id": "2784c3d69ed5372b",
-        "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-18T10:38:56Z",
-        "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower",
-        "excerpt": "BTC has dropped 0.6% since midnight UTC as Nasdaq 100 futures slip 1.1%, with the FOMC's July meeting minutes and a White House crypto summit both due Wednesday.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "591f81088239c41b",
-        "title": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-18T09:31:15Z",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis",
-        "excerpt": "Bitcoin derivatives markets created a short squeeze that took BTC price action 3% higher on Monday.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "1fc13db602f151ff",
-        "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-18T08:16:11Z",
-        "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
-        "excerpt": "The 30-year Treasury yield hit its highest since 2007 and Brent topped $91 as the US-Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "1d0a7ced659c617d",
-        "title": "The bitcoin price level where leveraged bulls could get whacked",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-18T05:55:43Z",
-        "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
-        "excerpt": "Bulls are stacking longs, liquidity is thinning and one key level could trigger large liquidations.",
-        "tags": [
-          "DeFi",
-          "Markets"
         ]
       }
     ]

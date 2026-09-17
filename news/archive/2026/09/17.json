@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-17T14:56:38.070473Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "b6c90ce33a4c3c1e",
+        "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-17T14:52:03Z",
+        "url": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
+        "excerpt": "The \"innovation exemption\" lets qualifying venues trade tokenized versions of U.S. stocks on public blockchains without registering as exchanges—though it excludes price-tracking \"synthetics\" and lets companies block tokenization of their shares.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "34bac476ce8f09a8",
+        "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-17T14:50:58Z",
+        "url": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
+        "excerpt": "The U.S. is likely to lose out to foreign markets in the short term, but SEC and CFTC rules will help underpin the industry.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "950f8e92fb62cc27",
+        "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-17T13:35:57Z",
+        "url": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo",
+        "excerpt": "Crypto.com’s CEO said its sister exchange was cleared to offer US access to single-stock perpetual futures, as the latest platform to bridge TradFi and digital assets.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "9fd576efbd7156e7",
+        "title": "SEC grants temporary exemption for tokenized US stock trading",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-17T13:34:17Z",
+        "url": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading",
+        "excerpt": "The SEC’s Innovation Exemption allows limited tokenized US stock trading on onchain venues with trading caps and transparency requirements.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "d4bcfdceed90f443",
+        "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-17T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking",
+        "excerpt": "Bitcoin treasury companies promise to amplify returns over investing in Bitcoin alone, but does the potential upside outweigh the risks to the downside?",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "2be7f404cf3b90c6",
+        "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-17T14:40:07Z",
+        "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+        "excerpt": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-17T13:53:14Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "97fd4ed12baf7d67",
+        "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-16T21:00:00Z",
+        "url": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal",
+        "excerpt": "Tether’s USDT stablecoin was part of a failed oil trade that reportedly cost a Polish energy giant $230 million in late 2023.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "63c7a1443316be57",
+        "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-16T18:01:55Z",
+        "url": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote",
+        "excerpt": "A bipartisan House committee vote advanced legislation that would reshape federal tax rules for stablecoins, staking, crypto lending and digital asset transactions.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "61abea5e7c06f97b",
+        "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-16T14:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
+        "excerpt": "The onchain finance platform said thSLVR allows investors to retain exposure to silver while earning income from lending the metal to institutional borrowers.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      }
+    ]
+  }
+}
