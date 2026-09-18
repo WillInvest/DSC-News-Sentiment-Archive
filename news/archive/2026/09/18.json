@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-18T14:27:45.091349Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "75e891c1bea67580",
+        "title": "Zcash targets November upgrade to make private payments up to three times faster",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-18T12:50:01Z",
+        "url": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
+        "excerpt": "NU7 would reduce block times to 25 seconds while setting aside at least 60% of transaction fees to supplement mining rewards beginning in 2031.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "005d5c27d9bc4a3d",
+        "title": "Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-18T12:40:04Z",
+        "url": "https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times",
+        "excerpt": "The non-profit signaled support for reducing Ethereum block times, citing increasing institutional activity moving onto the smart-contract network.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "687279460c4b35ee",
+        "title": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-18T12:34:50Z",
+        "url": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
+        "excerpt": "It came just hours after S&P Global announced its acquisition of OpenZeppelin, as everything TradFi moves onchain.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "6bded6cfe40d0329",
+        "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-18T10:46:17Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross",
+        "excerpt": "The Fisher Transform indicator produced a rare crossover for only the fourth time in Bitcoin’s history.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6c83f2a9372bcb0b",
+        "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-18T10:07:33Z",
+        "url": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
+        "excerpt": "Bitcoin is down just 1.5% in its historically weakest month and remains on track for its first quarterly gain in a year, despite rising rates, surging oil and a stronger dollar.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-18T13:34:11Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "cbf77ad83ef7b6ea",
+        "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-18T11:54:24Z",
+        "url": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending",
+        "excerpt": "HYPE hit a record $90.92 after Hyperliquid opened manual borrowing, letting users borrow stablecoins against HYPE and Bitcoin collateral.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "b06c885d4428b621",
+        "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-18T10:33:05Z",
+        "url": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
+        "excerpt": "Starknet and arbitrum gained more than 17% while the 10-year Treasury yield slipped back below 5%, with 98 of CoinDesk 100 constituents advancing.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "8272b5861bca6b41",
+        "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-18T09:14:03Z",
+        "url": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments",
+        "excerpt": "Dtcpay plans to expand its merchant network and payment products after completing a $25 million Series A backed by Japan’s SBI Group.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "67790792507c8a12",
+        "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-18T07:37:32Z",
+        "url": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
+        "excerpt": "Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}

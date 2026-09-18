@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-09-17T14:56:38.070473Z",
+  "generatedAt": "2026-09-18T14:27:45.091349Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "75e891c1bea67580",
+        "title": "Zcash targets November upgrade to make private payments up to three times faster",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-18T12:50:01Z",
+        "url": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
+        "excerpt": "NU7 would reduce block times to 25 seconds while setting aside at least 60% of transaction fees to supplement mining rewards beginning in 2031.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "005d5c27d9bc4a3d",
+        "title": "Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-18T12:40:04Z",
+        "url": "https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times",
+        "excerpt": "The non-profit signaled support for reducing Ethereum block times, citing increasing institutional activity moving onto the smart-contract network.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "687279460c4b35ee",
+        "title": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-18T12:34:50Z",
+        "url": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
+        "excerpt": "It came just hours after S&P Global announced its acquisition of OpenZeppelin, as everything TradFi moves onchain.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "6bded6cfe40d0329",
+        "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-18T10:46:17Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross",
+        "excerpt": "The Fisher Transform indicator produced a rare crossover for only the fourth time in Bitcoin’s history.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6c83f2a9372bcb0b",
+        "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-18T10:07:33Z",
+        "url": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
+        "excerpt": "Bitcoin is down just 1.5% in its historically weakest month and remains on track for its first quarterly gain in a year, despite rising rates, surging oil and a stronger dollar.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "b6c90ce33a4c3c1e",
         "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
@@ -1875,81 +1935,57 @@
           "Blockchain",
           "Policy"
         ]
-      },
-      {
-        "id": "dee82aa861169240",
-        "title": "Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-19T11:06:13Z",
-        "url": "https://cointelegraph.com/markets/bitcoin-has-largely-purged-froth-that-preceded-50-drop-from-126k-blackrock",
-        "excerpt": "Bitcoin maintained its appeal as a diversification investment despite dropping more than 50% from all-time high, a BlackRock report stated.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "8991ea3858c27fa6",
-        "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-19T09:31:03Z",
-        "url": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet",
-        "excerpt": "The Nasdaq-listed privacy firm launched Cypherpunk Mining through a $33.33 million equity deal with Winklevoss Capital, adding roughly 18% of the Zcash network's hashrate to accelerate its treasury ambitions.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "97b02f3ef1d1434a",
-        "title": "Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-19T08:34:51Z",
-        "url": "https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop",
-        "excerpt": "Hayes revealed his new role as Flop Labs CEO and teased a “massive airdrop” from the AI inference protocol in the fourth quarter of 2026.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "63e90f742dd6f16f",
-        "title": "Bitcoin ETFs add $189M as August net inflows approach $1B",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-19T07:59:16Z",
-        "url": "https://cointelegraph.com/markets/bitcoin-etf-august-net-inflows-approach-1b",
-        "excerpt": "US spot Bitcoin ETFs took in $189 million on Tuesday, lifting August net inflows to $951 million, while Ether ETFs added $71.5 million.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "feafe7fa954fcd1c",
-        "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-19T06:36:11Z",
-        "url": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
-        "excerpt": "A chain of six flaws caused the cross-chain trading network to credit a pool with nearly 50 million tokens that were never properly funded, letting an attacker drain real assets.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "0648347921b59551",
-        "title": "MAYAChain halts network after estimated $1.7M exploit",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-19T05:13:54Z",
-        "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt",
-        "excerpt": "A preliminary analysis says six chained bugs let a 23-message transaction drain 48.87 million CACAO, sending the token down nearly 89%.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "cbf77ad83ef7b6ea",
+        "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-18T11:54:24Z",
+        "url": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending",
+        "excerpt": "HYPE hit a record $90.92 after Hyperliquid opened manual borrowing, letting users borrow stablecoins against HYPE and Bitcoin collateral.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "b06c885d4428b621",
+        "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-18T10:33:05Z",
+        "url": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
+        "excerpt": "Starknet and arbitrum gained more than 17% while the 10-year Treasury yield slipped back below 5%, with 98 of CoinDesk 100 constituents advancing.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "8272b5861bca6b41",
+        "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-18T09:14:03Z",
+        "url": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments",
+        "excerpt": "Dtcpay plans to expand its merchant network and payment products after completing a $25 million Series A backed by Japan’s SBI Group.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "67790792507c8a12",
+        "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-18T07:37:32Z",
+        "url": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
+        "excerpt": "Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "2be7f404cf3b90c6",
         "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
@@ -3193,66 +3229,6 @@
         "publishedAt": "2026-08-19T17:00:01Z",
         "url": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november",
         "excerpt": "The US banking regulator released a 376‑page proposal in February, calling for public comment on rules to implement the stablecoin bill ahead of its January 2027 effective date.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "2693c11c1d4b6b64",
-        "title": "Fed decision making comes into focus as bitcoin holds steady, bond yields surge",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-19T11:14:50Z",
-        "url": "https://www.coindesk.com/daybook-us/2026/08/19/fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge",
-        "excerpt": "Your day-ahead look for Aug. 19, 2026",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "e718e2b4012f94d5",
-        "title": "Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-19T10:29:57Z",
-        "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades",
-        "excerpt": "BTC volatility has dropped to multi-year lows as surging Treasury yields rattle equities and traders await the Fed's July meeting minutes for clues on the interest-rate path.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "e1e293cd94692ef7",
-        "title": "Nexo launches regulated crypto-backed credit in Australia",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-19T10:20:27Z",
-        "url": "https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia",
-        "excerpt": "Nexo introduced regulated, cryptocurrency-backed credit lines that allow users to access liquidity in Australian dollars or stablecoins by borrowing against their digital assets.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "085de44cd4e67b99",
-        "title": "Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6%",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-19T09:05:45Z",
-        "url": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
-        "excerpt": "U.S. Treasury yields retreat from the highest levels in decades, while bitcoin holds above $64,000.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "5496c4ad61b76dd8",
-        "title": "US accounting board FASB proposes conditions for stablecoins as cash equivalents",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-19T03:58:13Z",
-        "url": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents",
-        "excerpt": "The FASB said secondary-market liquidity alone would not be enough, with holders needing direct issuer redemption rights and one-to-one liquid reserves.",
         "tags": [
           "DeFi",
           "Stablecoins"
