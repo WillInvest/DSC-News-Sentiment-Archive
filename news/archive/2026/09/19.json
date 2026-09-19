@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-19T13:54:39.579947Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "fc6af271e102e0ea",
+        "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-19T13:39:15Z",
+        "url": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+        "excerpt": "The upcoming Batch V1.1 can make linked asset and payment transfers succeed together or fail together, and Ripple says commercial projects are already being built around the feature after an extensive security review.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "f8c71d39a01fe6f7",
+        "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-19T13:01:04Z",
+        "url": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
+        "excerpt": "The network's clock just sped up again, but the extra speed goes to freshness, not capacity.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "640f6abd94d04687",
+        "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-19T12:13:57Z",
+        "url": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+        "excerpt": "\"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix,\" wrote Jason Calacanis.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "d1f17369f9f1fc3b",
+        "title": "Zcash Is Running—Devs Want to Make It Faster",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-18T19:16:03Z",
+        "url": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
+        "excerpt": "A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "a4b62123bb4dfc2d",
+        "title": "Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-18T18:35:54Z",
+        "url": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
+        "excerpt": "Kevin O'Leary believes Bitcoin could hit $1 million if crypto beats its quantum computing problem, and explained why he's ditching Ethereum.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "be2d9a986d7d7e09",
+        "title": "Bastion wins conditional OCC approval for national trust bank charter",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-19T11:47:29Z",
+        "url": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter",
+        "excerpt": "Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and white-label issuance from a single federally regulated entity.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-18T21:00:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "3d08e121a5b282a8",
+        "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-18T15:35:59Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes",
+        "excerpt": "Bitcoin price action made swift gains at the start of Friday’s Wall Street trading session as US 30-year bond yields began rising again.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "cbf77ad83ef7b6ea",
+        "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-18T11:54:24Z",
+        "url": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending",
+        "excerpt": "HYPE hit a record $90.92 after Hyperliquid opened manual borrowing, letting users borrow stablecoins against HYPE and Bitcoin collateral.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "b06c885d4428b621",
+        "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-18T10:33:05Z",
+        "url": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
+        "excerpt": "Starknet and arbitrum gained more than 17% while the 10-year Treasury yield slipped back below 5%, with 98 of CoinDesk 100 constituents advancing.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      }
+    ]
+  }
+}
