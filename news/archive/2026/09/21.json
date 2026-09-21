@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-21T16:27:07.431314Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "70f309439eb948d8",
+        "title": "Bitcoin Is Rallying Again—What Happens Next?",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-21T15:45:35Z",
+        "url": "https://decrypt.co/378767/bitcoin-rally-what-happens-next",
+        "excerpt": "The rally cleared an eight-month ceiling on a short squeeze and falling oil prices. The next three weeks will decide if it sticks.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4f11d0f24af59a7b",
+        "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-21T15:08:17Z",
+        "url": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks",
+        "excerpt": "Coinbase draws scrutiny after the CLARITY Act stalls, while the SEC moves ahead with tokenized stocks and crypto firms push deeper into payments.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "36080858d49810af",
+        "title": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-21T15:00:49Z",
+        "url": "https://decrypt.co/378754/tom-lee-bitmine-adds-ethereum-crypto-bull-market",
+        "excerpt": "The purchase lifts Bitmine's stash to nearly 5.99 million ETH—4.9% of supply—as chairman Tom Lee argues Ethereum's outperformance signals a stronger move ahead and institutions remain underweight.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6db5b9836d5aafd8",
+        "title": "ECB plans to buy tokenized bonds with its own funds",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-21T15:00:47Z",
+        "url": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
+        "excerpt": "The European Central Bank rolled out a new system to link its payment system to blockchain-based financial markets.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "be16f50bcfbea460",
+        "title": "Morning Minute: Kevin O’Leary Calls for $1 Million Bitcoin, With an Asterisk",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-21T14:33:03Z",
+        "url": "https://decrypt.co/378728/morning-minute-kevin-oleary-calls-for-1-million-bitcoin-with-an-asterisk",
+        "excerpt": "Meanwhile, Bitcoin pushed up to $85,000 and a new local high and altcoins soared in a huge overnight rally.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "9548b95efc90dc00",
+        "title": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-21T16:16:03Z",
+        "url": "https://decrypt.co/378811/apple-google-crypto-talent-stablecoin",
+        "excerpt": "The senior roles cover Apple’s consumer payment products and Google Cloud’s institutional blockchain business in Asia.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "aadfbaa90ac9d183",
+        "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-21T14:53:52Z",
+        "url": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
+        "excerpt": "One expert believes that the failure to pass the bill is a win for the banks that staunchly oppose stablecoin yields, while a global crypto lawyer believes overseas jurisdictions benefit.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "732d3094529b05a9",
+        "title": "Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-21T12:44:33Z",
+        "url": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
+        "excerpt": "Bessent pushed back against a bearish assessment of the U.S. economy highlighting strong growth, foreign demand for American assets and continued dollar dominance.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "22ab8c4f4b051f13",
+        "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-21T12:17:48Z",
+        "url": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
+        "excerpt": "The tech giants’ job listings could indicate that they are separately pursuing experts in stablecoins and tokenized deposits for future projects.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "def03709ef018b2b",
+        "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-21T11:27:00Z",
+        "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
+        "excerpt": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
