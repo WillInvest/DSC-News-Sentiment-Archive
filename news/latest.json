@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-09-22T14:48:07.817782Z",
+  "generatedAt": "2026-09-23T14:58:09.852690Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "e31820d58455e48c",
+        "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-23T14:28:50Z",
+        "url": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda",
+        "excerpt": "Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potentially extending digital asset access to about 18 million customers.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "13f20591d9f6e75b",
+        "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-23T13:02:43Z",
+        "url": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
+        "excerpt": "Nearly $18 billion in bitcoin and ether options will expire on Friday, potentially reshaping dealer hedging flows and short-term volatility.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "35d3138d553ce036",
+        "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-23T13:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
+        "excerpt": "The acquisition will support MoonPay’s aim of supporting mass adoption of tokenized real-world assets, CEO Ivan Soto-Wright said.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "58a98f31030e6c4a",
+        "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-23T13:00:00Z",
+        "url": "https://cointelegraph.com/news/moonpay-north-capital-acquisition",
+        "excerpt": "MoonPay’s North Capital acquisition adds US broker-dealer, trading and investment infrastructure as it expands into tokenized securities.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "72943da2dc76d127",
+        "title": "Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-23T12:26:07Z",
+        "url": "https://decrypt.co/379033/morning-minute-bitcoin-hits-86000-as-oil-slides-and-etfs-bid",
+        "excerpt": "Crypto majors continue their climb while alt leaders hit new ATHs. What’s driving the recent run up?",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "e83215db1cfbd626",
         "title": "Big Questions: Does Satoshi actually own 1.1 million Bitcoin?",
@@ -1803,93 +1863,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "c6541ced6da61416",
-        "title": "First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-24T11:23:58Z",
-        "url": "https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week",
-        "excerpt": "Bitcoin closed a weekly candle above its 50-week EMA for the first time since late 2025 as markets prepared for the Jackson Hole symposium.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "7ba436aa69f9f96e",
-        "title": "Financial repression: The new buzzword for bitcoin bulls",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-24T11:15:00Z",
-        "url": "https://www.coindesk.com/daybook-us/2026/08/24/financial-repression-the-new-buzzword-for-bitcoin-bulls",
-        "excerpt": "Your day-ahead look for Aug. 24, 2026",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "aa55b7228b018c88",
-        "title": "Bitcoin's Next Test Is $80,000 as Jackson Hole Meeting Looms",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-24T10:49:00Z",
-        "url": "https://decrypt.co/376315/bitcoins-next-test-is-80000-as-jackson-hole-meeting-looms",
-        "excerpt": "Kevin Warsh gives his first Jackson Hole keynote as Fed chair on Friday, with futures now pricing a September rate hike at 36%.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "e48e6afc2e4e365d",
-        "title": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-24T10:41:46Z",
-        "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years",
-        "excerpt": "BTC was little changed Monday after last week's 24% surge triggered by a Treasury buyback announcement that squeezed over $3 billion in shorts.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "1249e0d1113275d8",
-        "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-24T09:56:17Z",
-        "url": "https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers",
-        "excerpt": "Households shown bitcoin’s prior-year return were 23% more likely to report owning crypto in a follow-up survey.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "8fd8dbf92adafe4e",
-        "title": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-24T08:56:52Z",
-        "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october",
-        "excerpt": "US spot Bitcoin ETFs attracted $1.92 billion last week, their strongest weekly inflow since October 2025, as Bitcoin briefly climbed above $78,000 on Friday.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "ffc0814e77a3c793",
-        "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-24T08:28:14Z",
-        "url": "https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021",
-        "excerpt": "Treasury buybacks, ETF inflows and a weaker dollar ignite crypto’s breakout.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "81873d6321ba4a9c",
+        "title": "Winners and losers of the SEC’s new tokenized stocks rules",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-23T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules",
+        "excerpt": "The SEC has opened a five-year path for tokenized stocks, but only some products and venues fit the model. Will Uniswap, Robinhood, Coinbase or Kraken come out on top?",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "c94807f4379a47d5",
+        "title": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-23T13:00:00Z",
+        "url": "https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market",
+        "excerpt": "Cross-border stablecoin transfers surged as the wider crypto market shrank 37%, with Chainalysis pointing to growing use for trade, remittances and savings.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "5b1b7129b41f9e19",
+        "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-23T09:17:53Z",
+        "url": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
+        "excerpt": "The asset manager sees payments as the nearer-term opportunity, while markets for computing capacity remain at an early stage",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "e6469503b9e616ee",
+        "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-23T07:49:23Z",
+        "url": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
+        "excerpt": "Coinbase now allows users to borrow the USDC stablecoin against their bitcoin at a fixed interest rate and repayment date.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "bf37539e0f8055d1",
         "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
@@ -3097,90 +3121,6 @@
         "publishedAt": "2026-08-24T19:11:48Z",
         "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base",
         "excerpt": "Coinbase’s B20 equities bring stocks including Apple and Nvidia onchain, allowing eligible non-US users to trade them 24/7 and use them across DeFi.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "c1a92f91b4bd93f2",
-        "title": "Strategy Raises $2B Selling MSTR Stock, Establishes 'USD Cash' Pot",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-24T12:49:33Z",
-        "url": "https://decrypt.co/376325/strategy-raises-2b-selling-mstr-stock-establishes-usd-cash-pot",
-        "excerpt": "The company has not bought Bitcoin since June, and has now created a liquidity account it said may be spent on more of it.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "79880ada40a967df",
-        "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-24T11:36:55Z",
-        "url": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
-        "excerpt": "The London-based multinational bank with $850 billion in assets announced it will distribute Anchorpoint's HKDAP to eligible clients and partners.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "59c07a426580e719",
-        "title": "Japan’s SBI leads $68M Fasset round at $1B valuation",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-24T11:25:26Z",
-        "url": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation",
-        "excerpt": "Fasset raised $68 million in a Series C led by SBI Group as the companies plan a digital bank in Malaysia and to expand stablecoin payments.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "089ab6c2c9bb18b1",
-        "title": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-24T06:27:33Z",
-        "url": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
-        "excerpt": "The exploit shows how lightly held voting tokens can become a means of attack when control of a protocol is cheaper than the assets it governs.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "273e989898c2e45e",
-        "title": "Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-24T05:12:56Z",
-        "url": "https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead",
-        "excerpt": "Bessent’s bond-buyback plan fails to curb Treasury yields. Here's what it means for bitcoin and gold",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "462a3a52fe7697f3",
-        "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-24T04:45:00Z",
-        "url": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
-        "excerpt": "The firm raised $68 million as its revenue has grown six-fold as stablecoin payments and settlement expand, CEO Mohammad Raafi Hossain told CoinDesk.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "7026c39e3e3c7536",
-        "title": "Term Finance loses estimated $8.5M in vault governance exploit",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-24T03:59:29Z",
-        "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit",
-        "excerpt": "Term permanently closed its Meta Vaults after an attack reportedly removed nearly all of their Ethereum deposits.",
         "tags": [
           "DeFi",
           "Markets"

@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-23T14:58:09.852690Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "e31820d58455e48c",
+        "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-23T14:28:50Z",
+        "url": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda",
+        "excerpt": "Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potentially extending digital asset access to about 18 million customers.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "13f20591d9f6e75b",
+        "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-23T13:02:43Z",
+        "url": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
+        "excerpt": "Nearly $18 billion in bitcoin and ether options will expire on Friday, potentially reshaping dealer hedging flows and short-term volatility.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "35d3138d553ce036",
+        "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-23T13:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
+        "excerpt": "The acquisition will support MoonPay’s aim of supporting mass adoption of tokenized real-world assets, CEO Ivan Soto-Wright said.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "58a98f31030e6c4a",
+        "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-23T13:00:00Z",
+        "url": "https://cointelegraph.com/news/moonpay-north-capital-acquisition",
+        "excerpt": "MoonPay’s North Capital acquisition adds US broker-dealer, trading and investment infrastructure as it expands into tokenized securities.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "72943da2dc76d127",
+        "title": "Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-23T12:26:07Z",
+        "url": "https://decrypt.co/379033/morning-minute-bitcoin-hits-86000-as-oil-slides-and-etfs-bid",
+        "excerpt": "Crypto majors continue their climb while alt leaders hit new ATHs. What’s driving the recent run up?",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-23T13:39:08Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "81873d6321ba4a9c",
+        "title": "Winners and losers of the SEC’s new tokenized stocks rules",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-23T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules",
+        "excerpt": "The SEC has opened a five-year path for tokenized stocks, but only some products and venues fit the model. Will Uniswap, Robinhood, Coinbase or Kraken come out on top?",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "c94807f4379a47d5",
+        "title": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-23T13:00:00Z",
+        "url": "https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market",
+        "excerpt": "Cross-border stablecoin transfers surged as the wider crypto market shrank 37%, with Chainalysis pointing to growing use for trade, remittances and savings.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "5b1b7129b41f9e19",
+        "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-23T09:17:53Z",
+        "url": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
+        "excerpt": "The asset manager sees payments as the nearer-term opportunity, while markets for computing capacity remain at an early stage",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "e6469503b9e616ee",
+        "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-23T07:49:23Z",
+        "url": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
+        "excerpt": "Coinbase now allows users to borrow the USDC stablecoin against their bitcoin at a fixed interest rate and repayment date.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
