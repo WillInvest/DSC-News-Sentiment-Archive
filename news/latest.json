@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-09-23T14:58:09.852690Z",
+  "generatedAt": "2026-09-24T15:00:41.576465Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "b90f065ac98f0b8c",
+        "title": "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds—With AI",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-24T13:01:03Z",
+        "url": "https://decrypt.co/379113/elliptic-crypto-wallet-ai-pulse",
+        "excerpt": "Elliptic’s new AI-assisted tool, called Pulse, lets any officer input a wallet address or transaction hash and get a plain-language summary in seconds, aiming to bring crypto tracing beyond specialized units.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "0aef262ff89732a0",
+        "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T13:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
+        "excerpt": "The ARK Venture Fund is bringing exposure to sought-after private tech companies onchain through Securitize, first on Ethereum then potentially expanding to other chains.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "3a3de5b70bec3870",
+        "title": "Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T13:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/24/solana-foundation-hires-binance-polygon-veterans-as-it-ramps-up-tokenized-finance-push",
+        "excerpt": "Rachel Conlan and Jamal Raees join as Solana aims to court institutions moving payments and assets onchain.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "ee92c5028f369eb2",
+        "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T11:33:57Z",
+        "url": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
+        "excerpt": "The fraudster managed to scam about 100 people across the United States, convincing them of transferring funds to him, claiming their accounts had been hacked.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "bd152c5a6948d886",
+        "title": "Litecoin token has its moment as network activity booms",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T11:26:18Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/09/24/litecoin-token-has-its-moment-as-network-activity-booms",
+        "excerpt": "Your day-ahead look for Sept. 24, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "e31820d58455e48c",
         "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
@@ -1755,117 +1815,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "a083cf8e5a1bd0d5",
-        "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-25T11:15:02Z",
-        "url": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
-        "excerpt": "Your day-ahead look for Aug. 25, 2026",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "2c75e282af851678",
-        "title": "A bitcoin short squeeze for the ages as futures open interest collapses",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-25T10:57:02Z",
-        "url": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
-        "excerpt": "Falling open interest and subdued funding rates suggest the rally remains structurally healthy.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "d9166014bcf42c58",
-        "title": "Bitcoin extends 7-day advance to roughly 25%",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-25T10:52:03Z",
-        "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
-        "excerpt": "Bitcoin crossed $80,000 for the first time since May, extending its seven-day advance to roughly 25%.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "497d0ee28df035e5",
-        "title": "Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-25T10:49:43Z",
-        "url": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend",
-        "excerpt": "Bitcoin price analysis eyes the potential end of its current macro downtrend based on weekly RSI signals.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "b69f2b902b94d5f4",
-        "title": "US Can Now Sanction Anyone Operating in Iran's Crypto Sector",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-25T10:21:41Z",
-        "url": "https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
-        "excerpt": "Digital assets are among five sectors in a campaign Treasury called an “Economic D-Day,” alongside technology, gold, aviation and shipping.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "563083942d840327",
-        "title": "Thailand moves closer to Bitcoin, Ether ETFs with draft rules",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-25T10:20:14Z",
-        "url": "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules",
-        "excerpt": "Thailand’s SEC opened consultations on local Bitcoin and Ether ETF rules and qualification standards for foreign digital asset custodians.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "0ef955ffba4e13cc",
-        "title": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-25T09:30:27Z",
-        "url": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
-        "excerpt": "The $1.8 trillion manager is putting its onchain money market fund on the Hong Kong exchange's Earn channel.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "4738c288da984268",
-        "title": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-25T08:46:47Z",
-        "url": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved",
-        "excerpt": "Galaxy Research’s latest tally shows that more than half of 221 Coldcard hack victim reports involved individual losses exceeding 1 Bitcoin.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "21d059baefe2587f",
-        "title": "Live updates: Bitcoin rejected at $81,000 as 50-week moving average caps rally",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-25T07:40:11Z",
-        "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
-        "excerpt": "Spot bitcoin funds took in $337.56 million on Aug. 24, extending an unbroken run of inflows that has now put real money behind a rally that started with a short squeeze.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "ccb5a50a2210859a",
+        "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T14:41:05Z",
+        "url": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
+        "excerpt": "Jan-Oliver Sell, the CEO and founder of Qivalis, said the entire trade finance supply chain is moving into stablecoins.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "244152d07927857c",
+        "title": "Decrypt Media and FOMO Hour’s Thought Leader Farokh Sarmad to Take Main Stage at NEXTPredict NY Conference",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-24T13:01:16Z",
+        "url": "https://decrypt.co/379042/decrypt-media-and-fomo-hours-thought-leader-farokh-sarmad-to-take-main-stage-at-nextpredict-ny-conference",
+        "excerpt": "Premier Partnership will livestream the Main Stage through Decrypt Media and bring Rug Radio and FOMO HOUR programming onsite.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "2afa6fdd8c6fd8be",
+        "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-24T13:00:00Z",
+        "url": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive",
+        "excerpt": "Rachel Conlan will oversee institutional partnerships and ecosystem growth, while Jamal Raees will focus on stablecoins and tokenized deposits, following a wave of new partnerships.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "7a4b077122b57f62",
+        "title": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T12:31:53Z",
+        "url": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
+        "excerpt": "The $2 billion digital-asset investment firm rolls out an initiative to back, build and provide liquidity to projects bringing real-world yields into DeFi.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
       {
         "id": "81873d6321ba4a9c",
         "title": "Winners and losers of the SEC’s new tokenized stocks rules",
@@ -3097,30 +3097,6 @@
         "publishedAt": "2026-08-26T05:52:53Z",
         "url": "https://www.coindesk.com/markets/2026/08/26/E",
         "excerpt": "ETF issuers are lowering the barrier for bitcoin whales to trade self-custody for ETF shares.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "51f431c762fd4e1a",
-        "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-25T09:52:40Z",
-        "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution",
-        "excerpt": "The bank plans tokenized money market fund settlements in the fourth quarter as HKDAP expands its phased rollout into conventional banking.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "9740b3c25a875ca4",
-        "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-24T19:11:48Z",
-        "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base",
-        "excerpt": "Coinbase’s B20 equities bring stocks including Apple and Nvidia onchain, allowing eligible non-US users to trade them 24/7 and use them across DeFi.",
         "tags": [
           "DeFi",
           "Markets"

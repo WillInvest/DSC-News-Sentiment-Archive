@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-24T15:00:41.576465Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "b90f065ac98f0b8c",
+        "title": "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds—With AI",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-24T13:01:03Z",
+        "url": "https://decrypt.co/379113/elliptic-crypto-wallet-ai-pulse",
+        "excerpt": "Elliptic’s new AI-assisted tool, called Pulse, lets any officer input a wallet address or transaction hash and get a plain-language summary in seconds, aiming to bring crypto tracing beyond specialized units.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "0aef262ff89732a0",
+        "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T13:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
+        "excerpt": "The ARK Venture Fund is bringing exposure to sought-after private tech companies onchain through Securitize, first on Ethereum then potentially expanding to other chains.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "3a3de5b70bec3870",
+        "title": "Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T13:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/24/solana-foundation-hires-binance-polygon-veterans-as-it-ramps-up-tokenized-finance-push",
+        "excerpt": "Rachel Conlan and Jamal Raees join as Solana aims to court institutions moving payments and assets onchain.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "ee92c5028f369eb2",
+        "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T11:33:57Z",
+        "url": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
+        "excerpt": "The fraudster managed to scam about 100 people across the United States, convincing them of transferring funds to him, claiming their accounts had been hacked.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "bd152c5a6948d886",
+        "title": "Litecoin token has its moment as network activity booms",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T11:26:18Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/09/24/litecoin-token-has-its-moment-as-network-activity-booms",
+        "excerpt": "Your day-ahead look for Sept. 24, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "ccb5a50a2210859a",
+        "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T14:41:05Z",
+        "url": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
+        "excerpt": "Jan-Oliver Sell, the CEO and founder of Qivalis, said the entire trade finance supply chain is moving into stablecoins.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-24T13:29:50Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "244152d07927857c",
+        "title": "Decrypt Media and FOMO Hour’s Thought Leader Farokh Sarmad to Take Main Stage at NEXTPredict NY Conference",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-24T13:01:16Z",
+        "url": "https://decrypt.co/379042/decrypt-media-and-fomo-hours-thought-leader-farokh-sarmad-to-take-main-stage-at-nextpredict-ny-conference",
+        "excerpt": "Premier Partnership will livestream the Main Stage through Decrypt Media and bring Rug Radio and FOMO HOUR programming onsite.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "2afa6fdd8c6fd8be",
+        "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-24T13:00:00Z",
+        "url": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive",
+        "excerpt": "Rachel Conlan will oversee institutional partnerships and ecosystem growth, while Jamal Raees will focus on stablecoins and tokenized deposits, following a wave of new partnerships.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "7a4b077122b57f62",
+        "title": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-24T12:31:53Z",
+        "url": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
+        "excerpt": "The $2 billion digital-asset investment firm rolls out an initiative to back, build and provide liquidity to projects bringing real-world yields into DeFi.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      }
+    ]
+  }
+}
