@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-25T15:13:17.637097Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "42cd9b7a4f87c33d",
+        "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-25T14:32:48Z",
+        "url": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
+        "excerpt": "While Tether's stated ceiling places its maximum exposure under $64 million, the incident underscores lingering counterparty risks in fiat gateway networks.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "7e0fe4aaceeb11f8",
+        "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-25T13:04:06Z",
+        "url": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
+        "excerpt": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "d167b8476c238074",
+        "title": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-25T12:01:15Z",
+        "url": "https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows",
+        "excerpt": "Two entries in his annual disclosure put the holding somewhere between $16,000 and $65,000, alongside more than $1 million in cash.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "e3b5b1fc85e3d57b",
+        "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-25T11:54:28Z",
+        "url": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
+        "excerpt": "Bond volatility is at its highest since March, while the bitcoin VIX, BVIV and Wall Street's VIX remain near its yearly low.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "2500b2f715fe6dbc",
+        "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-25T11:29:04Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
+        "excerpt": "Your day-ahead look for Sept. 25, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "f7d0554d5ded4a7a",
+        "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-25T14:41:53Z",
+        "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
+        "excerpt": "The stablecoin issuer blacklisted a wallet holding about $318,000 in USDT and USDC. Most of the stolen funds sit in ether, which can't be frozen.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-25T13:32:49Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "d91feb880b10656d",
+        "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-25T09:59:45Z",
+        "url": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
+        "excerpt": "Quant jumped 39% over 24 hours and 93 of 100 CoinDesk 100 constituents rose, with the altcoin season index at its highest in more than three months.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "07bce648438d9a09",
+        "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-25T09:13:01Z",
+        "url": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
+        "excerpt": "At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "08dc4c752bf8da62",
+        "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-25T08:58:03Z",
+        "url": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
+        "excerpt": "The cross-chain lending protocol accused LayerZero and its co-founder Brian Pellegrino of failing to disclose weaknesses in their protocol, which led to the $292 million hack.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      }
+    ]
+  }
+}
