@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-26T14:26:21.165147Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "04fea9617b636ce6",
+        "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-26T12:56:41Z",
+        "url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+        "excerpt": "Two wallets have been almost emptied and a third is being drained, with about $75 million remaining across the five original holding accounts.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "104f75d57d878eb5",
+        "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-26T12:00:00Z",
+        "url": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+        "excerpt": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "88e444141e9d9ef9",
+        "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-26T09:02:22Z",
+        "url": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2",
+        "excerpt": "Peirce, known as “Crypto Mom,” served on the SEC for about eight years, including as director of the Crypto Task Force.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "5dc2f6f7925221bb",
+        "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-26T05:00:00Z",
+        "url": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+        "excerpt": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "0feab58a0a0e184b",
+        "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-26T04:30:00Z",
+        "url": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+        "excerpt": "The feature would let users bundle up to eight transactions, including asset-and-payment transfers, but a brief drop below the network’s 80% support threshold restarted its two-week activation clock.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "70d094953aacf7fc",
+        "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-26T13:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+        "excerpt": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage remains hard to dislodge, analysts told CoinDesk.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-26T12:17:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "b282b34e9f479f63",
+        "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-25T21:17:30Z",
+        "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+        "excerpt": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "42243c8246d40a88",
+        "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-25T18:42:51Z",
+        "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+        "excerpt": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "f001a767dd877b37",
+        "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-25T15:49:34Z",
+        "url": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets",
+        "excerpt": "Stablecoins and tokenized assets are pushing banks, exchanges and crypto companies into the same markets, from payments to stocks and ETFs.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
