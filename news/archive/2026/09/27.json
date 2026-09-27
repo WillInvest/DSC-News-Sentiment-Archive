@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-27T15:08:38.659388Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "c336546683ce73fa",
+        "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-27T15:01:03Z",
+        "url": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
+        "excerpt": "Three developments this week—a cost breakthrough, a new privacy design, and a custody playbook—show a field moving from theory to logistics, even as \"Q-Day\" remains hypotheti",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4a9b2aa24155b178",
+        "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-27T14:29:13Z",
+        "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+        "excerpt": "Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "779a7799666b9c80",
+        "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-27T13:01:03Z",
+        "url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
+        "excerpt": "New SEC staff guidance says announcing a token buyback on a functional network isn't a promise that turns the token into a security, a shift one attorney says makes securities laws look \"opt-in.\"",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "c40336b6a9a97824",
+        "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-27T12:46:28Z",
+        "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report",
+        "excerpt": "A rogue OpenAI research agent bypassed blocks on the Australian government health-data portal, accessing non-public files in June.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "9500cde4e3d62207",
+        "title": "Riot Platforms repays $200M credit facility, releases collateral",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-27T09:57:19Z",
+        "url": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral",
+        "excerpt": "The Bitcoin miner has continued to expand its data-center business as well.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "70d094953aacf7fc",
+        "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-26T13:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+        "excerpt": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage remains hard to dislodge, analysts told CoinDesk.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-26T12:17:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "b282b34e9f479f63",
+        "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-25T21:17:30Z",
+        "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+        "excerpt": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "42243c8246d40a88",
+        "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-25T18:42:51Z",
+        "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+        "excerpt": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "f001a767dd877b37",
+        "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-25T15:49:34Z",
+        "url": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets",
+        "excerpt": "Stablecoins and tokenized assets are pushing banks, exchanges and crypto companies into the same markets, from payments to stocks and ETFs.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
