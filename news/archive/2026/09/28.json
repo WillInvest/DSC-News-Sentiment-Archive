@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-09-28T18:08:16.524847Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "e8cbc5463b26a692",
+        "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-28T17:51:14Z",
+        "url": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
+        "excerpt": "Chainlink's CCIP 2.0 lets banks run their own security checks on cross-chain transfers, five months after a rival's setup lost $292 million to hackers.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "ece795990ba49c56",
+        "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-28T16:29:42Z",
+        "url": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
+        "excerpt": "Hegota will be Ethereum's last 'normal' fork, he argues, with everything after built on recursive STARKs and formal verification.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "8ddeeed9af56d7b3",
+        "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-28T14:46:21Z",
+        "url": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability",
+        "excerpt": "Some stolen assets have been frozen, but Bitget has yet to disclose how much has been recovered as investigators continue to assess a possible North Korea link.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "c59ca94b3bc731e6",
+        "title": "Altseason is coming — and traders are more discerning this time",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-28T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time",
+        "excerpt": "Altseason is almost here and early signs suggest traders are becoming more selective, with capital flowing into revenue-generating protocols across a number of different narratives.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "5b48b6c6bad10afd",
+        "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-28T13:27:40Z",
+        "url": "https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply",
+        "excerpt": "Bitmine has staked 84% of its tokens, a position it projects will generate some $358 million a year in staking rewards.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "bd1ad81f69b2c05d",
+        "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-28T18:02:54Z",
+        "url": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral",
+        "excerpt": "Eligible institutions can pledge Benji-issued fund shares for stablecoin credit lines while keeping the underlying assets in off-exchange custody.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "52cef6bdeefee42a",
+        "title": "The restaking gold rush is over, and top protocols are barely making a profit",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-28T16:24:51Z",
+        "url": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
+        "excerpt": "As restaking yields dried up and smart-contract risks mounted, Ethereum's top liquid restaking protocol walked away from its core business to build a crypto neobank instead.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "12ecc38df14a03f1",
+        "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-28T15:26:28Z",
+        "url": "https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields",
+        "excerpt": "Bitcoin extends last week's pullback as Trump rejects Iran's ceasefire plan, sending oil above $100 and yields higher ahead of Wednesday's PCE report.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-28T13:32:34Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "5bc75ebb0b311011",
+        "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-28T13:06:11Z",
+        "url": "https://www.coindesk.com/markets/2026/09/28/ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns",
+        "excerpt": "AI agents could trigger a bank run by automatically moving household cash from low-interest checking accounts to higher-yield alternatives, Slok warns.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      }
+    ]
+  }
+}

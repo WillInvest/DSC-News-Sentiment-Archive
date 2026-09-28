@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-09-27T15:08:38.659388Z",
+  "generatedAt": "2026-09-28T18:08:16.524847Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "e8cbc5463b26a692",
+        "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-28T17:51:14Z",
+        "url": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
+        "excerpt": "Chainlink's CCIP 2.0 lets banks run their own security checks on cross-chain transfers, five months after a rival's setup lost $292 million to hackers.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "ece795990ba49c56",
+        "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-28T16:29:42Z",
+        "url": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
+        "excerpt": "Hegota will be Ethereum's last 'normal' fork, he argues, with everything after built on recursive STARKs and formal verification.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "8ddeeed9af56d7b3",
+        "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-28T14:46:21Z",
+        "url": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability",
+        "excerpt": "Some stolen assets have been frozen, but Bitget has yet to disclose how much has been recovered as investigators continue to assess a possible North Korea link.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "c59ca94b3bc731e6",
+        "title": "Altseason is coming — and traders are more discerning this time",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-28T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time",
+        "excerpt": "Altseason is almost here and early signs suggest traders are becoming more selective, with capital flowing into revenue-generating protocols across a number of different narratives.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "5b48b6c6bad10afd",
+        "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-28T13:27:40Z",
+        "url": "https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply",
+        "excerpt": "Bitmine has staked 84% of its tokens, a position it projects will generate some $358 million a year in staking rewards.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "c336546683ce73fa",
         "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
@@ -1731,129 +1791,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "57522d5f2fe9842d",
-        "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-29T15:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
-        "excerpt": "A new survey suggests some of bitcoin's most familiar sales pitches of changing the world may be poorly suited to a majority of prospective buyers.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "bf5275e256433119",
-        "title": "Swift’s $1.5 quadrillion network faces a blockchain test",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-29T15:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
-        "excerpt": "Crypto executives say new blockchain payment infrastructure could make Swift obsolete. Bankers say its 11,500-institution network gives it the power to absorb the technology instead.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "3ba94bc6842dc898",
-        "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-29T06:47:12Z",
-        "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k",
-        "excerpt": "US spot Bitcoin ETFs posted $201.8 million in net outflows Friday, led by ARK 21Shares, as total fund assets slipped back below $100 billion.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "20264e52715b10d1",
-        "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-29T04:30:00Z",
-        "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
-        "excerpt": "Six decade-old wallets moved $40 million this month, but Galaxy's data shows dormant coin activity at its lowest since 2022 and 2026 on pace for under half of last year's total.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "4d957e3129685791",
-        "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-29T02:30:00Z",
-        "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
-        "excerpt": "An Anthropic model cut the work needed to break a leading post-quantum signature candidate by a factor of 67 million last month, while Bitcoin and Ethereum published their own migration plans this week.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "079c3c63b82defbe",
-        "title": "Solana validators approve proposal to accelerate SOL disinflation",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-28T19:53:12Z",
-        "url": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation",
-        "excerpt": "The approved proposal doubles Solana’s annual disinflation rate from 15% to 30%, reducing future SOL issuance while leaving its long-term inflation target unchanged.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "118bebc26c4afdc0",
-        "title": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-28T19:46:03Z",
-        "url": "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
-        "excerpt": "Evernorth has gained SEC clearance, teeing up a shareholder vote on its Nasdaq listing—while the firm's XRP stash sits well below what it paid for it.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "83546d343761e4e1",
-        "title": "Fed Chair Warsh Calls AI a 'Hinge Point in History'—4 Key Things He Said",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-28T17:18:52Z",
-        "url": "https://decrypt.co/376821/fed-chair-warsh-ai-hinge-point-4-key-things",
-        "excerpt": "Fed Chair Warsh devoted a full section of his speech today at Jackson Hole to AI's weight on the economy. Here are the biggest takeaways.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "230c7f5ab08e1e7f",
-        "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-28T16:39:02Z",
-        "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-        "excerpt": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "2db79592b5c91dc9",
-        "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-28T16:12:45Z",
-        "url": "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
-        "excerpt": "Solana's first network-wide vote went down to the wire, with Kraken and Galaxy-linked validators switching sides before the disinflation proposal narrowly passed.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "bd1ad81f69b2c05d",
+        "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-28T18:02:54Z",
+        "url": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral",
+        "excerpt": "Eligible institutions can pledge Benji-issued fund shares for stablecoin credit lines while keeping the underlying assets in off-exchange custody.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "52cef6bdeefee42a",
+        "title": "The restaking gold rush is over, and top protocols are barely making a profit",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-28T16:24:51Z",
+        "url": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
+        "excerpt": "As restaking yields dried up and smart-contract risks mounted, Ethereum's top liquid restaking protocol walked away from its core business to build a crypto neobank instead.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "12ecc38df14a03f1",
+        "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-28T15:26:28Z",
+        "url": "https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields",
+        "excerpt": "Bitcoin extends last week's pullback as Trump rejects Iran's ceasefire plan, sending oil above $100 and yields higher ahead of Wednesday's PCE report.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "5bc75ebb0b311011",
+        "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-28T13:06:11Z",
+        "url": "https://www.coindesk.com/markets/2026/09/28/ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns",
+        "excerpt": "AI agents could trigger a bank run by automatically moving household cash from low-interest checking accounts to higher-yield alternatives, Slok warns.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
       {
         "id": "70d094953aacf7fc",
         "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
@@ -3052,54 +3040,6 @@
         "tags": [
           "DeFi",
           "Lending"
-        ]
-      },
-      {
-        "id": "2dd7b66d8c90b006",
-        "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-29T15:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
-        "excerpt": "AI agents are coming. They will need to pay each other. Crypto executives agree on the problem but disagree sharply on the solution, and one thinks the answer has not been invented yet.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "20c4854f05066589",
-        "title": "Stablecoins not credible for payments at scale, BIS chief says",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-29T08:01:04Z",
-        "url": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief",
-        "excerpt": "BIS chief Pablo Hernández de Cos said stablecoins lack credibility for payments at scale, while a new FSI study highlights sharp differences in issuer rules.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "b9d4cd08a0196a36",
-        "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-28T17:46:12Z",
-        "url": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals",
-        "excerpt": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea’s upcoming football season.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "a49b5652b44cd0c5",
-        "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-28T16:17:09Z",
-        "url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans",
-        "excerpt": "The institutional crypto exchange is providing $100 million in stablecoin liquidity to support loans backed by AI computing infrastructure.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
         ]
       }
     ]
