@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-09-28T18:08:16.524847Z",
+  "generatedAt": "2026-09-29T16:29:01.546546Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "c1a740efef91a2da",
+        "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-29T16:18:06Z",
+        "url": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach",
+        "excerpt": "Gracy Chen said she saw the 2025 Bybit hack as a “good reference point” for Bitget’s security breach, noting that only a small percentage of funds had been frozen or recovered.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "2beb7f4d65b78cfd",
+        "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-29T16:00:00Z",
+        "url": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
+        "excerpt": "The relaunched wallet hides payments made on the Aztec Network, while deposits from Ethereum remain visible.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "f73e41719491adcd",
+        "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-29T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin",
+        "excerpt": "An October pullback could offer a buying opportunity before Bitcoin’s next cycle peak, which Brandt expects between $300,000 and $600,000. He’s not sold on “fool coin” XRP.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "06d31353f8faf936",
+        "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-29T12:40:12Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares",
+        "excerpt": "CoinShares says IBIT offers clues to institutional buying, but basis trades mean inflows are not necessarily bets on rising Bitcoin prices.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "ba7f5f8d99587084",
+        "title": "Bitcoin beats gold, surge to $100,000 in play",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-29T11:34:55Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
+        "excerpt": "Your day-ahead look for Sept. 29, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "e8cbc5463b26a692",
         "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
@@ -1731,69 +1791,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "d96b9c9c1ace9d35",
-        "title": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-30T13:31:04Z",
-        "url": "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses",
-        "excerpt": "More than 100 AI, security, finance, and technology organizations want governments and industry to prepare for attacks powered by increasingly capable models.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "319df9556dbf341c",
-        "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-30T09:55:00Z",
-        "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans",
-        "excerpt": "Russia’s largest bank, Sber, plans to accept USDT and Ether alongside Bitcoin as loan collateral as the country introduces regulated crypto trading under a new law.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "b08b4cc1bdd96cdb",
-        "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-29T23:49:17Z",
-        "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
-        "excerpt": "The exploit caused the neobank's AVICI token to drop 49% from a 24-hour high, hitting a record low before paring some of the losses.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "b03116443dd07344",
-        "title": "Polygon discloses security flaws fixed in recent hard forks",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-29T20:28:51Z",
-        "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks",
-        "excerpt": "The vulnerabilities posed denial-of-service and validator resource risks but were patched before Polygon publicly disclosed them.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "c7d19656692e9994",
-        "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-29T19:12:42Z",
-        "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth",
-        "excerpt": "Stellar’s real-world asset market has expanded rapidly this year as institutional adoption and tokenization activity grow across the network.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "3f58c1ae8be0c42d",
+        "title": "Bitcoin Hovers at $84K as Treasury Yields Hold Near Multi-Year Highs",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-29T14:07:44Z",
+        "url": "https://decrypt.co/379541/bitcoin-hovers-at-84k-as-treasury-yields-hold-near-multi-year-highs",
+        "excerpt": "Analysts point to crude prices capping non-yielding assets, while spot ETFs have taken money in for eight sessions running.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "1316efec7a7e563e",
+        "title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-29T12:05:18Z",
+        "url": "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible",
+        "excerpt": "Plus, crypto majors rebound as oil and yields fall and Saylor’s Strategy returns to buying Bitcoin.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "c3f082d84d36b16e",
+        "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-29T10:28:51Z",
+        "url": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
+        "excerpt": "Aave jumped 11% on speculation over a token burn, with 72 of 100 CoinDesk 100 constituents higher even as the 10-year Treasury yield sat at 5.234%.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "6daf7630dcc0f9b8",
+        "title": "Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-29T10:14:41Z",
+        "url": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
+        "excerpt": "The Conference Board's Consumer Confidence Index fell to its lowest level in more than a decade in September, with expectations of continued weakening in business and labor market conditions.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "bd1ad81f69b2c05d",
         "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
@@ -3025,18 +3073,6 @@
         "publishedAt": "2026-08-31T04:57:13Z",
         "url": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic",
         "excerpt": "An attacker allegedly pushed Tectonic’s thinly traded TONIC token up 100-fold, used it as collateral to borrow real assets and left most funds stranded when Cronos validators paused the network.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "8b9827eafad579ed",
-        "title": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-30T12:00:00Z",
-        "url": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
-        "excerpt": "As bitcoin surges back above $80,000, sophisticated trading firms are quietly collecting yield rather than making directional bet.",
         "tags": [
           "DeFi",
           "Lending"
