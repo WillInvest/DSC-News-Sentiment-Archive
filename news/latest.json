@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-09-29T16:29:01.546546Z",
+  "generatedAt": "2026-09-30T16:23:18.282752Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "073ba18281433b3f",
+        "title": "Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-30T15:17:45Z",
+        "url": "https://decrypt.co/379702/ex-nca-officer-must-repay-2-4m-for-bitcoin-he-stole-when-it-was-worth-77k",
+        "excerpt": "Paul Chowles took 50 BTC from a Silk Road 2.0 seizure in 2017. Prosecutors have now valued the theft at more than 30 times that.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "caf03197907669c6",
+        "title": "Could THORChain face prosecution over stolen Bitget funds?",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-09-30T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget",
+        "excerpt": "THORChain will not — or can not — block addresses linked to the $387.5 million Bitget hack. Can the devs be prosecuted for money laundering? It’s complicated, says crypto lawyer Yuriy Brisov.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "879a0741c7df9244",
+        "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-30T13:00:00Z",
+        "url": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
+        "excerpt": "Petrobras is testing the blockchain in two research projects aimed at preventing emissions benefits from being counted twice and tracing fuel data across production and use.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "e9abfbead9784b01",
+        "title": "A stronger dollar is a weaker threat to bitcoin than traders think",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-30T11:20:09Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
+        "excerpt": "Your day-ahead look for Sept. 30, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "d2cbc1c089ffcb48",
+        "title": "Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-30T11:04:09Z",
+        "url": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
+        "excerpt": "Three transfers pushed about 15% of the stolen ZEC into Ironwood, where payments hide their senders, recipients and amounts.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
       {
         "id": "c1a740efef91a2da",
         "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
@@ -1755,45 +1815,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "6ace5ca50fa3e458",
-        "title": "Bitmine now controls 4.9% of Ethereum supply after adding 53.5K ETH",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-31T15:39:00Z",
-        "url": "https://cointelegraph.com/news/bitmine-ether-buying-streak-65-weeks-ethereum",
-        "excerpt": "Bitmine has bought Ether for 65 consecutive weeks, maintaining its accumulation strategy through a prolonged crypto downturn and $5.1 billion in paper losses.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "19e0a98aa3ee0352",
-        "title": "Strive buys 1,800 Bitcoin for $143M, becomes fifth-biggest corporate holder",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-31T15:08:12Z",
-        "url": "https://cointelegraph.com/news/strive-buys-1800-bitcoin-143m-btc-purchase",
-        "excerpt": "Strive’s latest Bitcoin purchase lifted its holdings to 23,156 BTC, making it the fifth-largest publicly traded corporate holder as crypto markets rebound.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "811da1d5e324f9d7",
-        "title": "Tom Lee's Bitmine Buys $131M of ETH in Largest Ethereum Purchase Since June",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-31T14:54:47Z",
-        "url": "https://decrypt.co/376932/tom-lee-bitmine-largest-ethereum-purchase-since-june",
-        "excerpt": "The purchase lifts Bitmine's stash to 5.9 million ETH—4.9% of supply—as chairman Tom Lee points to crypto's strong third quarter.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "58cc8f4dbad95fa3",
+        "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
+        "source": "Decrypt",
+        "publishedAt": "2026-09-30T15:50:25Z",
+        "url": "https://decrypt.co/379705/bitcoin-jumps-cool-pce-inflation-data",
+        "excerpt": "The Fed's favorite inflation gauge came in cooler than expected, rate-hike odds fell and Bitcoin traders took the hint.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "d6a7f907bb7e023e",
+        "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-30T15:34:50Z",
+        "url": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
+        "excerpt": "The “overwhelming majority” of Open Standard’s equity will be distributed over time to partners based on how much they help grow the stablecoin, CEO Zach Abrams said.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "29dde323cb1dabac",
+        "title": "U.S. CFTC seeks event contract definitions that may defy states' gambling claims",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-30T15:19:36Z",
+        "url": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
+        "excerpt": "As it battles with states over prediction markets, the CFTC sent two related rules on swaps definitions for White House review.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "ea95f0086107fdf9",
+        "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
+        "source": "CoinDesk",
+        "publishedAt": "2026-09-30T10:11:36Z",
+        "url": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
+        "excerpt": "Bitcoin held near $83,000 as the 30-year Treasury yield topped 5.6%, while DeFi tokens reversed and lighter fell after Robinhood unveiled U.S. perps.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
       {
         "id": "3f58c1ae8be0c42d",
         "title": "Bitcoin Hovers at $84K as Treasury Yields Hold Near Multi-Year Highs",
@@ -3037,42 +3109,6 @@
         "publishedAt": "2026-08-31T16:38:51Z",
         "url": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
         "excerpt": "Bitcoin price action saw sharp moves within its local range as US Treasury Secretary Scott Bessent addressed US bond yields.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "772cb55c89c164c7",
-        "title": "Japanese regulator requests tax filing exemption for trust-type stablecoins in 2027 reform",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-31T13:20:05Z",
-        "url": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027",
-        "excerpt": "Japan’s FSA requested to exempt trust-type stablecoins from mandatory tax filings starting in fiscal year 2027, arguing that it would improve their use as transaction tools.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "de3bea3556c4f5aa",
-        "title": "More Markets lending reserve drained for $9.3M: Blockaid",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-31T08:57:10Z",
-        "url": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m",
-        "excerpt": "Blockaid said an attacker used an Ankr liquid staking token and E-mode to overborrow from More Markets and drain about $9.3 million in WFLOW from a lending reserve.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "abae28138f953aaf",
-        "title": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
-        "source": "CoinDesk",
-        "publishedAt": "2026-08-31T04:57:13Z",
-        "url": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic",
-        "excerpt": "An attacker allegedly pushed Tectonic’s thinly traded TONIC token up 100-fold, used it as collateral to borrow real assets and left most funds stranded when Cronos validators paused the network.",
         "tags": [
           "DeFi",
           "Lending"
