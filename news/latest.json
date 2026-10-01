@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-09-30T16:23:18.282752Z",
+  "generatedAt": "2026-10-01T17:00:11.657040Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "0a62193eca17bc26",
+        "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-01T15:43:34Z",
+        "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack",
+        "excerpt": "The platform said it will compensate users affected by the hack, which stemmed from a bug that affected deposits and withdrawals.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "6cf15566f67de7d3",
+        "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-01T14:18:14Z",
+        "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+        "excerpt": "The popular cross-chain trading system said it will reimburse losses after a bug affected deposits and withdrawals across several networks.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "b88022a0d8227eb2",
+        "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-01T13:35:47Z",
+        "url": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion",
+        "excerpt": "Crypto security losses reached $1.26 billion in Q3 across 247 incidents, with September alone accounting for roughly $769 million.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "3a5fe7b48da88f31",
+        "title": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-01T12:29:00Z",
+        "url": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
+        "excerpt": "Plus, a major MetaMask security event has crypto natives on edge as details trickle out.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "df2cb40fe3de0164",
+        "title": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-01T12:23:15Z",
+        "url": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
+        "excerpt": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "073ba18281433b3f",
         "title": "Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K",
@@ -1731,93 +1791,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "b39f2513cd0e4fc8",
-        "title": "Gal Gadot Defends AI Use in Bitcoin Film: 'Work With It or Be Out of the Game'",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-01T14:39:55Z",
-        "url": "https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
-        "excerpt": "The actor’s lawyers spent six months negotiating the contract for “Bitcoin: Killing Satoshi” in order to “protect” her performance.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "ad25c508d31aea0d",
-        "title": "Bitcoin enters ‘Rektember’ as rate-hike risk combines with seasonality to threaten rally",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-01T13:55:26Z",
-        "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally",
-        "excerpt": "September has historically been a poor month for risk assets in general, and bitcoin, in particular.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "6656bc6946a142ca",
-        "title": "Does the Bitcoin rally mean we haven’t wasted our lives in crypto?",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-01T13:30:00Z",
-        "url": "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto",
-        "excerpt": "Crypto is showing signs of life again, but its biggest wins look different from what early believers imagined. After a decade of building, has it all been worth it?",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "5f461669aef4ea61",
-        "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-01T13:13:05Z",
-        "url": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck",
-        "excerpt": "Ripple was among the latest blockchain companies to sign a strategic partnership to build more custody and tokenized asset management solutions for Asian institutional participants.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "392f0f7648022d2b",
-        "title": "Morning Minute: Saylor’s Back Buying Bitcoin",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-01T12:21:23Z",
-        "url": "https://decrypt.co/377014/morning-minute-saylors-back-buying-bitcoin",
-        "excerpt": "Strategy somehow threaded the needle of buying Bitcoin and STRC while also raising cash. Now how will the market respond?",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "3129b70de6474421",
-        "title": "Former SEC, CFTC Officials Urge Lighter Touch to Bring Crypto Perps Trading Onshore",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-31T17:06:04Z",
-        "url": "https://decrypt.co/376936/sec-cftc-crypto-perps-trading-onshore",
-        "excerpt": "With the Clarity Act stuck in recess limbo, the agencies are pressing ahead on crypto derivatives and custody, as former officials warn that overly burdensome rules will keep a $90 trillion perps market offshore.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "8d1af5fa95c839e9",
-        "title": "Bitcoin Holds Steady as US Strikes on Iran Rattle Stocks and Lift Oil",
-        "source": "Decrypt",
-        "publishedAt": "2026-08-31T16:55:46Z",
-        "url": "https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil",
-        "excerpt": "The largest cryptocurrency is on track for its best month since 2017, holding above $78,000 even as a hawkish Fed and renewed Middle East conflict drag on stocks and lift crude.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "1cd75d38081b37ea",
+        "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-01T15:55:19Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs",
+        "excerpt": "US bond yields fell sharply around Thursday’s Wall Street open as Bitcoin price action sought to preserve a local trend of higher lows.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "b5153f5aca994a44",
+        "title": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-01T15:43:27Z",
+        "url": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
+        "excerpt": "Near Intents froze its cross-chain swaps after a bug let an attacker drain about $3.8 million. The company promised to repay every user.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "8bfe54c87a71210a",
+        "title": "LATAM stablecoin liquidity may depend on few providers, investor says",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-01T13:30:00Z",
+        "url": "https://cointelegraph.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says",
+        "excerpt": "Researchers in a Latin American stablecoin ecosystem report warned “fragility in the system is concentrated in its thinnest layer,” with just 16 of 494 companies focused primarily on wholesale liquidity, treasury and credit.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "b95bdb30950e9d56",
+        "title": "Stablecoins can drain from banks and nations at lightning speed",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-01T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed",
+        "excerpt": "Highly liquid and settling 24/7, stablecoins can leave banks and countries at lightning speed. But whether stablecoins are a risk — or an opportunity — depends on your perspective.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "58cc8f4dbad95fa3",
         "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
@@ -3037,78 +3061,6 @@
         "publishedAt": "2026-09-02T08:31:00Z",
         "url": "https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow",
         "excerpt": "The ADP reported private-sector job growth of just 38,000, missing forecasts and marking the weakest level since January.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "c28c3d3d17cdeb70",
-        "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-01T13:56:44Z",
-        "url": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
-        "excerpt": "The protocol aims to give fintechs and investors a faster way to recover losses from DeFi hacks, while letting XRP, bitcoin and XLM holders earn yield by backing that protection.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "4d9b4ad4a0068c7b",
-        "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-01T13:15:35Z",
-        "url": "https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments",
-        "excerpt": "Ethena Pay offers a 6% dollar savings rate and 5% card cashback, using Avalanche for settlement.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "eacf8b508639b3a0",
-        "title": "Kast launches stablecoin-powered business platform after $80M raise",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-01T13:00:00Z",
-        "url": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise",
-        "excerpt": "Kast aims to onboard between 1,000 and 5,000 active businesses to its new platform by the end of 2026.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "d9ca6673bdfccfdd",
-        "title": "Saylor Urges MSCI to Drop 'Discriminatory' Rule That Would Delete Strategy",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-01T11:28:45Z",
-        "url": "https://decrypt.co/377010/saylor-urges-msci-to-drop-discriminatory-rule-that-would-delete-strategy",
-        "excerpt": "The proposed screen would cut three companies from MSCI's global indexes in November, with Strategy the largest by some distance.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "befdad0708ce0b0b",
-        "title": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-01T10:35:21Z",
-        "url": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
-        "excerpt": "The country’s financial watchdog says its proposed stablecoin rules are aligned with U.S. and EU frameworks and that it also paves the way for the recognition of foreign stablecoin.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "228ebec0639d3fb1",
-        "title": "Bitcoin begins volatile monthly close as US bond yields eye new 20-year high",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-08-31T16:38:51Z",
-        "url": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high",
-        "excerpt": "Bitcoin price action saw sharp moves within its local range as US Treasury Secretary Scott Bessent addressed US bond yields.",
         "tags": [
           "DeFi",
           "Lending"
