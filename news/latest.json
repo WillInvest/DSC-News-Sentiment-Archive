@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-10-01T17:00:11.657040Z",
+  "generatedAt": "2026-10-02T16:14:46.100213Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "e690263d15170218",
+        "title": "Crypto’s billions are back, but the premiums aren’t",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-02T15:32:53Z",
+        "url": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations",
+        "excerpt": "Kalshi seeks a $40 billion valuation, while Blockchain.com targets an IPO and crypto treasury companies struggle to maintain their once-high valuations.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "d38cf2b4ebb8807a",
+        "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-02T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits",
+        "excerpt": "The furious debate over Bitget’s $387.7M of hacked funds comes down to whether ideals around “permissionless and decentralized” tech means never intervening — even if you could.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "1ceaf7707aa65427",
+        "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-02T13:22:19Z",
+        "url": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
+        "excerpt": "It is incumbent upon us to continue Commissioner Peirce’s mission, writes Will Schwartz, policy associate at the Blockchain Association.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "a7e096df66ce010d",
+        "title": "'Uptober' Off With a Bang as Bitcoin Surges to $86K",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-02T12:58:25Z",
+        "url": "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k",
+        "excerpt": "Cooler inflation and two dovish Fed speakers have shifted the odds toward a rate hold, with payrolls due and CPI landing on October 14.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "f8bbc76c3c389385",
+        "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-02T12:31:53Z",
+        "url": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
+        "excerpt": "Bitcoin held earlier gains following the report, up more than 2% over the past 24 hours and just below $87,000.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "0a62193eca17bc26",
         "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
@@ -1731,69 +1791,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "69031bb963712992",
-        "title": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-02T13:30:00Z",
-        "url": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead",
-        "excerpt": "Arthur Hayes says Bitcoin is going to grind higher from here, but Ethereum is his number one pick due to its potential to increase “3x to 5x pretty quickly.”",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "b5583483a61aa6c6",
-        "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-02T13:14:47Z",
-        "url": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
-        "excerpt": "Russia-based Sality watched for copied bitcoin and Ethereum addresses and quietly replaced them with the attacker’s. CrowdStrike and law enforcement have now isolated more than 15,000 infected machines.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "1d62ce177d9e57b4",
-        "title": "The bearish 'Bart Simpson' pattern is back as bitcoin and XRP prices pull back",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-02T12:13:26Z",
-        "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-flashes-the-bart-simpsom-pattern-analyst-debate-whether-it-will-actually-form",
-        "excerpt": "Analysts discuss the cartoon-themed price action as prices for major cryptocurrencies wilt.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "61dcfff4a344a57e",
-        "title": "Japan’s Remixpoint dumps altcoins, leaves 1,506 BTC as sole crypto bet",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-02T12:00:00Z",
-        "url": "https://cointelegraph.com/news/remixpoint-dumps-altcoins-1506-btc-sole-crypto-bet",
-        "excerpt": "Remixpoint sold $5.5 million in ETH, SOL, XRP and DOGE, booking a $736,000 net gain as it narrowed its crypto strategy to focus on Bitcoin.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "5299f2bf1f1c166f",
-        "title": "Morning Minute: Bitcoin Enters ‘Rektember’ After Best August Since 2017",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-02T11:55:48Z",
-        "url": "https://decrypt.co/377159/morning-minute-bitcoin-enters-rektember-after-best-august-since-2017",
-        "excerpt": "So far, Rektember is living up to its name as Bitcoin slips. Will this September follow the historical averages, or break the trend?",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "1f384df524ff46fc",
+        "title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-02T15:27:31Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data",
+        "excerpt": "Bitcoin climbed after weaker-than-expected payrolls pushed Treasury yields lower, but order-book resistance kept BTC from reaching new macro highs.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "909b75d5ac4f9406",
+        "title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-02T14:12:48Z",
+        "url": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens",
+        "excerpt": "European issuers say Europe cannot ignore demand for dollar stablecoins as businesses seek USD liquidity for global payments and settlement.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "5c318835cd567298",
+        "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-02T12:25:56Z",
+        "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
+        "excerpt": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "6498505259c87543",
+        "title": "Live updates: Bitcoin reverses big early gains following soft U.S. jobs data",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-02T11:22:40Z",
+        "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
+        "excerpt": "Bond yields also suffered a major whipsaw, turning higher by the afternoon after early declines.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
       {
         "id": "1cd75d38081b37ea",
         "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
@@ -3016,54 +3064,6 @@
         "tags": [
           "DeFi",
           "Markets"
-        ]
-      },
-      {
-        "id": "650a2813858aea0d",
-        "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-02T13:40:03Z",
-        "url": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident",
-        "excerpt": "Full Sail is shutting down after an attacker removed about $91,000 from three vaults during a security incident linked to oracle provider Switchboard.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "995ef3be457c7608",
-        "title": "The token supercycle: everything of value is becoming programmable",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-02T13:00:00Z",
-        "url": "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable",
-        "excerpt": "Tokenization is not just about increasing access to tokens, whatever they may represent, but a fundamental shift in how value is created, owned, financed and moved, argues Solana Foundation’s Lily Liu.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "c6e4fca294753250",
-        "title": "Bitcoin slips below $76,500 as U.S. strikes on Iran send oil above $93",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-02T10:50:38Z",
-        "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-slips-below-usd77-000-as-u-s-strikes-on-iran-send-oil-above-usd93",
-        "excerpt": "Bitcoin fell 1% since midnight as Brent jumped past $93 and Treasury yields climbed toward 4.8%.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "de17b8dc009c125e",
-        "title": "Live updates: Bitcoin trades near $77,000, as yields ease following soft ADP jobs report",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-02T08:31:00Z",
-        "url": "https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow",
-        "excerpt": "The ADP reported private-sector job growth of just 38,000, missing forecasts and marking the weakest level since January.",
-        "tags": [
-          "DeFi",
-          "Lending"
         ]
       }
     ]
