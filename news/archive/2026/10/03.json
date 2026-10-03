@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-03T14:42:24.021993Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "fecba003d86edf3d",
+        "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-03T13:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+        "excerpt": "Tokenization is not just about putting individual stocks and funds onchain. The next step could be entire investment portfolios that can be traded, rebalanced and eventually managed in real-time.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "a24742ab0f93b951",
+        "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-03T11:59:10Z",
+        "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter",
+        "excerpt": "The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "4b6d5c57d3ec91e9",
+        "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-02T21:16:04Z",
+        "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
+        "excerpt": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face—and whether the company can be held legally accountable.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "5affcc2ad2b5236a",
+        "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-02T20:16:04Z",
+        "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
+        "excerpt": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "c559a6a3a5bab225",
+        "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-02T18:24:05Z",
+        "url": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue",
+        "excerpt": "Once among Ethereum’s largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-03T12:20:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "19c4927672e66514",
+        "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-02T19:46:03Z",
+        "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
+        "excerpt": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter—siding with the ECB in calling for more flexible rules.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "83f84212d3dd6173",
+        "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-02T18:41:17Z",
+        "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report",
+        "excerpt": "The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "1f384df524ff46fc",
+        "title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-02T15:27:31Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data",
+        "excerpt": "Bitcoin climbed after weaker-than-expected payrolls pushed Treasury yields lower, but order-book resistance kept BTC from reaching new macro highs.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "909b75d5ac4f9406",
+        "title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-02T14:12:48Z",
+        "url": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens",
+        "excerpt": "European issuers say Europe cannot ignore demand for dollar stablecoins as businesses seek USD liquidity for global payments and settlement.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}

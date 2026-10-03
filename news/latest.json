@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-10-02T16:14:46.100213Z",
+  "generatedAt": "2026-10-03T14:42:24.021993Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "fecba003d86edf3d",
+        "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-03T13:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+        "excerpt": "Tokenization is not just about putting individual stocks and funds onchain. The next step could be entire investment portfolios that can be traded, rebalanced and eventually managed in real-time.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "a24742ab0f93b951",
+        "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-03T11:59:10Z",
+        "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter",
+        "excerpt": "The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "4b6d5c57d3ec91e9",
+        "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-02T21:16:04Z",
+        "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
+        "excerpt": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face—and whether the company can be held legally accountable.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "5affcc2ad2b5236a",
+        "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-02T20:16:04Z",
+        "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
+        "excerpt": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "c559a6a3a5bab225",
+        "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-02T18:24:05Z",
+        "url": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue",
+        "excerpt": "Once among Ethereum’s largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "e690263d15170218",
         "title": "Crypto’s billions are back, but the premiums aren’t",
@@ -1731,69 +1791,33 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "fdf5c5bf59d30d08",
-        "title": "VARA, Securitize sign MoU for tokenization innovation in Dubai",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-03T13:00:00Z",
-        "url": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai",
-        "excerpt": "VARA and Securitize signed an MoU to foster more tokenization innovation in Dubai and explore how tokenized financial innovation should be regulated in the region.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "a3c08f1609cf32d8",
-        "title": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-03T12:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
-        "excerpt": "Kraken is joining SoFi's settlement network and list SoFiUSD as the companies link traditional banking with crypto markets.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "5c405f5cbe8af13f",
-        "title": "Morning Minute: Strategy CEO Says Selling The Bottom Was Correct Move",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-03T11:43:14Z",
-        "url": "https://decrypt.co/377264/morning-minute-strategy-ceo-says-selling-the-bottom-was-correct-move",
-        "excerpt": "Strategy sold millions in Bitcoin in the low $60k range and just rebought at $80k. Now they’re sharing the rationale behind the moves.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "7cb08791212c43f2",
-        "title": "Live updates: Bitcoin jumps above $79,000 as rates fall, dollar weakens",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-03T10:42:15Z",
-        "url": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
-        "excerpt": "The government's employment data (due tomorrow) is usually the main economic report of the month, but this time around it's next week's inflation numbers that will decide Fed policy.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "3639dde5cfccff16",
-        "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-03T10:29:52Z",
-        "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-recovers-toward-usd78-000-as-pons-and-arbitrum-extend-robinhood-chain-rally",
-        "excerpt": "BTC rose 0.76% since midnight as a softer dollar lifted equities and metals alongside crypto, while ARB and PONS pushed higher for a third session.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "19c4927672e66514",
+        "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-02T19:46:03Z",
+        "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
+        "excerpt": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter—siding with the ECB in calling for more flexible rules.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "83f84212d3dd6173",
+        "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-02T18:41:17Z",
+        "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report",
+        "excerpt": "The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "1f384df524ff46fc",
         "title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
@@ -3016,54 +3040,6 @@
         "tags": [
           "DeFi",
           "Lending"
-        ]
-      },
-      {
-        "id": "0de2666ccddeffe7",
-        "title": "FX has stopped reading bond yields the old way. Bitcoin should too.",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-03T11:26:00Z",
-        "url": "https://www.coindesk.com/daybook-us/2026/09/03/fx-has-stopped-reading-bond-yields-the-old-way-bitcoin-should-too",
-        "excerpt": "Your day-ahead look for Sept. 3, 2026",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "dae98d8d7b1ce017",
-        "title": "The yen is surging and it’s helping bitcoin, for now",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-03T11:19:56Z",
-        "url": "https://www.coindesk.com/markets/2026/09/03/the-yen-is-surging-and-it-s-helping-bitcoin-for-now",
-        "excerpt": "Yen's rise has led to a broad-based USD weakness, driving the Dollar Index lower. BTC and gold are loving it, for now.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "8ceac6e2b58c320d",
-        "title": "Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-03T10:59:34Z",
-        "url": "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students",
-        "excerpt": "Pencil Finance said that its first-of-a-kind loan offered financing to 6,600 students in Southeast Asia who were underserved by traditional lenders.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "bd79511fa6f7de23",
-        "title": "Coldcard hacker swaps stolen Bitcoin for ETH via THORChain",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-03T09:31:07Z",
-        "url": "https://cointelegraph.com/news/coldcard-hacker-swaps-stolen-bitcoin-eth-thorchain",
-        "excerpt": "The third-wave Coldcard exploiter moved about 10% of stolen funds through THORChain as researchers traced the assets to a new Ethereum address.",
-        "tags": [
-          "DeFi",
-          "Markets"
         ]
       }
     ]
