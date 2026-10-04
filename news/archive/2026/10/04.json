@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-04T15:19:28.954324Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "9a84885a2b14b42e",
+        "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-04T15:01:03Z",
+        "url": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+        "excerpt": "Spot Bitcoin ETFs took in $134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow as a weak jobs report cooled Fed rate-hike bets.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "69e0f47b06164f94",
+        "title": "Crypto poured years into new products. The next challenge is keeping users",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-04T14:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+        "excerpt": "Crypto firms have spent years building financial products on blockchains. Getting people to use them — and keep using them — is becoming the next challenge.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "0666642690ddc070",
+        "title": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-04T13:01:03Z",
+        "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
+        "excerpt": "Near Intents said the roughly $3.8 million drained in an exploit on Thursday was returned in full, a day after the team said it had identified the attacker and gave them 48 hours to return the funds.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "716791c182d23fb1",
+        "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-04T09:40:00Z",
+        "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
+        "excerpt": "Efforts will continue to reduce the state’s involvement in Bitcoin-related activities and to strengthen crypto‑asset regulation and governance, the IMF said.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "64d3d470ec5f1a36",
+        "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-03T17:01:03Z",
+        "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+        "excerpt": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-03T12:20:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "19c4927672e66514",
+        "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-02T19:46:03Z",
+        "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
+        "excerpt": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter—siding with the ECB in calling for more flexible rules.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "83f84212d3dd6173",
+        "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-02T18:41:17Z",
+        "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report",
+        "excerpt": "The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "1f384df524ff46fc",
+        "title": "Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-02T15:27:31Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data",
+        "excerpt": "Bitcoin climbed after weaker-than-expected payrolls pushed Treasury yields lower, but order-book resistance kept BTC from reaching new macro highs.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "909b75d5ac4f9406",
+        "title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-02T14:12:48Z",
+        "url": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens",
+        "excerpt": "European issuers say Europe cannot ignore demand for dollar stablecoins as businesses seek USD liquidity for global payments and settlement.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
