@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-05T19:16:19.276479Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "2d60af46a1b4ba3c",
+        "title": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus' Chinese Launderers",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-05T18:46:02Z",
+        "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
+        "excerpt": "The on-chain sleuth says he posed as a customer of a Chinese crime syndicate, fronting $349,700 and eating 5% on every order, to track Lazarus Group's Bybit loot in real time.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "73cb28d86920a191",
+        "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-05T18:12:28Z",
+        "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+        "excerpt": "The agency approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin, Ethereum, gold, silver, oil, and natural gas list on a U.S. exchange.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "ca49373b227394a7",
+        "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-05T17:40:23Z",
+        "url": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote",
+        "excerpt": "CFTC Chair Michael Selig claimed that the agency was using its “existing statutory authorities“ to address crypto regulation after Congress failed to advance a market structure bill.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "1d23eb43d6984876",
+        "title": "Bitcoin Just Flashed a Second, Stronger Golden Cross: Here's What That Means",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-05T16:10:00Z",
+        "url": "https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate",
+        "excerpt": "The Bitcoin rally keeps bumping into the same wall, but a classic bullish signal suggests the trend is built to last.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "4dfd14684186ea4a",
+        "title": "NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-05T16:03:03Z",
+        "url": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience",
+        "excerpt": "Reporters from CNBC and CNN are on the program beside the exchanges, two weeks before the midterms put the sector on air.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "39fed8cbd69fc12e",
+        "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-05T17:58:58Z",
+        "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
+        "excerpt": "S&P Global’s new framework evaluates digital asset lending vaults across six risk categories as deposits in the sector climb to about $10 billion.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "ddc48555d95aa4b9",
+        "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-05T17:18:14Z",
+        "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
+        "excerpt": "The planned 24/7 venue will offer dozens of tokenized U.S. stocks, with trades conducted against stablecoins through blockchain-based liquidity pools rather than a traditional order book.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "41a3ca8d222d1f99",
+        "title": "Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-05T16:53:08Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook",
+        "excerpt": "Weak US jobs data has narrowed expectations for another Fed hike in October, offering Bitcoin some relief as investors continue to embrace the debasement trade.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "856f502a8ca801c4",
+        "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-05T13:46:31Z",
+        "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
+        "excerpt": "The payments giant is planning a major global expansion for its stablecoin cards business, and is exploring tokenized deposits and DeFi use cases, new crypto head Henri Stern said.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-05T13:04:57Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}

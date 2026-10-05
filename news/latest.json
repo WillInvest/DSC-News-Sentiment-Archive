@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-10-04T15:19:28.954324Z",
+  "generatedAt": "2026-10-05T19:16:19.276479Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "2d60af46a1b4ba3c",
+        "title": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus' Chinese Launderers",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-05T18:46:02Z",
+        "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
+        "excerpt": "The on-chain sleuth says he posed as a customer of a Chinese crime syndicate, fronting $349,700 and eating 5% on every order, to track Lazarus Group's Bybit loot in real time.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "73cb28d86920a191",
+        "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-05T18:12:28Z",
+        "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+        "excerpt": "The agency approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin, Ethereum, gold, silver, oil, and natural gas list on a U.S. exchange.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "ca49373b227394a7",
+        "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-05T17:40:23Z",
+        "url": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote",
+        "excerpt": "CFTC Chair Michael Selig claimed that the agency was using its “existing statutory authorities“ to address crypto regulation after Congress failed to advance a market structure bill.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "1d23eb43d6984876",
+        "title": "Bitcoin Just Flashed a Second, Stronger Golden Cross: Here's What That Means",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-05T16:10:00Z",
+        "url": "https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate",
+        "excerpt": "The Bitcoin rally keeps bumping into the same wall, but a classic bullish signal suggests the trend is built to last.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "4dfd14684186ea4a",
+        "title": "NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-05T16:03:03Z",
+        "url": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience",
+        "excerpt": "Reporters from CNBC and CNN are on the program beside the exchanges, two weeks before the midterms put the sector on air.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
       {
         "id": "9a84885a2b14b42e",
         "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
@@ -1695,105 +1755,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "f2352624083cf332",
-        "title": "Timing the bitcoin market is exciting but nearly impossible. Here's why",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-05T18:05:11Z",
-        "url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
-        "excerpt": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the calendar year.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "9389e4294930c9c6",
-        "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-05T17:01:04Z",
-        "url": "https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
-        "excerpt": "At least four more decade-old wallets moved a combined $15.7 million between Aug. 29 and Sept. 4, with one batch of coins sent to Coinbase in a likely sign of a sale.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "e0bd6c16f27006e7",
-        "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-05T16:06:41Z",
-        "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
-        "excerpt": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "1bb868f682c95104",
-        "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-05T12:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
-        "excerpt": "CEL Solicitors says it has identified a wallet holding more than 5,500 BTC linked to former Intersango users.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "3d594885c50d1b2c",
-        "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-05T08:03:06Z",
-        "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026",
-        "excerpt": "US spot Bitcoin ETFs drew nearly $1 billion in the latest week as Friday inflows stayed positive despite Bitcoin briefly falling below $79,000.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "e7abc30af1d6a6fc",
-        "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-05T05:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
-        "excerpt": "Blockchain investment in Southeast Asia in 2026 has been led by crypto financial services, though funding remains heavily concentrated in Singapore and a handful of companies.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "3951b47e6b18738b",
-        "title": "TikTok's Parent Company Just Borrowed $30 Billion to Go All-In on AI",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-04T21:46:03Z",
-        "url": "https://decrypt.co/377489/tiktok-bytedance-loan-ai",
-        "excerpt": "Nearly 30 banks backed the rare unsecured facility as TikTok’s parent company spends heavily on AI chips, models, and overseas data centers.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "099cdc742deb494d",
-        "title": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-04T21:16:04Z",
-        "url": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes",
-        "excerpt": "The group is urging organizations to adopt post-quantum security before powerful computers can compromise today’s encryption and digital signatures.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "39fed8cbd69fc12e",
+        "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-05T17:58:58Z",
+        "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
+        "excerpt": "S&P Global’s new framework evaluates digital asset lending vaults across six risk categories as deposits in the sector climb to about $10 billion.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "ddc48555d95aa4b9",
+        "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-05T17:18:14Z",
+        "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
+        "excerpt": "The planned 24/7 venue will offer dozens of tokenized U.S. stocks, with trades conducted against stablecoins through blockchain-based liquidity pools rather than a traditional order book.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "41a3ca8d222d1f99",
+        "title": "Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-05T16:53:08Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook",
+        "excerpt": "Weak US jobs data has narrowed expectations for another Fed hike in October, offering Bitcoin some relief as investors continue to embrace the debasement trade.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "856f502a8ca801c4",
+        "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-05T13:46:31Z",
+        "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
+        "excerpt": "The payments giant is planning a major global expansion for its stablecoin cards business, and is exploring tokenized deposits and DeFi use cases, new crypto head Henri Stern said.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "19c4927672e66514",
         "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
@@ -2956,42 +2968,6 @@
         "tags": [
           "DeFi",
           "Markets"
-        ]
-      },
-      {
-        "id": "9b274ec9fc5409c7",
-        "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-05T16:43:13Z",
-        "url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
-        "excerpt": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers balance positions.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "301678095392f2ae",
-        "title": "FinCEN ties $13B in crypto scams to non-US operations",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-04T19:22:26Z",
-        "url": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis",
-        "excerpt": "The agency reported that “transnational criminal organizations” based in compounds in Southeast Asia were largely behind digital asset scams targeting US residents.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "902cb5c454324721",
-        "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-04T17:19:55Z",
-        "url": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank",
-        "excerpt": "The a16z-backed startup chose a full national charter over the trust-bank route most crypto firms have taken, clearing a path toward insured deposits and conventional lending alongside stablecoin issuance.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
         ]
       }
     ]
