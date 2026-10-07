@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-07T17:24:11.448874Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "354dc7bd91afa62a",
+        "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-07T16:56:56Z",
+        "url": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+        "excerpt": "Government-labeled wallets sent 833.6 BTC to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed, but the stash behind it is the largest any government holds in Arkham's ranking.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "bf3d7bdfe33160c6",
+        "title": "House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-07T16:06:03Z",
+        "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill",
+        "excerpt": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren’t sufficient",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "61e82a466ece41f2",
+        "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-07T15:03:54Z",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
+        "excerpt": "AI has made it cheap to link wallet addresses to the people behind them, and the permanence of the blockchain means records don’t age out. Michael Zhao of Grayscale Research explains how Zcash’s shielded transactions address this problem, and why close to 29%…",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "304e8239483f3ee9",
+        "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-07T14:55:32Z",
+        "url": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
+        "excerpt": "Speaking at Token2049 in Singapore, the chairman said Bitmine is about 100,000 ETH—roughly six to seven weeks—from its 5% cap, setting an end date on a buying spree that made it the world's largest Ethereum treasury.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "d3f41c3896b8f5de",
+        "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-07T13:20:54Z",
+        "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
+        "excerpt": "EU law enforcement agencies urged developers, exchanges, and users to initiate phased post-quantum migrations immediately to prevent future unauthorized fund transfers.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "ab9edd17b77fc5e7",
+        "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-07T16:30:00Z",
+        "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+        "excerpt": "Polygon said businesses can also move the world’s largest stablecoin USDT between TRON and EVM networks without connecting to a wallet provider, bridge or fiat-ramp operator.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "8743c231632e9c87",
+        "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-07T16:25:38Z",
+        "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization",
+        "excerpt": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "0e9fc749ea4ef706",
+        "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-07T15:36:11Z",
+        "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures",
+        "excerpt": "US institutions will gain access to Deribit’s options and perpetual futures through Coinbase, with US retail options expected later this year.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "5d37617a8bad3de8",
+        "title": "Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-07T15:34:31Z",
+        "url": "https://decrypt.co/380290/bitcoin-dips-oil-shock-rattles-markets-what-happens-next",
+        "excerpt": "Bitcoin fell sharply as oil topped $101 and the 30-year Treasury yield hit its highest since 2002. The daily chart still leans bullish. The four-hour chart disagrees.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "a058d74480e32eea",
+        "title": "Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-07T15:06:14Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves",
+        "excerpt": "Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      }
+    ]
+  }
+}
