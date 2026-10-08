@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-10-07T17:24:11.448874Z",
+  "generatedAt": "2026-10-08T17:22:37.471992Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "2ba16ad442b87380",
+        "title": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-08T17:07:48Z",
+        "url": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
+        "excerpt": "Ethereum co-founder Vitalik Buterin thinks the crypto industry needs to make sure encryption is both quantum and AI-resistant.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "75dbfddc6bff9b3d",
+        "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-08T16:44:20Z",
+        "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+        "excerpt": "A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "02ed01275cf5f210",
+        "title": "From Uptober to Spooky Szn? Bitcoin Cuts September Gains in Half",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-08T16:14:46Z",
+        "url": "https://decrypt.co/380462/uptober-spooky-szn-bitcoin-cuts-september-gains",
+        "excerpt": "Day traders are selling, leveraged longs are getting flushed and ETF money is heading for the door. The daily chart still holds the line, but its cushion is shrinking.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "305ee5e1b20fd86f",
+        "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-08T15:55:55Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes",
+        "excerpt": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "915658c3b48c5125",
+        "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-08T15:43:04Z",
+        "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+        "excerpt": "Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
       {
         "id": "354dc7bd91afa62a",
         "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
@@ -1731,69 +1791,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "ede36043bf3f8113",
-        "title": "Strategy's Return to Bitcoin Buying Lasted Exactly One Week",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-08T13:57:16Z",
-        "url": "https://decrypt.co/377664/strategys-return-to-bitcoin-buying-lasted-exactly-one-week",
-        "excerpt": "The Bitcoin treasury firm spent $176.3 million on its own preferred stock, and doubled the buyback program's authorization to $2 billion.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "2233b6ee1b58171a",
-        "title": "Is Bitcoin too volatile to risk your retirement on?",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-08T13:30:00Z",
-        "url": "https://cointelegraph.com/magazine/is-bitcoin-too-volatile-to-risk-your-retirement-on",
-        "excerpt": "Bitcoin believers see it as an almost certain long-term investment, but retirement demands a different approach. How much crypto exposure is too much for your retirement account?",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "2cf67224b31b8c14",
-        "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-08T13:18:24Z",
-        "url": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
-        "excerpt": "The Foundation wants the network protected before a quantum computer capable of breaking today's cryptography could plausibly arrive, and says upcoming upgrades will be judged against that clock.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "f8ce9069d7082977",
-        "title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-08T13:18:21Z",
-        "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-rally-has-more-room-as-volatility-shorts-unwind-two-prime-ceo-says",
-        "excerpt": "Alexander Blume said subdued funding rates and continued call selling suggest the rebound is not yet being driven by excessive speculation.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "e5c2ab3b3c3121a1",
-        "title": "Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-08T13:06:34Z",
-        "url": "https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume",
-        "excerpt": "At the latest purchase pace, Tom Lee's Ethereum treasury firm could reach its crypto accumulation goal in another seven weeks.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "a82b64690e135075",
+        "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-08T15:42:16Z",
+        "url": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
+        "excerpt": "One self-custodial platform to power Earn, Swaps, Predictions and Perps on Decrypt, as it builds out its financial and intelligence market.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "e2ade6eafcacca6a",
+        "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-08T15:23:26Z",
+        "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+        "excerpt": "ESMA said authorized platforms must block new access to stablecoins that fail to meet MiCA rules, while national authorities oversee existing customer holdings.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "1b5a9b7e703bd8e4",
+        "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-08T14:24:24Z",
+        "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
+        "excerpt": "Veridian became the first company to use Cardano’s new programmable-token standard for its equity, though the tokenized shares are not being offered to the public.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "eb7f39a4eab1537d",
+        "title": "Crypto lending rises again… but have they solved the risks?",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-08T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks",
+        "excerpt": "Crypto lending has risen by 55% since July, but now has to deal with the dangers of AI assisted hacks, and risks cascading through interlinked protocols. Here’s how to stay safe.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
       {
         "id": "ab9edd17b77fc5e7",
         "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
@@ -3013,54 +3061,6 @@
         "publishedAt": "2026-09-09T07:36:21Z",
         "url": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody",
         "excerpt": "The proposed Builders Bank would offer federally supervised digital asset custody but would not accept deposits or issue loans.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "5b51ef5ca2110be5",
-        "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-08T14:29:14Z",
-        "url": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
-        "excerpt": "Visa's stablecoin settlement volume surpassed a $20 billion annualized run rate, up 15x year over year. Now it wants blockchain lenders to use that data to extend credit to the issuers driving the growth.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "12e4a3e494e6da7b",
-        "title": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-08T11:06:31Z",
-        "url": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying",
-        "excerpt": "Data tracked by lending platform Curve data tracked 704 soft-liquidation instances lasting a median 14.5 days, showing how some DeFi loans can survive for weeks after entering the 'danger zone.'",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "9faff0bcec3b296c",
-        "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-08T10:33:17Z",
-        "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff",
-        "excerpt": "Bitcoin fell 0.42% since midnight UTC to $78,874, but the CoinDesk 20 rose 0.2% and the memecoin index gained 0.41% as BNB Chain tokens rallied.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "6beeec00b1129741",
-        "title": "Uzbekistan begins government bond-backed stablecoin payment pilot",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-08T10:07:10Z",
-        "url": "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot",
-        "excerpt": "Humo Digital will test HUMO payments with more than 20 merchants under a sandbox jointly overseen by NAPP and Uzbekistan’s central bank.",
         "tags": [
           "DeFi",
           "Stablecoins"

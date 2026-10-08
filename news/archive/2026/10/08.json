@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-08T17:22:37.471992Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "2ba16ad442b87380",
+        "title": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-08T17:07:48Z",
+        "url": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
+        "excerpt": "Ethereum co-founder Vitalik Buterin thinks the crypto industry needs to make sure encryption is both quantum and AI-resistant.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "75dbfddc6bff9b3d",
+        "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-08T16:44:20Z",
+        "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+        "excerpt": "A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "02ed01275cf5f210",
+        "title": "From Uptober to Spooky Szn? Bitcoin Cuts September Gains in Half",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-08T16:14:46Z",
+        "url": "https://decrypt.co/380462/uptober-spooky-szn-bitcoin-cuts-september-gains",
+        "excerpt": "Day traders are selling, leveraged longs are getting flushed and ETF money is heading for the door. The daily chart still holds the line, but its cushion is shrinking.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "305ee5e1b20fd86f",
+        "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-08T15:55:55Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes",
+        "excerpt": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "915658c3b48c5125",
+        "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-08T15:43:04Z",
+        "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+        "excerpt": "Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "a82b64690e135075",
+        "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-08T15:42:16Z",
+        "url": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
+        "excerpt": "One self-custodial platform to power Earn, Swaps, Predictions and Perps on Decrypt, as it builds out its financial and intelligence market.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "e2ade6eafcacca6a",
+        "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-08T15:23:26Z",
+        "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+        "excerpt": "ESMA said authorized platforms must block new access to stablecoins that fail to meet MiCA rules, while national authorities oversee existing customer holdings.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "1b5a9b7e703bd8e4",
+        "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-08T14:24:24Z",
+        "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
+        "excerpt": "Veridian became the first company to use Cardano’s new programmable-token standard for its equity, though the tokenized shares are not being offered to the public.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "eb7f39a4eab1537d",
+        "title": "Crypto lending rises again… but have they solved the risks?",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-08T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks",
+        "excerpt": "Crypto lending has risen by 55% since July, but now has to deal with the dangers of AI assisted hacks, and risks cascading through interlinked protocols. Here’s how to stay safe.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-08T12:58:01Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
