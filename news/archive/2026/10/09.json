@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-09T16:58:01.313140Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "f6540eb5dfed0e6f",
+        "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-09T16:36:03Z",
+        "url": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
+        "excerpt": "Starknet is \"actively considering\" becoming its own blockchain, a move it says would make it the first fully quantum-resistant network by 2027.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "0d757522e57c8665",
+        "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-09T16:22:45Z",
+        "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets",
+        "excerpt": "The crypto company has reportedly applied for two licenses with the US commodities regulatory as the courts weigh prediction markets cases.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "644d753b4732e44c",
+        "title": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-09T16:07:07Z",
+        "url": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
+        "excerpt": "Mashinsky owes New York $25 million if he fails to forfeit another $10 million, and $10 million more if he doesn't serve his full sentence.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "71bd8aaa787f9f86",
+        "title": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-09T15:30:36Z",
+        "url": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
+        "excerpt": "Ledger asked reseller CryptoBilis to pause sales and urged recent buyers not to set up their devices, as an onchain investigator tracked more than $86 million in suspected thefts.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "96a06b9d6f03400b",
+        "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-09T15:20:36Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports",
+        "excerpt": "Bitcoin and crypto markets eyed a recovery from Thursday’s drop despite concerns of another hardware wallet exploit.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-09T13:31:41Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "5978ead1570fc007",
+        "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-09T10:49:24Z",
+        "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses",
+        "excerpt": "ESMA is seeking industry feedback on the legal, liquidity and operational risks of tokenized collateral before deciding whether additional EU regulatory measures are necessary.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "cf0a7244bf96bd21",
+        "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-09T10:16:48Z",
+        "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget",
+        "excerpt": "France’s Finance Committee backed taxes on stablecoin swaps, as well as unrealized crypto gains when households with more than 800,000 euros move abroad.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "a93db9827bcccd4b",
+        "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-09T08:59:31Z",
+        "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
+        "excerpt": "Ajay Shinjin helped steal nearly $265,000 in crypto after criminals hijacked BT customers' phone numbers in November 2021.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "918964e423f08605",
+        "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-09T06:40:54Z",
+        "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+        "excerpt": "Layer-1 blockchain Sui is launching Hashi, an institutional protocol allowing holders to use bitcoin as collateral without moving it off the Bitcoin network.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      }
+    ]
+  }
+}
