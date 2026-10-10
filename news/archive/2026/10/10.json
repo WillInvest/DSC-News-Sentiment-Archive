@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-10T15:50:58.454040Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "6f8dac16bf5d9060",
+        "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-10T11:00:00Z",
+        "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+        "excerpt": "The Oct. 10, 2025 flash crash wiped out billions in leveraged crypto bets. Traders now have better tools to spot risks, but the forces behind the selloff remain.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "de47e859e18c6b30",
+        "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-10T07:10:43Z",
+        "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
+        "excerpt": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "260a53aa9558a545",
+        "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-10T05:43:00Z",
+        "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+        "excerpt": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "9579ba07d19a44f7",
+        "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-09T20:14:02Z",
+        "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement",
+        "excerpt": "The agreement resolves a 2023 civil fraud lawsuit against the Celsius founder and permanently bars him from the cryptocurrency, securities and commodities industries.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "c21368cfa6416cf1",
+        "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-09T18:46:03Z",
+        "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+        "excerpt": "Sen. Richard Blumenthal wants Cantor Fitzgerald to open its records on Tether and on how much Commerce Secretary Howard Lutnick's family has earned from its business deal.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "c025211fdd50a798",
+        "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-10T13:01:03Z",
+        "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+        "excerpt": "A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue section.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-10T12:30:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "8d7e343497c458b9",
+        "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-10T12:00:00Z",
+        "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+        "excerpt": "Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding and spot trading remains well below its October 2025 peak.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "5eb2be50da116900",
+        "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-10T12:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+        "excerpt": "Paxos Labs, Theo and Energy Substantiation execs see growth coming from putting physical assets to work, with precious metals leading and energy presenting a tougher test.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "69aaa6738e6cdef5",
+        "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-10T04:44:35Z",
+        "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+        "excerpt": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
