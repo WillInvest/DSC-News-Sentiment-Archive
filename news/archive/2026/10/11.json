@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-11T16:18:01.322577Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "1ece6bc17db99e96",
+        "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-11T16:01:03Z",
+        "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
+        "excerpt": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "2a21280bc01dd413",
+        "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-10T16:01:04Z",
+        "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+        "excerpt": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto after a record year driven by demand from wealthy families in Asia, Europe and the Middle East.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6f8dac16bf5d9060",
+        "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-10T11:00:00Z",
+        "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+        "excerpt": "The Oct. 10, 2025 flash crash wiped out billions in leveraged crypto bets. Traders now have better tools to spot risks, but the forces behind the selloff remain.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "de47e859e18c6b30",
+        "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-10T07:10:43Z",
+        "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
+        "excerpt": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "260a53aa9558a545",
+        "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-10T05:43:00Z",
+        "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+        "excerpt": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "fef0902106ec8184",
+        "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-11T16:00:00Z",
+        "url": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+        "excerpt": "Executives see openings for tokenization, DeFi and dealmaking, while lawyers warn agency action leaves spot-market oversight and lasting certainty unresolved.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "110c91dae2b5475b",
+        "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-11T13:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+        "excerpt": "Investors are using blockchain-based shares for smaller and after-hours trades. The IMF says liquidity, legal rules and settlement systems have not caught up.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-11T12:45:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "72b492fa032a650c",
+        "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-10T17:01:03Z",
+        "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+        "excerpt": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the “swap” definition, while an interim rule excludes casino-style gambling—sharpening the agency’s claim to exclusive jurisdiction.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "c025211fdd50a798",
+        "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-10T13:01:03Z",
+        "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+        "excerpt": "A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue section.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
