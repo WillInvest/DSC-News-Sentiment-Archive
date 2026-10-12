@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-10-11T16:18:01.322577Z",
+  "generatedAt": "2026-10-12T19:46:45.784684Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "aa524d0c4cba0658",
+        "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-12T16:51:05Z",
+        "url": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap",
+        "excerpt": "The Bitcoin mining industry needs roughly $50 billion to complete planned AI infrastructure projects, with IREN, Riot Platforms and HIVE Digital facing major funding gaps.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "7554501477cc3d34",
+        "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-12T16:30:21Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high",
+        "excerpt": "Bitcoin price action stayed rangebound after failing to sustain above $84,000 into the Wall Street open on rising oil prices.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "5bb0cf8e709cb157",
+        "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-12T15:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+        "excerpt": "A planned Bermuda issuance would put legal ownership onchain and seek capital for disaster risks that remain costly to insure.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "fccadd7172c0ec43",
+        "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-12T14:07:00Z",
+        "url": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets",
+        "excerpt": "The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs are safer than self-custodying Bitcoin via hardware wallet devices.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "14e88ee81734c5bb",
+        "title": "Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-12T13:33:28Z",
+        "url": "https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking",
+        "excerpt": "The Ethereum treasury firm now holds 6.03 million ETH, 4.9% of supply, as Lee predicts the biggest crypto bull market yet.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "1ece6bc17db99e96",
         "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
@@ -1671,93 +1731,69 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "05a884bb8b317ba7",
-        "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-12T17:01:04Z",
-        "url": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
-        "excerpt": "The fintech company fulfilled a fraudulent information request sent from a government agency's own email domain, exposing ID documents and full crypto transaction histories for a \"limited\" number of users.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "4d98b807b20e958c",
-        "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-12T16:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
-        "excerpt": "Bitcoin Suisse says rising AI investment, government debt and weakening stock-bond diversification strengthen the case for adding bitcoin to traditional portfolios.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "fa448a0d5d0c514b",
-        "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-12T10:11:01Z",
-        "url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
-        "excerpt": "Passports, selfies and home addresses were also handed over after the digital bank treated a fraudulent request as legitimate, but no customer funds were lost.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "8f106e7cf7c85a58",
-        "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-11T23:47:51Z",
-        "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
-        "excerpt": "In a post on Friday, Vlad Tenev said securities issuers should control shareholder rights, but not separate products that track their publicly traded shares.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "2a5471afbe51f84d",
-        "title": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-11T20:53:39Z",
-        "url": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
-        "excerpt": "A rapidly changing interest rates market has changed the near-term outlook on the Bitcoin chart. Here’s why.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "8a517343ed4582ac",
-        "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-11T19:46:24Z",
-        "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad",
-        "excerpt": "The Swiss crypto financial services firm plans to move back-office functions to lower-cost international hubs as it expands its global wealth and asset management business, according to Finews.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "92076f0f9d3b8ce7",
-        "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-11T18:45:15Z",
-        "url": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner",
-        "excerpt": "The Crypto Banter founder said Hyperliquid’s network effects give it a strong competitive moat, but regulatory uncertainty remains its biggest threat.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-12T19:26:13Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "659501c64af9c109",
+        "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-12T19:07:30Z",
+        "url": "https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol",
+        "excerpt": "The Nasdaq-listed company now holds about 2.59 million SOL, but its weekly purchases keep shrinking.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "5ecbe9a62f0aaa3a",
+        "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-12T18:38:14Z",
+        "url": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption",
+        "excerpt": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "63bea8a604720409",
+        "title": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-12T16:41:34Z",
+        "url": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
+        "excerpt": "The Crypto Fear and Greed Index has dropped to 56 from an August peak of 82, as oil, bond yields, and ETF outflows hit Bitcoin in October.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "34caf92124e4a08b",
+        "title": "Bitcoin Ranges Near $83K as Traders Look to US Inflation Data",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-12T11:41:50Z",
+        "url": "https://decrypt.co/380669/bitcoin-ranges-near-83k-as-traders-look-to-us-inflation-data",
+        "excerpt": "October rate-hike odds have slumped, but analysts say Treasury yields at two-decade highs are still keeping a lid on risk appetite.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
       {
         "id": "fef0902106ec8184",
         "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
@@ -2953,42 +2989,6 @@
         "publishedAt": "2026-09-13T13:00:00Z",
         "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
         "excerpt": "Stablecoins' “next battleground is in emerging markets,” one expert said, as Circle looks to expand USDC's reach where rival Tether has long been strong.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "cebf8b2172b0f5ad",
-        "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-12T16:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
-        "excerpt": "Payments and capital markets are driving growth for Ripple's $2.4 billion digital dollar as it looks to bring RLUSD to Europe under MiCA, the firm's Jack McDonald said.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "700edc2d838a6e0b",
-        "title": "Staked ether should be seen as the benchmark of the decentralized economy",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-12T14:00:00Z",
-        "url": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
-        "excerpt": "The yield-generating asset has a special place in the digital asset investor’s portfolio, argues GlobalStake’s Ryan Haczynski.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "01b36aa9387d9d20",
-        "title": "Here’s what happened in crypto today",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-11T21:30:00Z",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
         "tags": [
           "DeFi",
           "Stablecoins"
