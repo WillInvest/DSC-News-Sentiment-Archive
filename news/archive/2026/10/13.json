@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-13T17:33:45.698426Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "866244d41e13e574",
+        "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-13T16:51:25Z",
+        "url": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking",
+        "excerpt": "A recent change in the SEC’s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "78f3a276a7a0a0c5",
+        "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-13T15:57:55Z",
+        "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises",
+        "excerpt": "Strive is now the fifth-largest publicly traded corporate Bitcoin holder, with 32,773 BTC, as it continues to expand its treasury through equity financing.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "094a2ddab3cc0a15",
+        "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-13T15:27:32Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off",
+        "excerpt": "Bitcoin price action preserved overnight gains as US stocks quickly rebounded after opening lower on the back of Korea’s tech-stock rout.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "898896c0390f078a",
+        "title": "Is Bitcoin kidding itself about the Lightning Network?",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-13T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network",
+        "excerpt": "Bitcoin developer Paul Sztorc says Bitcoiners are lying to themselves about Lightning. Developers claim usability has improved, but questions remain over everyday adoption.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "798b3d84701f57bb",
+        "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-13T12:22:24Z",
+        "url": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval",
+        "excerpt": "Russia’s largest bank, Sberbank, has secured crypto exchange authorization as it prepares to offer Bitcoin, Ether and Tether USDt trading.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "73e54c44d6f33df3",
+        "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-13T16:46:05Z",
+        "url": "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
+        "excerpt": "Bitcoin dipped below $81,000 before buyers stepped in, but the Fear and Greed Index says traders aren't convinced yet.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-13T13:26:42Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "a5d7cae00cd3e0ea",
+        "title": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-13T09:42:00Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74",
+        "excerpt": "Bitcoin’s liquidity kept BTC price below $84,000 amid a mounting South Korean tech and semiconductor stock sell-off.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "4b01302210611733",
+        "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-12T21:16:03Z",
+        "url": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
+        "excerpt": "The bank's Dubai branch now offers custody for Ripple's RLUSD stablecoin and plans a link with LMAX that lets institutions post it as trading collateral while the coins stay put.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "659501c64af9c109",
+        "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-12T19:07:30Z",
+        "url": "https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol",
+        "excerpt": "The Nasdaq-listed company now holds about 2.59 million SOL, but its weekly purchases keep shrinking.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
