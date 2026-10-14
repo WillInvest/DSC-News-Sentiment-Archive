@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-14T15:03:50.129334Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "72542c17aae602ce",
+        "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-14T14:49:32Z",
+        "url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
+        "excerpt": "The blockchain and AI developer platform has completed two years of audits and wants its shares available onchain from the first day of trading.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "aed2e5e1d38d1e07",
+        "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-14T14:08:43Z",
+        "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+        "excerpt": "Nasdaq-listed Perpetuals.com is the second company to pursue a U.S. tokenized stock marketplace under the SEC's new framework, following a joint venture between OKX and NYSE parent ICE.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "da736a0b9f0c6848",
+        "title": "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-14T13:41:21Z",
+        "url": "https://decrypt.co/380928/notorious-crypto-celeb-meme-coin-promoter-plots-second-wave-on-new-launchpad",
+        "excerpt": "Sahil Arora says he's not done with celebrity meme coins, and that Fomo presents new possible strategies for his controversial schemes.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "85242a51b1e97a2a",
+        "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-14T12:33:56Z",
+        "url": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
+        "excerpt": "The news could put multiple rate hikes by the Federal Reserve back into play.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "24d95b9ade63d01a",
+        "title": "Here's how analysts see U.S. inflation influencing bitcoin",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-14T11:15:00Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
+        "excerpt": "Your day-ahead look for Oct. 14, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "48b15f2d920c5ee1",
+        "title": "Bitcoin Falls as Hot Inflation Puts a Fed Hike Back on the Table",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-14T14:51:44Z",
+        "url": "https://decrypt.co/380950/bitcoin-falls-hot-inflation-fed-hike-odds",
+        "excerpt": "September CPI hit 3.7%, above forecasts, sending Treasury yields higher and dragging crypto down with stocks.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "ba2d59358eea6c30",
+        "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-14T14:21:15Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation",
+        "excerpt": "Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-14T13:36:56Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "017489856142e6ed",
+        "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-14T13:07:45Z",
+        "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+        "excerpt": "Payward agreed to buy Lithuania’s Saldo Bank, which holds $190 million in total assets, securing an EU license for deposits and lending.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "47ef04e082a9edc8",
+        "title": "Qivalis wins Dutch e-money license for euro stablecoin",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-14T12:53:41Z",
+        "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin",
+        "excerpt": "Qivalis said the Electronic Money Institution authorization enables it to launch a euro-denominated stablecoin, with issuance planned for the coming months, subject to additional MiCA requirements.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}

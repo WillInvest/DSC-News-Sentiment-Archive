@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-10-13T17:33:45.698426Z",
+  "generatedAt": "2026-10-14T15:03:50.129334Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "72542c17aae602ce",
+        "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-14T14:49:32Z",
+        "url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
+        "excerpt": "The blockchain and AI developer platform has completed two years of audits and wants its shares available onchain from the first day of trading.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "aed2e5e1d38d1e07",
+        "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-14T14:08:43Z",
+        "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+        "excerpt": "Nasdaq-listed Perpetuals.com is the second company to pursue a U.S. tokenized stock marketplace under the SEC's new framework, following a joint venture between OKX and NYSE parent ICE.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "da736a0b9f0c6848",
+        "title": "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-14T13:41:21Z",
+        "url": "https://decrypt.co/380928/notorious-crypto-celeb-meme-coin-promoter-plots-second-wave-on-new-launchpad",
+        "excerpt": "Sahil Arora says he's not done with celebrity meme coins, and that Fomo presents new possible strategies for his controversial schemes.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "85242a51b1e97a2a",
+        "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-14T12:33:56Z",
+        "url": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
+        "excerpt": "The news could put multiple rate hikes by the Federal Reserve back into play.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "24d95b9ade63d01a",
+        "title": "Here's how analysts see U.S. inflation influencing bitcoin",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-14T11:15:00Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
+        "excerpt": "Your day-ahead look for Oct. 14, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "866244d41e13e574",
         "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
@@ -1743,33 +1803,57 @@
           "Blockchain",
           "Policy"
         ]
-      },
-      {
-        "id": "83a3f5b679e71195",
-        "title": "Don’t let perfect be the enemy of Clarity",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-14T14:34:56Z",
-        "url": "https://www.coindesk.com/opinion/2026/09/14/don-t-let-perfect-be-the-enemy-of-clarity",
-        "excerpt": "On September 15, the Senate has the chance to show that it can address issues in a reasonable timeframe, rather than waiting for the next market failure to act, writes the Blockchain Association's Summer Mersinger.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "40d1bf0f72214d7c",
-        "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-14T12:58:42Z",
-        "url": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
-        "excerpt": "The Ethereum treasury firm is closing in on its 5% accumulation goal as Lee points to a rising ETH-BTC ratio and institutional demand.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "48b15f2d920c5ee1",
+        "title": "Bitcoin Falls as Hot Inflation Puts a Fed Hike Back on the Table",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-14T14:51:44Z",
+        "url": "https://decrypt.co/380950/bitcoin-falls-hot-inflation-fed-hike-odds",
+        "excerpt": "September CPI hit 3.7%, above forecasts, sending Treasury yields higher and dragging crypto down with stocks.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "ba2d59358eea6c30",
+        "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-14T14:21:15Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation",
+        "excerpt": "Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "017489856142e6ed",
+        "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-14T13:07:45Z",
+        "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+        "excerpt": "Payward agreed to buy Lithuania’s Saldo Bank, which holds $190 million in total assets, securing an EU license for deposits and lending.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "47ef04e082a9edc8",
+        "title": "Qivalis wins Dutch e-money license for euro stablecoin",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-14T12:53:41Z",
+        "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin",
+        "excerpt": "Qivalis said the Electronic Money Institution authorization enables it to launch a euro-denominated stablecoin, with issuance planned for the coming months, subject to additional MiCA requirements.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "73e54c44d6f33df3",
         "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
@@ -3016,42 +3100,6 @@
         "tags": [
           "DeFi",
           "Stablecoins"
-        ]
-      },
-      {
-        "id": "cf0f478b24b56b31",
-        "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-14T13:30:00Z",
-        "url": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director",
-        "excerpt": "Stablecoins may reduce trade finance friction, fragmented regulatory regimes limit their adoption to just 3% of global payments, according to the World Trade Organization.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "a601abfa200bdde3",
-        "title": "Live updates: Bitcoin climbs as stocks drop, U.S. 10-year yield rises to 5%",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-14T11:44:21Z",
-        "url": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
-        "excerpt": "The Federal Reserve's two-day policy meeting begins tomorrow, with nearly all now expecting the U.S. central bank to hike its benchmark policy rate by 25 basis points.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "8cc9a1a64785c4a9",
-        "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-14T10:09:41Z",
-        "url": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
-        "excerpt": "Bitcoin rose 1.9% since midnight UTC while Nasdaq 100 index futures fell 1.65% on calls to slow AI development and crude gained almost 4% on a Saudi pipeline closure.",
-        "tags": [
-          "DeFi",
-          "Markets"
         ]
       }
     ]
