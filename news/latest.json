@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-10-14T15:03:50.129334Z",
+  "generatedAt": "2026-10-15T14:57:17.757213Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "c31af78d619b06a3",
+        "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-15T14:27:18Z",
+        "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
+        "excerpt": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "99d240df65b24ed3",
+        "title": "Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-15T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion",
+        "excerpt": "The SEC and the CFTC have issued a raft of pro-crypto rules recently. But will the rules hold up in court, and can they be easily rolled back by the “anti-crypto army”?",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "daefe82e8136c340",
+        "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-15T12:35:24Z",
+        "url": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
+        "excerpt": "The scheme allegedly stole tens of millions through Russian-language Facebook ads and fake advisers, then went after victims again with fake recovery offers.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "f5a7772451754bad",
+        "title": "Morning Minute: Solana Is About To Get Faster",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-15T12:07:08Z",
+        "url": "https://decrypt.co/381018/morning-minute-solana-is-about-to-get-faster",
+        "excerpt": "Alpenglow is coming next week, slashing Solana finality from 12.8 seconds to a target of about 150 milliseconds—some 85 times faster.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "c04d5ec35bd3de9a",
+        "title": "Ledger’s answer to wallet tampering costs $849 and ships next year",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-15T12:00:00Z",
+        "url": "https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering",
+        "excerpt": "Ledger’s new Atom combines crypto wallet security with everyday apps and is expected to ship in summer 2027 as the company investigates tampered wallets sold in Asia.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
       {
         "id": "72542c17aae602ce",
         "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
@@ -1707,105 +1767,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "8b394f983c492935",
-        "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-15T13:25:52Z",
-        "url": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
-        "excerpt": "The bank expects tokenization to make Arbitrum a favored network for traditional finance, even though ARB holders currently have no direct claim on the fees.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "168897cef26288c0",
-        "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-15T10:41:35Z",
-        "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
-        "excerpt": "Bitcoin fell 1.7% since midnight UTC to $76,862, unwinding a late Monday rally as Polymarket odds on the Clarity Act becoming law this year halved overnight.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "9ba783c5a976b59b",
-        "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-15T10:27:55Z",
-        "url": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
-        "excerpt": "Security firms traced the $7.8 million loss to a helper contract the wallet owner had authorized, not to Safe itself.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "18a5e7d57a0d8e7b",
-        "title": "Nigel Farage-backed Stack BTC plans to acquire a gold dealer for $16 million to fund bitcoin buy",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-15T10:06:40Z",
-        "url": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
-        "excerpt": "The proposed acquisition would use cash flow from precious metals sales to build bitcoin holdings.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "e8917c74c89b9278",
-        "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-15T09:40:27Z",
-        "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks",
-        "excerpt": "Ethereum and Base are pursuing different account abstraction designs after talks failed, according to Ethlabs researcher Derek Chiang.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "cee815232135ea23",
-        "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-14T16:02:25Z",
-        "url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
-        "excerpt": "The purchase brings the company closer to its goal of owning 5% of Ethereum’s supply, with most of its tokens earning staking rewards.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "c3d4217851683a9d",
-        "title": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-14T15:57:01Z",
-        "url": "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
-        "excerpt": "The state AGs said they were concerned the crypto legislation might restrict their ability to bring securities and commodities cases tied to online scams.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "6289fdfd1cc44bcf",
-        "title": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-14T15:41:46Z",
-        "url": "https://decrypt.co/378134/strategy-buys-139-million-strc-bitcoin-frozen",
-        "excerpt": "The Bitcoin treasury firm slowed its preferred-stock buyback from last week's $176 million pace and left its 845,050 BTC untouched, per a Monday SEC filing.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "078d612f9943108c",
+        "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-15T11:15:00Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
+        "excerpt": "Your day-ahead look for Oct. 15, 2026",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "59c50ba3a676df0d",
+        "title": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-15T10:01:21Z",
+        "url": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers",
+        "excerpt": "The scammers also ran a fake recovery service, contacting victims weeks later with promises to get their stolen crypto back.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "a212e3095da53a5c",
+        "title": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-15T09:48:07Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april",
+        "excerpt": "Bitcoin price action continued to see contagion from a Korean tech sell-off after the KOSPI Index fell 7.5% on Thursday.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "3b64a726d68fddcb",
+        "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-15T09:14:28Z",
+        "url": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal",
+        "excerpt": "Babylon’s proposal to bring native Bitcoin collateral to Aave V4 has entered a new governance stage, but further votes and security reviews remain before launch.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
       {
         "id": "48b15f2d920c5ee1",
         "title": "Bitcoin Falls as Hot Inflation Puts a Fed Hike Back on the Table",
@@ -3040,66 +3052,6 @@
         "tags": [
           "DeFi",
           "Markets"
-        ]
-      },
-      {
-        "id": "7f0f8a5b490857f0",
-        "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-15T13:43:50Z",
-        "url": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
-        "excerpt": "Two software bugs allowed the attacker to create more than 2,000 times Bitcoin’s maximum supply in unbacked syBTC. Symbiosis puts preliminary losses at 9.97 BTC.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "97fd4ed12baf7d67",
-        "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-15T13:37:31Z",
-        "url": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal",
-        "excerpt": "Tether’s USDT stablecoin was part of a failed oil trade that reportedly cost a Polish energy giant $230 million in late 2023.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "8ca77a5fa1e9f911",
-        "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-15T11:01:04Z",
-        "url": "https://decrypt.co/378183/solana-defi-development-corp-chad",
-        "excerpt": "DeFi Development Corp added another 55,491 SOL and opened a CHAD at-the-market program for its preferred stock, extending a fast-moving three-week run of capital markets activity.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "3f954ce2f3950d6e",
-        "title": "US House crypto tax package omits mining, staking reward deferral",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-15T10:04:21Z",
-        "url": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral",
-        "excerpt": "The 114-page bill would change the tax treatment of crypto fees, stablecoins and lending while leaving existing reward-tax timing unchanged.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "4f6371ec9f4dab2a",
-        "title": "Why Trump Backed Tougher Ethics Rules in Clarity Act, and Why the Crypto Industry Thinks It Can Pass",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-14T15:22:51Z",
-        "url": "https://decrypt.co/378125/clarity-act-crypto-ethics-trump-key-vote",
-        "excerpt": "Republicans' \"last, best and final offer\" wins Trump's backing on stronger ethics rules and concedes on DeFi and stablecoin sticking points, but it's unclear if enough Democrats will cross over Tuesday.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
         ]
       }
     ]
