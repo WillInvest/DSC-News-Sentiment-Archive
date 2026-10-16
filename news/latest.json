@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-10-15T14:57:17.757213Z",
+  "generatedAt": "2026-10-16T14:47:41.515607Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "eedf8c7d66b91e69",
+        "title": "Ledger’s early implant warnings deserved more action, Karpelès says",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-16T13:51:35Z",
+        "url": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles",
+        "excerpt": "Ledger was contacted about tampered hardware wallets risks months before its latest security crisis, with former Mt. Gox CEO Mark Karpelès questioning its response.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "77dd3a15fb358f97",
+        "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-16T10:52:26Z",
+        "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
+        "excerpt": "Nine crypto companies launched the Quantum Alliance to jointly prepare for quantum attacks, but they disagree on when the threat will arrive and whether vulnerable BTC should be frozen.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "c738de4d56680190",
+        "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-16T10:41:03Z",
+        "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+        "excerpt": "Celestia jumped 16%, injective rose 7.7% and layerzero added 7.3% while bitcoin held little changed near $82,100 and Fed Chair Warsh gave no sign on interest rates.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "7cc093dc1ecdd134",
+        "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-16T10:39:08Z",
+        "url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
+        "excerpt": "The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "11559e429c00dcf1",
+        "title": "Live updates: Bitcoin steady near $82,000 after Fed Chair Warsh's comments",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-16T09:48:14Z",
+        "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+        "excerpt": "Crypto held to its bounce following bitcoin’s brief drop under $80,000, but investors kept pulling money from ether, SOL and ZEC funds.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "c31af78d619b06a3",
         "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
@@ -1707,69 +1767,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "c6710bad96096ecd",
-        "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-16T14:35:43Z",
-        "url": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
-        "excerpt": "Leveraging its $550 million acquisition of Bitnomial, Payward aims to become the first registered U.S. exchange to deploy markets on the Hyperliquid protocol.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "2dbd631721238f43",
-        "title": "Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-16T12:36:20Z",
-        "url": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act",
-        "excerpt": "Bernstein said the federal agencies will publish new regulations to compensate for the time lost negotiating the CLARITY Act, after its cloture vote failed on Tuesday.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "72d691f9d0f1f810",
-        "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-16T12:00:41Z",
-        "url": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
-        "excerpt": "The October update changes how nodes estimate transaction fees and process blocks, while fixing a wallet flaw that could let an authenticated user run commands on a node.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "4d5139f58b7f51ec",
-        "title": "Zcash holders back 25-second blocks, vote to keep ZEC halving schedule",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-16T11:46:39Z",
-        "url": "https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings",
-        "excerpt": "Nearly 99% of ZEC holders voted to reduce block times to 25 seconds, while keeping ZEC issuance and halving schedules unchanged.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "db28386d0acad1ad",
-        "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-16T10:48:44Z",
-        "url": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
-        "excerpt": "U.S. spot bitcoin ETFs shed $450 million, the most since June, as the Senate's failure to advance the Clarity Act sent regulatory-sensitive tokens sharply lower.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "240978b466d17a74",
+        "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-16T12:22:18Z",
+        "url": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
+        "excerpt": "The funds came from a task scam that paid people to fake product sales and reviews, then demanded deposits before releasing their pay.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "3fb3070fdfd434a0",
+        "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-16T11:46:54Z",
+        "url": "https://decrypt.co/381138/morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe",
+        "excerpt": "Plus, crypto majors rebound despite hot PPI and Saylor’s Strategy is at risk of removal from a major index.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "efadb03adc570e82",
+        "title": "Circle targets 40 new markets as stablecoin demand grows globally",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-16T10:54:35Z",
+        "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
+        "excerpt": "The stablecoin issuer’s CEO Jerermy Allaire told Reuters demand for digital dollars is growing across Asia, Africa and Latin America as banks and payment firms.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "8706c0a79ec29a04",
+        "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-16T10:27:18Z",
+        "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says",
+        "excerpt": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "078d612f9943108c",
         "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
@@ -2992,66 +3040,6 @@
         "tags": [
           "DeFi",
           "Stablecoins"
-        ]
-      },
-      {
-        "id": "61abea5e7c06f97b",
-        "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-16T14:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
-        "excerpt": "The onchain finance platform said thSLVR allows investors to retain exposure to silver while earning income from lending the metal to institutional borrowers.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "89ab1656fe98975f",
-        "title": "A LatAm telecom operator is putting part of its finances on Avalanche",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-16T14:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
-        "excerpt": "Led by former IBM Blockchain partner Jules Miller, Iris is helping Bolivia's VIVA use stablecoins for settlement, dollar reserves and new financial services without replacing its existing telecom systems.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "f14ad68d5abcdea9",
-        "title": "Bitcoin Hovers at $76K as Analysts Argue the Fed Matters More Than Clarity Act",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-16T12:12:21Z",
-        "url": "https://decrypt.co/378351/bitcoin-hovers-at-76k-as-analysts-argue-the-fed-matters-more-than-clarity-act",
-        "excerpt": "With Bitcoin sitting around $76,000, the argument from analysts is that dollar liquidity, not Congress, sets the floor from here.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "aad137ee1fe32fd4",
-        "title": "Circle launches Arc mainnet with USDC as native gas token",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-16T11:39:44Z",
-        "url": "https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas",
-        "excerpt": "Circle’s Arc mainnet is live with USDC for transaction fees, support for more than 20 fiat stablecoins and links to over 20 blockchains.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "2121b049ca123371",
-        "title": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-16T11:16:51Z",
-        "url": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
-        "excerpt": "Your day-ahead look for Sept. 16, 2026",
-        "tags": [
-          "DeFi",
-          "Markets"
         ]
       }
     ]
