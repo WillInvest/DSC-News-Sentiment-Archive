@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-18T13:58:00.043870Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "7e531de221191102",
+        "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-18T13:00:00Z",
+        "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+        "excerpt": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "286e895d664c673d",
+        "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-18T13:00:00Z",
+        "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+        "excerpt": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "318019c17fec239b",
+        "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-18T12:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+        "excerpt": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "90dc4ca2979a0298",
+        "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-18T09:14:26Z",
+        "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok",
+        "excerpt": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "fc9956a55c2d8f6c",
+        "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-17T16:01:03Z",
+        "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+        "excerpt": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts place the first practical attack in the late 2020s.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "edf72bc309ffdbbe",
+        "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-18T13:01:04Z",
+        "url": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
+        "excerpt": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle’s USDC most sensitive.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "c7448664e387a685",
+        "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-18T01:06:35Z",
+        "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+        "excerpt": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-17T13:29:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "3eb0fa597f51df25",
+        "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-17T12:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+        "excerpt": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "3acbb70ea2e30234",
+        "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-17T10:03:00Z",
+        "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report",
+        "excerpt": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
