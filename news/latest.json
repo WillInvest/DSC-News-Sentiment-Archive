@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-10-18T13:58:00.043870Z",
+  "generatedAt": "2026-10-19T16:57:36.429545Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "daa8365e5a2d5bf5",
+        "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-19T16:47:00Z",
+        "url": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
+        "excerpt": "The future of perps in the U.S. may be at stake as the CFTC argues that CME hasn't shown the new policy is hurting it after the agency OK'd its first bitcoin perp.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6adde30a9184b4ef",
+        "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-19T16:46:05Z",
+        "url": "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million",
+        "excerpt": "A Bitcoin address dormant since 2013 moved 411.45 BTC worth about $33.4 million, according to Galaxy Research, and it’s among the wallets named in the “Noah Doe” lawsuit.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "bfccbc998a342973",
+        "title": "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-19T16:41:55Z",
+        "url": "https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal",
+        "excerpt": "The transaction would give Metaplanet access to US capital markets, where it plans to use preferred stock offerings to finance additional Bitcoin purchases.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4aa486e326a64f4a",
+        "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-19T16:30:18Z",
+        "url": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc",
+        "excerpt": "The Bitcoin treasury company added another 1,223 BTC after an earlier purchase pushed it past MARA Holdings, while continuing to expand its reserves through equity financing.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6772dd424a1b90e5",
+        "title": "Tom Lee’s Bitmine Adds $30 Million in Ethereum as Buying Nears Its Finish Line",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-19T15:13:42Z",
+        "url": "https://decrypt.co/381311/tom-lee-bitmine-adds-30-million-ethereum-buying-nears-finish-line",
+        "excerpt": "The purchase lifts Bitmine’s stash to 6.04 million ETH—4.9% of supply and 99% of the way to its “Alchemy of 5%” goal—as chairman Tom Lee framed a market-wide selloff as an attractive entry point.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "7e531de221191102",
         "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
@@ -1683,93 +1743,57 @@
           "Blockchain",
           "Policy"
         ]
-      },
-      {
-        "id": "5012f22691742969",
-        "title": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-19T16:01:03Z",
-        "url": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
-        "excerpt": "A Glassnode and Bybit report found Bitcoin climbed 24.6% in five August days even as active leverage fell, with short positions supplying 89% of every liquidated dollar.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "47622d1add9c2149",
-        "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-19T16:00:00Z",
-        "url": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
-        "excerpt": "U.S. agencies are racing to substitute their regulations for the law that was meant to set crypto markets in governmental bedrock, but will the stand-ins last?",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "fc6af271e102e0ea",
-        "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-19T13:39:15Z",
-        "url": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
-        "excerpt": "The upcoming Batch V1.1 can make linked asset and payment transfers succeed together or fail together, and Ripple says commercial projects are already being built around the feature after an extensive security review.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "f8c71d39a01fe6f7",
-        "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-19T13:01:04Z",
-        "url": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
-        "excerpt": "The network's clock just sped up again, but the extra speed goes to freshness, not capacity.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "640f6abd94d04687",
-        "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-19T12:13:57Z",
-        "url": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
-        "excerpt": "\"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix,\" wrote Jason Calacanis.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "d1f17369f9f1fc3b",
-        "title": "Zcash Is Running—Devs Want to Make It Faster",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-18T19:16:03Z",
-        "url": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
-        "excerpt": "A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "a4b62123bb4dfc2d",
-        "title": "Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-18T18:35:54Z",
-        "url": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
-        "excerpt": "Kevin O'Leary believes Bitcoin could hit $1 million if crypto beats its quantum computing problem, and explained why he's ditching Ethereum.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "225fe78e4756eb0b",
+        "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-19T16:05:57Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities",
+        "excerpt": "Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "1aa8eba379be508a",
+        "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-19T16:05:09Z",
+        "url": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
+        "excerpt": "Bitcoin keeps limping back to the same floor while $108 oil and 5% yields weigh on risk assets. The chart shows a coiled spring, not a trend.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "f82da2edf007f620",
+        "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-19T12:16:58Z",
+        "url": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
+        "excerpt": "Hoskinson said on X the language will bundle transaction requests with cryptographic proofs. He hasn’t shared a name, specs or a release date.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "3244493052f8cdd1",
+        "title": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-19T11:57:58Z",
+        "url": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million",
+        "excerpt": "World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "edf72bc309ffdbbe",
         "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
@@ -3016,30 +3040,6 @@
         "tags": [
           "DeFi",
           "Markets"
-        ]
-      },
-      {
-        "id": "be2d9a986d7d7e09",
-        "title": "Bastion wins conditional OCC approval for national trust bank charter",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-19T11:47:29Z",
-        "url": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter",
-        "excerpt": "Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and white-label issuance from a single federally regulated entity.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "3d08e121a5b282a8",
-        "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-18T15:35:59Z",
-        "url": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes",
-        "excerpt": "Bitcoin price action made swift gains at the start of Friday’s Wall Street trading session as US 30-year bond yields began rising again.",
-        "tags": [
-          "DeFi",
-          "Lending"
         ]
       }
     ]

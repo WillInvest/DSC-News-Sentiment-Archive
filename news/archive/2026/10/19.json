@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-19T16:57:36.429545Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "daa8365e5a2d5bf5",
+        "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-19T16:47:00Z",
+        "url": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
+        "excerpt": "The future of perps in the U.S. may be at stake as the CFTC argues that CME hasn't shown the new policy is hurting it after the agency OK'd its first bitcoin perp.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6adde30a9184b4ef",
+        "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-19T16:46:05Z",
+        "url": "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million",
+        "excerpt": "A Bitcoin address dormant since 2013 moved 411.45 BTC worth about $33.4 million, according to Galaxy Research, and it’s among the wallets named in the “Noah Doe” lawsuit.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "bfccbc998a342973",
+        "title": "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-19T16:41:55Z",
+        "url": "https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal",
+        "excerpt": "The transaction would give Metaplanet access to US capital markets, where it plans to use preferred stock offerings to finance additional Bitcoin purchases.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4aa486e326a64f4a",
+        "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-19T16:30:18Z",
+        "url": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc",
+        "excerpt": "The Bitcoin treasury company added another 1,223 BTC after an earlier purchase pushed it past MARA Holdings, while continuing to expand its reserves through equity financing.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6772dd424a1b90e5",
+        "title": "Tom Lee’s Bitmine Adds $30 Million in Ethereum as Buying Nears Its Finish Line",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-19T15:13:42Z",
+        "url": "https://decrypt.co/381311/tom-lee-bitmine-adds-30-million-ethereum-buying-nears-finish-line",
+        "excerpt": "The purchase lifts Bitmine’s stash to 6.04 million ETH—4.9% of supply and 99% of the way to its “Alchemy of 5%” goal—as chairman Tom Lee framed a market-wide selloff as an attractive entry point.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "225fe78e4756eb0b",
+        "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-19T16:05:57Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities",
+        "excerpt": "Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "1aa8eba379be508a",
+        "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-19T16:05:09Z",
+        "url": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
+        "excerpt": "Bitcoin keeps limping back to the same floor while $108 oil and 5% yields weigh on risk assets. The chart shows a coiled spring, not a trend.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-19T13:19:50Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "f82da2edf007f620",
+        "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-19T12:16:58Z",
+        "url": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
+        "excerpt": "Hoskinson said on X the language will bundle transaction requests with cryptographic proofs. He hasn’t shared a name, specs or a release date.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "3244493052f8cdd1",
+        "title": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-19T11:57:58Z",
+        "url": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million",
+        "excerpt": "World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
