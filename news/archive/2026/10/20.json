@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-20T15:00:21.550313Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "8d4e4c53f5e50b25",
+        "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-20T14:28:39Z",
+        "url": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
+        "excerpt": "BlackRock's proposed fund follows similar products from Calamos that helped investors avoid steep losses during bitcoin's selloff.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "f2c3af5e8ac971bf",
+        "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-20T13:04:28Z",
+        "url": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail",
+        "excerpt": "The Swiss regulator cited a growing appetite for cryptocurrency investments and said that multiple fund providers have submitted Bitcoin ETF applications.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "51972ca59e8c4a32",
+        "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-20T12:40:17Z",
+        "url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
+        "excerpt": "Seven more issuers have opted out of being listed on the planned tokenized stock venue under the SEC's framework, bringing its disclosed objection count to 16.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "c3bda67967bf4670",
+        "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-20T12:38:28Z",
+        "url": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash",
+        "excerpt": "The April 1 hack caused about $295 million in losses and was later attributed to a North Korean threat group in a Mandiant investigation.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "f6c62bdca6efcce9",
+        "title": "Netflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-20T11:23:00Z",
+        "url": "https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo",
+        "excerpt": "Constance Wang criticized the streamer’s portrayal of her former FTX colleagues as not matching her own experience with Sam Bankman-Fried and Caroline Ellison.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "1ca8abe050e0b29b",
+        "title": "French Lawmakers Back Stablecoin Swap Tax by Just One Vote",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-20T14:04:10Z",
+        "url": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
+        "excerpt": "The amendment would make swapping crypto into euro or dollar stablecoins taxable in France from 2027, with gains measured coin by coin.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-20T12:50:13Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "3caa49ced42da035",
+        "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-20T12:30:00Z",
+        "url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain",
+        "excerpt": "The Brale-issued token can be minted with USDC from eight networks and is designed to settle tokenized stocks and other assets on tx.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "2bc5f6ab4251cf12",
+        "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-20T11:25:00Z",
+        "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
+        "excerpt": "Amendment I-3898 removes tax deferral for MiCA-compliant stablecoins starting January 2027.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "0de419b460fd977e",
+        "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-20T10:22:55Z",
+        "url": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
+        "excerpt": "Bitcoin slipped 0.5% to around $81,400 even after the biggest daily spot ETF inflow in nearly a month as South Korea's Kospi index fell 3.7% on AI worries.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
