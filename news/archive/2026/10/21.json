@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-21T15:10:56.793068Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "ba49f702d72dba23",
+        "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-21T14:24:25Z",
+        "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+        "excerpt": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "c7d8c1be68770007",
+        "title": "5 alternatives to Ledger to store your Bitcoin",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-21T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin",
+        "excerpt": "Hardware wallets aren’t the only way to protect your crypto, but from ETFs and passkeys to multisig accounts, each alternative has its own risks and trade-offs.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "22ceaa5636893287",
+        "title": "Morning Minute: Bitcoin Tops JPMorgan’s Ten-Year Forecast for All Assets",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-21T12:16:38Z",
+        "url": "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets",
+        "excerpt": "The bank has Bitcoin outperforming all asset classes spanning real estate, stocks and gold over the next 10-15 years.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6fe35654ae04ddbb",
+        "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-21T11:15:00Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
+        "excerpt": "Your day-ahead look for Oct. 21, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "19a5dce466137988",
+        "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-21T10:39:13Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode",
+        "excerpt": "Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "72cd5390d4f9a920",
+        "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-21T15:00:53Z",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+        "excerpt": "Real-world assets already back the largest stablecoins, yet borrowing against them onchain still runs through variable-rate pools. Peter Gaffney of O2O Capital Partners explains why fixed-rate, fixed-term lending is the missing piece, and how a 5% shift in…",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-21T13:34:54Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "3724f347e6d302fe",
+        "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-21T12:26:58Z",
+        "url": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody",
+        "excerpt": "The Office of the Comptroller of the Currency’s final rule covers payment stablecoin issuance and some custody activities, with the GENIUS Act framework taking effect in mid-January.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "7483c45fdd4ba346",
+        "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-21T12:12:36Z",
+        "url": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
+        "excerpt": "Vault12 raised $17.45 million selling VGT in 2018 and says it met or dropped every promise, yet the token has never traded on a centralized exchange.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "e38dcbbe9f48d17a",
+        "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-21T12:10:39Z",
+        "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
+        "excerpt": "The collaboration will explore card-linked merchant payments for Japanese visitors in South Korea and peer-to-peer wallet transfers among broader cross-border trade remittances.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
