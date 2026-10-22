@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-10-21T15:10:56.793068Z",
+  "generatedAt": "2026-10-22T15:12:01.164922Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "feb670ff5fc5a3f0",
+        "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-22T13:42:34Z",
+        "url": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal",
+        "excerpt": "Public miners backed by major TradFi players are coming back online, boosting Bitcoin’s hashrate, a positive sign for BTC’s fundamentals, according to CryptoQuant’s Ki Young Ju.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "b48c6679f443bf47",
+        "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-22T13:20:57Z",
+        "url": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications",
+        "excerpt": "Thailand’s SEC says several asset managers have sought consultations on spot crypto ETFs, but it cannot confirm whether the first funds will launch in 2026.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "374ded6bb40ed2cd",
+        "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-22T13:00:00Z",
+        "url": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs",
+        "excerpt": "DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "c3abd859ca190fc1",
+        "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-22T12:14:29Z",
+        "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+        "excerpt": "A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "0ca8347ca833bdc2",
+        "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-22T11:20:04Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+        "excerpt": "Your day-ahead look for Oct. 21, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "ba49f702d72dba23",
         "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
@@ -1707,81 +1767,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "e83215db1cfbd626",
-        "title": "Big Questions: Does Satoshi actually own 1.1 million Bitcoin?",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-22T13:30:00Z",
-        "url": "https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin",
-        "excerpt": "Researchers can trace an estimated 1.1 million BTC to a distinctive early mining operation. The harder question is whether that miner was actually Satoshi.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "9746811bc0c4e1fa",
-        "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-22T12:32:15Z",
-        "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
-        "excerpt": "CoinDesk found one $5,499 trade size accounting for 57% of sampled ether-perpetual volume, while recurring $2,500 and $5,000 trade sizes made up 54% of sampled bitcoin-perpetual volume.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "4ee07f74bd31fc2f",
-        "title": "Morning Minute: Robinhood CEO Bets Crypto Will Beat Sports at Prediction Markets",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-22T12:15:44Z",
-        "url": "https://decrypt.co/378918/morning-minute-robinhood-ceo-bets-crypto-will-beat-sports-at-prediction-markets",
-        "excerpt": "Crypto is interesting again and that means attention is flowing back to the sector. And it’s starting to show in the data.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "c9eb0e605eccbba6",
-        "title": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-22T11:35:43Z",
-        "url": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
-        "excerpt": "Your day-ahead look for Sept. 22, 2026",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "b430dd8b76e6986e",
-        "title": "ECB to put its own money into tokenized securities via new Pontes DLT",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-22T11:29:35Z",
-        "url": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes",
-        "excerpt": "The ECB aims to gain firsthand DLT market experience by buying tokenized public-sector securities and settling the trades through Pontes.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "70f309439eb948d8",
-        "title": "Bitcoin Is Rallying Again—What Happens Next?",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-21T15:45:35Z",
-        "url": "https://decrypt.co/378767/bitcoin-rally-what-happens-next",
-        "excerpt": "The rally cleared an eight-month ceiling on a short squeeze and falling oil prices. The next three weeks will decide if it sticks.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "99fa2d148db9357c",
+        "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-22T14:58:31Z",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+        "excerpt": "",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "0ac78af2e007f54c",
+        "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-22T13:13:45Z",
+        "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds",
+        "excerpt": "SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC coverage, allowing users to convert funds to stablecoins 24/7.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "5a6261f32a8a31e9",
+        "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-22T12:01:03Z",
+        "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
+        "excerpt": "Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with FDIC insurance—a yield-and-protection combination ordinary stablecoins lack.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "92503eb9ce3fbc8f",
+        "title": "The UK needs a workable route to regulated DeFi access",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-22T12:00:00Z",
+        "url": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access",
+        "excerpt": "The UK’s 2027 crypto rules risk a de facto ban on regulated firms providing access to DeFi, argues Coinbase’s European policy head Katie Harries.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "72cd5390d4f9a920",
         "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
@@ -3025,66 +3061,6 @@
         "publishedAt": "2026-09-23T07:49:23Z",
         "url": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
         "excerpt": "Coinbase now allows users to borrow the USDC stablecoin against their bitcoin at a fixed interest rate and repayment date.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "bf37539e0f8055d1",
-        "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-22T14:32:59Z",
-        "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
-        "excerpt": "Central bankers argue that indirect yield structures blur the line between electronic payment tokens and commercial bank deposits, distorting financial system competition.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "e142816477b3dc2e",
-        "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-22T13:15:57Z",
-        "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks",
-        "excerpt": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "3c3ae831319259a1",
-        "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-22T12:05:55Z",
-        "url": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
-        "excerpt": "Reap is preparing to add a Mexican peso stablecoin and is exploring Hong Kong dollar, euro, won and yen tokens for foreign exchange outside banking hours.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "679f0a5fd47e3f63",
-        "title": "Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-22T08:06:23Z",
-        "url": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo",
-        "excerpt": "Solstice CEO Ben Nadareski says deeper liquidity and growing institutional participation could make future crypto bull runs less volatile than previous cycles.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "9548b95efc90dc00",
-        "title": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-21T16:16:03Z",
-        "url": "https://decrypt.co/378811/apple-google-crypto-talent-stablecoin",
-        "excerpt": "The senior roles cover Apple’s consumer payment products and Google Cloud’s institutional blockchain business in Asia.",
         "tags": [
           "DeFi",
           "Stablecoins"

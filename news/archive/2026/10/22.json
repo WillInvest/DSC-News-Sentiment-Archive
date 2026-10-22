@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-22T15:12:01.164922Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "feb670ff5fc5a3f0",
+        "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-22T13:42:34Z",
+        "url": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal",
+        "excerpt": "Public miners backed by major TradFi players are coming back online, boosting Bitcoin’s hashrate, a positive sign for BTC’s fundamentals, according to CryptoQuant’s Ki Young Ju.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "b48c6679f443bf47",
+        "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-22T13:20:57Z",
+        "url": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications",
+        "excerpt": "Thailand’s SEC says several asset managers have sought consultations on spot crypto ETFs, but it cannot confirm whether the first funds will launch in 2026.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "374ded6bb40ed2cd",
+        "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-22T13:00:00Z",
+        "url": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs",
+        "excerpt": "DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "c3abd859ca190fc1",
+        "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-22T12:14:29Z",
+        "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+        "excerpt": "A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "0ca8347ca833bdc2",
+        "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-22T11:20:04Z",
+        "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+        "excerpt": "Your day-ahead look for Oct. 21, 2026",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "99fa2d148db9357c",
+        "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-22T14:58:31Z",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+        "excerpt": "",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-22T13:22:57Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "0ac78af2e007f54c",
+        "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-22T13:13:45Z",
+        "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds",
+        "excerpt": "SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC coverage, allowing users to convert funds to stablecoins 24/7.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "5a6261f32a8a31e9",
+        "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-22T12:01:03Z",
+        "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
+        "excerpt": "Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with FDIC insurance—a yield-and-protection combination ordinary stablecoins lack.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "92503eb9ce3fbc8f",
+        "title": "The UK needs a workable route to regulated DeFi access",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-22T12:00:00Z",
+        "url": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access",
+        "excerpt": "The UK’s 2027 crypto rules risk a de facto ban on regulated firms providing access to DeFi, argues Coinbase’s European policy head Katie Harries.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
