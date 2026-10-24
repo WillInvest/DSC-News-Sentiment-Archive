@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-24T13:59:18.519455Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "e088af504e1cf25c",
+        "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-24T04:45:43Z",
+        "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+        "excerpt": "Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "07e9937c553f3a52",
+        "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-23T21:32:16Z",
+        "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice",
+        "excerpt": "As of Friday, 22 companies had filed objections as part of the joint venture’s proposed tokenized stock platform under the SEC’s innovation exemption.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "d3cf9026dd751c8c",
+        "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-23T21:16:03Z",
+        "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+        "excerpt": "Days before Israel’s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "7fda0e11f2a0d85c",
+        "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-23T18:54:55Z",
+        "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+        "excerpt": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "1b2cf4e36ca8e84a",
+        "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-23T18:39:02Z",
+        "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
+        "excerpt": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "07e52b1ddb324628",
+        "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-24T13:01:02Z",
+        "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+        "excerpt": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "9325d2bd0bf65df3",
+        "title": "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-23T16:31:03Z",
+        "url": "https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york",
+        "excerpt": "New York’s attorney general asked a court to order NovaTech’s founders, who fled the country, to pay about $1.37 billion, and settled with four top promoters for nearly $6 million.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-23T13:38:53Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "412784a1548ec72a",
+        "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-23T10:54:35Z",
+        "url": "https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank",
+        "excerpt": "The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "07636778af136f35",
+        "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-23T10:22:56Z",
+        "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
+        "excerpt": "HSBC and Standard Chartered-led Anchorpoint received Hong Kong’s first stablecoin issuer licenses in April. Anchorpoint began rolling out HKDAP in August.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}

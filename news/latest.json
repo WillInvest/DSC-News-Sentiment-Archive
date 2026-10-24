@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-10-23T15:00:22.974445Z",
+  "generatedAt": "2026-10-24T13:59:18.519455Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "e088af504e1cf25c",
+        "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-24T04:45:43Z",
+        "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+        "excerpt": "Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "07e9937c553f3a52",
+        "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-23T21:32:16Z",
+        "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice",
+        "excerpt": "As of Friday, 22 companies had filed objections as part of the joint venture’s proposed tokenized stock platform under the SEC’s innovation exemption.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "d3cf9026dd751c8c",
+        "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-23T21:16:03Z",
+        "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+        "excerpt": "Days before Israel’s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "7fda0e11f2a0d85c",
+        "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-23T18:54:55Z",
+        "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+        "excerpt": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "1b2cf4e36ca8e84a",
+        "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-23T18:39:02Z",
+        "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
+        "excerpt": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
       {
         "id": "eadb3f14ac6f7fe1",
         "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
@@ -1707,69 +1767,33 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "b90f065ac98f0b8c",
-        "title": "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds—With AI",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-24T13:01:03Z",
-        "url": "https://decrypt.co/379113/elliptic-crypto-wallet-ai-pulse",
-        "excerpt": "Elliptic’s new AI-assisted tool, called Pulse, lets any officer input a wallet address or transaction hash and get a plain-language summary in seconds, aiming to bring crypto tracing beyond specialized units.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "0aef262ff89732a0",
-        "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T13:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
-        "excerpt": "The ARK Venture Fund is bringing exposure to sought-after private tech companies onchain through Securitize, first on Ethereum then potentially expanding to other chains.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "3a3de5b70bec3870",
-        "title": "Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T13:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/09/24/solana-foundation-hires-binance-polygon-veterans-as-it-ramps-up-tokenized-finance-push",
-        "excerpt": "Rachel Conlan and Jamal Raees join as Solana aims to court institutions moving payments and assets onchain.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "ee92c5028f369eb2",
-        "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T11:33:57Z",
-        "url": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
-        "excerpt": "The fraudster managed to scam about 100 people across the United States, convincing them of transferring funds to him, claiming their accounts had been hacked.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "bd152c5a6948d886",
-        "title": "Litecoin token has its moment as network activity booms",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T11:26:18Z",
-        "url": "https://www.coindesk.com/daybook-us/2026/09/24/litecoin-token-has-its-moment-as-network-activity-booms",
-        "excerpt": "Your day-ahead look for Sept. 24, 2026",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "07e52b1ddb324628",
+        "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-24T13:01:02Z",
+        "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+        "excerpt": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "9325d2bd0bf65df3",
+        "title": "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-23T16:31:03Z",
+        "url": "https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york",
+        "excerpt": "New York’s attorney general asked a court to order NovaTech’s founders, who fled the country, to pay about $1.37 billion, and settled with four top promoters for nearly $6 million.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "412784a1548ec72a",
         "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
@@ -3028,42 +3052,6 @@
         "tags": [
           "DeFi",
           "Stablecoins"
-        ]
-      },
-      {
-        "id": "244152d07927857c",
-        "title": "Decrypt Media and FOMO Hour’s Thought Leader Farokh Sarmad to Take Main Stage at NEXTPredict NY Conference",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-24T13:01:16Z",
-        "url": "https://decrypt.co/379042/decrypt-media-and-fomo-hours-thought-leader-farokh-sarmad-to-take-main-stage-at-nextpredict-ny-conference",
-        "excerpt": "Premier Partnership will livestream the Main Stage through Decrypt Media and bring Rug Radio and FOMO HOUR programming onsite.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "2afa6fdd8c6fd8be",
-        "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-24T13:00:00Z",
-        "url": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive",
-        "excerpt": "Rachel Conlan will oversee institutional partnerships and ecosystem growth, while Jamal Raees will focus on stablecoins and tokenized deposits, following a wave of new partnerships.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "7a4b077122b57f62",
-        "title": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T12:31:53Z",
-        "url": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
-        "excerpt": "The $2 billion digital-asset investment firm rolls out an initiative to back, build and provide liquidity to projects bringing real-world yields into DeFi.",
-        "tags": [
-          "DeFi",
-          "Lending"
         ]
       }
     ]
