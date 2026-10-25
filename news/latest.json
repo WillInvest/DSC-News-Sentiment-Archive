@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-10-24T13:59:18.519455Z",
+  "generatedAt": "2026-10-25T14:19:35.963361Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "a9078bddd3cd99c5",
+        "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-25T14:01:03Z",
+        "url": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
+        "excerpt": "Spot Bitcoin ETFs finished the week with about $301 million in net inflows, ending a two-week losing streak, even as two straight days of outflows kept October in the red.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "0ca8359b10c88cc4",
+        "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-25T11:42:00Z",
+        "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions",
+        "excerpt": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country’s central banker.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "ed6e74b011587937",
+        "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-24T16:01:03Z",
+        "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
+        "excerpt": "Sweden's Government Offices will block ChatGPT and Claude on staff computers from Monday, steering civil servants to Microsoft Copilot as the only AI that passed its security review.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "567c32aacef915e0",
+        "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-24T16:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+        "excerpt": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "9a32a2203dd5594b",
+        "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-24T15:11:24Z",
+        "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+        "excerpt": "Bitcoin has sunk to its weakest level in more than one month.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "e088af504e1cf25c",
         "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
@@ -1719,57 +1779,21 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "7e0fe4aaceeb11f8",
-        "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-25T13:04:06Z",
-        "url": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
-        "excerpt": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "d167b8476c238074",
-        "title": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-25T12:01:15Z",
-        "url": "https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows",
-        "excerpt": "Two entries in his annual disclosure put the holding somewhere between $16,000 and $65,000, alongside more than $1 million in cash.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "e3b5b1fc85e3d57b",
-        "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-25T11:54:28Z",
-        "url": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
-        "excerpt": "Bond volatility is at its highest since March, while the bitcoin VIX, BVIV and Wall Street's VIX remain near its yearly low.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "2500b2f715fe6dbc",
-        "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-25T11:29:04Z",
-        "url": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
-        "excerpt": "Your day-ahead look for Sept. 25, 2026",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "4c27bc73ac39ea28",
+        "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-24T14:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
+        "excerpt": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
       {
         "id": "07e52b1ddb324628",
         "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
@@ -3001,54 +3025,6 @@
         "publishedAt": "2026-09-25T14:41:53Z",
         "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
         "excerpt": "The stablecoin issuer blacklisted a wallet holding about $318,000 in USDT and USDC. Most of the stolen funds sit in ether, which can't be frozen.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "d91feb880b10656d",
-        "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-25T09:59:45Z",
-        "url": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
-        "excerpt": "Quant jumped 39% over 24 hours and 93 of 100 CoinDesk 100 constituents rose, with the altcoin season index at its highest in more than three months.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "07bce648438d9a09",
-        "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-25T09:13:01Z",
-        "url": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
-        "excerpt": "At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "08dc4c752bf8da62",
-        "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-25T08:58:03Z",
-        "url": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
-        "excerpt": "The cross-chain lending protocol accused LayerZero and its co-founder Brian Pellegrino of failing to disclose weaknesses in their protocol, which led to the $292 million hack.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "ccb5a50a2210859a",
-        "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-24T14:41:05Z",
-        "url": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
-        "excerpt": "Jan-Oliver Sell, the CEO and founder of Qivalis, said the entire trade finance supply chain is moving into stablecoins.",
         "tags": [
           "DeFi",
           "Stablecoins"

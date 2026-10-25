@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-25T14:19:35.963361Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "a9078bddd3cd99c5",
+        "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-25T14:01:03Z",
+        "url": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
+        "excerpt": "Spot Bitcoin ETFs finished the week with about $301 million in net inflows, ending a two-week losing streak, even as two straight days of outflows kept October in the red.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "0ca8359b10c88cc4",
+        "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-25T11:42:00Z",
+        "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions",
+        "excerpt": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country’s central banker.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "ed6e74b011587937",
+        "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-24T16:01:03Z",
+        "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
+        "excerpt": "Sweden's Government Offices will block ChatGPT and Claude on staff computers from Monday, steering civil servants to Microsoft Copilot as the only AI that passed its security review.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "567c32aacef915e0",
+        "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-24T16:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+        "excerpt": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "9a32a2203dd5594b",
+        "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-24T15:11:24Z",
+        "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+        "excerpt": "Bitcoin has sunk to its weakest level in more than one month.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "4c27bc73ac39ea28",
+        "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-24T14:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
+        "excerpt": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "07e52b1ddb324628",
+        "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-24T13:01:02Z",
+        "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+        "excerpt": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "9325d2bd0bf65df3",
+        "title": "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-23T16:31:03Z",
+        "url": "https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york",
+        "excerpt": "New York’s attorney general asked a court to order NovaTech’s founders, who fled the country, to pay about $1.37 billion, and settled with four top promoters for nearly $6 million.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-23T13:38:53Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "412784a1548ec72a",
+        "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-23T10:54:35Z",
+        "url": "https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank",
+        "excerpt": "The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
