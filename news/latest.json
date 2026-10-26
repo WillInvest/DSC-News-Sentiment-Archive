@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-10-25T14:19:35.963361Z",
+  "generatedAt": "2026-10-26T16:45:55.523204Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "c11a1e18469ec799",
+        "title": "India’s CoinDCX Confirms $16 Million Loss Days After CEO Called It a ‘False Alarm’",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-26T16:36:03Z",
+        "url": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
+        "excerpt": "The Mumbai-based exchange says 15.99 million USDT was drained from wallets it retired after last year’s $44 million hack, bringing its combined losses to nearly $60 million—and it’s absorbing the hit.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "70e8ed146989c3f7",
+        "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-26T16:05:12Z",
+        "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+        "excerpt": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "e178d466c0c093bb",
+        "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-26T15:36:03Z",
+        "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
+        "excerpt": "The firm added 10,452 ETH to reach 4.95% of supply, but its bigger move was repurchasing 2.04 million of its own shares—part of what it calls the largest equity buyback any crypto treasury company has run.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "eedb70552d5a2c4a",
+        "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-26T13:27:38Z",
+        "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback",
+        "excerpt": "Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4c751d7115e471db",
+        "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-26T13:24:38Z",
+        "url": "https://decrypt.co/381811/strategy-pauses-bitcoin-buying-spends-205m-buying-back-strc",
+        "excerpt": "The Bitcoin treasury firm's USD Cash balance fell to $242.4 million after its biggest weekly STRC buyback in more than a month.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "a9078bddd3cd99c5",
         "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
@@ -1707,81 +1767,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "04fea9617b636ce6",
-        "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-26T12:56:41Z",
-        "url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
-        "excerpt": "Two wallets have been almost emptied and a third is being drained, with about $75 million remaining across the five original holding accounts.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "104f75d57d878eb5",
-        "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-26T12:00:00Z",
-        "url": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
-        "excerpt": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "88e444141e9d9ef9",
-        "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-26T09:02:22Z",
-        "url": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2",
-        "excerpt": "Peirce, known as “Crypto Mom,” served on the SEC for about eight years, including as director of the Crypto Task Force.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "5dc2f6f7925221bb",
-        "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-26T05:00:00Z",
-        "url": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
-        "excerpt": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "0feab58a0a0e184b",
-        "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-26T04:30:00Z",
-        "url": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
-        "excerpt": "The feature would let users bundle up to eight transactions, including asset-and-payment transfers, but a brief drop below the network’s 80% support threshold restarted its two-week activation clock.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "42cd9b7a4f87c33d",
-        "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-25T14:32:48Z",
-        "url": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
-        "excerpt": "While Tether's stated ceiling places its maximum exposure under $64 million, the incident underscores lingering counterparty risks in fiat gateway networks.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "e8312890a3cbdc05",
+        "title": "OCC calls on community banks to enter the stablecoin payments market",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-26T15:45:51Z",
+        "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+        "excerpt": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "3a6f50ee0427fca1",
+        "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-26T14:23:41Z",
+        "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+        "excerpt": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "29dc32d37511e8d3",
+        "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-26T11:24:33Z",
+        "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
+        "excerpt": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "0b53a5790bd95754",
+        "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-26T00:13:29Z",
+        "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin",
+        "excerpt": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "4c27bc73ac39ea28",
         "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
@@ -2968,66 +3004,6 @@
         "tags": [
           "DeFi",
           "Lending"
-        ]
-      },
-      {
-        "id": "70d094953aacf7fc",
-        "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-26T13:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
-        "excerpt": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage remains hard to dislodge, analysts told CoinDesk.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "b282b34e9f479f63",
-        "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-25T21:17:30Z",
-        "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
-        "excerpt": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "42243c8246d40a88",
-        "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-25T18:42:51Z",
-        "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-        "excerpt": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "f001a767dd877b37",
-        "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-25T15:49:34Z",
-        "url": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets",
-        "excerpt": "Stablecoins and tokenized assets are pushing banks, exchanges and crypto companies into the same markets, from payments to stocks and ETFs.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "f7d0554d5ded4a7a",
-        "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-25T14:41:53Z",
-        "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
-        "excerpt": "The stablecoin issuer blacklisted a wallet holding about $318,000 in USDT and USDC. Most of the stolen funds sit in ether, which can't be frozen.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
         ]
       }
     ]

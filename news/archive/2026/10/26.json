@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-26T16:45:55.523204Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "c11a1e18469ec799",
+        "title": "India’s CoinDCX Confirms $16 Million Loss Days After CEO Called It a ‘False Alarm’",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-26T16:36:03Z",
+        "url": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
+        "excerpt": "The Mumbai-based exchange says 15.99 million USDT was drained from wallets it retired after last year’s $44 million hack, bringing its combined losses to nearly $60 million—and it’s absorbing the hit.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "70e8ed146989c3f7",
+        "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-26T16:05:12Z",
+        "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+        "excerpt": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "e178d466c0c093bb",
+        "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-26T15:36:03Z",
+        "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
+        "excerpt": "The firm added 10,452 ETH to reach 4.95% of supply, but its bigger move was repurchasing 2.04 million of its own shares—part of what it calls the largest equity buyback any crypto treasury company has run.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "eedb70552d5a2c4a",
+        "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-26T13:27:38Z",
+        "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback",
+        "excerpt": "Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4c751d7115e471db",
+        "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-26T13:24:38Z",
+        "url": "https://decrypt.co/381811/strategy-pauses-bitcoin-buying-spends-205m-buying-back-strc",
+        "excerpt": "The Bitcoin treasury firm's USD Cash balance fell to $242.4 million after its biggest weekly STRC buyback in more than a month.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "e8312890a3cbdc05",
+        "title": "OCC calls on community banks to enter the stablecoin payments market",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-26T15:45:51Z",
+        "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+        "excerpt": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "3a6f50ee0427fca1",
+        "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-26T14:23:41Z",
+        "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+        "excerpt": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-26T13:26:47Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "29dc32d37511e8d3",
+        "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-26T11:24:33Z",
+        "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
+        "excerpt": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "0b53a5790bd95754",
+        "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-26T00:13:29Z",
+        "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin",
+        "excerpt": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
