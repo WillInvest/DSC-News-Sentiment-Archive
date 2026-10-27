@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-27T15:50:56.522254Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "24569258d791482d",
+        "title": "McDonald's McRib Doesn't Actually Boost Bitcoin's Price, Sorry Everyone",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-27T14:31:02Z",
+        "url": "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
+        "excerpt": "Crypto traders think the McRib’s return to McDonald's means a Bitcoin pump is coming. Experts say there is \"no correlation at all.\"",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "12fa1dfb384bfdd7",
+        "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-27T14:21:10Z",
+        "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+        "excerpt": "The $500 billion asset manager is launching an issuer-sponsored fund on Stellar, taking a different approach from third-party stock tokens.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "a2576cb5b9742dd5",
+        "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-27T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser",
+        "excerpt": "Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "ac77a8c1184f9710",
+        "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-27T13:13:50Z",
+        "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
+        "excerpt": "Luxor raised $16 million to expand into AI hardware and trading, betting that computing power will become a market where companies can hedge costs and prices.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "655922a0a41d1037",
+        "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-27T13:01:10Z",
+        "url": "https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin",
+        "excerpt": "Arthur Hayes revealed the derivatives market design for Flop Network and how he expects its native token could transform AI compute into a tradable commodity.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "58e48a8fcf528e54",
+        "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-27T14:00:00Z",
+        "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+        "excerpt": "The new service could help developers build blockchain-based index funds, tokenized portfolios and derivatives using established financial benchmarks.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-27T13:17:24Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "a785c570ded12801",
+        "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-27T11:46:51Z",
+        "url": "https://decrypt.co/381906/why-this-team-of-ninjas-is-tripling-down-on-mining-bitcoin",
+        "excerpt": "NIP Group says Bitcoin mining has “earned its place” as the esports giant swaps 247 million shares for more machines.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "4163ed5b7226add6",
+        "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-27T11:37:52Z",
+        "url": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
+        "excerpt": "CEO Noritaka Okabe blamed a 1 million yen per-transaction cap for Type II funds transfer providers, which has slowed corporate adoption.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "1ab89cecc065ba38",
+        "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-27T11:32:45Z",
+        "url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+        "excerpt": "Bitcoin fell 0.4% to around $79,700 since midnight UTC while Asian tech stocks rallied. The DeFi index dropped 1.8%, and the Fed is set to begin a two-day meeting.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
