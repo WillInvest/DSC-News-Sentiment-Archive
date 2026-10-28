@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-10-27T15:50:56.522254Z",
+  "generatedAt": "2026-10-28T16:35:10.473660Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "bb7be5ce32f24199",
+        "title": "Wall Street’s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-28T16:15:02Z",
+        "url": "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds",
+        "excerpt": "Galaxy Research found that nine hedge funds and banks cut 68,000 BTC worth of spot ETF exposure as the cash-and-carry trade dried up, while wealth platforms and sovereign funds added.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "49ce4f6daf953ae7",
+        "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-28T16:01:36Z",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
+        "excerpt": "The largest card networks now sit in the top governance tier of x402, the standard that AI agents use to pay for things online. Albert Castellana of GenLayer Labs explains why that standard has no way to dispute a charge, and what happens when the payment…",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "830db2554c4f9e1b",
+        "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-28T15:15:34Z",
+        "url": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
+        "excerpt": "The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "40d65e0c8ec6f019",
+        "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-28T13:47:51Z",
+        "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody",
+        "excerpt": "Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "bcecc4434596f5f1",
+        "title": "Cybersecurity’s Black October: How to protect yourself",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-28T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself",
+        "excerpt": "Each day brings news of another AI-powered attack, or a newly discovered vulnerability. Here’s what’s happening and how ordinary people can protect themselves online.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
       {
         "id": "24569258d791482d",
         "title": "McDonald's McRib Doesn't Actually Boost Bitcoin's Price, Sorry Everyone",
@@ -1719,57 +1779,57 @@
           "Blockchain",
           "Security"
         ]
-      },
-      {
-        "id": "ece795990ba49c56",
-        "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-28T16:29:42Z",
-        "url": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
-        "excerpt": "Hegota will be Ethereum's last 'normal' fork, he argues, with everything after built on recursive STARKs and formal verification.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "8ddeeed9af56d7b3",
-        "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-28T14:46:21Z",
-        "url": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability",
-        "excerpt": "Some stolen assets have been frozen, but Bitget has yet to disclose how much has been recovered as investigators continue to assess a possible North Korea link.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "c59ca94b3bc731e6",
-        "title": "Altseason is coming — and traders are more discerning this time",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-09-28T13:30:00Z",
-        "url": "https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time",
-        "excerpt": "Altseason is almost here and early signs suggest traders are becoming more selective, with capital flowing into revenue-generating protocols across a number of different narratives.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "5b48b6c6bad10afd",
-        "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-28T13:27:40Z",
-        "url": "https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply",
-        "excerpt": "Bitmine has staked 84% of its tokens, a position it projects will generate some $358 million a year in staking rewards.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "944a9cd68a46fbeb",
+        "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-28T12:16:30Z",
+        "url": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval",
+        "excerpt": "The ratings agency cited RLUSD's Treasury-heavy reserves, but noted that holders have no direct ownership interest in them for now.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "d70b96f585257213",
+        "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-28T11:52:14Z",
+        "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
+        "excerpt": "An experimental change would let companies cover the reserve for customer and AI-agent accounts, allowing users to start with stablecoins without first acquiring XRP.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "2807bc235502daf4",
+        "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-28T10:41:51Z",
+        "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
+        "excerpt": "Stablecoins lead instruments in use or planned at 63%, ahead of tokenized deposits at 53% and tokenized money market funds at 52%.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "db0b5fa1450a0144",
+        "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-28T07:57:18Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds",
+        "excerpt": "US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net outflows to $26 million as the Crypto Fear & Greed Index remained neutral.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "58e48a8fcf528e54",
         "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
@@ -3016,42 +3076,6 @@
         "tags": [
           "DeFi",
           "Stablecoins"
-        ]
-      },
-      {
-        "id": "52cef6bdeefee42a",
-        "title": "The restaking gold rush is over, and top protocols are barely making a profit",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-28T16:24:51Z",
-        "url": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
-        "excerpt": "As restaking yields dried up and smart-contract risks mounted, Ethereum's top liquid restaking protocol walked away from its core business to build a crypto neobank instead.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "12ecc38df14a03f1",
-        "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
-        "source": "Decrypt",
-        "publishedAt": "2026-09-28T15:26:28Z",
-        "url": "https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields",
-        "excerpt": "Bitcoin extends last week's pullback as Trump rejects Iran's ceasefire plan, sending oil above $100 and yields higher ahead of Wednesday's PCE report.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "5bc75ebb0b311011",
-        "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
-        "source": "CoinDesk",
-        "publishedAt": "2026-09-28T13:06:11Z",
-        "url": "https://www.coindesk.com/markets/2026/09/28/ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns",
-        "excerpt": "AI agents could trigger a bank run by automatically moving household cash from low-interest checking accounts to higher-yield alternatives, Slok warns.",
-        "tags": [
-          "DeFi",
-          "Lending"
         ]
       }
     ]

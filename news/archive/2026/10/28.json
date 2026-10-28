@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-28T16:35:10.473660Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "bb7be5ce32f24199",
+        "title": "Wall Street’s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-28T16:15:02Z",
+        "url": "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds",
+        "excerpt": "Galaxy Research found that nine hedge funds and banks cut 68,000 BTC worth of spot ETF exposure as the cash-and-carry trade dried up, while wealth platforms and sovereign funds added.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "49ce4f6daf953ae7",
+        "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-28T16:01:36Z",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
+        "excerpt": "The largest card networks now sit in the top governance tier of x402, the standard that AI agents use to pay for things online. Albert Castellana of GenLayer Labs explains why that standard has no way to dispute a charge, and what happens when the payment…",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "830db2554c4f9e1b",
+        "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-28T15:15:34Z",
+        "url": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
+        "excerpt": "The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "40d65e0c8ec6f019",
+        "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-28T13:47:51Z",
+        "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody",
+        "excerpt": "Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "bcecc4434596f5f1",
+        "title": "Cybersecurity’s Black October: How to protect yourself",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-28T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself",
+        "excerpt": "Each day brings news of another AI-powered attack, or a newly discovered vulnerability. Here’s what’s happening and how ordinary people can protect themselves online.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-28T13:35:44Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "944a9cd68a46fbeb",
+        "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-28T12:16:30Z",
+        "url": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval",
+        "excerpt": "The ratings agency cited RLUSD's Treasury-heavy reserves, but noted that holders have no direct ownership interest in them for now.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "d70b96f585257213",
+        "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-28T11:52:14Z",
+        "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
+        "excerpt": "An experimental change would let companies cover the reserve for customer and AI-agent accounts, allowing users to start with stablecoins without first acquiring XRP.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "2807bc235502daf4",
+        "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-28T10:41:51Z",
+        "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
+        "excerpt": "Stablecoins lead instruments in use or planned at 63%, ahead of tokenized deposits at 53% and tokenized money market funds at 52%.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "db0b5fa1450a0144",
+        "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-28T07:57:18Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds",
+        "excerpt": "US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net outflows to $26 million as the Crypto Fear & Greed Index remained neutral.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
