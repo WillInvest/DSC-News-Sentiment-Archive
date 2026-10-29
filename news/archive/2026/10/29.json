@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-29T16:53:02.385342Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "9e3b0e12d2e666c3",
+        "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-29T16:32:47Z",
+        "url": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
+        "excerpt": "Bitcoin is trading close to the average price paid by U.S. spot ETF holders, a day after the Federal Reserve held rates steady.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "24732b5262d51f7b",
+        "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-29T16:27:39Z",
+        "url": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026",
+        "excerpt": "The tokenized shares would carry the same shareholder rights as traditional stock, with round-the-clock trading and immediate settlement under the SEC’s innovation exemption.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "2d453beadcc75c31",
+        "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-29T15:39:54Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data",
+        "excerpt": "BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet’s Q3 earnings miss.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4cfeeb3f508b3a92",
+        "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-29T14:39:01Z",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure",
+        "excerpt": "",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "7762631766c79f54",
+        "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-29T14:15:46Z",
+        "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
+        "excerpt": "SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "8b33005f8466b7f2",
+        "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-29T16:35:43Z",
+        "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+        "excerpt": "The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's banking, wallet and payment infrastructure.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "5e47d562956eba56",
+        "title": "Bank of England opens consultation on tokenized collateral for clearing",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-29T14:27:46Z",
+        "url": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing",
+        "excerpt": "Central counterparties would need to show tokenized collateral meets liquidity and risk tests under proposed Bank of England guidance.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "94ae39dc00c975a9",
+        "title": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-29T14:15:00Z",
+        "url": "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner",
+        "excerpt": "The service uses perpetual futures quotes to update reference prices when traditional markets close.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-29T13:51:06Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "e7904710279e4ded",
+        "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-29T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron",
+        "excerpt": "USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
