@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-30T16:40:51.105603Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "7950a3501835a735",
+        "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-30T16:34:21Z",
+        "url": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
+        "excerpt": "Richard Teng said the attacker used a self-destruct mechanism and an EIP-7702 delegation that bypassed Binance's normal approval controls.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "ae4c01e46a458909",
+        "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-30T16:31:17Z",
+        "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+        "excerpt": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "a4490db66e7dc89f",
+        "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-30T16:25:06Z",
+        "url": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
+        "excerpt": "After Musk appeared to mock Binance’s $6.3 billion hack, CZ reminded him that the exchange’s $500 million bet on his Twitter takeover is now worth over $1 billion in SpaceX shares.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "8309bc3da1c43c77",
+        "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-30T16:06:28Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold",
+        "excerpt": "Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "021657962a15ad06",
+        "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-30T14:17:34Z",
+        "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
+        "excerpt": "EIP-7702 lets ordinary Ethereum wallets run smart contract code, enabling batched and sponsored transactions. Here's how it works.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-30T14:07:42Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "4a14c3aa9c681d46",
+        "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-30T05:43:07Z",
+        "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
+        "excerpt": "CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "a204ac0c37cd8d6f",
+        "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-30T03:47:01Z",
+        "url": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered",
+        "excerpt": "Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "624d1195d9d95dd6",
+        "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-29T22:57:48Z",
+        "url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+        "excerpt": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "43d8895a666a2278",
+        "title": "Crypto Spends $176 Million on Midterms, But Only 13% of Voters See It as a Priority",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-29T17:46:02Z",
+        "url": "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority",
+        "excerpt": "Only 13% of Americans say a candidate’s support for crypto growth is very important, according to a survey conducted by Ipsos for the DeFi Education Fund, even as the industry spends heavily on next week’s elections.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
