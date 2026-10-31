@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-10-31T15:42:25.494768Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "ba06d5755558fe67",
+        "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-31T15:26:46Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo",
+        "excerpt": "Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "7f2bd890a17dfc27",
+        "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-31T15:01:02Z",
+        "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+        "excerpt": "Attackers tied to North Korea drained roughly $6.4 billion from the world’s largest crypto exchange. Here’s what we know about how it happened, who’s behind it, and what comes next.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "fa0105810af94593",
+        "title": "Bitcoin turns 18: Has the original rebel grown up?",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-31T14:27:52Z",
+        "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up",
+        "excerpt": "In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "11ee33b8cfc9b1c6",
+        "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-31T14:00:00Z",
+        "url": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
+        "excerpt": "Several companies offer access to bitcoin mining without the hassle of running equipment, but high costs and the 2028 reward halving make profits uncertain.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "250a48b2671c9fd8",
+        "title": "Why AI Models Cheat: Reward Hacking, Explained",
+        "source": "Decrypt",
+        "publishedAt": "2026-10-31T13:01:03Z",
+        "url": "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
+        "excerpt": "From boat-racing bots to OpenAI models inside Hugging Face, here's how AI reward hacking works and why it matters.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-31T15:09:55Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "4a9490112282d75f",
+        "title": "Institutions embrace crypto staking despite shrinking yields",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-31T15:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
+        "excerpt": "Easier access and growing familiarity are encouraging investors to stake their tokens, while falling rewards and withdrawal delays test the economics.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "026155680b5f66ef",
+        "title": "Binance hackers raced to move billions before it could be frozen",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-30T22:00:00Z",
+        "url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen",
+        "excerpt": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize billions of dollars in assets.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "e3bad903e45a2346",
+        "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-10-30T19:01:58Z",
+        "url": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b",
+        "excerpt": "The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "4a14c3aa9c681d46",
+        "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+        "source": "CoinDesk",
+        "publishedAt": "2026-10-30T05:43:07Z",
+        "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
+        "excerpt": "CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
