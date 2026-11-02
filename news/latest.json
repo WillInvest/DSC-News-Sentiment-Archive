@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-11-01T16:47:22.078610Z",
+  "generatedAt": "2026-11-02T20:19:03.579798Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "ec5de6d83f2517fa",
+        "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-02T19:46:02Z",
+        "url": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
+        "excerpt": "The Fundstrat strategist says constraints on AI spending have slowed growth without ending the boom, while crypto’s response to the Binance hack suggests sellers may already be exhausted.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "11354a07606c095f",
+        "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-02T19:27:58Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally",
+        "excerpt": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "aac0d19470811ea7",
+        "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-02T19:05:35Z",
+        "url": "https://cointelegraph.com/news/mercado-bitcoin-hack",
+        "excerpt": "Brazil’s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "f98271fe3b48991b",
+        "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-02T18:46:03Z",
+        "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
+        "excerpt": "$2.85 billion of the $6.43 billion stolen from Binance has been frozen or seized, compared with about 3% in the Bybit hack, as North Korea’s automated laundering spans 12,000 wallets.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "4c87cfccc41bb9e7",
+        "title": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-02T18:16:02Z",
+        "url": "https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai",
+        "excerpt": "Proton customers say they are canceling subscriptions after reports of pressure to adopt AI coding, as the privacy company scraps employee re-interviews but defends its broader shift toward automated development.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
       {
         "id": "60018fa9799dda65",
         "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
@@ -1695,81 +1755,57 @@
           "Blockchain",
           "Policy"
         ]
-      },
-      {
-        "id": "64d3d470ec5f1a36",
-        "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-03T17:01:03Z",
-        "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
-        "excerpt": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "fecba003d86edf3d",
-        "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-03T13:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
-        "excerpt": "Tokenization is not just about putting individual stocks and funds onchain. The next step could be entire investment portfolios that can be traded, rebalanced and eventually managed in real-time.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "a24742ab0f93b951",
-        "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-03T11:59:10Z",
-        "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter",
-        "excerpt": "The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "4b6d5c57d3ec91e9",
-        "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-02T21:16:04Z",
-        "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
-        "excerpt": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face—and whether the company can be held legally accountable.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "5affcc2ad2b5236a",
-        "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-02T20:16:04Z",
-        "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
-        "excerpt": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "c559a6a3a5bab225",
-        "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-02T18:24:05Z",
-        "url": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue",
-        "excerpt": "Once among Ethereum’s largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "5b7b3cf6170faac1",
+        "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-02T18:00:16Z",
+        "url": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval",
+        "excerpt": "The former mobile games company is building out its fund management business in Abu Dhabi as it targets institutional demand for stablecoins and tokenized assets.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "5d13ee58d6b4a471",
+        "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-02T12:40:45Z",
+        "url": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis",
+        "excerpt": "Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "b40d533e1665aa61",
+        "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-02T12:37:24Z",
+        "url": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+        "excerpt": "The fix is on track for Wednesday after validator support briefly dipped and restarted the two-week activation clock. XRP itself is unaffected.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "2de400ec82762e4c",
+        "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-02T11:57:45Z",
+        "url": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
+        "excerpt": "Elliptic tracked thousands of transfers, failed swaps and repeated transactions that suggest the hackers relied on scripts rather than AI agents.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "72d28946a808fb5a",
         "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
@@ -2989,30 +3025,6 @@
         "publishedAt": "2026-10-05T13:46:31Z",
         "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
         "excerpt": "The payments giant is planning a major global expansion for its stablecoin cards business, and is exploring tokenized deposits and DeFi use cases, new crypto head Henri Stern said.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "19c4927672e66514",
-        "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-02T19:46:03Z",
-        "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
-        "excerpt": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter—siding with the ECB in calling for more flexible rules.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "83f84212d3dd6173",
-        "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-02T18:41:17Z",
-        "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report",
-        "excerpt": "The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.",
         "tags": [
           "DeFi",
           "Stablecoins"

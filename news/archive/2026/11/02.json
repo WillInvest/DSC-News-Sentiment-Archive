@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-02T20:19:03.579798Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "ec5de6d83f2517fa",
+        "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-02T19:46:02Z",
+        "url": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
+        "excerpt": "The Fundstrat strategist says constraints on AI spending have slowed growth without ending the boom, while crypto’s response to the Binance hack suggests sellers may already be exhausted.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "11354a07606c095f",
+        "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-02T19:27:58Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally",
+        "excerpt": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "aac0d19470811ea7",
+        "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-02T19:05:35Z",
+        "url": "https://cointelegraph.com/news/mercado-bitcoin-hack",
+        "excerpt": "Brazil’s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "f98271fe3b48991b",
+        "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-02T18:46:03Z",
+        "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
+        "excerpt": "$2.85 billion of the $6.43 billion stolen from Binance has been frozen or seized, compared with about 3% in the Bybit hack, as North Korea’s automated laundering spans 12,000 wallets.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "4c87cfccc41bb9e7",
+        "title": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-02T18:16:02Z",
+        "url": "https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai",
+        "excerpt": "Proton customers say they are canceling subscriptions after reports of pressure to adopt AI coding, as the privacy company scraps employee re-interviews but defends its broader shift toward automated development.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "5b7b3cf6170faac1",
+        "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-02T18:00:16Z",
+        "url": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval",
+        "excerpt": "The former mobile games company is building out its fund management business in Abu Dhabi as it targets institutional demand for stablecoins and tokenized assets.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-02T13:29:29Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "5d13ee58d6b4a471",
+        "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-02T12:40:45Z",
+        "url": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis",
+        "excerpt": "Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "b40d533e1665aa61",
+        "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-02T12:37:24Z",
+        "url": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+        "excerpt": "The fix is on track for Wednesday after validator support briefly dipped and restarted the two-week activation clock. XRP itself is unaffected.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "2de400ec82762e4c",
+        "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-02T11:57:45Z",
+        "url": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
+        "excerpt": "Elliptic tracked thousands of transfers, failed swaps and repeated transactions that suggest the hackers relied on scripts rather than AI agents.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
