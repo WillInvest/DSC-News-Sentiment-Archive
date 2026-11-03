@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-11-02T20:19:03.579798Z",
+  "generatedAt": "2026-11-03T17:47:31.689581Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "6fd034a19750c025",
+        "title": "Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-03T17:30:54Z",
+        "url": "https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked",
+        "excerpt": "From AI deepfakes to poisoning code libraries: here's how North Korean hackers get inside crypto companies.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "4af3e50344835d3a",
+        "title": "Epidemic of Hacked Freezers Spreads Across Europe",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-03T17:04:46Z",
+        "url": "https://decrypt.co/382423/epidemic-hacked-freezers-spreads-europe",
+        "excerpt": "A suspected hacking wave has pushed supermarket freezers into defrost mode across ten European countries, with temperatures reportedly hitting 50°C. Nobody knows who's behind it or why it spread.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "4f90fa48e5c26d4d",
+        "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-03T16:49:56Z",
+        "url": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+        "excerpt": "Lee Jae Myung said he wants a government-wide agency to tackle cyberattacks as AI raises security concerns across financial institutions and critical infrastructure.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "a615cf87008cb24f",
+        "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-03T16:47:01Z",
+        "url": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen",
+        "excerpt": "Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "35e0bb3c150a5eae",
+        "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-03T16:44:06Z",
+        "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack",
+        "excerpt": "Hackers exploited compromised employee computers and stolen credentials to breach Binance’s wallet infrastructure, according to the exchange’s investigation.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
       {
         "id": "ec5de6d83f2517fa",
         "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
@@ -1707,57 +1767,21 @@
           "Blockchain",
           "Policy"
         ]
-      },
-      {
-        "id": "9a84885a2b14b42e",
-        "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-04T15:01:03Z",
-        "url": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
-        "excerpt": "Spot Bitcoin ETFs took in $134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow as a weak jobs report cooled Fed rate-hike bets.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "69e0f47b06164f94",
-        "title": "Crypto poured years into new products. The next challenge is keeping users",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-04T14:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
-        "excerpt": "Crypto firms have spent years building financial products on blockchains. Getting people to use them — and keep using them — is becoming the next challenge.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "0666642690ddc070",
-        "title": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-04T13:01:03Z",
-        "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
-        "excerpt": "Near Intents said the roughly $3.8 million drained in an exploit on Thursday was returned in full, a day after the team said it had identified the attacker and gave them 48 hours to return the funds.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "716791c182d23fb1",
-        "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-04T09:40:00Z",
-        "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
-        "excerpt": "Efforts will continue to reduce the state’s involvement in Bitcoin-related activities and to strengthen crypto‑asset regulation and governance, the IMF said.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "66dc146cf101439d",
+        "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-03T16:12:35Z",
+        "url": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
+        "excerpt": "Governance group Open Standard will charge a 0.1 basis point management fee on payment volume, capped at at $0.01 per payment.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "5b7b3cf6170faac1",
         "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",

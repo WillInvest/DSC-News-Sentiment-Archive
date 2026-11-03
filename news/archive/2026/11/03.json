@@ -1,0 +1,107 @@
+{
+  "generatedAt": "2026-11-03T17:47:31.689581Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "6fd034a19750c025",
+        "title": "Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-03T17:30:54Z",
+        "url": "https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked",
+        "excerpt": "From AI deepfakes to poisoning code libraries: here's how North Korean hackers get inside crypto companies.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "4af3e50344835d3a",
+        "title": "Epidemic of Hacked Freezers Spreads Across Europe",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-03T17:04:46Z",
+        "url": "https://decrypt.co/382423/epidemic-hacked-freezers-spreads-europe",
+        "excerpt": "A suspected hacking wave has pushed supermarket freezers into defrost mode across ten European countries, with temperatures reportedly hitting 50°C. Nobody knows who's behind it or why it spread.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "4f90fa48e5c26d4d",
+        "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-03T16:49:56Z",
+        "url": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+        "excerpt": "Lee Jae Myung said he wants a government-wide agency to tackle cyberattacks as AI raises security concerns across financial institutions and critical infrastructure.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "a615cf87008cb24f",
+        "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-03T16:47:01Z",
+        "url": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen",
+        "excerpt": "Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "35e0bb3c150a5eae",
+        "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-03T16:44:06Z",
+        "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack",
+        "excerpt": "Hackers exploited compromised employee computers and stolen credentials to breach Binance’s wallet infrastructure, according to the exchange’s investigation.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "66dc146cf101439d",
+        "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-03T16:12:35Z",
+        "url": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
+        "excerpt": "Governance group Open Standard will charge a 0.1 basis point management fee on payment volume, capped at at $0.01 per payment.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-03T13:50:51Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "5b7b3cf6170faac1",
+        "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-02T18:00:16Z",
+        "url": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval",
+        "excerpt": "The former mobile games company is building out its fund management business in Abu Dhabi as it targets institutional demand for stablecoins and tokenized assets.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
