@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-11-03T17:47:31.689581Z",
+  "generatedAt": "2026-11-04T17:57:45.723860Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "c518b5452a8c0d63",
+        "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-04T16:49:31Z",
+        "url": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
+        "excerpt": "Bitcoin bounced back after Democrats won control of Congress, but a stalled market structure bill and heavy industry campaign spending reveal crypto’s exposure to shifting US political power.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "bda20c3dc124882f",
+        "title": "Wall Street’s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-04T16:29:36Z",
+        "url": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
+        "excerpt": "Morgan Stanley says it has converted U.S. equities and Treasuries into tokenized form through the newly launched DTCC Tokenization Service, which 20 Wall Street firms have signed up to use.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "aee51b73bfad2ef3",
+        "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-04T16:08:14Z",
+        "url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
+        "excerpt": "Bitcoin miners pivoting to AI face new uncertainty over power access and construction permits, while companies with approved projects could benefit from tighter supply.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "7a2167fb196f489e",
+        "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-04T15:29:23Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result",
+        "excerpt": "Bitcoin climbed toward $80,500 as risk assets rallied on Democrats’ midterm election gains and oil prices fell.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "5feaa294ee4ea625",
+        "title": "The election changes Washington. The work on crypto continues",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-04T14:25:12Z",
+        "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
+        "excerpt": "The next Congress inherits an unfinished assignment: establishing clear, lasting rules for digital assets that protect consumers and ensure American innovation continues to thrive, writes Blockchain Association's Lindsay Fraser.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "6fd034a19750c025",
         "title": "Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked",
@@ -1731,45 +1791,57 @@
           "Blockchain",
           "Policy"
         ]
-      },
-      {
-        "id": "ca49373b227394a7",
-        "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-05T17:40:23Z",
-        "url": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote",
-        "excerpt": "CFTC Chair Michael Selig claimed that the agency was using its “existing statutory authorities“ to address crypto regulation after Congress failed to advance a market structure bill.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "1d23eb43d6984876",
-        "title": "Bitcoin Just Flashed a Second, Stronger Golden Cross: Here's What That Means",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-05T16:10:00Z",
-        "url": "https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate",
-        "excerpt": "The Bitcoin rally keeps bumping into the same wall, but a classic bullish signal suggests the trend is built to last.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "4dfd14684186ea4a",
-        "title": "NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-05T16:03:03Z",
-        "url": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience",
-        "excerpt": "Reporters from CNBC and CNN are on the program beside the exchanges, two weeks before the midterms put the sector on air.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "3f96607ed999df7b",
+        "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-04T12:49:56Z",
+        "url": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
+        "excerpt": "North Korea’s TraderTraitor is routing Binance hack proceeds through THORChain, swapping ether for bitcoin after an earlier wave of conversions from Tron.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "131b4f75429fa7d2",
+        "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-04T10:38:58Z",
+        "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
+        "excerpt": "Bitcoin recovered from a dip to around $75,600 as Democrats won Congress, while DeFi tokens led gains and Trump-linked coins fell.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "283b8447777c56a5",
+        "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-04T09:15:55Z",
+        "url": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain",
+        "excerpt": "The Binance attackers moved most of the stolen SOL and continued laundering funds through THORChain after the protocol resumed swaps.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "d7b5008c83121014",
+        "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-03T23:56:09Z",
+        "url": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage",
+        "excerpt": "THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "66dc146cf101439d",
         "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
@@ -3016,42 +3088,6 @@
         "tags": [
           "DeFi",
           "Lending"
-        ]
-      },
-      {
-        "id": "ddc48555d95aa4b9",
-        "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-05T17:18:14Z",
-        "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
-        "excerpt": "The planned 24/7 venue will offer dozens of tokenized U.S. stocks, with trades conducted against stablecoins through blockchain-based liquidity pools rather than a traditional order book.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "41a3ca8d222d1f99",
-        "title": "Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-05T16:53:08Z",
-        "url": "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook",
-        "excerpt": "Weak US jobs data has narrowed expectations for another Fed hike in October, offering Bitcoin some relief as investors continue to embrace the debasement trade.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "856f502a8ca801c4",
-        "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-05T13:46:31Z",
-        "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
-        "excerpt": "The payments giant is planning a major global expansion for its stablecoin cards business, and is exploring tokenized deposits and DeFi use cases, new crypto head Henri Stern said.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
         ]
       }
     ]
