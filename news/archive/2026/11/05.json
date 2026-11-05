@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-05T17:58:10.520028Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "0176d3361d422f9c",
+        "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-05T16:58:21Z",
+        "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
+        "excerpt": "The hacking group has been behind some of the crypto industry's most recent high-profile thefts.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "cc43a87d8c4ab5e8",
+        "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-05T16:48:41Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains",
+        "excerpt": "Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "8e465378e553dd3a",
+        "title": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-05T16:29:11Z",
+        "url": "https://decrypt.co/382612/bitcoin-erases-election-rally-ai-stocks-plunge-428-million-crypto-longs",
+        "excerpt": "Bitcoin plunged nearly 5% as AI stocks sank, Democratic midterm wins raised fresh policy questions, and forced liquidations erased a Wednesday rally that had been fueled partly by short covering.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "3c99a25d5f372f4c",
+        "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-05T14:21:50Z",
+        "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
+        "excerpt": "Lin Han says Gate holds enough assets in cold storage to cover customer balances even if its hot wallets are emptied. An independent audit is underway.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "7da8f1e3eac61484",
+        "title": "Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-05T13:34:57Z",
+        "url": "https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says",
+        "excerpt": "Sunny Lu said AI agents would need identity and reputation systems, making the case while promoting agent-building platform VeWorld.ai.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "e6b7c177b202b71e",
+        "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-05T14:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
+        "excerpt": "The investment follows talks first reported by CoinDesk in June that included a proposed equity stake in Aave Group.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-05T13:46:01Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "ffc04cc60fc50432",
+        "title": "Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-05T13:01:02Z",
+        "url": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
+        "excerpt": "Eligible U.S. Galaxy users can now buy, hold, send and receive USDC on Solana directly in Samsung Wallet, without a separate crypto app or private keys to manage.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "12fe55970d78596f",
+        "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-05T09:04:42Z",
+        "url": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments",
+        "excerpt": "Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be reintroduced in the Senate.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "5ad307e6318d75c9",
+        "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-04T22:55:00Z",
+        "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+        "excerpt": "Wall Street's push to bring finance onto blockchain rails may continue under existing laws, though the SEC and CFTC face tougher oversight and questions over how long their rules will last, experts said.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}

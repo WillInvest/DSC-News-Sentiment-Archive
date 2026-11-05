@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-11-04T17:57:45.723860Z",
+  "generatedAt": "2026-11-05T17:58:10.520028Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "0176d3361d422f9c",
+        "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-05T16:58:21Z",
+        "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
+        "excerpt": "The hacking group has been behind some of the crypto industry's most recent high-profile thefts.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "cc43a87d8c4ab5e8",
+        "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-05T16:48:41Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains",
+        "excerpt": "Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "8e465378e553dd3a",
+        "title": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-05T16:29:11Z",
+        "url": "https://decrypt.co/382612/bitcoin-erases-election-rally-ai-stocks-plunge-428-million-crypto-longs",
+        "excerpt": "Bitcoin plunged nearly 5% as AI stocks sank, Democratic midterm wins raised fresh policy questions, and forced liquidations erased a Wednesday rally that had been fueled partly by short covering.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "3c99a25d5f372f4c",
+        "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-05T14:21:50Z",
+        "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
+        "excerpt": "Lin Han says Gate holds enough assets in cold storage to cover customer balances even if its hot wallets are emptied. An independent audit is underway.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "7da8f1e3eac61484",
+        "title": "Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-05T13:34:57Z",
+        "url": "https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says",
+        "excerpt": "Sunny Lu said AI agents would need identity and reputation systems, making the case while promoting agent-building platform VeWorld.ai.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "c518b5452a8c0d63",
         "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
@@ -1707,93 +1767,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "e0d3e272154a6784",
-        "title": "Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-06T16:38:15Z",
-        "url": "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
-        "excerpt": "Bitcoin and Ethereum barely moved today, but Zcash and Monero are leading the largest coins over the last 24 hours.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "163d935948627125",
-        "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-06T14:00:00Z",
-        "url": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet",
-        "excerpt": "Sepolia marks one of the final major rehearsals before the final activation of Glamsterdam, aimed at bringing more efficiency and scalability to the Ethereum mainnet.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "97d2bc1797ccbe5e",
-        "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-06T13:30:00Z",
-        "url": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets",
-        "excerpt": "Real Vision founder Raoul Pal says a pause in the AI stock rally could help crypto attract capital, while AI agents are likely to boost Ethereum and Solana adoption.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "c49aa02c2aeb99df",
-        "title": "Polymarket overhauls smart contracts with new Protocol V2 rollout",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-06T12:54:15Z",
-        "url": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2",
-        "excerpt": "Polymarket begins its Protocol V2 rollout ahead of a planned November transition for new prediction markets, while existing positions remain on the current system.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "d3954377c99f89cf",
-        "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-06T12:31:51Z",
-        "url": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
-        "excerpt": "Adam Iza’s sentence runs concurrently with a 15-year term imposed last month for his role in an attempted bitcoin robbery.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "2d60af46a1b4ba3c",
-        "title": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus' Chinese Launderers",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-05T18:46:02Z",
-        "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
-        "excerpt": "The on-chain sleuth says he posed as a customer of a Chinese crime syndicate, fronting $349,700 and eating 5% on every order, to track Lazarus Group's Bybit loot in real time.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "73cb28d86920a191",
-        "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-05T18:12:28Z",
-        "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
-        "excerpt": "The agency approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin, Ethereum, gold, silver, oil, and natural gas list on a U.S. exchange.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "e6b7c177b202b71e",
+        "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-05T14:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
+        "excerpt": "The investment follows talks first reported by CoinDesk in June that included a proposed equity stake in Aave Group.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "ffc04cc60fc50432",
+        "title": "Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-05T13:01:02Z",
+        "url": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
+        "excerpt": "Eligible U.S. Galaxy users can now buy, hold, send and receive USDC on Solana directly in Samsung Wallet, without a separate crypto app or private keys to manage.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "12fe55970d78596f",
+        "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-05T09:04:42Z",
+        "url": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments",
+        "excerpt": "Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be reintroduced in the Senate.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "5ad307e6318d75c9",
+        "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-04T22:55:00Z",
+        "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+        "excerpt": "Wall Street's push to bring finance onto blockchain rails may continue under existing laws, though the SEC and CFTC face tougher oversight and questions over how long their rules will last, experts said.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "3f96607ed999df7b",
         "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
@@ -3025,66 +3049,6 @@
         "publishedAt": "2026-10-07T15:06:14Z",
         "url": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves",
         "excerpt": "Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "401443301ab16c00",
-        "title": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-06T15:26:41Z",
-        "url": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
-        "excerpt": "Attacks grew more sophisticated and less predictable over the period, according to researchers who scanned more than 20 billion transactions.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "af8a03a5131bafc4",
-        "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-06T13:02:33Z",
-        "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
-        "excerpt": "The Ethereum layer-2 is backing Paxos-issued USDG to earn a share of reserve income as new stablecoin alliances compete for distribution, users and reserve economics.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "a342165bf4f34ef1",
-        "title": "Paxos’ $3B USDG stablecoin launches on Arbitrum",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-06T13:00:00Z",
-        "url": "https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum",
-        "excerpt": "Paxos’ USDG stablecoin is now live on Arbitrum as the network proposes 100 million ARB in incentives to support adoption and liquidity.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "adab74285b957e12",
-        "title": "Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-06T09:59:12Z",
-        "url": "https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins",
-        "excerpt": "Binance BTC reserves fell by nearly 40,000 coins since Sept. 20 as whales returned stablecoin capital to their exchange wallets.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "39fed8cbd69fc12e",
-        "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-05T17:58:58Z",
-        "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
-        "excerpt": "S&P Global’s new framework evaluates digital asset lending vaults across six risk categories as deposits in the sector climb to about $10 billion.",
         "tags": [
           "DeFi",
           "Lending"
