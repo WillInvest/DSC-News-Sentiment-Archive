@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-06T17:26:52.683566Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "920755a09da134c0",
+        "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-06T16:41:29Z",
+        "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+        "excerpt": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren’t affected and its enterprise card platform was untouched.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "c6ad84598e620140",
+        "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-06T16:34:07Z",
+        "url": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
+        "excerpt": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "765735f67f5cb0f1",
+        "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-06T14:33:49Z",
+        "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+        "excerpt": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "db593eb56bd83d0e",
+        "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-06T14:04:18Z",
+        "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+        "excerpt": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "0e05cc8a162e0cc7",
+        "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-06T13:29:20Z",
+        "url": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
+        "excerpt": "Thursday marked a massive reversal and historic selloff for AI stocks, and crypto was not immune. What held up the strongest?",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "87c8b2aa7df6b9b9",
+        "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-06T15:26:38Z",
+        "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+        "excerpt": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "f48fe42ac65d31c2",
+        "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-06T13:57:14Z",
+        "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing",
+        "excerpt": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-06T13:33:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "632ed10d70bcba3f",
+        "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-06T08:47:42Z",
+        "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+        "excerpt": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "a76fec6c539fca19",
+        "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-06T08:04:52Z",
+        "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+        "excerpt": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
