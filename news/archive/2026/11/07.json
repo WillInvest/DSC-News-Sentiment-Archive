@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-07T16:22:43.370620Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "dcb7a41203471e47",
+        "title": "Bitcoin holders have received eCash — What can you do with it?",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-07T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it",
+        "excerpt": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "d84be3f8c1ac6d56",
+        "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-06T20:36:25Z",
+        "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview",
+        "excerpt": "TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean hackers following the record $6.3 billion Binance theft.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "086f64e094fb5cdd",
+        "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-06T18:36:03Z",
+        "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
+        "excerpt": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4c364217c664ba6f",
+        "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-06T18:22:42Z",
+        "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders",
+        "excerpt": "Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6639c60bf00ea62e",
+        "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-06T17:49:33Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock",
+        "excerpt": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-07T14:22:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "452e32a7eb01d71c",
+        "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-06T20:36:03Z",
+        "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+        "excerpt": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "87c8b2aa7df6b9b9",
+        "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-06T15:26:38Z",
+        "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+        "excerpt": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "f48fe42ac65d31c2",
+        "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-06T13:57:14Z",
+        "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing",
+        "excerpt": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "632ed10d70bcba3f",
+        "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-06T08:47:42Z",
+        "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+        "excerpt": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}

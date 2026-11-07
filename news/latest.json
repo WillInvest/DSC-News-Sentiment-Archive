@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-11-06T17:26:52.683566Z",
+  "generatedAt": "2026-11-07T16:22:43.370620Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "dcb7a41203471e47",
+        "title": "Bitcoin holders have received eCash — What can you do with it?",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-07T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it",
+        "excerpt": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "d84be3f8c1ac6d56",
+        "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-06T20:36:25Z",
+        "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview",
+        "excerpt": "TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean hackers following the record $6.3 billion Binance theft.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "086f64e094fb5cdd",
+        "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-06T18:36:03Z",
+        "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
+        "excerpt": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4c364217c664ba6f",
+        "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-06T18:22:42Z",
+        "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders",
+        "excerpt": "Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6639c60bf00ea62e",
+        "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-06T17:49:33Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock",
+        "excerpt": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "920755a09da134c0",
         "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
@@ -1731,45 +1791,21 @@
           "Blockchain",
           "Security"
         ]
-      },
-      {
-        "id": "02ed01275cf5f210",
-        "title": "From Uptober to Spooky Szn? Bitcoin Cuts September Gains in Half",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-08T16:14:46Z",
-        "url": "https://decrypt.co/380462/uptober-spooky-szn-bitcoin-cuts-september-gains",
-        "excerpt": "Day traders are selling, leveraged longs are getting flushed and ETF money is heading for the door. The daily chart still holds the line, but its cushion is shrinking.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "305ee5e1b20fd86f",
-        "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-08T15:55:55Z",
-        "url": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes",
-        "excerpt": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "915658c3b48c5125",
-        "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-08T15:43:04Z",
-        "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
-        "excerpt": "Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "452e32a7eb01d71c",
+        "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-06T20:36:03Z",
+        "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+        "excerpt": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "87c8b2aa7df6b9b9",
         "title": "The crypto industry has found new ways to grow. Making money from them is another story",
@@ -2989,54 +3025,6 @@
         "publishedAt": "2026-10-09T06:40:54Z",
         "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
         "excerpt": "Layer-1 blockchain Sui is launching Hashi, an institutional protocol allowing holders to use bitcoin as collateral without moving it off the Bitcoin network.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "a82b64690e135075",
-        "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-08T15:42:16Z",
-        "url": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
-        "excerpt": "One self-custodial platform to power Earn, Swaps, Predictions and Perps on Decrypt, as it builds out its financial and intelligence market.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "e2ade6eafcacca6a",
-        "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-08T15:23:26Z",
-        "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
-        "excerpt": "ESMA said authorized platforms must block new access to stablecoins that fail to meet MiCA rules, while national authorities oversee existing customer holdings.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "1b5a9b7e703bd8e4",
-        "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-08T14:24:24Z",
-        "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
-        "excerpt": "Veridian became the first company to use Cardano’s new programmable-token standard for its equity, though the tokenized shares are not being offered to the public.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "eb7f39a4eab1537d",
-        "title": "Crypto lending rises again… but have they solved the risks?",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-08T13:30:00Z",
-        "url": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks",
-        "excerpt": "Crypto lending has risen by 55% since July, but now has to deal with the dangers of AI assisted hacks, and risks cascading through interlinked protocols. Here’s how to stay safe.",
         "tags": [
           "DeFi",
           "Lending"
