@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-09T20:40:25.869100Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "f02dc6eed1df5de5",
+        "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-09T19:52:34Z",
+        "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption",
+        "excerpt": "The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "225b54a6018bffe8",
+        "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-09T19:06:03Z",
+        "url": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+        "excerpt": "U.S. stocks rallied as oil fell, but Bitcoin hovered near $75,000 after a wave of liquidations, with Tuesday’s inflation report set to test bets on a December Fed rate hike.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "552621f2558bc7a9",
+        "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-09T18:25:29Z",
+        "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended",
+        "excerpt": "Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "e0bf07dc5ff8aae6",
+        "title": "PNC Bank tests turning USDC payments into dollar deposits",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-09T17:48:35Z",
+        "url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase",
+        "excerpt": "The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "ae6778363aff43a4",
+        "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-09T17:46:02Z",
+        "url": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
+        "excerpt": "Operating under the SEC’s “Innovation Exemption,” the firm plans to list tokenized shares of Exodus, Forward Industries, and Galaxy Digital in early 2027, with the same voting and dividend rights as real stock.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "41048fb8b5a96e69",
+        "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-09T19:36:02Z",
+        "url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+        "excerpt": "Elliptic says the hackers are minting their own worthless tokens—complete with cartoon animal and Elon Musk logos—and routing stolen funds through liquidity pools to break the trail.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-09T13:36:56Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "f33f6e600422d59a",
+        "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-09T13:30:00Z",
+        "url": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules",
+        "excerpt": "The Binance hack proved stablecoin freezes work. Now the UK should make clear freeze rules a condition of listing coins.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "88bc2ac9690f63d5",
+        "title": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-09T13:24:29Z",
+        "url": "https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc",
+        "excerpt": "The Bitcoin treasury firm sold $284 million of MSTR stock to fund the moves, days before MSCI names companies facing index removal.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "dec7b5db35b2ce3d",
+        "title": "Zcash devs propose another block time cut days after NU7 upgrade",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-09T05:36:08Z",
+        "url": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade",
+        "excerpt": "The proposed reduction aims to shorten transaction confirmation times and improve the user experience for point-of-sale payments, exchange deposits and cross-chain swaps.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
