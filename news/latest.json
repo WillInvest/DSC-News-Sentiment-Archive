@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-11-09T20:40:25.869100Z",
+  "generatedAt": "2026-11-10T17:44:37.964825Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "0015a404eb92dfaa",
+        "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-10T16:27:57Z",
+        "url": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
+        "excerpt": "Bitcoin fell below $74,000 after October inflation beat forecasts, increasing pressure on the Federal Reserve to raise rates again at its December meeting.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "01441e4e6160e82a",
+        "title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-10T16:25:03Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation",
+        "excerpt": "Bitcoin and US stocks initially fall after October inflation tops forecasts, with traders expecting a quarter-point Fed rate hike in December.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "1d3684a218c3a685",
+        "title": "Moody’s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-10T14:01:02Z",
+        "url": "https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains",
+        "excerpt": "The testnet pilot used Chainlink’s CCIP to distribute Moody’s ratings simultaneously across permissioned and permissionless blockchains, while preserving the firm’s existing publication and governance processes.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "1f2ccbcdbaaf3084",
+        "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-10T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss",
+        "excerpt": "Bitcoin Opportunity Fund co-founder Mark Moss says that with banks and ETFs widening access to Bitcoin he expects a new record high in 2027.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6e50a4f110ae5c4e",
+        "title": "Morning Minute: Vitalik Recasts ETH as a Store of Value",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-10T13:24:51Z",
+        "url": "https://decrypt.co/382931/morning-minute-vitalik-recasts-eth-as-a-store-of-value",
+        "excerpt": "It’s a big shift for Ethereum from the “ultrasound money” days. But can ETH compete as a store-of-value play?",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "f02dc6eed1df5de5",
         "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
@@ -1707,21 +1767,69 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "1ece6bc17db99e96",
-        "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-11T16:01:03Z",
-        "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
-        "excerpt": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "90023a9266581f43",
+        "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-10T17:32:22Z",
+        "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+        "excerpt": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "91f1f6b4dda8f6ae",
+        "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-10T17:07:22Z",
+        "url": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
+        "excerpt": "Twice now, crypto firms have found themselves on the side of the U.S. Commodity Futures Trading Commission in holding that perpetual futures aren't swaps.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "eece7d6ed70de90d",
+        "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-10T15:51:56Z",
+        "url": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+        "excerpt": "Kimber Digital Securities secured SEC and Finra approvals, a regulatory milestone paving the way for the delivery of legally binding claims, dividends, and yield-bearing products directly to self-custodial wallets and stablecoin applications in the U.S.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "3955024960e275be",
+        "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-10T15:01:02Z",
+        "url": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
+        "excerpt": "The trading platform, which says it has routed more than $1.3 trillion in trades, is launching four products ahead of Solana Breakpoint.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "fefc9544eb8aa83d",
+        "title": "Will stablecoins survive once the banks catch up?",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-10T14:00:00Z",
+        "url": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+        "excerpt": "As crypto firms and banks converge, it is fair to ask what lasting advantage stablecoins have, argues Alessandro Hatami, founder of Pacemakers and former COO of Digital Banking at Lloyds Banking Group.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "41048fb8b5a96e69",
         "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
@@ -2872,30 +2980,6 @@
         "tags": [
           "DeFi",
           "Lending"
-        ]
-      },
-      {
-        "id": "fef0902106ec8184",
-        "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-11T16:00:00Z",
-        "url": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
-        "excerpt": "Executives see openings for tokenization, DeFi and dealmaking, while lawyers warn agency action leaves spot-market oversight and lasting certainty unresolved.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "110c91dae2b5475b",
-        "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-11T13:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
-        "excerpt": "Investors are using blockchain-based shares for smaller and after-hours trades. The IMF says liquidity, legal rules and settlement systems have not caught up.",
-        "tags": [
-          "DeFi",
-          "Markets"
         ]
       }
     ]
