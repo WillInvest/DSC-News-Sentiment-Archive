@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-12T18:12:59.057374Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "c09e835d03fc25cf",
+        "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-12T15:46:06Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation",
+        "excerpt": "Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "7ee87bb510acdb81",
+        "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-12T15:45:48Z",
+        "url": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+        "excerpt": "The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "58c1b4d0acb76ee8",
+        "title": "Crypto for Advisors: The blockchain built to run financial markets",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-12T15:34:29Z",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
+        "excerpt": "",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "bd01c40a2bd25afc",
+        "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-12T13:31:59Z",
+        "url": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark",
+        "excerpt": "Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK’s research director.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "d33179e5c145cfed",
+        "title": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-12T13:25:47Z",
+        "url": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
+        "excerpt": "Wall Street's main settlement firm will add Solana to its tokenization service, which went live last month on Canton and a private network.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "a7fc074407733480",
+        "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-12T17:46:02Z",
+        "url": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
+        "excerpt": "The DOJ, the U.S. Chamber of Commerce, SIFMA and a crypto coalition led by a16z, Paradigm and Uniswap filed briefs backing a lawsuit to strike down the state’s 0.2% levy on digital asset transactions.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "de8e5a985c5bb64c",
+        "title": "Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-12T16:01:03Z",
+        "url": "https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network",
+        "excerpt": "Visa and eligible companies can now use Western Union’s USDPT—issued and custodied by the federally chartered Anchorage Digital Bank—to settle VisaNet obligations.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "6231b46fc5e5e87f",
+        "title": "Tether Gold Gets Clean KPMG Audit Confirming $2.2B in Physical Gold Backing",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-12T15:55:38Z",
+        "url": "https://decrypt.co/383137/tether-gold-gets-clean-kpmg-audit-confirming-2-2b-in-physical-gold-backing",
+        "excerpt": "KPMG counted every gold bar behind XAUT, making it Tether's second stablecoin to complete a full audit by a Big Four accounting firm.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "9730ebd48d424654",
+        "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-12T14:45:00Z",
+        "url": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
+        "excerpt": "OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower demand.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "f89c704dc94cd4a3",
+        "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-12T14:01:02Z",
+        "url": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
+        "excerpt": "SoFiUSD, the first stablecoin from a U.S. national bank, is now live on Polygon Open Money Stack alongside Ethereum and Solana.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}

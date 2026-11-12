@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-11-11T17:51:21.466219Z",
+  "generatedAt": "2026-11-12T18:12:59.057374Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "c09e835d03fc25cf",
+        "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-12T15:46:06Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation",
+        "excerpt": "Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "7ee87bb510acdb81",
+        "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-12T15:45:48Z",
+        "url": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+        "excerpt": "The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "58c1b4d0acb76ee8",
+        "title": "Crypto for Advisors: The blockchain built to run financial markets",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-12T15:34:29Z",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
+        "excerpt": "",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "bd01c40a2bd25afc",
+        "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-12T13:31:59Z",
+        "url": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark",
+        "excerpt": "Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK’s research director.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "d33179e5c145cfed",
+        "title": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-12T13:25:47Z",
+        "url": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
+        "excerpt": "Wall Street's main settlement firm will add Solana to its tokenization service, which went live last month on Canton and a private network.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "48b8f79147828ebf",
         "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
@@ -1707,69 +1767,69 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "866244d41e13e574",
-        "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-13T16:51:25Z",
-        "url": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking",
-        "excerpt": "A recent change in the SEC’s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "78f3a276a7a0a0c5",
-        "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-13T15:57:55Z",
-        "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises",
-        "excerpt": "Strive is now the fifth-largest publicly traded corporate Bitcoin holder, with 32,773 BTC, as it continues to expand its treasury through equity financing.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "094a2ddab3cc0a15",
-        "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-13T15:27:32Z",
-        "url": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off",
-        "excerpt": "Bitcoin price action preserved overnight gains as US stocks quickly rebounded after opening lower on the back of Korea’s tech-stock rout.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "898896c0390f078a",
-        "title": "Is Bitcoin kidding itself about the Lightning Network?",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-13T13:30:00Z",
-        "url": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network",
-        "excerpt": "Bitcoin developer Paul Sztorc says Bitcoiners are lying to themselves about Lightning. Developers claim usability has improved, but questions remain over everyday adoption.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "798b3d84701f57bb",
-        "title": "Russia clears Sberbank for crypto trading ahead of December launch",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-13T12:22:24Z",
-        "url": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval",
-        "excerpt": "Russia’s largest bank, Sberbank, has secured crypto exchange authorization as it prepares to offer Bitcoin, Ether and Tether USDt trading.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "a7fc074407733480",
+        "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-12T17:46:02Z",
+        "url": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
+        "excerpt": "The DOJ, the U.S. Chamber of Commerce, SIFMA and a crypto coalition led by a16z, Paradigm and Uniswap filed briefs backing a lawsuit to strike down the state’s 0.2% levy on digital asset transactions.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "de8e5a985c5bb64c",
+        "title": "Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-12T16:01:03Z",
+        "url": "https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network",
+        "excerpt": "Visa and eligible companies can now use Western Union’s USDPT—issued and custodied by the federally chartered Anchorage Digital Bank—to settle VisaNet obligations.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "6231b46fc5e5e87f",
+        "title": "Tether Gold Gets Clean KPMG Audit Confirming $2.2B in Physical Gold Backing",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-12T15:55:38Z",
+        "url": "https://decrypt.co/383137/tether-gold-gets-clean-kpmg-audit-confirming-2-2b-in-physical-gold-backing",
+        "excerpt": "KPMG counted every gold bar behind XAUT, making it Tether's second stablecoin to complete a full audit by a Big Four accounting firm.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "9730ebd48d424654",
+        "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-12T14:45:00Z",
+        "url": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
+        "excerpt": "OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower demand.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "f89c704dc94cd4a3",
+        "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-12T14:01:02Z",
+        "url": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
+        "excerpt": "SoFiUSD, the first stablecoin from a U.S. national bank, is now live on Polygon Open Money Stack alongside Ethereum and Solana.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "32624fb0ca4ce33f",
         "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
@@ -2929,78 +2989,6 @@
         "publishedAt": "2026-10-14T12:53:41Z",
         "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin",
         "excerpt": "Qivalis said the Electronic Money Institution authorization enables it to launch a euro-denominated stablecoin, with issuance planned for the coming months, subject to additional MiCA requirements.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "73e54c44d6f33df3",
-        "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-13T16:46:05Z",
-        "url": "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
-        "excerpt": "Bitcoin dipped below $81,000 before buyers stepped in, but the Fear and Greed Index says traders aren't convinced yet.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "a5d7cae00cd3e0ea",
-        "title": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-13T09:42:00Z",
-        "url": "https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74",
-        "excerpt": "Bitcoin’s liquidity kept BTC price below $84,000 amid a mounting South Korean tech and semiconductor stock sell-off.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "4b01302210611733",
-        "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-12T21:16:03Z",
-        "url": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
-        "excerpt": "The bank's Dubai branch now offers custody for Ripple's RLUSD stablecoin and plans a link with LMAX that lets institutions post it as trading collateral while the coins stay put.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "01b36aa9387d9d20",
-        "title": "Here’s what happened in crypto today",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-12T19:26:13Z",
-        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "659501c64af9c109",
-        "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-12T19:07:30Z",
-        "url": "https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol",
-        "excerpt": "The Nasdaq-listed company now holds about 2.59 million SOL, but its weekly purchases keep shrinking.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "5ecbe9a62f0aaa3a",
-        "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-12T18:38:14Z",
-        "url": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption",
-        "excerpt": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash.",
         "tags": [
           "DeFi",
           "Stablecoins"
