@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-11-14T16:34:24.140483Z",
+  "generatedAt": "2026-11-15T17:01:32.060023Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "0e5ff930a5c6629c",
+        "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-15T16:01:02Z",
+        "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+        "excerpt": "From Goldman and Citi’s $270 million “Project Faro” to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4a7a9c9554405450",
+        "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-15T14:01:02Z",
+        "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+        "excerpt": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "9799c87716bb7a0d",
+        "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-15T10:23:17Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff",
+        "excerpt": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "924da266305544f8",
+        "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-15T06:27:26Z",
+        "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
+        "excerpt": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "0f83e2ae62b39f16",
+        "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-14T16:33:29Z",
+        "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+        "excerpt": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "7d3dcc2eff814fa0",
         "title": "Bitcoin drifts back to $65,000; 'deep value zone,' says analyst",
@@ -1683,93 +1743,33 @@
           "Blockchain",
           "Security"
         ]
-      },
-      {
-        "id": "4468c9d0f2fb0827",
-        "title": "Bitcoin Bounces, But Where Does It Go Next? Here’s What the Charts Say",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-16T16:06:05Z",
-        "url": "https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts",
-        "excerpt": "Technical indicators suggest the bullish trend remains intact, but prediction market traders are sending mix signals.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "eacb15f753d7bcb8",
-        "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-16T15:45:43Z",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints",
-        "excerpt": "Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "eedf8c7d66b91e69",
-        "title": "Ledger’s early implant warnings deserved more action, Karpelès says",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-16T13:51:35Z",
-        "url": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles",
-        "excerpt": "Ledger was contacted about tampered hardware wallets risks months before its latest security crisis, with former Mt. Gox CEO Mark Karpelès questioning its response.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "77dd3a15fb358f97",
-        "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-16T10:52:26Z",
-        "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-        "excerpt": "Nine crypto companies launched the Quantum Alliance to jointly prepare for quantum attacks, but they disagree on when the threat will arrive and whether vulnerable BTC should be frozen.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "c738de4d56680190",
-        "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-16T10:41:03Z",
-        "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
-        "excerpt": "Celestia jumped 16%, injective rose 7.7% and layerzero added 7.3% while bitcoin held little changed near $82,100 and Fed Chair Warsh gave no sign on interest rates.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "7cc093dc1ecdd134",
-        "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-16T10:39:08Z",
-        "url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
-        "excerpt": "The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "11559e429c00dcf1",
-        "title": "Live updates: Bitcoin steady near $82,000 after Fed Chair Warsh's comments",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-16T09:48:14Z",
-        "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-        "excerpt": "Crypto held to its bounce following bitcoin’s brief drop under $80,000, but investors kept pulling money from ether, SOL and ZEC funds.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "95cd343a17e795f2",
+        "title": "Enterprise blockchain is going to come back from the dead",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-15T14:30:00Z",
+        "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead",
+        "excerpt": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "68b1459c1cd75961",
+        "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-15T02:50:57Z",
+        "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+        "excerpt": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "25ccab7b20128ac5",
         "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
@@ -2920,54 +2920,6 @@
         "tags": [
           "DeFi",
           "Markets"
-        ]
-      },
-      {
-        "id": "240978b466d17a74",
-        "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-16T12:22:18Z",
-        "url": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
-        "excerpt": "The funds came from a task scam that paid people to fake product sales and reviews, then demanded deposits before releasing their pay.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "3fb3070fdfd434a0",
-        "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-16T11:46:54Z",
-        "url": "https://decrypt.co/381138/morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe",
-        "excerpt": "Plus, crypto majors rebound despite hot PPI and Saylor’s Strategy is at risk of removal from a major index.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "efadb03adc570e82",
-        "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-16T10:54:35Z",
-        "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
-        "excerpt": "The stablecoin issuer’s CEO Jerermy Allaire told Reuters demand for digital dollars is growing across Asia, Africa and Latin America as banks and payment firms.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "8706c0a79ec29a04",
-        "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-16T10:27:18Z",
-        "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says",
-        "excerpt": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
         ]
       }
     ]

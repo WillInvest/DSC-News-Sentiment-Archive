@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-15T17:01:32.060023Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "0e5ff930a5c6629c",
+        "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-15T16:01:02Z",
+        "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+        "excerpt": "From Goldman and Citi’s $270 million “Project Faro” to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4a7a9c9554405450",
+        "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-15T14:01:02Z",
+        "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+        "excerpt": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "9799c87716bb7a0d",
+        "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-15T10:23:17Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff",
+        "excerpt": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "924da266305544f8",
+        "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-15T06:27:26Z",
+        "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
+        "excerpt": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "0f83e2ae62b39f16",
+        "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-14T16:33:29Z",
+        "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+        "excerpt": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "95cd343a17e795f2",
+        "title": "Enterprise blockchain is going to come back from the dead",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-15T14:30:00Z",
+        "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead",
+        "excerpt": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-15T11:18:48Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "68b1459c1cd75961",
+        "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-15T02:50:57Z",
+        "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+        "excerpt": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "25ccab7b20128ac5",
+        "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-14T15:00:00Z",
+        "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
+        "excerpt": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "31d71b8d2159f555",
+        "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-13T13:41:26Z",
+        "url": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc",
+        "excerpt": "Arthur Hayes said he was “flattered” by Coinbase’s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
