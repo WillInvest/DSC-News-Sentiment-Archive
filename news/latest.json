@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-11-15T17:01:32.060023Z",
+  "generatedAt": "2026-11-16T20:22:09.019629Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "df3f1c095f04d9d6",
+        "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-16T18:07:49Z",
+        "url": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans",
+        "excerpt": "Nvidia’s leadership upheaval and Texas permit restrictions sharpen the divide between miners with funded projects and those still seeking capital and approvals.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "b4e78637065a85f1",
+        "title": "Saylor’s Strategy Keeps Buying Bitcoin, Adding 'A Little Orange' Through the Dip",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-16T17:20:26Z",
+        "url": "https://decrypt.co/383347/saylor-strategy-buying-bitcoin-adding-little-orange-dip",
+        "excerpt": "The modest purchase lifted Strategy’s stash to 850,849 BTC as chairman Michael Saylor shrugged off a sharp downturn, posting that “this dip could use a little orange.”",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4aa6d983925f0ab9",
+        "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-16T16:41:42Z",
+        "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+        "excerpt": "The decentralized exchange blamed a leaked trading API key and said its smart contracts were unaffected, while investigators traced funds to Hyperliquid.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "6ecdabf0121243a4",
+        "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-16T16:26:52Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves",
+        "excerpt": "Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcement.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "8f6c53062d0683c1",
+        "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-16T16:14:22Z",
+        "url": "https://decrypt.co/383322/solana-drops-mainnet-beta-after-six-years",
+        "excerpt": "Solana's 1.0 designation gives developers a common way to track network rules. Here's what it means for users and builders.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "0e5ff930a5c6629c",
         "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
@@ -1695,57 +1755,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "fc9956a55c2d8f6c",
-        "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-17T16:01:03Z",
-        "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
-        "excerpt": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts place the first practical attack in the late 2020s.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "21ae42b82e5bca26",
-        "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-17T06:39:48Z",
-        "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
-        "excerpt": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn’t gone anywhere.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "8df3d5bc62f0dcb8",
-        "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-17T02:30:00Z",
-        "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-        "excerpt": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "af9c7f6b23dd6a4a",
-        "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-16T19:36:04Z",
-        "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
-        "excerpt": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "7f003adac03ee2ff",
+        "title": "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-16T17:09:28Z",
+        "url": "https://decrypt.co/383333/tokenization-is-not-the-finish-line-jupiter-to-let-users-borrow-against-bullish-shares",
+        "excerpt": "The Solana trading platform unveiled a permissioned lending market, identity passport and issuer liquidity services at Breakpoint.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "ada8abad4c82ea6d",
+        "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-16T15:54:11Z",
+        "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+        "excerpt": "A central bank official reportedly said legitimate funds become tainted when moved into stablecoins, comparing the market to the informal \"dólar-cabo\" system.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "63eb6c893dc8089c",
+        "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-16T14:55:46Z",
+        "url": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments",
+        "excerpt": "Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "33e4377dea63b2d7",
+        "title": "Ledger Brings Clear Signing to Solana, Ending 'Blind' Signing for Jupiter Swaps",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-16T13:12:08Z",
+        "url": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
+        "excerpt": "The hardware wallet manufacturer says users can now read what they're approving on nine Solana apps, as it pitches its Atom device.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "95cd343a17e795f2",
         "title": "Enterprise blockchain is going to come back from the dead",
@@ -2872,54 +2932,6 @@
         "tags": [
           "DeFi",
           "Stablecoins"
-        ]
-      },
-      {
-        "id": "3eb0fa597f51df25",
-        "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-17T12:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-        "excerpt": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "3acbb70ea2e30234",
-        "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-17T10:00:07Z",
-        "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report",
-        "excerpt": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "310546e12ab7ef30",
-        "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-16T18:55:37Z",
-        "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
-        "excerpt": "Circle CEO Jeremy Allaire told Reuters the USDC issuer plans to enter about 40 emerging and developing markets, citing rising demand in Southeast Asia, Latin America, Africa and the Middle East.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "87c8c96d72e5c226",
-        "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-16T18:16:04Z",
-        "url": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
-        "excerpt": "The index provider will classify “non-operating companies” as ineligible starting Nov. 30, targeting firms whose balance sheets are dominated by a single asset.",
-        "tags": [
-          "DeFi",
-          "Markets"
         ]
       }
     ]
