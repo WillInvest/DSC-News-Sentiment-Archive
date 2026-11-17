@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-17T19:08:23.384591Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "b6886bad6d1e7c35",
+        "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-17T17:39:41Z",
+        "url": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance",
+        "excerpt": "Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions as traditional financial assets move onto blockchains.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "7f6b70aede4e2ea5",
+        "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-17T16:39:43Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings",
+        "excerpt": "Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 as traders brace for volatility over Q3 earnings.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "2e3848b70557177d",
+        "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-17T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi",
+        "excerpt": "Dragonfly’s Haseeb Qureshi says Bitcoin could reach $400,000 by 2030 but doubts it will return to $100,000 by year-end with the rout in AI stocks weighing on crypto.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "74dfd5249b245c5f",
+        "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-17T13:02:56Z",
+        "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+        "excerpt": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "640c020c6913da99",
+        "title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-17T12:50:55Z",
+        "url": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents",
+        "excerpt": "The Solana Foundation's head of AI said agents now account for three-quarters of AI token use, and need blockchains to pay for things.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "1f9b3caebb77ea37",
+        "title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-17T17:18:41Z",
+        "url": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks",
+        "excerpt": "A wallet linked to October’s record Binance theft moved $63 million in ether, before analysts flagged a larger wave of transfers and reported Bitcoin swaps amid ongoing U.S. recovery efforts.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "6f7ba38d4b88ddbf",
+        "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-17T15:11:00Z",
+        "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
+        "excerpt": "Hong Kong and Swift expanded their efforts to connect tokenized bank deposits across currencies, building on earlier work involving digital central bank money.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-17T14:54:40Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "1c084932ce41e177",
+        "title": "Revolut plans four blockchain-based funds for private markets, chair says",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-17T12:24:20Z",
+        "url": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets",
+        "excerpt": "Citing a looming liquidity crunch, Martin Gilbert said blockchain could help bring more liquidity to private markets.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "68e851f995705056",
+        "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-17T12:00:55Z",
+        "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+        "excerpt": "The fund swapped its common stock in Bloom Energy, Nebius and SanDisk for call options, keeping its bet on AI power, computing and memory.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}

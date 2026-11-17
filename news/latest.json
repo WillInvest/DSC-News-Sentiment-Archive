@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-11-16T20:22:09.019629Z",
+  "generatedAt": "2026-11-17T19:08:23.384591Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "b6886bad6d1e7c35",
+        "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-17T17:39:41Z",
+        "url": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance",
+        "excerpt": "Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions as traditional financial assets move onto blockchains.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "7f6b70aede4e2ea5",
+        "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-17T16:39:43Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings",
+        "excerpt": "Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 as traders brace for volatility over Q3 earnings.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "2e3848b70557177d",
+        "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-17T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi",
+        "excerpt": "Dragonfly’s Haseeb Qureshi says Bitcoin could reach $400,000 by 2030 but doubts it will return to $100,000 by year-end with the rout in AI stocks weighing on crypto.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "74dfd5249b245c5f",
+        "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-17T13:02:56Z",
+        "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+        "excerpt": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "640c020c6913da99",
+        "title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-17T12:50:55Z",
+        "url": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents",
+        "excerpt": "The Solana Foundation's head of AI said agents now account for three-quarters of AI token use, and need blockchains to pay for things.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "df3f1c095f04d9d6",
         "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
@@ -1707,57 +1767,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "7e531de221191102",
-        "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-18T13:00:00Z",
-        "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
-        "excerpt": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "286e895d664c673d",
-        "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-18T13:00:00Z",
-        "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
-        "excerpt": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "318019c17fec239b",
-        "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-18T12:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
-        "excerpt": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "90dc4ca2979a0298",
-        "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-18T09:14:26Z",
-        "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok",
-        "excerpt": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "1f9b3caebb77ea37",
+        "title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-17T17:18:41Z",
+        "url": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks",
+        "excerpt": "A wallet linked to October’s record Binance theft moved $63 million in ether, before analysts flagged a larger wave of transfers and reported Bitcoin swaps amid ongoing U.S. recovery efforts.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "6f7ba38d4b88ddbf",
+        "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-17T15:11:00Z",
+        "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
+        "excerpt": "Hong Kong and Swift expanded their efforts to connect tokenized bank deposits across currencies, building on earlier work involving digital central bank money.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "1c084932ce41e177",
+        "title": "Revolut plans four blockchain-based funds for private markets, chair says",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-17T12:24:20Z",
+        "url": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets",
+        "excerpt": "Citing a looming liquidity crunch, Martin Gilbert said blockchain could help bring more liquidity to private markets.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "68e851f995705056",
+        "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-17T12:00:55Z",
+        "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+        "excerpt": "The fund swapped its common stock in Bloom Energy, Nebius and SanDisk for call options, keeping its bet on AI power, computing and memory.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "7f003adac03ee2ff",
         "title": "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares",
@@ -2905,30 +2965,6 @@
         "publishedAt": "2026-10-19T11:57:58Z",
         "url": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million",
         "excerpt": "World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "edf72bc309ffdbbe",
-        "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-18T13:01:04Z",
-        "url": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
-        "excerpt": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle’s USDC most sensitive.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "c7448664e387a685",
-        "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-18T01:06:35Z",
-        "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
-        "excerpt": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee.",
         "tags": [
           "DeFi",
           "Stablecoins"
