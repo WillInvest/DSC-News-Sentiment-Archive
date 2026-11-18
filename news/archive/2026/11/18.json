@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-18T18:48:45.121022Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "7995cb9314264929",
+        "title": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-18T18:46:03Z",
+        "url": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom",
+        "excerpt": "MARA sold 13,597 BTC after September and Riot sold 20,264 BTC through September to fund debt repayment and AI data center buildouts, as Glassnode flagged the pair as the main sellers among Bitcoin treasury firms.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "c2d693e8aada8538",
+        "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-18T18:27:52Z",
+        "url": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales",
+        "excerpt": "The Bitcoin miner is taking on new debt to finance its AI infrastructure expansion, with the Long Ridge acquisition adding nearly $69 million in annual interest costs.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4de9c918816fc258",
+        "title": "Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-18T18:16:02Z",
+        "url": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks",
+        "excerpt": "Christopher Waller says stubborn inflation may warrant a bigger December rate hike, while a separate speech outlined why blockchain-based payments still need traditional settlement systems and stronger safeguards to scale.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4fadd2627fbb4ba2",
+        "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-18T17:22:03Z",
+        "url": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
+        "excerpt": "Variational and its investors are betting that the future of onchain trading will look more like a traditional brokerage than a crypto exchange.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "2eb2c7bb29aa6f75",
+        "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-18T17:05:04Z",
+        "url": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits",
+        "excerpt": "BlackRock’s staked Ether ETF earns a cut of what traders pay for priority on Ethereum, the acquittal left the legal risk to that income unresolved.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "0ccaaa33b96f75cd",
+        "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-18T16:02:54Z",
+        "url": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
+        "excerpt": "A single breach moved billions out of Binance in minutes, exposing how much client money sits with the venue that trades it. Darren Jordan of Komainu argues institutions should keep trading and custody separate, as traditional markets have for decades, and…",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "7b8ae10d49e0de22",
+        "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-18T14:04:50Z",
+        "url": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys",
+        "excerpt": "FE covenants encode spending constraints into the signing key, so only transactions that satisfy a predefined condition can be signed.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-18T13:34:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "c5bc0d6f959fdcbe",
+        "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-18T11:42:52Z",
+        "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
+        "excerpt": "Bitcoin (BTC) is down 1.1% since midnight UTC at around $64,100, failing to keep pace with rising stock index futures after Nvidia beat earnings.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "cf35974de7f548c3",
+        "title": "Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-18T10:17:17Z",
+        "url": "https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto",
+        "excerpt": "Scotland's Tyler Buchanan is the last of five defendants sentenced in a phishing and SIM-swapping scheme that targeted crypto holders.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
