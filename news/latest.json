@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-11-18T18:48:45.121022Z",
+  "generatedAt": "2026-11-19T18:57:40.306327Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "4ad50e7e118d5a4c",
+        "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-19T18:20:49Z",
+        "url": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027",
+        "excerpt": "Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart contracts, after contacting at least 50 affected companies.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "24cf5e86dbcb2fca",
+        "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-19T18:15:56Z",
+        "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+        "excerpt": "The U.S. Senate Banking Committee held a confirmation hearing for the two nominees — one from each party — as the administration rebuilds the markets regulators.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "0b8691ad1326fcaf",
+        "title": "Why higher rates could slow Bitcoin buying at treasury firms",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-19T18:09:32Z",
+        "url": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms",
+        "excerpt": "A treasury company can have years of dividends covered and still struggle to sell new shares on terms that make another Bitcoin purchase worthwhile.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "0c7f5de5355e1990",
+        "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-19T18:06:50Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100",
+        "excerpt": "Bitcoin dropped toward a third retest of $62,000 as Anthropic debuted on the Nasdaq, hitting highs of $115 per share before dropping below $100.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6e9ce0dae6a37633",
+        "title": "Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-19T16:55:10Z",
+        "url": "https://decrypt.co/383631/anthropic-stock-indicated-open-33-above-ipo-price",
+        "excerpt": "The Claude maker's shares could debut at $110, pushing its valuation toward $2 trillion as enthusiasm for its historic IPO lifts the broader technology sector.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
       {
         "id": "7995cb9314264929",
         "title": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
@@ -1707,69 +1767,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "8d4e4c53f5e50b25",
-        "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-20T14:28:39Z",
-        "url": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
-        "excerpt": "BlackRock's proposed fund follows similar products from Calamos that helped investors avoid steep losses during bitcoin's selloff.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "f2c3af5e8ac971bf",
-        "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-20T13:04:28Z",
-        "url": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail",
-        "excerpt": "The Swiss regulator cited a growing appetite for cryptocurrency investments and said that multiple fund providers have submitted Bitcoin ETF applications.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "51972ca59e8c4a32",
-        "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-20T12:40:17Z",
-        "url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
-        "excerpt": "Seven more issuers have opted out of being listed on the planned tokenized stock venue under the SEC's framework, bringing its disclosed objection count to 16.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "c3bda67967bf4670",
-        "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-20T12:38:28Z",
-        "url": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash",
-        "excerpt": "The April 1 hack caused about $295 million in losses and was later attributed to a North Korean threat group in a Mandiant investigation.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "f6c62bdca6efcce9",
-        "title": "Netflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-20T11:23:00Z",
-        "url": "https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo",
-        "excerpt": "Constance Wang criticized the streamer’s portrayal of her former FTX colleagues as not matching her own experience with Sam Bankman-Fried and Caroline Ellison.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "21b41e8fa7fd89fb",
+        "title": "Ethereum’s new DeFi security tool raises questions over censorship",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-19T13:30:00Z",
+        "url": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship",
+        "excerpt": "Phylax’s system lets decentralized protocols block potentially harmful transactions, but raises questions about potential censorship and Ethereum’s concentrated builder market.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "443d09baabee7885",
+        "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-19T12:33:46Z",
+        "url": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia",
+        "excerpt": "Tokenized Take-Two shares drew $249.5 million in DEX volume Wednesday, nearly three times the $88.1 million for tokenized Nvidia shares.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "2e421bf68b5eaa8c",
+        "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-19T11:30:00Z",
+        "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
+        "excerpt": "Blockchain investigation traced $518 million in illicit-linked activity, including the 2025 Bybit hack, through a key reserve backing DAI and USDS tokens, putting Sky's institutional finance ambitions and open design on collision course.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "358e2ec891660624",
+        "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-19T05:39:06Z",
+        "url": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+        "excerpt": "An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "0ccaaa33b96f75cd",
         "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
@@ -2917,54 +2965,6 @@
         "publishedAt": "2026-10-21T12:10:39Z",
         "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
         "excerpt": "The collaboration will explore card-linked merchant payments for Japanese visitors in South Korea and peer-to-peer wallet transfers among broader cross-border trade remittances.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "1ca8abe050e0b29b",
-        "title": "French Lawmakers Back Stablecoin Swap Tax by Just One Vote",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-20T14:04:10Z",
-        "url": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
-        "excerpt": "The amendment would make swapping crypto into euro or dollar stablecoins taxable in France from 2027, with gains measured coin by coin.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "3caa49ced42da035",
-        "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-20T12:30:00Z",
-        "url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain",
-        "excerpt": "The Brale-issued token can be minted with USDC from eight networks and is designed to settle tokenized stocks and other assets on tx.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "2bc5f6ab4251cf12",
-        "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-20T11:25:00Z",
-        "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
-        "excerpt": "Amendment I-3898 removes tax deferral for MiCA-compliant stablecoins starting January 2027.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "0de419b460fd977e",
-        "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-20T10:22:55Z",
-        "url": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
-        "excerpt": "Bitcoin slipped 0.5% to around $81,400 even after the biggest daily spot ETF inflow in nearly a month as South Korea's Kospi index fell 3.7% on AI worries.",
         "tags": [
           "DeFi",
           "Stablecoins"
