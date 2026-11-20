@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-20T18:34:03.443644Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "21415cbd1f4a9bcd",
+        "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-20T18:13:52Z",
+        "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+        "excerpt": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "f852d0b0ab5d1eeb",
+        "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-20T17:41:45Z",
+        "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+        "excerpt": "Wagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "df325cb00fb9354b",
+        "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-20T16:55:51Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff",
+        "excerpt": "Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "0491da7530ace77d",
+        "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-20T15:52:06Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off",
+        "excerpt": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "64670e16ababd840",
+        "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-20T13:35:33Z",
+        "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
+        "excerpt": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "51969704a023dc66",
+        "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-20T16:35:59Z",
+        "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+        "excerpt": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "64944277a1bbdbe4",
+        "title": "DBS bets it can lose the deposit and keep the client",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-20T15:32:30Z",
+        "url": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client",
+        "excerpt": "The Singapore bank earned a record $208 million in transaction services fees in the third quarter — now it’s helping companies turn deposits into stablecoins they can spend without it.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-20T13:29:58Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "778349059d6b12cc",
+        "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-20T12:10:14Z",
+        "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
+        "excerpt": "The crypto payments firm joins a rush of crypto companies seeking federal trust charters, which face growing political scrutiny.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "8837ace6453e363b",
+        "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-20T11:50:51Z",
+        "url": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
+        "excerpt": "Thursday's ETF outflow was the funds' biggest in three weeks, as rising Treasury yields and Fed rate hike bets weigh on crypto.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      }
+    ]
+  }
+}
