@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-22T17:46:46.590082Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "fcb43fd4bbd4abfd",
+        "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-22T14:00:00Z",
+        "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+        "excerpt": "Quantum computers can’t break Bitcoin network’s security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "120fa8a135db7414",
+        "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-22T09:33:06Z",
+        "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand",
+        "excerpt": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "f83c58feb3064838",
+        "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-22T07:24:05Z",
+        "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit",
+        "excerpt": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "e43ebe7368ab2665",
+        "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-22T05:28:43Z",
+        "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty",
+        "excerpt": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "8274dffc93d14362",
+        "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-21T17:50:00Z",
+        "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+        "excerpt": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "f9681366752ad27a",
+        "title": "The future of onchain FX could start with users, not institutional liquidity",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-22T14:30:00Z",
+        "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity",
+        "excerpt": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-22T11:25:27Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "d6aa9e4e9fb5d6c1",
+        "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-21T16:41:00Z",
+        "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+        "excerpt": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "be60dd861ed2e3e6",
+        "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-21T12:30:00Z",
+        "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+        "excerpt": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "6eab93670319b3bb",
+        "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-20T18:37:10Z",
+        "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims",
+        "excerpt": "Sky says its USDS stablecoin held its $1 value despite more than $2 billion in withdrawals, as it disputes a report linking the protocol to illicit activity.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}

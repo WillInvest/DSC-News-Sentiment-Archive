@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-11-21T17:25:15.625038Z",
+  "generatedAt": "2026-11-22T17:46:46.590082Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "fcb43fd4bbd4abfd",
+        "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-22T14:00:00Z",
+        "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+        "excerpt": "Quantum computers can’t break Bitcoin network’s security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "120fa8a135db7414",
+        "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-22T09:33:06Z",
+        "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand",
+        "excerpt": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "f83c58feb3064838",
+        "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-22T07:24:05Z",
+        "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit",
+        "excerpt": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "e43ebe7368ab2665",
+        "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-22T05:28:43Z",
+        "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty",
+        "excerpt": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "8274dffc93d14362",
+        "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-21T17:50:00Z",
+        "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+        "excerpt": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "bc4083b3d735d4ba",
         "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
@@ -1707,69 +1767,21 @@
           "Blockchain",
           "Security"
         ]
-      },
-      {
-        "id": "eadb3f14ac6f7fe1",
-        "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-23T13:58:56Z",
-        "url": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
-        "excerpt": "The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "663822e8c451d9f3",
-        "title": "China targets 2030 for its national blockchain network buildout",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-23T13:21:07Z",
-        "url": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout",
-        "excerpt": "China’s five-year digital development plan calls for wider blockchain use in trade and manufacturing alongside stronger technical standards.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "10e6bb092bd3cd9e",
-        "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-23T12:23:58Z",
-        "url": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness",
-        "excerpt": "Bitcoin price volatility cooled as stock markets battled another day of resurgent AI fears during Friday’s Asia trading session.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "2a59c18b4a3cdcaa",
-        "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-23T12:03:53Z",
-        "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
-        "excerpt": "Developers merged a policy change that ends the months-long embargo for flaws a chatbot could rediscover, after a summer in which AI found hundreds of bitcoin bugs before the humans did.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "099da97ac7764717",
-        "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-23T11:49:37Z",
-        "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
-        "excerpt": "The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "f9681366752ad27a",
+        "title": "The future of onchain FX could start with users, not institutional liquidity",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-22T14:30:00Z",
+        "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity",
+        "excerpt": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
       {
         "id": "d6aa9e4e9fb5d6c1",
         "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
@@ -2893,66 +2905,6 @@
         "publishedAt": "2026-10-24T13:01:02Z",
         "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
         "excerpt": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "9325d2bd0bf65df3",
-        "title": "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-23T16:31:03Z",
-        "url": "https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york",
-        "excerpt": "New York’s attorney general asked a court to order NovaTech’s founders, who fled the country, to pay about $1.37 billion, and settled with four top promoters for nearly $6 million.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "412784a1548ec72a",
-        "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-23T10:54:35Z",
-        "url": "https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank",
-        "excerpt": "The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "07636778af136f35",
-        "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-23T10:22:56Z",
-        "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-        "excerpt": "HSBC and Standard Chartered-led Anchorpoint received Hong Kong’s first stablecoin issuer licenses in April. Anchorpoint began rolling out HKDAP in August.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "3d94505a0b18902c",
-        "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-23T08:57:34Z",
-        "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-        "excerpt": "The Riksbank sees an e-krona as critical to securing national payments and monetary control.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "748af5bedb3d48c7",
-        "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-23T08:47:34Z",
-        "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme",
-        "excerpt": "HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses.",
         "tags": [
           "DeFi",
           "Stablecoins"
