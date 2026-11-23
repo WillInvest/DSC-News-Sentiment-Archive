@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-11-22T17:46:46.590082Z",
+  "generatedAt": "2026-11-23T22:00:14.549754Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "95f93af353fb1270",
+        "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-23T21:04:03Z",
+        "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack",
+        "excerpt": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "bed85b20ad16c0f3",
+        "title": "Kalshi secures temporary win in New York gambling law dispute",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-23T20:38:43Z",
+        "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute",
+        "excerpt": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "0384b71bde34f945",
+        "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-23T20:36:02Z",
+        "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
+        "excerpt": "Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who “refuses to block funds such as these.\"",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "71617a31507adf6f",
+        "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-23T19:16:46Z",
+        "url": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks",
+        "excerpt": "Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "7a0cce32dae25c9c",
+        "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-23T18:16:25Z",
+        "url": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
+        "excerpt": "The lone miner solved block 977057 through Solo CKPool, pocketing 3.13 BTC (worth about $191,000) in a lottery-like feat that normally only industrial-scale mining farms pull off.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "fcb43fd4bbd4abfd",
         "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
@@ -1671,105 +1731,45 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "ed6e74b011587937",
-        "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-24T16:01:03Z",
-        "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
-        "excerpt": "Sweden's Government Offices will block ChatGPT and Claude on staff computers from Monday, steering civil servants to Microsoft Copilot as the only AI that passed its security review.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "567c32aacef915e0",
-        "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-24T16:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
-        "excerpt": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "9a32a2203dd5594b",
-        "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-24T15:11:24Z",
-        "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
-        "excerpt": "Bitcoin has sunk to its weakest level in more than one month.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "e088af504e1cf25c",
-        "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-24T04:45:43Z",
-        "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-        "excerpt": "Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "07e9937c553f3a52",
-        "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-23T21:32:16Z",
-        "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice",
-        "excerpt": "As of Friday, 22 companies had filed objections as part of the joint venture’s proposed tokenized stock platform under the SEC’s innovation exemption.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "d3cf9026dd751c8c",
-        "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-23T21:16:03Z",
-        "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
-        "excerpt": "Days before Israel’s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "7fda0e11f2a0d85c",
-        "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-23T18:54:55Z",
-        "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
-        "excerpt": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks.",
-        "tags": [
-          "Blockchain",
-          "Policy"
-        ]
-      },
-      {
-        "id": "1b2cf4e36ca8e84a",
-        "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-23T18:39:02Z",
-        "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
-        "excerpt": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "8986f38d06ed1355",
+        "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-23T19:35:06Z",
+        "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn",
+        "excerpt": "BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "deb393d42a43ecad",
+        "title": "Perps and Swaps: How to Trade the News on Decrypt",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-23T18:15:45Z",
+        "url": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
+        "excerpt": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "9d94d11263e8f753",
+        "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-23T16:23:37Z",
+        "url": "https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans",
+        "excerpt": "The US bank is offering Bitcoin-backed loans ranging from $10,000 to $250,000 through LendingUSA, allowing borrowers to access cash without selling their holdings.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
       {
         "id": "f9681366752ad27a",
         "title": "The future of onchain FX could start with users, not institutional liquidity",
@@ -2881,30 +2881,6 @@
         "publishedAt": "2026-10-26T00:13:29Z",
         "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin",
         "excerpt": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "4c27bc73ac39ea28",
-        "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-24T14:00:00Z",
-        "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
-        "excerpt": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.",
-        "tags": [
-          "DeFi",
-          "Lending"
-        ]
-      },
-      {
-        "id": "07e52b1ddb324628",
-        "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-24T13:01:02Z",
-        "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
-        "excerpt": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
         "tags": [
           "DeFi",
           "Stablecoins"

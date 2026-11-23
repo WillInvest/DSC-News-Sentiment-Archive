@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-23T22:00:14.549754Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "95f93af353fb1270",
+        "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-23T21:04:03Z",
+        "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack",
+        "excerpt": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "bed85b20ad16c0f3",
+        "title": "Kalshi secures temporary win in New York gambling law dispute",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-23T20:38:43Z",
+        "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute",
+        "excerpt": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "0384b71bde34f945",
+        "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-23T20:36:02Z",
+        "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
+        "excerpt": "Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who “refuses to block funds such as these.\"",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "71617a31507adf6f",
+        "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-23T19:16:46Z",
+        "url": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks",
+        "excerpt": "Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "7a0cce32dae25c9c",
+        "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-23T18:16:25Z",
+        "url": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
+        "excerpt": "The lone miner solved block 977057 through Solo CKPool, pocketing 3.13 BTC (worth about $191,000) in a lottery-like feat that normally only industrial-scale mining farms pull off.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-23T21:40:44Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "8986f38d06ed1355",
+        "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-23T19:35:06Z",
+        "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn",
+        "excerpt": "BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "deb393d42a43ecad",
+        "title": "Perps and Swaps: How to Trade the News on Decrypt",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-23T18:15:45Z",
+        "url": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
+        "excerpt": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "9d94d11263e8f753",
+        "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-23T16:23:37Z",
+        "url": "https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans",
+        "excerpt": "The US bank is offering Bitcoin-backed loans ranging from $10,000 to $250,000 through LendingUSA, allowing borrowers to access cash without selling their holdings.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "f9681366752ad27a",
+        "title": "The future of onchain FX could start with users, not institutional liquidity",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-22T14:30:00Z",
+        "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity",
+        "excerpt": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
