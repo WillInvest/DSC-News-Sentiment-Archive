@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-25T19:53:34.473968Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "614f6e2440fdd629",
+        "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-25T18:54:51Z",
+        "url": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats",
+        "excerpt": "Ethlabs co-founder Julian Ma told Cointelegraph that AI poses a more immediate threat as Ethereum prepares for one of its biggest security overhauls since the Merge.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "f8415f48b060a2ca",
+        "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-25T17:38:33Z",
+        "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+        "excerpt": "Crypto sentiment is near rock bottom, but Galaxy sees room for a deeper slide and even longtime crypto bulls are wary of buying amid fears of AI and quantum computing.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "84f6ca28847b2a34",
+        "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-25T17:33:22Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops",
+        "excerpt": "The prospect of higher US tariffs and hotter-than-expected PCE inflation weighed on Bitcoin, crypto and stocks on Wednesday.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4a2e63ff8c795546",
+        "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-25T17:16:02Z",
+        "url": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
+        "excerpt": "London’s High Court entered a default judgment against Vivek Kumar Sen and Zamyang Sherpa after they failed to respond, though damages, which X estimates at over £207,000, won’t be set until a later hearing.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6e812b812df29f76",
+        "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-25T16:52:50Z",
+        "url": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
+        "excerpt": "Bitcoin fell below $58,000 as stronger U.S. growth, accelerating inflation and proposed tariffs coincided with a renewed AI stock selloff and bets on higher interest rates in December and beyond.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "7fc2594c8f2d0270",
+        "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-25T16:07:35Z",
+        "url": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
+        "excerpt": "The law taxes crypto profits at 18% plus a 5% military levy, cuts the rate for older holdings and puts stablecoins under the central bank.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "41353078294499a3",
+        "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-25T16:02:31Z",
+        "url": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+        "excerpt": "The EBA renewed its call for the commission to propose rules for crypto firms granting client access to DeFi, particularly lending protocols.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-25T13:26:05Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "ab86010ef45916be",
+        "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-25T11:57:50Z",
+        "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+        "excerpt": "Bitcoin (BTC) is down 1.2% since midnight UTC as the stock selloff resumes, with ether (ETH) and DeFi tokens falling about twice as far.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "de86b5589e209f82",
+        "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-25T11:49:54Z",
+        "url": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization",
+        "excerpt": "SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and tokenize financial assets.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}

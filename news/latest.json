@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-11-24T20:37:39.866167Z",
+  "generatedAt": "2026-11-25T19:53:34.473968Z",
   "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
   "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
   "sections": {
     "blockchain": [
+      {
+        "id": "614f6e2440fdd629",
+        "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-25T18:54:51Z",
+        "url": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats",
+        "excerpt": "Ethlabs co-founder Julian Ma told Cointelegraph that AI poses a more immediate threat as Ethereum prepares for one of its biggest security overhauls since the Merge.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "f8415f48b060a2ca",
+        "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-25T17:38:33Z",
+        "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+        "excerpt": "Crypto sentiment is near rock bottom, but Galaxy sees room for a deeper slide and even longtime crypto bulls are wary of buying amid fears of AI and quantum computing.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "84f6ca28847b2a34",
+        "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-25T17:33:22Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops",
+        "excerpt": "The prospect of higher US tariffs and hotter-than-expected PCE inflation weighed on Bitcoin, crypto and stocks on Wednesday.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4a2e63ff8c795546",
+        "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-25T17:16:02Z",
+        "url": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
+        "excerpt": "London’s High Court entered a default judgment against Vivek Kumar Sen and Zamyang Sherpa after they failed to respond, though damages, which X estimates at over £207,000, won’t be set until a later hearing.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "6e812b812df29f76",
+        "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-25T16:52:50Z",
+        "url": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
+        "excerpt": "Bitcoin fell below $58,000 as stronger U.S. growth, accelerating inflation and proposed tariffs coincided with a renewed AI stock selloff and bets on higher interest rates in December and beyond.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
       {
         "id": "3baa1e1a4ab9a72f",
         "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
@@ -1707,69 +1767,57 @@
           "Blockchain",
           "Infrastructure"
         ]
-      },
-      {
-        "id": "c11a1e18469ec799",
-        "title": "India’s CoinDCX Confirms $16 Million Loss Days After CEO Called It a ‘False Alarm’",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-26T16:36:03Z",
-        "url": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
-        "excerpt": "The Mumbai-based exchange says 15.99 million USDT was drained from wallets it retired after last year’s $44 million hack, bringing its combined losses to nearly $60 million—and it’s absorbing the hit.",
-        "tags": [
-          "Blockchain",
-          "Security"
-        ]
-      },
-      {
-        "id": "70e8ed146989c3f7",
-        "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-26T16:05:12Z",
-        "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-        "excerpt": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "e178d466c0c093bb",
-        "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-26T15:36:03Z",
-        "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
-        "excerpt": "The firm added 10,452 ETH to reach 4.95% of supply, but its bigger move was repurchasing 2.04 million of its own shares—part of what it calls the largest equity buyback any crypto treasury company has run.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "eedb70552d5a2c4a",
-        "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-26T13:27:38Z",
-        "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback",
-        "excerpt": "Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
-      },
-      {
-        "id": "4c751d7115e471db",
-        "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
-        "source": "Decrypt",
-        "publishedAt": "2026-10-26T13:24:38Z",
-        "url": "https://decrypt.co/381811/strategy-pauses-bitcoin-buying-spends-205m-buying-back-strc",
-        "excerpt": "The Bitcoin treasury firm's USD Cash balance fell to $242.4 million after its biggest weekly STRC buyback in more than a month.",
-        "tags": [
-          "Blockchain",
-          "Infrastructure"
-        ]
       }
     ],
     "defi": [
+      {
+        "id": "7fc2594c8f2d0270",
+        "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-25T16:07:35Z",
+        "url": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
+        "excerpt": "The law taxes crypto profits at 18% plus a 5% military levy, cuts the rate for older holdings and puts stablecoins under the central bank.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "41353078294499a3",
+        "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-25T16:02:31Z",
+        "url": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+        "excerpt": "The EBA renewed its call for the commission to propose rules for crypto firms granting client access to DeFi, particularly lending protocols.",
+        "tags": [
+          "DeFi",
+          "Lending"
+        ]
+      },
+      {
+        "id": "ab86010ef45916be",
+        "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-25T11:57:50Z",
+        "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+        "excerpt": "Bitcoin (BTC) is down 1.2% since midnight UTC as the stock selloff resumes, with ether (ETH) and DeFi tokens falling about twice as far.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "de86b5589e209f82",
+        "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-25T11:49:54Z",
+        "url": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization",
+        "excerpt": "SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and tokenize financial assets.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
       {
         "id": "c8eef1ef5c9db19b",
         "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
@@ -2932,54 +2980,6 @@
         "tags": [
           "DeFi",
           "Markets"
-        ]
-      },
-      {
-        "id": "e8312890a3cbdc05",
-        "title": "OCC calls on community banks to enter the stablecoin payments market",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-26T15:45:51Z",
-        "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-        "excerpt": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "3a6f50ee0427fca1",
-        "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-26T14:23:41Z",
-        "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-        "excerpt": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
-        ]
-      },
-      {
-        "id": "29dc32d37511e8d3",
-        "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-        "source": "CoinDesk",
-        "publishedAt": "2026-10-26T11:24:33Z",
-        "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
-        "excerpt": "Bitcoin was little changed near $80,400 since midnight UTC while the DeFi index was the only CoinDesk index to gain, with the Fed due to decide on Wednesday.",
-        "tags": [
-          "DeFi",
-          "Markets"
-        ]
-      },
-      {
-        "id": "0b53a5790bd95754",
-        "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
-        "source": "Cointelegraph",
-        "publishedAt": "2026-10-26T00:13:29Z",
-        "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin",
-        "excerpt": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline.",
-        "tags": [
-          "DeFi",
-          "Stablecoins"
         ]
       }
     ]
