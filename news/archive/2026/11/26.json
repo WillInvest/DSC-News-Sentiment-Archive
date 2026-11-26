@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-26T19:34:33.140308Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "34789b9175e0f3d2",
+        "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-26T18:15:29Z",
+        "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+        "excerpt": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "9dba826760388302",
+        "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-26T17:30:00Z",
+        "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+        "excerpt": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "64b92b2463d448a1",
+        "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-26T16:50:23Z",
+        "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+        "excerpt": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "5670665788bcca93",
+        "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-26T14:26:22Z",
+        "url": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
+        "excerpt": "The startup uses AI to interpret real-world events for onchain apps and agents, recording evidence and reasoning so outcomes can be audited.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "4c9796086999371a",
+        "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-26T13:47:56Z",
+        "url": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities",
+        "excerpt": "Nasdaq’s Roland Chai backed exploring common EU rules for tokenized securities and said its Swedish subsidiary had applied for a DLT license.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "b27eb380fe144f23",
+        "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-26T16:40:44Z",
+        "url": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president",
+        "excerpt": "The Spanish economist has questioned the viability of stablecoins for widespread payments while backing the development of a digital euro.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-26T13:45:04Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "c6e9c54f628fe5ec",
+        "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-26T11:50:23Z",
+        "url": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
+        "excerpt": "The FCA plans to require DeFi platforms to be authorized and to keep regulated exchanges from routing UK retail trades to them.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "17fc3c0a02bad295",
+        "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-26T11:22:59Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity",
+        "excerpt": "Bitcoin joined US stock futures in a modest relief rally as Talos questioned crypto demand and the broader outlook for the AI trade.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "7a7e9162d337abb5",
+        "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-26T11:17:22Z",
+        "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
+        "excerpt": "Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      }
+    ]
+  }
+}
