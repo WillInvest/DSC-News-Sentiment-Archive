@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-27T19:26:25.850184Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "a2cbc06628b6a45b",
+        "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-27T19:23:00Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion",
+        "excerpt": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "81c196ebd4da4663",
+        "title": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-27T18:16:03Z",
+        "url": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
+        "excerpt": "Bitcoin’s largest options expiry this month comes as traders increasingly seek protection against further losses, with some hedging against a potential drop to $40,000 before the end of the year.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "57259390ba1a0b7f",
+        "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-27T17:43:29Z",
+        "url": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
+        "excerpt": "The intrusion at Cloud One, discovered during a system upgrade, has prompted a Cyber Command damage assessment and disrupted the platform that runs air-defense radar feeds, munitions tracking and personnel data.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "7dfe7a0d3a68eb3a",
+        "title": "China sets March 2027 rollout for blockchain identity regulations",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-27T17:37:23Z",
+        "url": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations",
+        "excerpt": "China has issued new regulations governing blockchain-based digital identities, setting rules for cross-platform verification and data privacy.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "26ff4235059e9a34",
+        "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-27T16:48:51Z",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound",
+        "excerpt": "Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,700 while stocks and gold headed higher.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-27T13:28:26Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "d50f127b3c7724f6",
+        "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-27T12:39:54Z",
+        "url": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027",
+        "excerpt": "Brazil’s stock exchange is working with six major financial institutions on a real-backed stablecoin that could launch as early as the first quarter of 2027.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "3d7522f81c92c40f",
+        "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-27T11:22:42Z",
+        "url": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+        "excerpt": "Pablo Hernández de Cos, chosen to succeed Christine Lagarde, favors blockchain-based banking and has warned against private digital currencies and banks holding bitcoin.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "b28a14423bb831c1",
+        "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-27T10:51:27Z",
+        "url": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+        "excerpt": "Banco B3 will issue the token, backed one-to-one by reais, and other financial institutions can join from launch.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "1de4ec440cfbab2c",
+        "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-27T05:06:32Z",
+        "url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+        "excerpt": "The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from them still needs one more validator to start its own two-week clock.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
