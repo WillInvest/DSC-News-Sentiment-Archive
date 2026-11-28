@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-28T18:13:10.296006Z",
+  "archiveUrl": "https://github.com/WillInvest/DSC-News-Sentiment-Archive/tree/main/news/archive",
+  "disclosure": "Automated daily digest based on linked public sources. Headlines and excerpts belong to their original publishers.",
+  "sections": {
+    "blockchain": [
+      {
+        "id": "3c79ad2c7d818807",
+        "title": "Bybit’s $1.4 billion hack postmortem is ready. You won’t get to see it.",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-28T14:00:00Z",
+        "url": "https://www.coindesk.com/business/2026/11/28/bybit-s-usd1-4-billion-hack-postmortem-is-ready-you-won-t-get-to-see-it",
+        "excerpt": "Bybit’s public account still rests on preliminary 2025 forensic reports. Chief Technology Officer Rockman Zhang said more detail could help attackers like those who hit Binance.",
+        "tags": [
+          "Blockchain",
+          "Security"
+        ]
+      },
+      {
+        "id": "65731b326ec02ce3",
+        "title": "Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-28T13:02:18Z",
+        "url": "https://www.coindesk.com/markets/2026/11/28/bitcoin-not-delivering-the-bear-market-has-digital-asset-veteran-questioning-btc-s-value",
+        "excerpt": "There's rock bottom, and then there's something many layers below that, and that's where bitcoin sentiment is right now.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "221acd73b8e36428",
+        "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-28T10:31:00Z",
+        "url": "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation",
+        "excerpt": "A working group will examine enhancing connectivity between domestic digital payment networks and bringing their regulations into more alignment.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      },
+      {
+        "id": "fb9a5a4d07c123a2",
+        "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-28T09:32:51Z",
+        "url": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+        "excerpt": "As prices tanked, blockchain trackers flagged a large outflow of ether from a wallet linked to World Liberty Financial.",
+        "tags": [
+          "Blockchain",
+          "Infrastructure"
+        ]
+      },
+      {
+        "id": "d8103174a078fb56",
+        "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-27T21:46:03Z",
+        "url": "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims",
+        "excerpt": "The ChatGPT maker’s counterclaims flip the script on a dispute Apple started in July, alleging the iPhone maker took its trade secrets and pressured shared hardware suppliers to freeze it out of the AI-device race.",
+        "tags": [
+          "Blockchain",
+          "Policy"
+        ]
+      }
+    ],
+    "defi": [
+      {
+        "id": "b75c6793cf9b6411",
+        "title": "Bank of Japan Explores Bringing Stablecoins and Tokenized Finance Into Traditional Banking",
+        "source": "Decrypt",
+        "publishedAt": "2026-11-28T17:01:02Z",
+        "url": "https://decrypt.co/384221/bank-of-japan-stablecoins-tokenized-finance-banking",
+        "excerpt": "Japan’s central bank is exploring how blockchain-based money could work with conventional payment systems, as officials weigh the risks of stablecoins and the potential benefits of faster settlement between banks.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "01b36aa9387d9d20",
+        "title": "Here’s what happened in crypto today",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-28T13:55:00Z",
+        "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+        "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "4b2fcb6e57982c1b",
+        "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-27T21:15:29Z",
+        "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf",
+        "excerpt": "The addition comes as US spot investment products tracking Hyperliquid’s native token reach $266.5 million in assets under management.",
+        "tags": [
+          "DeFi",
+          "Markets"
+        ]
+      },
+      {
+        "id": "d50f127b3c7724f6",
+        "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
+        "source": "Cointelegraph",
+        "publishedAt": "2026-11-27T12:39:54Z",
+        "url": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027",
+        "excerpt": "Brazil’s stock exchange is working with six major financial institutions on a real-backed stablecoin that could launch as early as the first quarter of 2027.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      },
+      {
+        "id": "3d7522f81c92c40f",
+        "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+        "source": "CoinDesk",
+        "publishedAt": "2026-11-27T11:22:42Z",
+        "url": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+        "excerpt": "Pablo Hernández de Cos, chosen to succeed Christine Lagarde, favors blockchain-based banking and has warned against private digital currencies and banks holding bitcoin.",
+        "tags": [
+          "DeFi",
+          "Stablecoins"
+        ]
+      }
+    ]
+  }
+}
